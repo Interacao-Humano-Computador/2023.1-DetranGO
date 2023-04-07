@@ -1,0 +1,48 @@
+site_name: Grupo06
+
+repo_name: "2023.1-Grupo06"
+repo_url: "https://github.com/Interacao-Humano-Computador/2023.1-Grupo06"
+
+theme:
+  name: material
+  icon:
+    repo: fontawesome/brands/github
+  language: pt-BR
+  palette: 
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+  features:
+    - navigation.instant
+    - navigation.section
+    - navigation.path
+    - navigation.top
+    - tabs
+
+nav:
+  - Home: index.md
+  - Reuniões:
+      - Reunião 1: reunioes/reuniao1.md
+  - Planejamento:
+      - Cronograma: planejamento/cronograma.md
+      - Sitios Avaliados: 
+        - Sitios Avaliados: planejamento/sites_avaliados/sites_avaliados.md
+        - Avaliação NFE: planejamento/sites_avaliados/avaliacao_NFE.md
+
+markdown_extensions:
+  - tables
+  - attr_list
+  - md_in_html
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
