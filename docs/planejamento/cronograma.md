@@ -11,7 +11,7 @@ Este documento contém o cronograma geral do projeto, apresentando as datas de i
 <center>
 
 *Etapa*     | *Data de início* | *Data de fim*
-: --------- | :--------------: | :-----------:
+:--------- | :--------------: | :-----------:
 Etapa 1     | 28/03/2023       | 24/04/2023
 Etapa 2     | 24/04/2023       | 08/05/2023
 Etapa 3     | 08/05/2023       | 15/05/2023
@@ -45,6 +45,10 @@ Editar a apresentação | 22/04/2023 | 23/04/2023 | - | -
 Tabela 2: Cronograma da etapa 1 (Fonte: autor, 2023).
 
 </center>
+
+## Bibliografia
+
+[1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: [https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf](https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf). Acesso em: 8 de abril de 2023;
 
 ## Histórico de Versão
 
