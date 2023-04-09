@@ -11,7 +11,7 @@ Com o intuito de explorar as possibilidades de escolha para o sítio a ser avali
 | Amanda Nora   | [SSALTO](http://ssalto.rj.gov.br) |
 | Carlos Eduardo | [NFE](https://www.nfe.fazenda.gov.br/portal/principal.aspx) |
 | Felipe Mastromoura  | [CAESB](https://www.caesb.df.gov.br) |
-| João Morbeck | [Economia GO](https://www.economia.go.gov.br) |
+| João Morbeck | [Detran GO](https://www.detran.go.gov.br/psw/#/pages/pagina-inicial) |
 | Pedro Henrique | [Caixa Econômica](https://www.caixa.gov.br/Paginas/home-caixa.aspx) |
 | Pedro Muniz | [SAAE Sorocaba](https://www.saaesorocaba.com.br) |
 
@@ -29,7 +29,7 @@ Com o intuito de explorar as possibilidades de escolha para o sítio a ser avali
 ## CAESB
 
 
-## Economia GO
+## Detran GO
 
 
 ## Caixa Econômica
