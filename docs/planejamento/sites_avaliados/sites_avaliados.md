@@ -40,7 +40,7 @@ Com o intuito de explorar as possibilidades de escolha para o sítio a ser avali
 
 ## Bibliografia
 
-[1] MACIEL, C. _et al_. Avaliação Heurística de Sítios na Web. Niterói, RJ: UFF, 2004.
+> [1] MACIEL, C. _et al_. Avaliação Heurística de Sítios na Web. Niterói, RJ: UFF, 2004.
 
 ## Histórico de Versão
 

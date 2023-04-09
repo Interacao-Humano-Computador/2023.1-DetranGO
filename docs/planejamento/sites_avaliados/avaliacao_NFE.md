@@ -2,7 +2,7 @@
 
 ## Introdução
 
-O site [NFE(Nota Fiscal Eletrônica)](https://www.nfe.fazenda.gov.br/portal/principal.aspx), tem como objetivo a divulgação de informações sobre a Nota Fiscal eletrônica, tendo como finalidade a mudança do sistema atual de emissão da nota fiscal em papel por nota fiscal eletrônica.O site destina-se a todas as pessoas que realizam compras, principalmente na internet, onde a emissão da nota fiscal precisa ser feita de forma online/eletrônica.
+O site [NFE(Nota Fiscal Eletrônica)](https://www.nfe.fazenda.gov.br/portal/principal.aspx), tem como objetivo a divulgação de informações sobre a Nota Fiscal Eletrônica, tendo como finalidade a mudança do sistema atual de emissão da nota fiscal em papel por nota fiscal eletrônica. O site destina-se a todas as pessoas que realizam compras, principalmente na internet, onde a emissão da nota fiscal precisa ser feita de forma online/eletrônica.
 
 
 ## Avaliação Heurística
@@ -29,10 +29,10 @@ As figuras 1 e 2 ilustram o problema de compatibilidade com a realidade dos usua
 | **Natureza do Problema:**  <br/> [X] Barreira <br/> [ ] Obstáculo <br/> [ ] Ruído | **Causa:** As nomenclaturas utilizadas não estão de acordo com o repertório cultural do usuário. |
 | **Perspectiva do Usuário:**  <br/> [X] Geral <br/> [ ] Preliminar <br/> [ ] Especial | **Efeito sobre o usuário:** Desorientação. |
 | **Perspectiva da Tarefa:**  <br/> [X] Principal <br/> [ ] Secundário | **Efeito sobre a tarefa:** Atraso na execução, trabalho adicional. |
-| **Possívis Correções:** <br/>-> utilizar-se de termos mais comuns para o público geral <br/>-> descrição das siglas ao lado ou ao passar o mouse |
+| **Possíveis Correções:** <br/>-> utilizar-se de termos mais comuns para o público geral <br/>-> descrição das siglas ao lado ou ao passar o mouse |
 
 <div style="text-align: center">
-<p> Tabela 1 - Relato de resultados - Compatibilidade do Sistema com o Mundo Real(Fonte: autor, 2023). </p>
+<p> Tabela 1 - Relato de resultados - Compatibilidade do Sistema com o Mundo Real (Fonte: autor, 2023). </p>
 </div>
 
 
@@ -57,7 +57,7 @@ Nas images acima vemos que, os padrões de disposição e apresentação, das in
 | **Natureza do Problema:**  <br/> [ ] Barreira <br/> [ ] Obstáculo <br/> [X] Ruído | **Causa:** Os padrões de disposição, design, informações não estão sendo seguidos em todo o site. |
 | **Perspectiva do Usuário:**  <br/> [X] Geral <br/> [ ] Preliminar <br/> [ ] Especial | **Efeito sobre o usuário:** Confusão, Estranheza. |
 | **Perspectiva da Tarefa:**  <br/> [X] Principal <br/> [ ] Secundário | **Efeito sobre a tarefa:** Atraso na execução. |
-| **Possívis Correções:**  <br/>-> manter a consistência nos padrões para atividades semelhantes |
+| **Possíveis Correções:**  <br/>-> manter a consistência nos padrões para atividades semelhantes |
 
 <div style="text-align: center">
 <p> Tabela 2 - Relato de resultados - Consistência e Padrões(Fonte: autor, 2023). </p>
@@ -75,7 +75,7 @@ Utilizando-se das imagens na seção de consistência e padrões, também notamo
 | **Natureza do Problema:**  <br/> [ ] Barreira <br/> [X] Obstáculo <br/> [ ] Ruído | **Causa:** O sistema não especifica como devem ser preenchidos os campos dos formulários. |
 | **Perspectiva do Usuário:**  <br/> [X] Geral <br/> [ ] Preliminar <br/> [ ] Especial | **Efeito sobre o usuário:** Sentimento de falta de informações. |
 | **Perspectiva da Tarefa:**  <br/> [X] Principal <br/> [ ] Secundário | **Efeito sobre a tarefa:** Atraso na execução, trabalho adicional. |
-| **Possívis Correções:**  <br/>-> disponibilizar informações para guiar o usuário, prevenindo erros |
+| **Possíveis Correções:**  <br/>-> disponibilizar informações para guiar o usuário, prevenindo erros |
 
 <div style="text-align: center">
 <p> Tabela 3 - Relato de resultados - Prevenção de Erros(Fonte: autor, 2023). </p>
@@ -97,16 +97,16 @@ Primeiramente percebemos a quantidade de informações disponíveis que podem ac
 | **Natureza do Problema:**  <br/> [ ] Barreira <br/> [ ] Obstáculo <br/> [X] Ruído | **Causa:** Hierarquia de informações não respeitada, disposição não ideal dos elementos, tirando a atenção dos importantes. |
 | **Perspectiva do Usuário:**  <br/> [X] Geral <br/> [ ] Preliminar <br/> [ ] Especial | **Efeito sobre o usuário:** Confusão, Sobrecarga cognitiva. |
 | **Perspectiva da Tarefa:**  <br/> [X] Principal <br/> [ ] Secundário | **Efeito sobre a tarefa:** Atraso na execução. |
-| **Possívis Correções:**  <br/>-> Destacar os elementos que possuem um grau de importância maior <br/>-> Deixar apenas menus principais que levam para outros com sub-menus, para diminuir os elementos na tela |
+| **Possíveis Correções:**  <br/>-> Destacar os elementos que possuem um grau de importância maior <br/>-> Deixar apenas menus principais que levam para outros com sub-menus, para diminuir os elementos na tela |
 
 <div style="text-align: center">
-<p> Tabela 4 - Relato de resultados - Estética e Design Minimalista(Fonte: autor, 2023).</p>
+<p> Tabela 4 - Relato de resultados - Estética e Design Minimalista (Fonte: autor, 2023).</p>
 </div>
 
 
 ## Bibliografia
 
-[1] MACIEL, C. _et al_. Avaliação Heurística de Sítios na Web. Niterói, RJ: UFF, 2004.
+> [1] MACIEL, C. _et al_. Avaliação Heurística de Sítios na Web. Niterói, RJ: UFF, 2004.
 
 
 ## Histórico de Versão
