@@ -10,7 +10,7 @@ Com o intuito de explorar as possibilidades de escolha para o sítio a ser avali
 | ------------- | ------------------------ |
 | Amanda Nora   | [SSALTO](http://ssalto.rj.gov.br) |
 | Carlos Eduardo | [NFE](https://www.nfe.fazenda.gov.br/portal/principal.aspx) |
-| Felipe Mastromoura  | [CAESB](https://www.caesb.df.gov.br) |
+| Felipe Mastromauro  | [CAESB](https://www.caesb.df.gov.br) |
 | João Morbeck | [Detran GO](https://www.detran.go.gov.br/psw/#/pages/pagina-inicial) |
 | Pedro Henrique | [Caixa Econômica](https://www.caixa.gov.br/Paginas/home-caixa.aspx) |
 | Pedro Muniz | [SAAE Sorocaba](https://www.saaesorocaba.com.br) |
@@ -28,6 +28,7 @@ Com o intuito de explorar as possibilidades de escolha para o sítio a ser avali
 
 ## CAESB
 
+A [CAESB](https://www.caesb.df.gov.br/) é a companhia responsável pelo serviço de água e esgoto do Distrito Federal. O sítio possui de problemas cosméticos de fácil correção a problemas catastróficos de limitação de acessibilidade que precisam de correção urgente a fim de permitir o acesso a seus serviços para todo e qualquer usuário. A avaliação completa do site pode ser encontrada neste [link](./avaliacao_CAESB.md).
 
 ## Detran GO
 
