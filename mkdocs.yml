@@ -36,6 +36,7 @@ nav:
         - Sitios Avaliados: planejamento/sites_avaliados/sites_avaliados.md
         - Avaliação NFE: planejamento/sites_avaliados/avaliacao_NFE.md
         - Avaliação SAAE: planejamento/sites_avaliados/avaliacao_SAAE.md
+        - Avaliação CAESB: planejamento/sites_avaliados/avaliacao_CAESB.md
 
 markdown_extensions:
   - tables
