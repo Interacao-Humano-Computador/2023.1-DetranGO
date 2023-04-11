@@ -40,7 +40,7 @@ Durante o início da reunião, a redação do cronograma foi abordada. Na data d
 
 ## Andamento das avaliações dos sites
 
-Na data da reunião, somente três sites tinham avaliação completa e publicada na documentação. Um dos sites com a avaliação completa carecia de link para o planejamento, e outro possuía uma versão não utilizável do planejamento. Ainda, o site que era visado para a avaliação por João Morbeck teve de ser mudado, e foi definido que sua avaliação teria a revisão feita por Amanda Noda.
+Na data da reunião, somente três sites possuíam avaliação completa e publicada na documentação, com dois deles carecendo de links utilizáveis para acesso aos respectivos planejamentos de avaliação. Também foi abordada a alteração do site a ser avaliado por João Morbeck e foi definido que Amanda Noda será a revisora da avaliação de João Morbeck. 
 
 ## Escolha do site para o projeto
 
