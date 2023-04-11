@@ -1,3 +1,12 @@
+---
+name: Issue template
+about: ''
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 # Issue name
 
 ## 📝 Descrição
