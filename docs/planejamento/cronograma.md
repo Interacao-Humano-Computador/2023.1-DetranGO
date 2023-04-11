@@ -36,9 +36,9 @@ Avaliar lista de sites | 10/04/2023 | 11/04/2023 | Amanda, Carlos, Felipe, Pedro
 Criar GitHub Pages | 10/04/2023 | 11/04/2023 | Carlos | Pedro H.
 Definir cronograma | 10/04/2023 | 11/04/2023 | Amanda, Felipe, Pedro F., João | Amanda, Felipe, Pedro F., João
 Definir site escolhido | 10/04/2023 | 11/04/2023 | Amanda, Carlos, Felipe, Pedro F., Pedro H., João | Amanda, Carlos, Felipe, Pedro F., Pedro H., João 
-Definir metodogia | 17/04/2023 | 18/04/2023 | - | -
-Definir Ferramentas | 17/04/2023 | 18/04/2023 | - | -
-Definir Processo de design | 17/04/2023 | 18/04/2023 | - | -
+Definir metodogia | 17/04/2023 | 18/04/2023 | Carlos | João
+Definir Ferramentas | 17/04/2023 | 18/04/2023 | Pedro H. | Carlos
+Definir Processo de design | 17/04/2023 | 18/04/2023 | Pedro F. | Felipe
 Gravar a apresentação | 20/04/2023 | 20/04/2023 | Amanda, Carlos, Felipe, Pedro F., Pedro H., João | -
 Editar a apresentação | 22/04/2023 | 23/04/2023 | - | -
 
@@ -91,4 +91,5 @@ Tabela 4: Cronograma da etapa 3 (Fonte: Do autor, 2023).
 
 |  Versão  |   Data   |                      Descrição          |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------- | -------------- | ------------- |
-|  `1.0`   | 08/04/23 | Versão inicial do cronograma do projeto |  Amanda, Felipe, Pedro F., João | Amanda, Felipe, Pedro F., João
+|  `1.0`   | 08/04/23 | Versão inicial do cronograma do projeto e formulação cronograma geral e etapa 1 |  Pedro Ferreira | Felipe Mastromauro
+|  `1.1`   | 09/04/23 | Formulação das etapas 2 e 3             | Felipe Mastromauro | Pedro Ferreira
