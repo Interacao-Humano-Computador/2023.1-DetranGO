@@ -1,10 +1,6 @@
 ---
-name: Issue template
-about: 'Issue template'
-title: ''
-labels: ''
-assignees: ''
-
+name: Issue
+about: 'Issue'
 ---
 
 # Issue name
