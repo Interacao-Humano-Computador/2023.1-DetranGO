@@ -33,7 +33,7 @@ O usuário deve manter-se informado sobre o que está ocorrendo no sítio e suas
 | **Perspectiva da tarefa:** [ ] Problema Principal [X] Problema Secundário |
 | **Descrição do Problema:**<br><br><br>**Contexto:** O usuário tentou mudar a perspectiva do visual da página em questão por meio do clique no botão da Figura 2.<br><br>**Causa:** o botão de mudança de visão não funciona quando a visão da página está configurada mais a esquerda ou mais a direita possível.<br><br>**Efeitos sobre o usuário:** Desconforto.<br><br>**Efeitos sobre a tarefa:** Impossibilita a capacidade do sistema reagir a ação do usuário.<br><br>**Correções possíveis:** Permitir o efeito do botão para ocorrer nos extremos da visualização da página em questão.|
 
-**Tabela 1: Formulário para Avaliação Heurística - Visibilidade do estado do sistema**
+**Tabela 1: Formulário para Avaliação Heurística - Visibilidade do estado do sistema (Fonte: autor, 2023)**
 
 </center>
 
@@ -60,7 +60,7 @@ O sítio apresenta muitas abas e possibilidades para o usuário navegar, porém 
 | **Perspectiva da tarefa:** [X] Problema Principal [ ] Problema Secundário |
 | **Descrição do Problema:**<br><br><br>**Contexto:** O usuário tentou acessar a página de inscrição do Mulheres de Favela e acabou encontrando problemas de carregamento da página.<br><br>**Causa:** Ao clicar para se inscrever para Mulheres de Favela ocorreu a problemática observada.<br><br>**Efeitos sobre o usuário:** Desconforto, impaciência durante o carregamento lento da página.<br><br>**Efeitos sobre a tarefa:** Dificuldades na navegação da página.<br><br>**Correções possíveis:** Buscar meios de acelerar o carregamento da página. |
 
-**Tabela 2: Formulário para Avaliação Heurística - Controle e liberdade do usuário**
+**Tabela 2: Formulário para Avaliação Heurística - Controle e liberdade do usuário (Fonte: autor, 2023)**
 
 </center>
 
@@ -89,7 +89,7 @@ Em certas páginas do sítio, o usuário não é informado e nem evitado de come
 | **Descrição do Problema:**<br><br><br>**Contexto:** O usuário ao clicar em uma aba clicável da página de cadastro do Internet Banking Caixa acabou quebrando a página.<br><br>**Causa:** Uma aba clicável permitiu a quebra da página.<br><br>**Efeitos sobre o usuário:** Desconforto, confusão em relação ao porquê ocorreu a quebra, dificuldades em lidar com a situação.
 .<br><br>**Efeitos sobre a tarefa:** Perda de tempo com a quebra da página. <br><br>**Correções possíveis:** Evidenciar a presença de uma aba clicável que leva para uma página quebrada e realizar uma nova modificação a ser planejada para isso. |
 
-**Tabela 3: Formulário para Avaliação Heurística - Prevenção de Erros**
+**Tabela 3: Formulário para Avaliação Heurística - Prevenção de Erros (fonte: autor, 2023)**
 
 </center>
 
@@ -112,7 +112,7 @@ Apesar do sítio apresentar informações e um design bem detalhado em certas pa
 | **Perspectiva da tarefa:** [X] Problema Principal [ ] Problema Secundário |
 | **Descrição do Problema:**<br><br><br>**Contexto:** O usuário na página principal foi apresentado à interface correspondente a Figura X que não possui destaque. Isso acabou ocorrendo em momentos ocasionais, porém recorrentes, durante o uso da página.<br><br>**Causa:** A interface das abas não são chamativas o suficiente e são desorganizadas.<br><br>**Efeitos sobre o usuário:** Desconforto, confusão em relação às abas e a interface.<br><br>**Efeitos sobre a tarefa:** Dificuldades em se orientar nas ações possíveis do site. <br><br>**Correções possíveis:**  Criar uma nova interface para as abas e botões em específico que sejam coerentes com as outras interfaces do sistema. |
 
-**Tabela 3: Formulário para Avaliação Heurística - Estética e design minimalista**
+**Tabela 3: Formulário para Avaliação Heurística - Estética e design minimalista (Fonte: autor, 2023)**
 
 </center>
 
@@ -141,7 +141,7 @@ Na página de login do Internet Banking Caixa as abas de ajuda sobre como usar a
 | **Perspectiva da tarefa:** [X] Problema Principal [ ] Problema Secundário |
 | **Descrição do Problema:**<br><br><br>**Contexto:** O usuário buscou a documentação e ajuda presente na página e teve dificuldades no entendimento, além de a página para perguntas frequentes não ser encontrada dentro do sítio da Caixa como visto na figura 8.<br><br>**Causa:** Interface de ajuda mal posicionada e alocada no layout da página.<br><br>**Efeitos sobre o usuário:** Desconforto em relação a forma de apresentação das informações, falta de orientação direcionada sobre as informações de ajuda.<br><br>**Efeitos sobre a tarefa:** Tempo adicional para entender a ajuda passada.<br><br>**Correções possíveis:** Criação de uma interface mais interativa com o usuário e que as informações sejam melhores apresentadas para o usuário e com uma página de perguntas frequentes que funcione. |
 
-**Tabela 4: Formulário para Avaliação Heurística - Ajuda e documentação**
+**Tabela 4: Formulário para Avaliação Heurística - Ajuda e documentação (Fonte: autor, 2023)**
 
 </center>
 
@@ -149,7 +149,7 @@ Na página de login do Internet Banking Caixa as abas de ajuda sobre como usar a
 Portanto, é perceptível que o sítio da Caixa Econômica Federal atende o seu propósito, mas que apresenta aspectos que podem melhorar a interação e a experiência do usuário no uso da interface do sítio como um todo. As falhas observadas durante a avaliação são de grande impacto e causam diferença na navegação e usabilidade do site em questão.
 
 ## Referências bibliográficas
-   > [1] MACIEL, C. et al. Avaliação Heurística de Sítios na Web. [s.d.].
+  > [1] MACIEL, C. _et al_. Avaliação Heurística de Sítios na Web. Niterói, RJ: UFF, 2004.
 
 ## Histórico de Versão
 
