@@ -156,4 +156,4 @@ cartilha-w3cbr-acessibilidade-web-fasciculo-I.html. Acesso em: 09 abr. 2023.
 
 |  Versão  |   Data   |                      Descrição                      |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
-|  `1.0`   | 12/04/23 | Criação do documento e adição do conteúdo           | Amanda Noda    |               |
+|  `1.0`   | 12/04/23 | Criação do documento e adição do conteúdo           | Amanda Noda    |     João Morbeck          |
