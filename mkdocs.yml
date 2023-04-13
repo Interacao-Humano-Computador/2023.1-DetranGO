@@ -39,6 +39,7 @@ nav:
         - Avaliação CAESB: planejamento/sites_avaliados/avaliacao_CAESB.md
         - Avaliação CAIXA: planejamento/sites_avaliados/avaliacao_CAIXA.md
         - Avaliação SSALTO: planejamento/sites_avaliados/avaliacao_SSALTO.md
+        - Avaliação DETRAN: planejamento/sites_avaliados/avaliacao_DETRANGO.md
 
 markdown_extensions:
   - tables
