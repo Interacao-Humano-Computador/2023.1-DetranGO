@@ -2,7 +2,7 @@
 
 ## Introdução
 
-O site [NFE(Nota Fiscal Eletrônica)](https://www.nfe.fazenda.gov.br/portal/principal.aspx), tem como objetivo a divulgação de informações sobre a Nota Fiscal Eletrônica, tendo como finalidade a mudança do sistema atual de emissão da nota fiscal em papel por nota fiscal eletrônica. O site destina-se a todas as pessoas que realizam compras, principalmente na internet, onde a emissão da nota fiscal precisa ser feita de forma online/eletrônica.
+O site [NFE(Nota Fiscal Eletrônica)](https://www.nfe.fazenda.gov.br/portal/principal.aspx), tem como objetivo a divulgação de informações sobre a Nota Fiscal Eletrônica, tendo como finalidade a mudança do sistema atual de emissão da nota fiscal em papel por nota fiscal eletrônica. O site destina-se a todas as pessoas que realizam compras, principalmente na internet, onde a emissão da nota fiscal precisa ser feita de forma online/eletrônica. O planejamento da avaliação pode ser encontrado nesse [link](../../assets/NFE/planejamentoNFE.pdf)
 
 
 ## Avaliação Heurística
@@ -102,6 +102,10 @@ Primeiramente percebemos a quantidade de informações disponíveis que podem ac
 <div style="text-align: center">
 <p> Tabela 4 - Relato de resultados - Estética e Design Minimalista (Fonte: autor, 2023).</p>
 </div>
+
+
+## Conclusão
+Após a análise dos dados coletados na avaliação do site do portal da nota fiscal eletrônica, observamos que apesar de atender as necessidades do usuário que o utiliza, o site possui muitos ruídos e obstáculos que dificultam sua utilização tornando a experiência do usuário difícil e desagradavel. Além disso, não fornece ferramentas e informações necessárias para usabilidade e acessibilidade plena.
 
 
 ## Bibliografia

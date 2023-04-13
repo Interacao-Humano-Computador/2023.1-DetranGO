@@ -20,9 +20,10 @@ Nossa equipe de trabalho é composta pelos estudantes de Engenharia de Software 
 | ![Foto Amanda(Membro Time)](https://avatars.githubusercontent.com/u/58089751?v=4){ align=center, width="100" } | Amanda Noda | [:fontawesome-brands-github: amanda-noda](https://github.com/amanda-noda) |
 | ![Foto Carlos(Membro Time)](https://avatars.githubusercontent.com/u/80905912?v=4){ align=center, width="100" } | Carlos Eduardo | [:fontawesome-brands-github: Carlos-E-Souza](https://github.com/Carlos-E-Souza) |
 | ![Foto Felipe(Membro Time)](https://avatars.githubusercontent.com/u/54457201?v=4){ align=center, width="100" } | Felipe Mastromauro | [:fontawesome-brands-github: MastroCoder](https://github.com/MastroCoder) |
+| ![Foto João(Membro Time)](https://avatars.githubusercontent.com/u/97908795?v=4){ align=center, width="100" } | João Morbeck | [:fontawesome-brands-github: uMorbeck](https://github.com/uMorbeck) |
 | ![Foto Pedro(Membro Time)](https://avatars.githubusercontent.com/u/61098873?v=4){ align=center, width="100" } | Pedro Muniz | [:fontawesome-brands-github: PedroFMuniz](https://github.com/PedroFMuniz) |
 | ![Foto Pedro(Membro Time)](https://avatars.githubusercontent.com/u/88786258?v=4){ align=center, width="100" } | Pedro Henrique | [:fontawesome-brands-github: phmelosilva](https://github.com/phmelosilva) |
-| ![Foto João(Membro Time)](https://avatars.githubusercontent.com/u/97908795?v=4){ align=center, width="100" } | João Morbeck | [:fontawesome-brands-github: uMorbeck](https://github.com/uMorbeck) |
+
 
 </center>
 <div style="text-align: center">

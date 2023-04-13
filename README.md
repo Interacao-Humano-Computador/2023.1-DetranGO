@@ -18,9 +18,9 @@ Nossa equipe de trabalho é composta pelos estudantes de Engenharia de Software 
 | <img src="https://avatars.githubusercontent.com/u/58089751?v=4" alt="Foto Amanda(Membro Time)" style="width: 10vw"> | Amanda Noda | [amanda-noda](https://github.com/amanda-noda) |
 | <img src="https://avatars.githubusercontent.com/u/80905912?v=4" alt="Foto Carlos(Membro Time)" style="width: 10vw"> | Carlos Eduardo | [Carlos-E-Souza](https://github.com/Carlos-E-Souza) |
 | <img src="https://avatars.githubusercontent.com/u/54457201?v=4" alt="Foto Felipe(Membro Time)" style="width: 10vw"> | Felipe Mastromauro | [MastroCoder](https://github.com/MastroCoder) |
+| <img src="https://avatars.githubusercontent.com/u/97908795?v=4" alt="Foto João(Membro Time)" style="width: 10vw"> | João Morbeck | [uMorbeck](https://github.com/uMorbeck) |
 | <img src="https://avatars.githubusercontent.com/u/61098873?v=4" alt="Foto Pedro(Membro Time)" style="width: 10vw"> | Pedro Muniz | [PedroFMuniz](https://github.com/PedroFMuniz) |
 | <img src="https://avatars.githubusercontent.com/u/88786258?v=4" alt="Foto Pedro(Membro Time)" style="width: 10vw"> | Pedro Henrique | [phmelosilva](https://github.com/phmelosilva) |
-| <img src="https://avatars.githubusercontent.com/u/97908795?v=4" alt="Foto João(Membro Time)" style="width: 10vw"> | João Morbeck | [uMorbeck](https://github.com/uMorbeck) |
 
 <div style="text-align: center">
 <p> Tabela 1: Equipe de trabalho (Fonte: autor, 2023).</p>
