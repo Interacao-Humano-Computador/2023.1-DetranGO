@@ -56,7 +56,7 @@ Foi definido que os commits, a partir da data da reunião, seguiriam a seguinte 
 
 - Os commits devem ter uma palavra em inglês para definir rapidamente a natureza do commit 
 - A palavra deve ser uma dentre as palavras create, edit, delete e review.
-- Após essa palavra, a descrição do commit deverá ser em potuguês.
+- Após essa palavra, a descrição do commit deverá ser em português.
 
 Ex.: create: ata da reuniao 1
 
@@ -78,3 +78,4 @@ Foram definidos, na reunião, quais membros estariam envolvidos nas tarefas a se
 |  Versão  |   Data   |                      Descrição                      |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
 |  `1.0`   | 10/04/23 | Criação do documento e adição do conteúdo           | Felipe Mastromauro | Carlos Eduardo |
+|  `1.1`   | 13/04/23 | Correção de erros de português da primeira versão | Felipe Mastromauro | Pedro Ferreira  |
