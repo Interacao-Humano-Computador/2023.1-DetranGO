@@ -30,6 +30,8 @@ A [Caixa Econômica Federal](https://www.caixa.gov.br/Paginas/home-caixa.aspx) �
 
 ## Detran GO
 
+O [Detran Goiás](https://www.detran.go.gov.br/psw/#/pages/pagina-inicial) é uma companhia responsável pelo credenciamento e fiscalização de veículos e condutores do estado do Goiás, em seu site possui serviços como busca de informações de CNH e veículos, além de agendamento de atendimentos presenciais e diversas informações sobre outros serviços disponíveis, por meio da avaliação heurística do site, foi encontrado alguns problemas que precisam ser corrigidos, essa avaliação pode ser acessada através deste [link](./avaliacao_DETRANGO.md).
+
 
 ## NFE
 O [Portal Nota Fiscal Eletrônica](https://www.nfe.fazenda.gov.br/portal/principal.aspx) é um site que oferece diversos serviços relacionados a nota fiscal como: emissão, verificação, etc. Por meio da avaliação heurística do site, percebem-se alguns problemas relacionados à usabilidade, desde falta de padrões em diferentes páginas até falta de descrições em imagens que proporcionem acessibilidade. A avaliação completa do site pode ser encontrada neste [link](./avaliacao_NFE.md).
