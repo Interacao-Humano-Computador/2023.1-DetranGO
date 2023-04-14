@@ -77,9 +77,68 @@ Tabela 3: Cronograma da etapa 2 (Fonte: Do autor, 2023).
 |        Metas de Usabilidade do projeto       |          10/05          |          11/05          |                         -                        |        -        |
 |           Guia de Estilo do projeto          |          10/05          |          11/05          |                         -                        |        -        |
 |             Gravar a apresentação            |          12/05          |          12/05          | Amanda, Carlos, Felipe, Pedro F., Pedro H., João |        -        |
-|             Editar a apresentação            |          13/05          |          14/05          |                                                  |        -        |
+|             Editar a apresentação            |          13/05          |          14/05          |                         -                        |        -        |
 
 Tabela 4: Cronograma da etapa 3 (Fonte: Do autor, 2023).
+
+</center>
+
+## Cronograma etapa 4
+
+<center>
+
+| **Atividade**                                                            | **Limite para entrega** | **Limite para revisão** | **Autor(es)**                                    | **Revisor(es)** |
+|:------------------------------------------------------------------------:|:-----------------------:|:-----------------------:|:------------------------------------------------:|:---------------:|
+| Storyboard - Planejamento da avaliação                                   | 15/05/2023              | 16/05/2023              | -                                                | -               |
+| Análise de tarefas - Planejamento da avaliação                           | 15/05/2023              | 16/05/2023              | -                                                | -               |
+| Storyboard - Planejamento do relato dos resultados da avaliação          | 16/05/2023              | 17/05/2023              | -                                                | -               |
+| Análise de tarefas - Planejamento do relato dos resultados da avaliação  | 16/05/2023              | 17/05/2023              | -                                                | -               |
+| Gravar a apresentação                                                    | 18/05/2023              | 18/05/2023              | Amanda, Carlos, Felipe, Pedro F., Pedro H., João | -               |
+| Editar a apresentação                                                    | 20/05/2023              | 21/05/2023              | -                                                | -               |
+
+Tabela 5: Cronograma da etapa 4 (Fonte: Do autor, 2023).
+
+</center>
+
+## Cronograma etapa 5
+
+<center>
+
+| **Atividade**                                                           | **Limite para entrega** | **Limite para revisão** | **Autor(es)**                                    | **Revisor(es)** |
+|:-----------------------------------------------------------------------:|:-----------------------:|:-----------------------:|:------------------------------------------------:|:---------------:|
+| Storyboard - Relato de resultados                                       | 22/05/2023              | 23/05/2023              | -                                                | -               |
+| Análise de tarefas - Relato de resultados                               | 22/05/2023              | 23/05/2023              | -                                                | -               |
+| Protótipo de papel - Planejamento da avaliação                          | 23/05/2023              | 24/05/2023              | -                                                | -               |
+| Protótipo de papel - Planejamento do relato dos resultados da avaliação | 23/05/2023              | 24/05/2023              | -                                                | -               |
+| Gravar a apresentação                                                   | 25/05/2023              | 25/05/2023              | Amanda, Carlos, Felipe, Pedro F., Pedro H., João | -               |
+| Editar a apresentação                                                   | 27/05/2023              | 28/05/2023              | -                                                | -               |
+
+Tabela 6: Cronograma da etapa 5 (Fonte: Do autor, 2023).
+
+</center>
+
+## Cronograma etapa 6
+
+<center>
+
+| **Atividade**                                                                   | **Limite para entrega** | **Limite para revisão** | **Autor(es)**                                    | **Revisor(es)** |
+|:--------------------------------------------------------------------------------|:-----------------------:|:-----------------------:|:------------------------------------------------:|----------------:|
+| Verificação de artefatos - Perfil de usuário                                    | 01/06/2023              | 02/06/2023              | -                                                | -               |
+| Verificação de artefatos - Aspectos éticos                                      | 01/06/2023              | 02/06/2023              | -                                                | -               |
+| Verificação de artefatos - Personas                                             | 01/06/2023              | 02/06/2023              | -                                                | -               |
+| Verificação de artefatos - Análise de tarefas                                   | 01/06/2023              | 02/06/2023              | -                                                | -               |
+| Verificação de artefatos - Princípios gerais do projeto                         | 07/06/2023              | 08/06/2023              | -                                                | -               |
+| Verificação de artefatos - Metas de usabilidade                                 | 07/06/2023              | 08/06/2023              | -                                                | -               |
+| Verificação de artefatos - Guia de estilo                                       | 07/06/2023              | 08/06/2023              | -                                                | -               |
+| Verificação de artefatos - Características da plataforma                        | 07/06/2023              | 08/06/2023              | -                                                | -               |
+| Verificação de artefatos - Avaliação, relato e resultados do Storyboard         | 14/06/2023              | 15/06/2023              | -                                                | -               |
+| Verificação de artefatos - Avaliação, relato e resultados da análise de tarefas | 14/06/2023              | 15/06/2023              | -                                                | -               |
+| Verificação de artefatos - Avaliação, relato e resultados do protótipo de papel | 14/06/2023              | 15/06/2023              | -                                                | -               |
+| Verificação de artefatos - Avaliação e relato do protótipo de alta fidelidade   | 14/06/2023              | 15/06/2023              | -                                                | -               |
+| Gravar a apresentação                                                           | 15/06/2023              | 15/06/2023              | Amanda, Carlos, Felipe, Pedro F., Pedro H., João | -               |
+| Editar a apresentação                                                           | 17/06/2023              | 18/06/2023              | -                                                | -               |
+
+Tabela 7: Cronograma da etapa 6 (Fonte: Do autor, 2023).
 
 </center>
 
@@ -91,5 +150,6 @@ Tabela 4: Cronograma da etapa 3 (Fonte: Do autor, 2023).
 
 |  Versão  |   Data   |                      Descrição          |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------- | -------------- | ------------- |
-|  `1.0`   | 08/04/23 | Versão inicial do cronograma do projeto e formulação cronograma geral e etapa 1 |  Pedro Ferreira | Felipe Mastromauro
-|  `1.1`   | 09/04/23 | Formulação das etapas 2 e 3             | Felipe Mastromauro | Pedro Ferreira
+|  `1.0`   | 08/04/23 | Versão inicial do cronograma do projeto e formulação cronograma geral e etapa 1 |  Pedro Ferreira | Felipe Mastromauro |
+|  `1.1`   | 09/04/23 | Formulação das etapas 2 e 3             | Felipe Mastromauro | Pedro Ferreira |
+|  `1.2`   | 14/04/23 | Formulação das etapas 4, 5 e 6             | João Morbeck | Amanda Noda |
