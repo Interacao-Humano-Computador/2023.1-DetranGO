@@ -30,7 +30,7 @@ Figura 2 - Fluxo de branches (Fonte: [link](https://build5nines.com/introduction
 ### Commit
 Utilizamos quatro nomes reservados para identificar o tipo de alteração que foi feita:
 - Create: criação de um artefato
-- Edit: mudanças em um artefato
+- Update: mudanças em um artefato
 - Delete: deletar um artefato
 - Review: mudanças realizadas a partir de exigencia do revisor do artefato
 
@@ -38,7 +38,7 @@ Utilizamos quatro nomes reservados para identificar o tipo de alteração que fo
 >
 > `Create: documento de metodologias`
 >
-> `Edit: política de commit no documento de metodologias`
+> `Update: política de commit no documento de metodologias`
 
 ### Pull Request
 Para o projeto, implementamos uma política que simplifica o controle das atividades e oferece uma abordagem prática para a revisão dos artefatos. Quando um pull request é aberto, o revisor designado anteriormente é solicitado a avaliar as alterações feitas, permitindo o merge caso estejam corretas ou fornecendo feedback caso haja erros, juntamente com uma mensagem solicitando que o autor do pull request os corrija.

@@ -1,10 +1,12 @@
-site_name: Grupo06
+site_name: DetranGO
 
-repo_name: "2023.1-Grupo06"
-repo_url: "https://github.com/Interacao-Humano-Computador/2023.1-Grupo06"
+repo_name: "2023.1-DetranGO"
+repo_url: "https://github.com/Interacao-Humano-Computador/2023.1-DetranGO"
 
 theme:
   name: material
+  logo: assets/DETRAN/detran-icon.svg
+  favicon: assets/DETRAN/detran-icon.svg
   icon:
     repo: fontawesome/brands/github
   language: pt-BR
