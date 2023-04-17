@@ -139,6 +139,67 @@ Tabela 6: Cronograma da etapa 5 (Fonte: Do autor, 2023).
 | Editar a apresentação                                                           | 17/06/2023              | 18/06/2023              | -                                                | -               |
 
 Tabela 7: Cronograma da etapa 6 (Fonte: Do autor, 2023).
+</center>
+
+## Cronograma etapa 7
+
+<center>
+
+| **Atividade**                                                                   | **Limite para entrega** | 
+**Limite para revisão** | **Autor(es)**                                    | **Revisor(es)** |
+|:--------------------------------------------------------------------------------|:-----------------------:|
+:-----------------------:|:------------------------------------------------:|----------------:|
+| Relato dos resultados do Protótipo de Papel                                    | 29/05/2023              | 
+09/06/2023              | -                                                | -               |
+| Planejamento da avaliação do Protótipo  de alta fidelidade                      | 29/05/2023              | 
+09/06/2023              | -                                                | -               |
+| Planejamento do relato dos resultados da avaliação  do protótipo de alta fidelidade                                                                        | 29/05/2023              | 
+09/06/2023              | -                                                | -               |
+| Gravação da apresentação                                                        | 29/05/2023              | 
+09/06/2023              | - Amanda, Carlos, Felipe, Pedro F., Pedro H., João                                              | -               |
+| Edição da apresentação                                                          | 30/05/2023              | 
+09/06/2023              | -                                                | -               |
+
+Tabela 8: Cronograma da etapa 7 (Fonte: Do autor, 2023).
+
+</center>
+
+## Cronograma etapa 8
+
+<center>
+
+| **Atividade**                                                                   | **Limite para entrega** | 
+**Limite para revisão** | **Autor(es)**                                    | **Revisor(es)** |
+|:--------------------------------------------------------------------------------|:-----------------------:|
+:-----------------------:|:------------------------------------------------:|----------------:|
+| Relato dos resultados do Protótipo de alta fidelidade                           | 12/06/2023              | 
+23/06/2023              | -                                                | -               |
+| Gravação da apresentação                                                        | 12/06/2023              | 
+23/06/2023              | -  Amanda, Carlos, Felipe, Pedro F., Pedro H.,                                               | -               |
+| Edição da apresentação                                                       | 12/06/2023              | 
+23/06/2023              | - Grupo                                            | -               |
+
+Tabela 9: Cronograma da etapa 8 (Fonte: Do autor, 2023)
+
+
+</center>
+
+## Cronograma etapa 9
+
+<center>
+| **Atividade**                                                                   | **Limite para entrega** |
+**Limite para revisão** | **Autor(es)**                                    | **Revisor(es)** |
+|:--------------------------------------------------------------------------------|:-----------------------:|
+:-----------------------:|:------------------------------------------------:|----------------:|
+| Entrega  da apresentação Final                                                  | 26/06/2023              |
+02/07/2023              | -                                                | -               |
+| Gravação da apresentação                                                        | 26/06/2023              |
+02/07/2023              | -  Amanda, Carlos, Felipe, Pedro F., Pedro 
+H.,                                               | -               |
+| Edição da apresentação                                                          | 26/06/2023              |
+02/07/2023              | - Grupo              
+                                 | -               |
+Tabela 10: Cronograma da etapa 9 (Fonte: Do autor, 2023).
 
 </center>
 
@@ -153,3 +214,4 @@ Tabela 7: Cronograma da etapa 6 (Fonte: Do autor, 2023).
 |  `1.0`   | 08/04/23 | Versão inicial do cronograma do projeto e formulação cronograma geral e etapa 1 |  Pedro Ferreira | Felipe Mastromauro |
 |  `1.1`   | 09/04/23 | Formulação das etapas 2 e 3             | Felipe Mastromauro | Pedro Ferreira |
 |  `1.2`   | 14/04/23 | Formulação das etapas 4, 5 e 6             | João Morbeck | Amanda Noda |
+|  `1.3`   | 17/04/23 | Formulação das etapas 7, 8 e 9             | Amanda Noda | João Morbeck |
