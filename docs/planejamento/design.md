@@ -30,7 +30,7 @@ Cada processo de design analisado propõe uma abordagem diferente para a execuç
 
 ![Ciclo de vida para a engenharia de usabilidade](../assets/ProcessoDesign/CicloMayhem.png)
 
-Figura 2: Ciclo de vida para a engenharia de usabilidade (adaptado de Mayhew, 1999).
+Figura 2: Ciclo de vida para a engenharia de usabilidade (Fonte: adaptado de Mayhew, 1999).
 
 </center>
 
