@@ -39,7 +39,7 @@ Durante o início da reunião, foram abordadas as diversas atividades dos membro
 
 ### Cronograma
 
-O cronograma possui correções a serem feitas, como tableas quebradas e a falta de autores e revisores nas atividades.
+O cronograma possui correções a serem feitas, como tabelas quebradas e a falta de autores e revisores nas atividades.
 
 ### Metodologias
 
@@ -66,7 +66,7 @@ Foi feita uma comparação dos possíveis critérios de avaliação disponíveis
 
 ## Designação de tarefas restantes
 
-Foram definidos, na reunião, quais membros estariam envolvidos nas tarefas a seguir:
+Foram definidos, na reunião, quais membros estarão envolvidos nas tarefas a seguir:
 
 * Criação de página para o site selecionado: João Morbeck (Autor) e Pedro Henrique (Revisor)
 * Revisão de normas e padronização dos artefatos (bibliografia, legendas e introduções): Pedro Muniz
@@ -75,7 +75,7 @@ Foram definidos, na reunião, quais membros estariam envolvidos nas tarefas a se
 
 ## Definição da data da gravação do vídeo da primeira entrega
 
-Foi definido na reunião que a data ideal para a gravação da reunião seria a próxima sexta-feira a partir da data da reunião (21/04/2023). O horário não foi definido na reunião, mas será definido pelos membros via Telegram. Também foi definido que uma apresentação de slides seria necessária para a apresentação, e que Pedro Muniz a confeccionaria na ferramenta Canva.
+Foi definido na reunião que a data ideal para a gravação da reunião será a próxima sexta-feira a partir da data da reunião (21/04/2023). O horário não foi definido na reunião, mas será definido pelos membros via Telegram. Também foi definido que uma apresentação de slides será necessária para a apresentação, e que Pedro Muniz a confeccionará na ferramenta Canva.
 
 ## Histórico de versão
 
