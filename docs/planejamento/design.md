@@ -22,9 +22,9 @@ Figura 1: Ciclo genérico de atividades do processo de design (Fonte: adaptado d
 * Design dirigido por Objetivos (Cooper et al., 2014).
 * Design centrado na Comunicação (Barbosa et al., 2005).
 
-## Processo escolhido - Mayhem
+## Processo escolhido - Mayhew
 
-Cada processo de design analisado propõe uma abordagem diferente para a execução do design de um projeto, cada um tendo seu objetivo, tipo de projeto e tipo de profissional únicos. Destes, a Engenharia de Usabilidade de Mayhem (1999) se mostra a melhor opção para um projeto de caráter educacional, por conta de seu grande detalhamento do processo de design. O ciclo de vida da Engenharia de Usabilidade de Mayhem (1999) pode ser observado no diagrama presente na figura 2.
+Cada processo de design analisado propõe uma abordagem diferente para a execução do design de um projeto, cada um tendo seu objetivo, tipo de projeto e tipo de profissional únicos. Destes, a Engenharia de Usabilidade de Mayhew (1999) se mostra a melhor opção para um projeto de caráter educacional, por conta de seu grande detalhamento do processo de design. O ciclo de vida da Engenharia de Usabilidade de Mayhew (1999) pode ser observado no diagrama presente na figura 2.
 
 <center>
 
@@ -36,7 +36,7 @@ Figura 2: Ciclo de vida para a engenharia de usabilidade (Fonte: adaptado de May
 
 ## Ciclo de vida
 
-A Engenharia de Usabilidade de Mayhem (1999) divide o processo de design em 3 grandes fases:
+A Engenharia de Usabilidade de Mayhew (1999) divide o processo de design em 3 grandes fases:
 
 ### Análise de requisitos
 
