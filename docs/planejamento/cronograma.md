@@ -58,7 +58,7 @@ Tabela 2: Cronograma da etapa 1 (Fonte: Do autor, 2023).
 |                             Cenários                            |         29/04         |         30/04         |                         Pedro M.                       |       Felipe M.       |
 |                        Análise de tarefas                       |         01/05         |         03/05         |                         Pedro H.                        |       Carlos E.       |
 |                      Gravar a apresentação                      |         04/05         |         04/05         | Felipe|       Amanda      |
-|                      Editar a apresentação                      |         06/05         |         07/05         |                         -                        |       -       |
+|                      Editar a apresentação                      |         06/05         |         07/05         |                         João M.                        |       Amanda       |
 
 
 Tabela 3: Cronograma da etapa 2 (Fonte: Do autor, 2023).
@@ -72,12 +72,12 @@ Tabela 3: Cronograma da etapa 2 (Fonte: Do autor, 2023).
 
 |                 **Atividade**                | **Limite para entrega** | **Limite para revisão** |                   **Autor(es)**                  | **Revisor(es)** |
 |:--------------------------------------------:|:-----------------------:|:-----------------------:|:------------------------------------------------:|:---------------:|
-|         Princípios gerais do projeto         |          10/05          |          11/05          |                         -                        |        -        |
-| Características para a plataforma do projeto |          09/05          |          10/05          |                         -                        |        -        |
-|        Metas de Usabilidade do projeto       |          10/05          |          11/05          |                         -                        |        -        |
-|           Guia de Estilo do projeto          |          10/05          |          11/05          |                         -                        |        -        |
-|             Gravar a apresentação            |          12/05          |          12/05          | Amanda, Carlos, Felipe, Pedro F., Pedro H., João |        -        |
-|             Editar a apresentação            |          13/05          |          14/05          |                         -                        |        -        |
+|         Princípios gerais do projeto         |          10/05          |          11/05          |                         Amanda                        |        João M.       |
+| Características para a plataforma do projeto |          09/05          |          10/05          |                         Carlos E.                        |        Felipe M.        |
+|        Metas de Usabilidade do projeto       |          10/05          |          11/05          |                         Pedro M.                        |        Pedro H.        |
+|           Guia de Estilo do projeto          |          10/05          |          11/05          |                           João M                      |        Amanda        |
+|             Gravar a apresentação            |          12/05          |          12/05          | Amanda, Felipe M. |        Carlos E.        |
+|             Editar a apresentação            |          13/05          |          14/05          |                         João M                        |        Amanda       |
 
 Tabela 4: Cronograma da etapa 3 (Fonte: Do autor, 2023).
 
@@ -89,12 +89,12 @@ Tabela 4: Cronograma da etapa 3 (Fonte: Do autor, 2023).
 
 | **Atividade**                                                            | **Limite para entrega** | **Limite para revisão** | **Autor(es)**                                    | **Revisor(es)** |
 |:------------------------------------------------------------------------:|:-----------------------:|:-----------------------:|:------------------------------------------------:|:---------------:|
-| Storyboard - Planejamento da avaliação                                   | 15/05/2023              | 16/05/2023              | -                                                | -               |
-| Análise de tarefas - Planejamento da avaliação                           | 15/05/2023              | 16/05/2023              | -                                                | -               |
-| Storyboard - Planejamento do relato dos resultados da avaliação          | 16/05/2023              | 17/05/2023              | -                                                | -               |
-| Análise de tarefas - Planejamento do relato dos resultados da avaliação  | 16/05/2023              | 17/05/2023              | -                                                | -               |
-| Gravar a apresentação                                                    | 18/05/2023              | 18/05/2023              | Amanda, Carlos, Felipe, Pedro F., Pedro H., João | -               |
-| Editar a apresentação                                                    | 20/05/2023              | 21/05/2023              | -                                                | -               |
+| Storyboard - Planejamento da avaliação                                   | 15/05/2023              | 16/05/2023              | João M                                                | Amanda               |
+| Análise de tarefas - Planejamento da avaliação                           | 15/05/2023              | 16/05/2023              | Felipe M.                                                | Carlos E.               |
+| Storyboard - Planejamento do relato dos resultados da avaliação          | 16/05/2023              | 17/05/2023              | Carlos E.                                                | Pedro M.               |
+| Análise de tarefas - Planejamento do relato dos resultados da avaliação  | 16/05/2023              | 17/05/2023              | Pedro H.                                                | Amanda               |
+| Gravar a apresentação                                                    | 18/05/2023              | 18/05/2023              | Felipe M | João M               |
+| Editar a apresentação                                                    | 20/05/2023              | 21/05/2023              | Carlos E.                                                | Amanda               |
 
 Tabela 5: Cronograma da etapa 4 (Fonte: Do autor, 2023).
 
