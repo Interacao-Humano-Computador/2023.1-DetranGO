@@ -14,6 +14,7 @@ As ferramentas para o uso do projeto da disciplina foram escolhidas de acordo co
 |       ![Figma](../assets/ferramentas/figmaLogo.png){width="50%"}      | Figma  | Utilizado para o desenvolvimento de protótipos                                                                                                                  |
 |     ![Discord](../assets/ferramentas/discord-logo.png){width="50%"}     |   Discord   | Utilizado para comunicações e trabalho executado em grupo                                                                                                                      |
 |     ![Telegram](../assets/ferramentas/logo-telegram.png){width="50%"}     |  Telegram   | Utilizado para comunicações do grupo e também para contato para monitoria                                                                          |
+|     ![Canva](../assets/ferramentas/Canva-Logotipo.png){width="70%"}     |  Canva   | Utilizado para criação de designs para apresentações ou trabalho relacionado ao projeto                                                                         |
 
 <center>
 Tabela 1: Ferramentas utilizadas no projeto (Fonte: autor, 2023).
