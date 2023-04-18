@@ -12,11 +12,15 @@ theme:
   language: pt-BR
   palette: 
     - scheme: default
+      primary: deep orange
+      accent: orange
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
 
     - scheme: slate
+      primary: deep orange
+      accent: orange
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
@@ -33,6 +37,7 @@ nav:
   - Reuniões:
       - Reunião 1: reunioes/reuniao1.md
   - Planejamento:
+      - Reuniões: planejamento/reunioes.md
       - Cronograma: planejamento/cronograma.md
       - Metodologias: planejamento/metodologia.md
       - Processo de design: planejamento/design.md
