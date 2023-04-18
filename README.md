@@ -6,7 +6,7 @@ Esse repositório foi criado para organizar a documentação e artefatos do trab
 Com uma organização dinâmica e intuitiva, facilitamos o processo de encontrar os arquivos que utilizamos para o estudo da matéria e trabalhos.
 
 <div style="text-align: center">
-<img src="./assets/DETRAN/logo-detran.svg" style="width:20vw" alt="logo Detran GO"/>
+<img src="./docs/assets/DETRAN/logo-detran.svg" style="width:20vw" alt="logo Detran GO"/>
 </div>
 
 ## Equipe
