@@ -39,8 +39,8 @@ Definir site escolhido | 10/04/2023 | 11/04/2023 | Amanda, Carlos, Felipe, Pedro
 Definir metodogia | 17/04/2023 | 18/04/2023 | Carlos | João
 Definir Ferramentas | 17/04/2023 | 18/04/2023 | Pedro H. | Carlos
 Definir Processo de design | 17/04/2023 | 18/04/2023 | Pedro F. | Felipe
-Gravar a apresentação | 20/04/2023 | 20/04/2023 | Amanda, Carlos, Felipe, Pedro F., Pedro H., João | -
-Editar a apresentação | 22/04/2023 | 23/04/2023 | - | -
+Gravar a apresentação | 20/04/2023 | 20/04/2023 | Felipe  | Amanda
+Editar a apresentação | 22/04/2023 | 23/04/2023 | João  | Pedro  H.
 
 Tabela 2: Cronograma da etapa 1 (Fonte: Do autor, 2023).
 
@@ -52,12 +52,12 @@ Tabela 2: Cronograma da etapa 1 (Fonte: Do autor, 2023).
 
 |                           **Atividade**                           | **Limite para entrega** | **Limite para revisão** |                    **Autor(es)**                   | **Revisor(es)** |
 |:---------------------------------------------------------------:|:---------------------:|:---------------------:|:------------------------------------------------:|:-------------:|
-|                  Definição do perfil do usuário                 |         26/04         |         28/04         |                         -                        |       -       |
-| Detalhamento de aspectos éticos de pesquisas envolvendo pessoas |         25/04         |         26/04         |                         -                        |       -       |
-|                     Detalhamento de personas                    |         28/04         |         29/04         |                         -                        |       -       |
-|                             Cenários                            |         29/04         |         30/04         |                         -                        |       -       |
-|                        Análise de tarefas                       |         01/05         |         03/05         |                         -                        |       -       |
-|                      Gravar a apresentação                      |         04/05         |         04/05         | Amanda, Carlos, Felipe, Pedro F., Pedro H., João |       -       |
+|                  Definição do perfil do usuário                 |         26/04         |         28/04         |                         Amanda                        |       Pedro H.       |
+| Detalhamento de aspectos éticos de pesquisas envolvendo pessoas |         25/04         |         26/04         |                         Carlos E.                        |       Pedro M.       |
+|                     Detalhamento de personas                    |         28/04         |         29/04         |                         Felipe M.                        |       João M.       |
+|                             Cenários                            |         29/04         |         30/04         |                         Pedro M.                       |       Felipe M.       |
+|                        Análise de tarefas                       |         01/05         |         03/05         |                         Pedro H.                        |       Carlos E.       |
+|                      Gravar a apresentação                      |         04/05         |         04/05         | Felipe|       Amanda      |
 |                      Editar a apresentação                      |         06/05         |         07/05         |                         -                        |       -       |
 
 
@@ -162,11 +162,15 @@ Tabela 8: Cronograma da etapa 7 (Fonte: Do autor, 2023).
 <center>
 
 
-| **Atividade**                                          | **Limite para revisão** | **Autor** | **Revisor(es)**                         | **Limite para entrega** |
-|--------------------------------------------------------|-------------------------|-----------|-----------------------------------------|-------------------------|
-| Relato dos resultados do Protótipo de alta fidelidade  | 12/06/2023              |           |                                         | 23/06/2023              |
-| Gravação da apresentação                               | 12/06/2023              |           | Amanda, Carlos, Felipe, Pedro F., Pedro | 23/06/2023              |
-| Edição da apresentação                                 | 12/06/2023              |           |  Grupo                                  | 23/06/2023              |
+| **Atividade**                                          | **Limite para revisão** | **Limite para entrega** | **Autor(es)**                           | **Revisor(es)** |
+|--------------------------------------------------------|-------------------------|-------------------------|-----------------------------------------|-----------------|
+| Relato dos resultados do Protótipo de alta fidelidade  | 12/06/2023              | 23/06/2023              |                                         |                 |
+| Gravação da apresentação                               | 12/06/2023              | 23/06/2023              | Amanda, Carlos, Felipe, Pedro F., Pedro |                 |
+| Edição da apresentação                                 | 12/06/2023              | 23/06/2023              |  Grupo                                  |                 |
+
+
+
+
 
 
 Tabela 9: Cronograma da etapa 8 (Fonte: Do autor, 2023)
