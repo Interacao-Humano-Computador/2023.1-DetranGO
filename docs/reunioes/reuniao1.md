@@ -6,7 +6,7 @@
 
 - Carlos Eduardo 
 - Felipe Mastromauro
-- Pedro Ferreira
+- Pedro Henrique
 - Pedro Muniz
 - João Morbeck
 
@@ -70,7 +70,7 @@ Foram definidos, na reunião, quais membros estariam envolvidos nas tarefas a se
 
 - Ferramentas: Pedro Henrique (Autor) e Carlos Eduardo (Revisor)
 - Metodologias: Carlos Eduardo (Autor) e João Morbeck (Revisor)
-- Processo de Design: Pedro Ferreira e Felipe Mastromauro (A definir)
+- Processo de Design: Pedro Muniz e Felipe Mastromauro (A definir)
 
 
 ## Histórico de versão
@@ -78,4 +78,5 @@ Foram definidos, na reunião, quais membros estariam envolvidos nas tarefas a se
 |  Versão  |   Data   |                      Descrição                      |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
 |  `1.0`   | 10/04/23 | Criação do documento e adição do conteúdo           | Felipe Mastromauro | Carlos Eduardo |
-|  `1.1`   | 13/04/23 | Correção de erros de português da primeira versão | Felipe Mastromauro | Pedro Ferreira  |
+|  `1.1`   | 13/04/23 | Correção de erros de português da primeira versão | Felipe Mastromauro | Pedro Muniz  |
+|  `1.2`   | 17/04/23 | Correção de nomes | Felipe Mastromauro | Pedro Henrique  |

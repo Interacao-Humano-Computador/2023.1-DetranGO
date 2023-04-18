@@ -32,6 +32,7 @@ nav:
   - Home: index.md
   - Reuniões:
       - Reunião 1: reunioes/reuniao1.md
+      - Reunião 2: reunioes/reuniao2.md
   - Planejamento:
       - Cronograma: planejamento/cronograma.md
       - Metodologias: planejamento/metodologia.md
