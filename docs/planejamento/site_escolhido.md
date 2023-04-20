@@ -20,7 +20,7 @@ O site DetranGO possui diversas funcionalidades esperadas, a maioria de consulta
 
 </center>
 
-Na figura 1 é possível identificar problemas com a disponibilização das funcionalidades, alguns estão muito juntos o que dificulta a visualização e o acesso, além dos elementos visuais estarem mal distribuídos pela página, com o uso do site se torna perceptível o quanto que se torna um incomodo a maneira que as seções são divididas e o acesso a elas através da barra de deslizamento.
+Na figura 1 é possível identificar problemas com a disponibilização das funcionalidades, algumas estão muito juntas o que dificulta a visualização e o acesso, além dos elementos visuais estarem mal distribuídos pela página, com o uso do site se torna perceptível o quanto que se torna um incômodo a maneira que as seções são divididas e o acesso a elas através da barra de deslizamento.
 
 <center>
 
