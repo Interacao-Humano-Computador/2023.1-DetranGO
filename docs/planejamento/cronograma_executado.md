@@ -4,7 +4,7 @@
 
 Apesar de desejável, nem sempre o cronograma de uma equipe é executado de total acordo com o planejamento, podendo haver discrepâncias quanto ao pessoal alocado para a realização de determinada tarefa ou quanto à data em que um artefato foi concluído.
 
-Este artefato detalha os cronogramas executados de cada etapa do projeto, detalhando os dias emque cada atividade foi executada, revisada e os membros envolvidos.
+Este artefato detalha os cronogramas executados de cada etapa do projeto, detalhando os dias em que cada atividade foi executada, revisada e os membros envolvidos.
 
 ## Cronograma executado da etapa 1
 
@@ -14,15 +14,15 @@ A tabela 1 descreve o cronograma executado da etapa 1 do projeto. A etapa se pas
 
 **Atividade** | **Data de entrega** | **Data de revisão** | **Autor(es)** | **Revisor(es)**
 :---------: | :-------------------: | :-------------------: | :---------: | :-----:
-Avaliar lista de sites | 13/04/2023 | 13/04/2023 | Amanda, Carlos, Felipe, Pedro F., Pedro H., João | Amanda, Carlos, Felipe, Pedro F., Pedro H., João 
-Criar GitHub Pages | 07/04/2023 | 07/04/2023 | Carlos | Pedro H.
-Definir cronograma | 17/04/2023 | 20/04/2023 | Amanda, Felipe, Pedro F., João | Amanda, Felipe, Pedro F., João
-Definir site escolhido | 13/04/2023 | 13/04/2023 | Amanda, Carlos, Felipe, Pedro F., Pedro H., João | Amanda, Carlos, Felipe, Pedro F., Pedro H., João 
-Definir metodogia | 13/04/2023 | 13/04/2023 | Carlos | João
-Definir Ferramentas | 17/04/2023 | 18/04/2023 | Pedro H. | Carlos
-Definir Processo de design | 17/04/2023 | 18/04/2023 | Pedro F. | Felipe
-Gravar a apresentação | 21/04/2023 | 21/04/2023 | Felipe  | Amanda
-Editar a apresentação | 22/04/2023 | 23/04/2023 | João  | Pedro  H.
+Avaliar lista de sites | 13/04/2023 | 13/04/2023 | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M.| Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. 
+Criar GitHub Pages | 07/04/2023 | 07/04/2023 | Carlos E. | Pedro H.
+Definir cronograma | 17/04/2023 | 20/04/2023 | Amanda N., Felipe M., Pedro F., João M. | Amanda N., Felipe M., Pedro F., João M.
+Definir site escolhido | 13/04/2023 | 13/04/2023 | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M.| Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M.
+Definir metodogia | 13/04/2023 | 13/04/2023 | Carlos E. | João M.
+Definir Ferramentas | 17/04/2023 | 18/04/2023 | Pedro H. | Carlos E.
+Definir Processo de design | 17/04/2023 | 18/04/2023 | Pedro F. | Felipe M.
+Gravar a apresentação | 21/04/2023 | 21/04/2023 | Felipe M. | Amanda N.
+Editar a apresentação | 22/04/2023 | 23/04/2023 | João M. | Pedro  H.
 
 Tabela 1: Cronograma executado da etapa 1 (Fonte: Do autor, 2023).
 
@@ -36,4 +36,4 @@ Tabela 1: Cronograma executado da etapa 1 (Fonte: Do autor, 2023).
 
 |  Versão  |   Data   |                      Descrição          |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------- | -------------- | ------------- |
-|  `1.0`   | 08/04/23 | Primeira versão do cronograma executado da etapa 1 | Felipe | João  |
+|  `1.0`   | 20/04/23 | Primeira versão do cronograma executado da etapa 1 | Felipe M. | João M.  |
