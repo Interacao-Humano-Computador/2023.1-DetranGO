@@ -5,6 +5,8 @@ As ferramentas para o uso do projeto da disciplina foram escolhidas de acordo co
 
 ## Ferramentas utilizadas
 
+Cada uma das ferramentas escolhidas estão listadas na Tabela 1, detalhando a finalidade e como é cada ferramenta.
+
 |                                                                                         Logo                                                              | Ferramenta  | Finalidade                                                                                                                                                                                      |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------:| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Github](../assets/ferramentas/logo_github.png){width="40%"} |   Github    | Utilizado para documentação e desenvolvimento do projeto                                                                                                    |
@@ -15,13 +17,20 @@ As ferramentas para o uso do projeto da disciplina foram escolhidas de acordo co
 |     ![Discord](../assets/ferramentas/discord-logo.png){width="40%"}     |   Discord   | Utilizado para comunicações e trabalho executado em grupo                                                                                                                      |
 |     ![Telegram](../assets/ferramentas/logo-telegram.png){width="40%"}     |  Telegram   | Utilizado para comunicações do grupo e também para contato para monitoria                                                                          |
 |     ![Canva](../assets/ferramentas/Canva-Logotipo.png){width="70%"}     |  Canva   | Utilizado para criação de designs para apresentações ou trabalho relacionado ao projeto                                                                         |
+|     ![YouTube](../assets/ferramentas/logo-youtube.png){width="50%"}     |  YouTube   | Utilizado para salvar gravações realizadas pelo grupo na GitPages da disciplina                                                                        |
+|     ![This Person Does Not Exist](../assets/ferramentas/this-person-doesnt-exist.png){width="50%"}     |  This Person Does Not Exist   | Utilizado para gerar imagens a serem utilizadas para as personas                                                                        |
 
 <center>
 Tabela 1: Ferramentas utilizadas no projeto (Fonte: autor, 2023).
 </center>
+
+## Bibliografia
+
+[1] Wiki IHC - Planejamento - Ferramentas. Disponível no [link](https://interacao-humano-computador.github.io/2022.2-Lichess/planejamento/tools/). Acesso em: 22 de abril de 2023.
 
 ## Histórico de Versão
 
 | Data  |    Data    |                            Descrição                            |   Autor(es)   |  Revisor(es)  |
 | :---: | :--------: | :-------------------------------------------------------------: | :-----------: | :-----------: |
 | `1.0` | 17/04/2023 |                Adição das ferramentas iniciais para o projeto               | Pedro Henrique  | Carlos Eduardo |
+| `1.1` | 22/04/2023 |                Adição de chamada da tabela no texto e inclusão das ferramentas YouTube e This Person Does Not Exist               | Pedro Henrique  | Pedro Muniz |
