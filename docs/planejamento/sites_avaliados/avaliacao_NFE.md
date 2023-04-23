@@ -2,12 +2,12 @@
 
 ## Introdução
 
-O site [NFE(Nota Fiscal Eletrônica)](https://www.nfe.fazenda.gov.br/portal/principal.aspx), tem como objetivo a divulgação de informações sobre a Nota Fiscal Eletrônica, tendo como finalidade a mudança do sistema atual de emissão da nota fiscal em papel por nota fiscal eletrônica. O site destina-se a todas as pessoas que realizam compras, principalmente na internet, onde a emissão da nota fiscal precisa ser feita de forma online/eletrônica. O planejamento da avaliação pode ser encontrado nesse [link](../../assets/NFE/planejamentoNFE.pdf).
+O sítio [NFE(Nota Fiscal Eletrônica)](https://www.nfe.fazenda.gov.br/portal/principal.aspx), tem como objetivo a divulgação de informações sobre a Nota Fiscal Eletrônica, tendo como finalidade a mudança do sistema atual de emissão da nota fiscal em papel por nota fiscal eletrônica. O sítio destina-se a todas as pessoas que realizam compras, principalmente na internet, onde a emissão da nota fiscal precisa ser feita de forma online/eletrônica. O planejamento da avaliação pode ser encontrado nesse [link](../../assets/NFE/planejamentoNFE.pdf).
 
 
 ## Avaliação Heurística
 
-A avaliação heurística, método escolhido para avaliar o site NFE, consiste na inspeção sistêmica, onde o avaliador coloca-se no lugar do usuário, para encontrar problemas de usabilidade em uma interface, levando em consideração os aspectos que podem impedir que o usuário realize o seu objetivo ou que apresente lentidão na realização da sua tarefa até mesmo uma reação negativa para o usuário.
+A avaliação heurística, método escolhido para avaliar o sítio NFE, consiste na inspeção sistêmica, onde o avaliador coloca-se no lugar do usuário, para encontrar problemas de usabilidade em uma interface, levando em consideração os aspectos que podem impedir que o usuário realize o seu objetivo ou que apresente lentidão na realização da sua tarefa até mesmo uma reação negativa para o usuário.
 
 
 ## Dados Coletados
@@ -24,7 +24,7 @@ As figuras 1 e 2 ilustram o problema de compatibilidade com a realidade dos usua
 
 | **Compatibilidade entre o sistema e o mundo real** |     |
 | -------------------------------------------------- | --- |
-| **Verificação:** O público alvo entende as siglas e palavras utilizadas no site ? |
+| **Verificação:** O público alvo entende as siglas e palavras utilizadas no sítio ? |
 | **Grau de Severidade:** <br/> [ ] 0 - Sem importância <br/> [ ] 1 - Cosmético <br/> [X] 2 - Simples <br/> [ ] 3 - Grande <br/> [ ] 4 - Catastrófico | **Contexto:** Usuário buscando um serviço porém não consegue identificá-lo. |
 | **Natureza do Problema:**  <br/> [X] Barreira <br/> [ ] Obstáculo <br/> [ ] Ruído | **Causa:** As nomenclaturas utilizadas não estão de acordo com o repertório cultural do usuário. |
 | **Perspectiva do Usuário:**  <br/> [X] Geral <br/> [ ] Preliminar <br/> [ ] Especial | **Efeito sobre o usuário:** Desorientação. |
@@ -48,13 +48,13 @@ As figuras 1 e 2 ilustram o problema de compatibilidade com a realidade dos usua
 
 Figura 5 - Formulário Agendamento (Fonte: <a href="https://www.nfe.fazenda.gov.br/AgendamentoSVC/Autenticacao.aspx">NFE</a>).
 
-Nas images acima vemos que, os padrões de disposição e apresentação, das informações e erros não são mantidos por todo o site.
+Nas images acima vemos que, os padrões de disposição e apresentação, das informações e erros não são mantidos por todo o sítio.
 
 | **Consistência e Padrões** |     |
 | -------------------------- | --- |
 | **Verificação:** Os padrões se mantêm para fácil identificação do usuário ? |
 | **Grau de Severidade:** <br/> [ ] 0 - Sem importância <br/> [ ] 1 - Cosmético <br/> [X] 2 - Simples <br/> [ ] 3 - Grande <br/> [ ] 4 - Catastrófico | **Contexto:** Usuário utilizando algum formulário na plataforma. |
-| **Natureza do Problema:**  <br/> [ ] Barreira <br/> [ ] Obstáculo <br/> [X] Ruído | **Causa:** Os padrões de disposição, design, informações não estão sendo seguidos em todo o site. |
+| **Natureza do Problema:**  <br/> [ ] Barreira <br/> [ ] Obstáculo <br/> [X] Ruído | **Causa:** Os padrões de disposição, design, informações não estão sendo seguidos em todo o sítio. |
 | **Perspectiva do Usuário:**  <br/> [X] Geral <br/> [ ] Preliminar <br/> [ ] Especial | **Efeito sobre o usuário:** Confusão, Estranheza. |
 | **Perspectiva da Tarefa:**  <br/> [X] Principal <br/> [ ] Secundário | **Efeito sobre a tarefa:** Atraso na execução. |
 | **Possíveis Correções:**  <br/>-> manter a consistência nos padrões para atividades semelhantes |
@@ -105,7 +105,7 @@ Primeiramente percebemos a quantidade de informações disponíveis que podem ac
 
 
 ## Conclusão
-Após a análise dos dados coletados na avaliação do site do portal da nota fiscal eletrônica, observamos que apesar de atender as necessidades do usuário que o utiliza, o site possui muitos ruídos e obstáculos que dificultam sua utilização tornando a experiência do usuário difícil e desagradavel. Além disso, não fornece ferramentas e informações necessárias para usabilidade e acessibilidade plena.
+Após a análise dos dados coletados na avaliação do sítio do portal da nota fiscal eletrônica, observamos que apesar de atender as necessidades do usuário que o utiliza, o sítio possui muitos ruídos e obstáculos que dificultam sua utilização tornando a experiência do usuário difícil e desagradavel. Além disso, não fornece ferramentas e informações necessárias para usabilidade e acessibilidade plena.
 
 
 ## Bibliografia
