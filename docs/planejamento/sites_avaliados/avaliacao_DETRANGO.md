@@ -2,7 +2,7 @@
 
 ## Introdução
 
-O site do [Detran GO](https://www.detran.go.gov.br/psw/#/pages/pagina-inicial) possui como objetivo principal, disponibilizar informações diversas, todas ligadas ao departamento de trânsito e aos serviços que são disponibilizados, estes separados em categorias como Habilitação, Veículo, Processo, Atendimento, Notícias, a princípio o usuário acessa o site para adquirir informações que são de posse do departamento de trânsito, seja sobre o próprio Detran ou sobre o veículo ou habilitação do usuário, e marcar atendimentos que serão feitos presencialmente, segue o [planejamento disponível](../../assets/DETRAN/ProjetoParteIndividualPlanejAvali%C3%A7%C3%A3oJo%C3%A3oPedroRodrigues.pdf)
+O site do [Detran GO](https://www.detran.go.gov.br/psw/#/pages/pagina-inicial) possui como objetivo principal, disponibilizar informações diversas, todas ligadas ao departamento de trânsito e aos serviços que são disponibilizados, estes separados em categorias como Habilitação, Veículo, Processo, Atendimento, Notícias, a princípio o usuário acessa o site para adquirir informações que são de posse do departamento de trânsito, seja sobre o próprio Detran ou sobre o veículo ou habilitação do usuário, e marcar atendimentos que serão feitos presencialmente, segue o [planejamento disponível](../../assets/DETRAN/ProjetoParteIndividualPlanejAvali%C3%A7%C3%A3oJo%C3%A3oPedroRodrigues.pdf).
 
 ## Avaliação heurística
 

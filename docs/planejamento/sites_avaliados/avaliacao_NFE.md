@@ -1,8 +1,8 @@
-# Avaliação Heurística - Portal da Nota Fiscal Eletrônica
+# Avaliação de IHC - Portal da Nota Fiscal Eletrônica
 
 ## Introdução
 
-O site [NFE(Nota Fiscal Eletrônica)](https://www.nfe.fazenda.gov.br/portal/principal.aspx), tem como objetivo a divulgação de informações sobre a Nota Fiscal Eletrônica, tendo como finalidade a mudança do sistema atual de emissão da nota fiscal em papel por nota fiscal eletrônica. O site destina-se a todas as pessoas que realizam compras, principalmente na internet, onde a emissão da nota fiscal precisa ser feita de forma online/eletrônica. O planejamento da avaliação pode ser encontrado nesse [link](../../assets/NFE/planejamentoNFE.pdf)
+O site [NFE(Nota Fiscal Eletrônica)](https://www.nfe.fazenda.gov.br/portal/principal.aspx), tem como objetivo a divulgação de informações sobre a Nota Fiscal Eletrônica, tendo como finalidade a mudança do sistema atual de emissão da nota fiscal em papel por nota fiscal eletrônica. O site destina-se a todas as pessoas que realizam compras, principalmente na internet, onde a emissão da nota fiscal precisa ser feita de forma online/eletrônica. O planejamento da avaliação pode ser encontrado nesse [link](../../assets/NFE/planejamentoNFE.pdf).
 
 
 ## Avaliação Heurística

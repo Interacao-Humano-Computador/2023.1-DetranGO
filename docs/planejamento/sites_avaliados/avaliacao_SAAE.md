@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este documento tem como objetivo realizar uma avaliação técnica sobre o quesito de usabilidade do sítio pertencente ao [SAAE Sorocaba](https://www.saaesorocaba.com.br/), companhia responsável pela água e esgoto da cidade de Sorocaba-SP. Esta avaliação utiliza o método por inspeção através da formulação de uma avaliação heurística do sítio. Serão avaliados as 10 heurísticas propostas por Nielsen, assim como a tabela de avaliação proposta no artigo “Avaliação Heurística de Sítios na Web”. O planejamento para esta avaliação pode ser encontrado [neste documento](../../assets/SAAE/avaliacao.pdf).
+Este documento tem como objetivo realizar uma avaliação técnica sobre o quesito de usabilidade do sítio pertencente ao [SAAE Sorocaba](https://www.saaesorocaba.com.br/), companhia responsável pela água e esgoto da cidade de Sorocaba-SP. Esta avaliação utiliza o método por inspeção através da formulação de uma avaliação heurística do sítio. Serão avaliados as 10 heurísticas propostas por Nielsen, assim como a tabela de avaliação proposta no artigo “Avaliação Heurística de Sítios na Web”. O planejamento para esta avaliação pode ser encontrado [neste documento](../../assets/SAAE/PlanejamentoSaae.pdf).
 
 ## 1. Visibilidade do estado do sistema
 

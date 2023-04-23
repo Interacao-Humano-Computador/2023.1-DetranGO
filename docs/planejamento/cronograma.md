@@ -4,7 +4,7 @@
 
 O cronograma da equipe foi formulado a partir das datas de entrega estipuladas pelo plano de ensino da disciplina de Interação Humano Computador para o primeiro semestre de 2023 da UnB FGA, assim como os artefatos solicitados para cada etapa do projeto.
 
-Este documento contém o cronograma geral do projeto, apresentando as datas de início e fim de cada etapa. Também possui um planejamento detalhado de cada etapa, informando data de entrega e revisão, além das partes envolvidas em cada artefato.
+Este documento contém o cronograma geral do projeto, apresentando as datas de início e fim de cada etapa. Também possui um planejamento detalhado de cada etapa, informando data de entrega e revisão, além das partes envolvidas em cada artefato, este cronograma está sujeito a mudanças futuras conforme o necessário.
 
 ## Cronograma geral
 
@@ -193,7 +193,7 @@ Tabela 11: Cronograma da etapa 9 (Fonte: Do autor, 2023).
 
 ## Bibliografia
 
-[1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: [https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf](https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf). Acesso em: 8 de abril de 2023;
+  > [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: [https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf](https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf). Acesso em: 8 de abril de 2023;
 
 ## Histórico de Versão
 
