@@ -1,8 +1,8 @@
-# Aoresentação da primeira etapa - 20/04/2023
+# Apresentação da primeira etapa - 20/04/2023
 
 ## Introdução
 
-Este artefato consiste nos materiais desenvolvidos para apoiar a apresentação da primeira etapa do projeto, bem como a gravação em vídeo da apreentação disponível pelo YouTube e um checklist dos itens da primeira etapa que condizem com os possíveis critérios de avaliação apresentados pelo professor.
+Este artefato consiste nos materiais desenvolvidos para apoiar a apresentação da primeira etapa do projeto, bem como a gravação em vídeo da apresentação disponível pelo YouTube e um checklist dos itens da primeira etapa que condizem com os possíveis critérios de avaliação apresentados pelo professor.
 
 ## Apresentação de slides
 
