@@ -2,7 +2,7 @@
 
 ## Introdução
 
-O site do [Detran GO](https://www.detran.go.gov.br/psw/#/pages/pagina-inicial) possui como objetivo principal, disponibilizar informações diversas, todas ligadas ao departamento de trânsito e aos serviços que são disponibilizados, estes separados em categorias como Habilitação, Veículo, Processo, Atendimento, Notícias, a princípio o usuário acessa o site para adquirir informações que são de posse do departamento de trânsito, seja sobre o próprio Detran ou sobre o veículo ou habilitação do usuário, e marcar atendimentos que serão feitos presencialmente, segue o [planejamento disponível](../../assets/DETRAN/ProjetoParteIndividualPlanejAvali%C3%A7%C3%A3oJo%C3%A3oPedroRodrigues.pdf)
+O sítio do [Detran GO](https://www.detran.go.gov.br/psw/#/pages/pagina-inicial) possui como objetivo principal, disponibilizar informações diversas, todas ligadas ao departamento de trânsito e aos serviços que são disponibilizados, estes separados em categorias como Habilitação, Veículo, Processo, Atendimento, Notícias, a princípio o usuário acessa o sítio para adquirir informações que são de posse do departamento de trânsito, seja sobre o próprio Detran ou sobre o veículo ou habilitação do usuário, e marcar atendimentos que serão feitos presencialmente, segue o [planejamento disponível](../../assets/DETRAN/ProjetoParteIndividualPlanejAvali%C3%A7%C3%A3oJo%C3%A3oPedroRodrigues.pdf).
 
 ## Avaliação heurística
 
@@ -10,7 +10,7 @@ A avaliação heurística é o método de avaliação escolhido, consiste em o a
 
 ## 1. Compatibilidade do sistema com o mundo real
 
-Em geral, o site do DETRAN possui uma boa compatibilidade com o mundo real, não existe termos ou jargões técnicos sendo utilizados pela interface e o uso de siglas é limitado e para aquelas em que o usuário já deve ter um certo grau de familiaridade, principalmente pelo fato de que o usuário deve utilizar os mesmos termos para fazer as buscas e chegar ao site do DETRAN.
+Em geral, o sítio do DETRAN possui uma boa compatibilidade com o mundo real, não existe termos ou jargões técnicos sendo utilizados pela interface e o uso de siglas é limitado e para aquelas em que o usuário já deve ter um certo grau de familiaridade, principalmente pelo fato de que o usuário deve utilizar os mesmos termos para fazer as buscas e chegar ao sítio do DETRAN.
 
 ## 2. Consistência e padrões
 
@@ -38,7 +38,7 @@ Na imagem abaixo, é possível identificar diversos problemas na interface, mas 
 
 ## 3. Prevenção de erros
 
-O site do DETRAN possui boas medidas de prevenção de erros, entre elas temos marcações para caso algum campo necessário não esteja preenchido, e os campos possuem informações sobre qual é a forma correta de preencher o campo, além de que ao fazer uma busca, por exemplo, pelo Renavam do veículo, surge um ícone indicando onde na documentação que se encontra o valor.
+O sítio do DETRAN possui boas medidas de prevenção de erros, entre elas temos marcações para caso algum campo necessário não esteja preenchido, e os campos possuem informações sobre qual é a forma correta de preencher o campo, além de que ao fazer uma busca, por exemplo, pelo Renavam do veículo, surge um ícone indicando onde na documentação que se encontra o valor.
 
 ## 4. Reconhecimento ao invés de memorização
 
@@ -85,7 +85,7 @@ A aplicação não flexibiliza o uso para um usuário experiente, isso pode ser 
 
 ## 6. Estética e design minimalista
 
-Na Figura 2, é possível verificar que há problemas quanto ao design de interface, certos elementos não estão completamente visíveis, além de possuir muitos elementos que ocupam boa parte do espaço do site.
+Na Figura 2, é possível verificar que há problemas quanto ao design de interface, certos elementos não estão completamente visíveis, além de possuir muitos elementos que ocupam boa parte do espaço do sítio.
 
 <center>
 
@@ -123,7 +123,7 @@ Na Figura 1, identifica-se uma seção de Outros Serviços, nessa seção há di
 
 ## Conclusão
 
-O site do Detran do Goiás possui alguns problemas de usabilidade, alguns problemas estéticos que dificultam o uso, como os diferentes scrolls e a quantidade de informações, porém a maioria dos problemas são ruídos em que o usuário consegue aprender para poder utilizar, porém estes problemas geram incômodo no usuário e devem ser corrigidos.
+O sítio do Detran do Goiás possui alguns problemas de usabilidade, alguns problemas estéticos que dificultam o uso, como os diferentes scrolls e a quantidade de informações, porém a maioria dos problemas são ruídos em que o usuário consegue aprender para poder utilizar, porém estes problemas geram incômodo no usuário e devem ser corrigidos.
 
 ## Referências bibliográficas
   > [1] MACIEL, C. _et al_. Avaliação Heurística de Sítios na Web. Niterói, RJ: UFF, 2004.
