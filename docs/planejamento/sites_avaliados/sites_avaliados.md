@@ -40,7 +40,7 @@ O [Portal Nota Fiscal Eletrônica](https://www.nfe.fazenda.gov.br/portal/princip
 O [SAAE Sorocaba](https://www.saaesorocaba.com.br/) é a companhia responsável pelo fornecimento de água e tratamento de esgoto da cidade de Sorocaba-SP. Durante a avaliação de seu sítio, percebe-se que o mesmo possui uma boa consistência com o mundo real e bom reconhecimento de funções, contudo falha em diversos outros aspectos de usabilidade, com destaque ao seu design sobrecarregado e falta de auxílio ao usuário. A avaliação completa do site pode ser encontrada neste [link](./avaliacao_SAAE.md).
 
 ## SSALTO
-
+A [Prefeitura de São Sebastião do Alto](http://ssalto.rj.gov.br/) é um site que fornece diversas informações para o cidadão de São Sebastião do Alto - Rio de Janeiro. Em sua avaliação, percebe-se que o site possui varios redirecionamentos dentro de sua  página principal, como solicitação de segunda via do IPTU, Alvará online e varios outros serviços que são redirecionados para outros sitios  de cada assunto referido, Nota-se que com o redirecionamento para outros sítios, acaba gerando ruído causando falha em sua usabilidade. A avaliação completa pode ser encontrada neste [link](./avaliacao_SSALTO.md).
 
 ## Bibliografia
 
