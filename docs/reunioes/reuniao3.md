@@ -20,6 +20,8 @@ A reunião ocorreu pela plataforma Teams, onde foi gravada e disponibilizada no 
 
 A gravação está disponível abaixo.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RRzvxA6oE48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Pautas da reunião
 
 A reunião abordou as seguntes pautas:
@@ -43,3 +45,4 @@ Durante a reunião foi acordado que seriam feitas algumas mudanças na execuçã
 |  Versão  |   Data   |                      Descrição                      |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
 |  `1.0`   | 24/04/23 | Criação do documento e adição do conteúdo | Felipe M. | Pedro F. |
+|  `1.1`   | 25/04/23 | Adição da gravação | Felipe M. | Pedro F. |
