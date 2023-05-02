@@ -4,65 +4,67 @@ repo_name: "2023.1-DetranGO"
 repo_url: "https://github.com/Interacao-Humano-Computador/2023.1-DetranGO"
 
 theme:
-  name: material
-  logo: assets/DETRAN/detran-icon.svg
-  favicon: assets/DETRAN/detran-icon.svg
-  icon:
-    repo: fontawesome/brands/github
-  language: pt-BR
-  palette: 
-    - scheme: default
-      primary: deep orange
-      accent: orange
-      toggle:
-        icon: material/weather-night
-        name: Switch to dark mode
+    name: material
+    logo: assets/DETRAN/detran-icon.svg
+    favicon: assets/DETRAN/detran-icon.svg
+    icon:
+        repo: fontawesome/brands/github
+    language: pt-BR
+    palette:
+        - scheme: default
+          primary: deep orange
+          accent: orange
+          toggle:
+              icon: material/weather-night
+              name: Switch to dark mode
 
-    - scheme: slate
-      primary: deep orange
-      accent: orange
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to light mode
+        - scheme: slate
+          primary: deep orange
+          accent: orange
+          toggle:
+              icon: material/weather-sunny
+              name: Switch to light mode
 
-  features:
-    - navigation.instant
-    - navigation.section
-    - navigation.path
-    - navigation.top
-    - tabs
+    features:
+        - navigation.instant
+        - navigation.section
+        - navigation.path
+        - navigation.top
+        - tabs
 
 nav:
-  - Home: index.md
-  - Reuniões:
-      - Reunião 1: reunioes/reuniao1.md
-      - Reunião 2: reunioes/reuniao2.md
-      - Reunião 3: reunioes/reuniao3.md
-  - Planejamento:
-      - Reuniões: planejamento/reunioes.md
-      - Cronograma: planejamento/cronograma.md
-      - Cronograma Executado: planejamento/cronograma_executado.md
-      - Metodologias: planejamento/metodologia.md
-      - Processo de design: planejamento/design.md
-      - Ferramentas: planejamento/ferramentas.md
-      - Sítio Escolhido: planejamento/site_escolhido.md
-      - Sítios Avaliados: 
-        - Sítios Avaliados: planejamento/sites_avaliados/sites_avaliados.md
-        - Avaliação NFE: planejamento/sites_avaliados/avaliacao_NFE.md
-        - Avaliação SAAE: planejamento/sites_avaliados/avaliacao_SAAE.md
-        - Avaliação CAESB: planejamento/sites_avaliados/avaliacao_CAESB.md
-        - Avaliação Caixa Econômica Federal: planejamento/sites_avaliados/avaliacao_CAIXA.md
-        - Avaliação SSALTO: planejamento/sites_avaliados/avaliacao_SSALTO.md
-        - Avaliação DETRAN: planejamento/sites_avaliados/avaliacao_DETRANGO.md
-  - Apresentações:
-    - Primeira etapa: apresentacoes/1a_apresentacao.md
+    - Home: index.md
+    - Reuniões:
+          - Reunião 1: reunioes/reuniao1.md
+          - Reunião 2: reunioes/reuniao2.md
+          - Reunião 3: reunioes/reuniao3.md
+    - Planejamento:
+          - Reuniões: planejamento/reunioes.md
+          - Cronograma: planejamento/cronograma.md
+          - Cronograma Executado: planejamento/cronograma_executado.md
+          - Metodologias: planejamento/metodologia.md
+          - Ferramentas: planejamento/ferramentas.md
+          - Sítios Avaliados:
+                - Sítios Avaliados: planejamento/sites_avaliados/sites_avaliados.md
+                - Avaliação NFE: planejamento/sites_avaliados/avaliacao_NFE.md
+                - Avaliação SAAE: planejamento/sites_avaliados/avaliacao_SAAE.md
+                - Avaliação CAESB: planejamento/sites_avaliados/avaliacao_CAESB.md
+                - Avaliação Caixa Econômica Federal: planejamento/sites_avaliados/avaliacao_CAIXA.md
+                - Avaliação SSALTO: planejamento/sites_avaliados/avaliacao_SSALTO.md
+                - Avaliação DETRAN: planejamento/sites_avaliados/avaliacao_DETRANGO.md
+          - Sítio Escolhido: planejamento/site_escolhido.md
+          - Processo de design: planejamento/design.md
+    - Análise de Requisitos:
+          - Aspectos Éticos: analise_requisitos/aspectos_eticos.md
+    - Apresentações:
+          - Primeira etapa: apresentacoes/1a_apresentacao.md
 markdown_extensions:
-  - tables
-  - attr_list
-  - md_in_html
-  - def_list
-  - pymdownx.tasklist:
-      custom_checkbox: true
-  - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+    - tables
+    - attr_list
+    - md_in_html
+    - def_list
+    - pymdownx.tasklist:
+          custom_checkbox: true
+    - pymdownx.emoji:
+          emoji_index: !!python/name:materialx.emoji.twemoji
+          emoji_generator: !!python/name:materialx.emoji.to_svg
