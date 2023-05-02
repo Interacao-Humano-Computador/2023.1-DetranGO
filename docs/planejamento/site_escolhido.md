@@ -34,7 +34,7 @@ Na figura 2 é identificado problemas de distribuição de funcionalidades, e a 
 
 ## Usuários
 
-Para definir os usuários da aplicação, levamos em conta todos aqueles que possam precisar ou utiliza os serviços disponibilizados pelo Detran, seja de qualquer estado, por isso colocamos como indivíduos de 18 a 65 anos e que possuem um veículo, dessa forma é abrangido todos os usuários que tenham carteira de motorista ou possam vim a ter uma, além de abranger aqueles que estão em busca de informações sobre o cadastro do próprio veículo, vale detalhar que no Brasil não existe idade máxima para se dirigir um veículo ou fazer a CNH, a escolha da idade de 65 anos se deve pelo fato de essa ser a idade mínima para se aposentar.
+Para definir os usuários da aplicação, levamos em conta todos aqueles que possam precisar ou utiliza os serviços disponibilizados pelo Detran, seja de qualquer estado, por isso colocamos indivíduos de 18 a 65 anos e que possuem um veículo, dessa forma é abrangido todos os usuários que tenham carteira de motorista ou possam vim a ter uma, além de abranger aqueles que estão em busca de informações sobre o cadastro do próprio veículo, vale detalhar que no Brasil não existe idade máxima para se dirigir um veículo ou fazer a CNH, a escolha da idade de 65 anos se deve pelo fato de essa ser a idade mínima para se aposentar.
 
 ## Bibliografia
 
