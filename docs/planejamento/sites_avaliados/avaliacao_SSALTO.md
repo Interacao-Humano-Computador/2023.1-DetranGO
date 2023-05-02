@@ -60,6 +60,16 @@ O site possui uma boa relação entre o sistema e o mundo real, trata de assunto
 *3* Controle do usuário e liberdade
 O site possui várias abas de redirecionamento para outras páginas de solicitações de serviços por exemplo, Porém foi percebido que algumas problemáticas relacionadas ao controle de usuário e sua liberdade no uso do sistema.
 
+### Correspondência do sistema com o mundo real 
+
+*2*. Correspondência do sistema com o mundo real
+O site possui uma boa relação entre o sistema e o mundo real, trata de assuntos de forma geral com abrangência com alguns termos fora do entendimento geral, mas não foge de seu objetivo de entregar tais informações.Portanto, podemos afirmar que o site condiz com o mundo real. 
+
+### Controle do usuário e liberdade
+
+*3* Controle do usuário e liberdade
+O site possui várias abas de redirecionamento para outras páginas de solicitações de serviços por exemplo, Porém foi percebido que algumas problemáticas relacionadas ao controle de usuário e sua liberdade no uso do sistema.
+
 ### Consistência e padrões
 
 | *4*. Consistência e padrões                                                                                                                                                                                                                                                                                                                                                                             |
@@ -78,8 +88,6 @@ O site possui várias abas de redirecionamento para outras páginas de solicita�
 *5*. Reconhecimento em vez de momorização
 
 O site possui muito elementos visuais inicialmente, sendo também bem identificados. Ao utilizar o elemento textual em sua maioria de seu conteúdo, o sistema não consiste em se apoiar em memorização do usuário, Os elementos como formulários são bem definidos e possuem campos bem identificados, podendo ser identificados mais rapidamente. Portando, o site não se apoia em memorização do usuário, porém possui um bom grau de reconhecimento.
-
-<center>
 
 ![Página do Portal de Contra Cheque Online - autoatendimento do SSALTO](../../assets/SSALTO/contraChequeOnline.jpeg)
 
