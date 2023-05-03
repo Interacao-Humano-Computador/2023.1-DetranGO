@@ -191,3 +191,16 @@ Respostas coletadas como mostra o [formulário](https://docs.google.com/forms/d/
 | nao                                          |
 | Não                                |
 | No momento não.                              |
+
+## Bibliografia
+
+  > [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: [https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf](https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf). Acesso em: 2 de maio de 2023;
+  >
+  >  https://docs.google.com/forms/d/1tDkLWOFgCxfdQC3KglediV4bSTw-QOXMBVE3MfLx-9U/edit#responses [Detran GO - IHC.pdf](https://github.com/Interacao-Humano-Computador/2023.1-DetranGO/files/11379117/Detran.GO.-.IHC.pdf)
+
+
+## Histórico de Versão
+
+|  Versão  |   Data   |                      Descrição                      |    Autor(es)   |  Revisor(es)  |
+| -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
+|  `1.0`   | 02/05/23 | Versão inicial do Perfil de usuário | Amanda Noda | Pedro Henrique |
