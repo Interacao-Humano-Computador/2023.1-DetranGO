@@ -87,3 +87,5 @@ Como detalhado por Courage e Baxter (2005), deve*se criar ao menos uma persona p
 | Versão | Data     | Descrição                                 | Autor(es)           | Revisor(es) |
 | ---- | ---- | ---- | ----| ---- |
 | `1.0`  | 05/05/23 | Criação do documento e adição do conteúdo | João M. e Felipe M. | Carlos E.   |
+| `1.1`  | 06/05/23 | Criação de personas secundárias | João M. e Felipe M. | Carlos E.   |
+
