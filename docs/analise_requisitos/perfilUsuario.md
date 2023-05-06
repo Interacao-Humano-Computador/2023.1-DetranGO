@@ -43,7 +43,7 @@ Respostas foram coletadas entre as datas **29/04/2023** e **02/05/2023**.
 </div>
 
 ### Questão 3
-Respostas coletadas como mostra o [formulário](https://docs.google.com/forms/d/e/1FAIpQLSfy3ZQlIrlzoUkwZYM3xvTtEihPXdh84Fqrb85O0pCb8KKpVQ/viewform) sem nenhuma formatação, respostas colatadas pela pesquisa relatas acima.
+Respostas coletadas como mostra o [formulário](https://docs.google.com/forms/d/e/1FAIpQLSfy3ZQlIrlzoUkwZYM3xvTtEihPXdh84Fqrb85O0pCb8KKpVQ/viewform) sem nenhuma formatação, respostas coletadas pela pesquisa relatas acima.
 
 | Quais sites de mobilidade vc tem costume de usar? |
 |---------------------------------------------------|
@@ -151,7 +151,7 @@ Respostas coletadas como mostra o [formulário](https://docs.google.com/forms/d/
 
 
 ### Questão 11
-Respostas coletadas como mostra o [formulário](https://docs.google.com/forms/d/e/1FAIpQLSfy3ZQlIrlzoUkwZYM3xvTtEihPXdh84Fqrb85O0pCb8KKpVQ/viewform) sem nenhuma formatação, respostas colatadas pela pesquisa relatas acima.
+Respostas coletadas como mostra o [formulário](https://docs.google.com/forms/d/e/1FAIpQLSfy3ZQlIrlzoUkwZYM3xvTtEihPXdh84Fqrb85O0pCb8KKpVQ/viewform) sem nenhuma formatação, respostas coletadas pela pesquisa relatas acima.
 | Você tem algum feedback sobre como o site Detran pode dar uma experiêncoa melhor para o uauário?|
 |---------------------------------------------------|
 | Melhor serviço ao consumidor                      |
