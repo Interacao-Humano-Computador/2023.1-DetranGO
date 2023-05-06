@@ -1,6 +1,6 @@
 # Análise de Tarefas
 
-## Introdução
+## 1. Introdução
 
 Uma análise de tarefas é feita com o objetivo de buscar um entendimento sobre qual é o trabalho que os usuários exercem, como eles o realizam e por quê. Com isso, o trabalho é definido com base nos objetivos alcançaveis e necessários que os usuários devem apresentar no uso do sistema.
 
@@ -8,20 +8,63 @@ A análise pode ser utilizada em três atividades habituais, em IHC. A primeira 
 
 Definir os objetivos das pessoas, em termos psicológicos, é um dos primeiros passos a serem feitos numa análise de tarefas. Ou seja, para cada objetivo, é feito uma listagem das atividades/ações feitas por um agente para alcançar esse objetivo. Segundo Diaper, quando há múltiplo agentes, recomenda-se representar as ações de cada agente a parte um do outro, fazendo isso em colunas diferentes. Além disso, Diaper ainda ressalta que, independentemente da forma como os dados para uma análise de tarefas forem coletados, só teremos uma simulação das verdadeiras tarefas de interesse. Já que apenas uma pequena porção do trabalho pode ser observada e também porque existem uma quantidade potencialmente infinita de tarefas realizadas por diferentes pessoas.
 
-Para o escopo do site escolhido pelo grupo, as tarefas foram avaliadas por meio da Análise Hierárquica de Tarefas (HTA - Hierarchical Task Analysis) e também pelo conjunto de modelos que definem os Objetivos, Operadores, Métodos e Regras de Seleção (GOMS - Goals, Operator, Methods, and Selection Rules) para analisar o desempenho de usuários competentes de sistemas computacionais.
+Para o escopo do site escolhido pelo grupo, as tarefas foram avaliadas por meio da Análise Hierárquica de Tarefas (HTA - Hierarchical Task Analysis) para analisar o desempenho de usuários competentes de sistemas computacionais.
 
-## Análise Hierárquica de Tarefas (HTA)
+## 2. Análise Hierárquica de Tarefas (HTA)
 
 Essa análise foi desenvolvida para compreender as competências e habilidades exibidas em tarefas complexas e não repetitivas, bem como para auxiliar na identificação de problemas de desempenho.
 
-| ![HTA](../assets/Analise_de_tarefas/elementos_HTA.png) | 
+<center>
+
+![HTA](../assets/Analise_de_tarefas/elementos_HTA.png) 
+**Figura 1: Análise Hierárquica de Tarefas (Fonte: adaptado de BARBOSA (2021)).**
+
+</center>
+
+## 3. Diagrama das Tarefas
+
+A análise foi realizada com o uso do site do DETRAN GO. As atividades para análise foram divididas em 3 seções principais:
+
+* Realizamento de Login
+* Atividades de acesso na plataforma logada
+* Atividades fora do escopo de acesso da plataforma logada
+
+### 3.1 Realizamento de Login
+<center>
+
+![Realizamento de Login](../assets/)
+
+**Figura 1: Diagrama para tarefa de Realizamento de Login (Fonte: Autores).**
+
+</center>
+
+### 3.2 Atividades de acesso na plataforma logada
+<center>
+
+![Atividades de acesso na plataforma logada](../assets/)
+
+**Figura 1: Diagrama para Atividades de acesso na plataforma logada (Fonte: Autores).**
+
+</center>
+
+### 3.3 Atividades fora do escopo de acesso da plataforma logada
+<center>
+
+![Atividades fora do escopo de acesso da plataforma logada](../assets/)
+
+**Figura 1: Diagrama para Atividades fora do escopo de acesso da plataforma logada (Fonte: Autores).**
+
+</center>
 
 ## Bibliografia
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
+
+> Sítio DetranGO: https://www.detran.go.gov.br/psw/#/pages/pagina-inicial, Acesso em 5 de Maio de 2023
 
 ## Histórico de Versão
 
 | Versão | Data       | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ---------- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  | 29/04/2023 | Criação do documento.              | Pedro Henrique |  João Morbeck |
+`1.1`  | 05/05/2023 | Adição inicial do Diagrama da HTA              | Pedro Henrique e João Morbeck |  Carlos Eduardo |
