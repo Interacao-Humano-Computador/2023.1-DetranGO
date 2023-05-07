@@ -56,6 +56,7 @@ nav:
           - Processo de design: planejamento/design.md
     - Análise de Requisitos:
           - Aspectos Éticos: analise_requisitos/aspectos_eticos.md
+          - Cenários: analise_requisitos/cenarios.md
     - Apresentações:
           - Primeira etapa: apresentacoes/1a_apresentacao.md
 markdown_extensions:
