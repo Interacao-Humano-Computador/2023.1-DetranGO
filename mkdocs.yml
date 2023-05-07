@@ -54,7 +54,7 @@ nav:
         - Avaliação SSALTO: planejamento/sites_avaliados/avaliacao_SSALTO.md
         - Avaliação DETRAN: planejamento/sites_avaliados/avaliacao_DETRANGO.md
   - Análise de Requisitos:
-      - Análise de tarefas: analise_de_requisitos/analise_de_tarefas.md
+      - Análise de tarefas: analise_requisitos/analise_de_tarefas.md
   - Apresentações:
     - Primeira etapa: apresentacoes/1a_apresentacao.md
 markdown_extensions:

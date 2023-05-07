@@ -2,7 +2,7 @@
 
 ## 1. Introdução
 
-Uma análise de tarefas é feita com o objetivo de buscar um entendimento sobre qual é o trabalho que os usuários exercem, como eles o realizam e por quê. Com isso, o trabalho é definido com base nos objetivos alcançaveis e necessários que os usuários devem apresentar no uso do sistema.
+Uma análise de tarefas é feita com o objetivo de buscar um entendimento sobre qual é o trabalho que os usuários exercem, como eles o realizam e por quê. Com isso, o trabalho é definido com base nos objetivos alcançáveis e necessários que os usuários devem apresentar no uso do sistema.
 
 A análise pode ser utilizada em três atividades habituais, em IHC. A primeira é a análise da situação atual (apoiada ou não por um sistema computacional), a segunda é para o (re)design de um sistema computacional e, por fim, para a avaliação do resultado de uma intervenção que inclua a introdução de um (novo) sistema computacional.
 
@@ -12,11 +12,11 @@ Para o escopo do site escolhido pelo grupo, as tarefas foram avaliadas por meio 
 
 ## 2. Análise Hierárquica de Tarefas (HTA)
 
-Essa análise foi desenvolvida para compreender as competências e habilidades exibidas em tarefas complexas e não repetitivas, bem como para auxiliar na identificação de problemas de desempenho.
+Essa análise foi desenvolvida para compreender as competências e habilidades exibidas em tarefas complexas e não repetitivas, bem como para auxiliar na identificação de problemas de desempenho, seus elementos podem ser observados na figura 1.
 
 <center>
 
-![HTA](../assets/Analise_de_tarefas/elementos_HTA.png) 
+![HTA](../assets/Analise_de_tarefas/elementos_HTA.png)
 **Figura 1: Análise Hierárquica de Tarefas (Fonte: adaptado de BARBOSA (2021)).**
 
 </center>
@@ -25,34 +25,59 @@ Essa análise foi desenvolvida para compreender as competências e habilidades e
 
 A análise foi realizada com o uso do site do DETRAN GO. As atividades para análise foram divididas em 3 seções principais:
 
-* Realizamento de Login
+* Realização do Login
 * Atividades de acesso na plataforma logada
 * Atividades fora do escopo de acesso da plataforma logada
 
-### 3.1 Realizamento de Login
+O diagrama completo pode ser observado na figura 2 e as seções nas figuras 3, 4 e 5.
+
 <center>
 
-![Realizamento de Login](../assets/)
+![Diagrama de tarefas](../assets/Analise_de_tarefas/diagrama-de-tarefas.png)
 
-**Figura 1: Diagrama para tarefa de Realizamento de Login (Fonte: Autores).**
+**Figura 2: Diagrama de tarefas (Fonte: Autores).**
+
+</center>
+
+### 3.1 Realização do Login
+
+<center>
+
+![Realização do Login](../assets/Analise_de_tarefas/realizar-login.png)
+
+**Figura 3: Diagrama para tarefa de Realização do Login (Fonte: Autores).**
 
 </center>
 
 ### 3.2 Atividades de acesso na plataforma logada
+
 <center>
 
-![Atividades de acesso na plataforma logada](../assets/)
+![Atividades de acesso na plataforma logada](../assets/Analise_de_tarefas/atividades-logado-na-plataforma.png)
 
-**Figura 1: Diagrama para Atividades de acesso na plataforma logada (Fonte: Autores).**
+**Figura 4: Diagrama para Atividades de acesso na plataforma logada (Fonte: Autores).**
 
 </center>
 
 ### 3.3 Atividades fora do escopo de acesso da plataforma logada
+
 <center>
 
-![Atividades fora do escopo de acesso da plataforma logada](../assets/)
+![Atividades fora do escopo de acesso da plataforma logada](../assets/Analise_de_tarefas/atividades-nao-logado.png)
 
-**Figura 1: Diagrama para Atividades fora do escopo de acesso da plataforma logada (Fonte: Autores).**
+**Figura 5: Diagrama para Atividades fora do escopo de acesso da plataforma logada (Fonte: Autores).**
+
+</center>
+
+### 3.4 Atividades dos funcionários do Detran
+
+Os funcionários do Detran são pessoas importantes para o funcionamento do Detran, pois as informações que o público têm acesso na plataforma precisam ser inseridas de alguma maneira, no caso do Detran, os funcionários possuem uma plataforma exclusiva e não vinculada diretamente ao sítio que estamos analisando, porém ambas plataformas utilizamo o mesmo banco de dados, é importante mencionar quais são as tarefas que estes fazem para manipular os dados, mas como a plataforma que utilizam não faz parte do escopo de análise desta equipe, nos limitaremos a apenas a análise de tarefas que pode ser observado na figura 6.
+
+<center>
+
+![Atividades fora do escopo de acesso da plataforma logada](../assets/Analise_de_tarefas/analise-tarefas-funcionario.png)
+
+**Figura 6: Diagrama para Atividades dos funcionários do Detran (Fonte: Autores).**
 
 </center>
 
@@ -67,4 +92,5 @@ A análise foi realizada com o uso do site do DETRAN GO. As atividades para aná
 | Versão | Data       | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ---------- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  | 29/04/2023 | Criação do documento.              | Pedro Henrique |  João Morbeck |
-`1.1`  | 05/05/2023 | Adição inicial do Diagrama da HTA              | Pedro Henrique e João Morbeck |  Carlos Eduardo |
+| `1.1`  | 05/05/2023 | Adição inicial do Diagrama da HTA  | Pedro Henrique e João Morbeck |  Carlos Eduardo |
+| `1.2`  | 05/05/2023 | Adição das imagens e atividades dos funcionários  | Pedro Henrique e João Morbeck |  Carlos Eduardo |
