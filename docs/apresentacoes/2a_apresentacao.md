@@ -50,7 +50,7 @@ A tabela 1 consiste na tabela de exemplos de critérios de avaliação para a et
 |23 - Ao menos duas técnicas para especificar as tarefas? (`reduzido para melhor vizualização`)|Não|
 |24 - Utilizaram alguma técnica para especificar as tarefas?|Não|
 
-Tabela 1 - Checklist da pimeira entrega (Adaptado de SALES, 2023).
+Tabela 1 - Checklist da segunda entrega (Adaptado de SALES, 2023).
 
 </center>
 
