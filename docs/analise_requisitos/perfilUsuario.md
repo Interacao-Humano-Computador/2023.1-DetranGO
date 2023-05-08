@@ -152,8 +152,9 @@ Respostas coletadas como mostra o [formulário](https://docs.google.com/forms/d/
 
 ### Questão 11
 Respostas coletadas como mostra o [formulário](https://docs.google.com/forms/d/e/1FAIpQLSfy3ZQlIrlzoUkwZYM3xvTtEihPXdh84Fqrb85O0pCb8KKpVQ/viewform) sem nenhuma formatação, respostas coletadas pela pesquisa relatas acima.
+
 | Você tem algum feedback sobre como o site Detran pode dar uma experiêncoa melhor para o uauário?|
-|---------------------------------------------------|
+|:---------------------------------------------------:|
 | Melhor serviço ao consumidor                      |
 | Melhorar na organização de tarefas do site, normalmente algo que está relacionado com o mesmo assunto estão em uma aba que não faz muito sentidp, o site deixa a desejar um pouco em relação ao aplicativo móvel.Poderia ter uma aba para recém habilitados, acho que as primeiras impressões seriam legais.|
 | Ah, poderia ter uma aba só para recém habilitados.|
