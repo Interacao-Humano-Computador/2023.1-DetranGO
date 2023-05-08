@@ -54,6 +54,8 @@ nav:
         - Avaliação Caixa Econômica Federal: planejamento/sites_avaliados/avaliacao_CAIXA.md
         - Avaliação SSALTO: planejamento/sites_avaliados/avaliacao_SSALTO.md
         - Avaliação DETRAN: planejamento/sites_avaliados/avaliacao_DETRANGO.md
+  - Análise de Requisitos:
+    - Perfil do Usuário: analise_requisitos/perfilUsuario.md
   - Apresentações:
     - Primeira etapa: apresentacoes/1a_apresentacao.md
 markdown_extensions:
