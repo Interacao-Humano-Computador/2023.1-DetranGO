@@ -54,7 +54,7 @@ Como detalhado por Courage e Baxter (2005), deve*se criar ao menos uma persona p
 ![Foto de rosto de Francisco Oliveira Santos](../assets/personas/Francisco.jpeg)
 
 <div style="text-align: center">
-<p> Figura 1: Foto de rosto de Francisco Oliveira Santos(Fonte: This Person Does Not Exist, 2023).</p>
+<p> Figura 2: Foto de rosto de Francisco Oliveira Santos(Fonte: This Person Does Not Exist, 2023).</p>
 </div>
 
 * **Identidade**
@@ -102,7 +102,7 @@ Como detalhado por Courage e Baxter (2005), deve*se criar ao menos uma persona p
 ![Foto de rosto de Fernanda Araújo Carvalho](../assets/personas/Fernanda.jpeg)
 
 <div style="text-align: center">
-<p> Figura 2: Foto de rosto de Fernanda Araújo Carvalho (Fonte: This Person Does Not Exist, 2023).</p>
+<p> Figura 4: Foto de rosto de Fernanda Araújo Carvalho (Fonte: This Person Does Not Exist, 2023).</p>
 </div>
 
 * **Identidade**
@@ -127,7 +127,7 @@ Como detalhado por Courage e Baxter (2005), deve*se criar ao menos uma persona p
 ![Foto de rosto de Ana Carolina Costa Hanamura](../assets/personas/Ana.jpeg)
 
 <div style="text-align: center">
-<p> Figura 1: Foto de rosto de Ana Carolina Costa Hanamura(Fonte: This Person Does Not Exist, 2023).</p>
+<p> Figura 5: Foto de rosto de Ana Carolina Costa Hanamura(Fonte: This Person Does Not Exist, 2023).</p>
 </div>
 
 * **Identidade**
