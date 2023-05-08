@@ -14,7 +14,7 @@ Sítios na Web".
 
 **Figura 1: Página principal do sítio do SSALTO (Fonte: [SSALTO](http://ssalto.rj.gov.br/))**
 
-<center>
+</center>
 
 ## Objetivos
 
@@ -48,7 +48,17 @@ A avaliação a ser executada usará do modelo descrito no artigo “Avaliação
 
 **Figura 2: Página de autenticação do Portal de atendimento ao cidadão - autoatendimento da SSALTO (Fonte: [SSALTO](http://177.155.185.238:7778/cidadao/servlet/br.com.cetil.ar.jvlle.hatendimento))**
 
-<center>
+</center>
+
+### Correspondência do sistema com o mundo real 
+
+*2*. Correspondência do sistema com o mundo real
+O site possui uma boa relação entre o sistema e o mundo real, trata de assuntos de forma geral com abrangência com alguns termos fora do entendimento geral, mas não foge de seu objetivo de entregar tais informações.Portanto, podemos afirmar que o site condiz com o mundo real. 
+
+### Controle do usuário e liberdade
+
+*3* Controle do usuário e liberdade
+O site possui várias abas de redirecionamento para outras páginas de solicitações de serviços por exemplo, Porém foi percebido que algumas problemáticas relacionadas ao controle de usuário e sua liberdade no uso do sistema.
 
 ### Correspondência do sistema com o mundo real 
 
@@ -84,7 +94,7 @@ O site possui muito elementos visuais inicialmente, sendo também bem identifica
 **Figura 3: Página de autenticação do Portal de ContraCheque Online - autoatendimento da SSALTO (Fonte: 
 [SSALTO](http://177.155.185.238:7777/portalservidor#/))**
 
-<center>
+</center>
 
 | **6. Flexibilidade e eficiência de uso**                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -103,7 +113,7 @@ segundaViaIptu.jpeg)
 **Figura 3: Página de autenticação do Portal de Segunda Via IPTU - autoatendimento da SSALTO (Fonte:
 [SSALTO](https://www.seuiptu.com.br/))**
 
-<center>
+</center>
 
 | **6. Flexibilidade e eficiência de uso**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -137,13 +147,11 @@ O sítio possui uma estética poluída e sobrecarregada de informações contras
 Concluímos que ao analisar o sítio, os problemas não são impecílios para a realização de tarefas dentro do mesmo. No entanto, algumas distrações foram encontradas nesta avaliação que acabam criando obstáculos para a finalização das tarefas no sítio, como desfalques cosméticos; como a irregularidade de elementos na tela inicial, determinando uma página sobrecarregada. A falta de atributos que guiem o usuário em determinadas páginas, faz que o sítio se torne pouco intuitivo e com baixa memorização. Estas falhas, no geral, afetam o usuário diretamente pela insatisfação em achar as ferramentas do sítio causando ruídos dentro de determinadas ações na página.
 
 ## Referências bibliográficas
-   > [1] MACIEL, C. et al. Avaliação Heurística de Sítios na Web. [s.d.].
+> [1] MACIEL, C. et al. Avaliação Heurística de Sítios na Web. [s.d.].
 
-   > [2] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. 
-(2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
-   > [3]  W3C. CARTILHA DE ACESSIBILIDADE NA WEB: Cartilha de Acessibilidade na Web. Brasil: Creative Commons, 
-2009. Disponível em: https://www.w3c.br/pub/Materiais/PublicacoesW3C/
-cartilha-w3cbr-acessibilidade-web-fasciculo-I.html. Acesso em: 09 abr. 2023.
+> [2] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
+
+> [3]  W3C. CARTILHA DE ACESSIBILIDADE NA WEB: Cartilha de Acessibilidade na Web. Brasil: Creative Commons, 2009. Disponível em: <https://www.w3c.br/pub/Materiais/PublicacoesW3C/cartilha-w3cbr-acessibilidade-web-fasciculo-I.html>. Acesso em: 09 abr. 2023.
 
 ## Histórico de versão
 
