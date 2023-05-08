@@ -56,3 +56,4 @@ Tabela 2: Cronograma executado da etapa 2 (Fonte: Do autor, 2023).
 |  Versão  |   Data   |                      Descrição          |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------- | -------------- | ------------- |
 |  `1.0`   | 20/04/23 | Primeira versão do cronograma executado da etapa 1 | Felipe M. | João M.  |
+|  `1.1`   | 08/05/23 | Adição do cronograma executado da etapa 2 e mudanças na etapa 1| Felipe M. | Carlos E.  |
