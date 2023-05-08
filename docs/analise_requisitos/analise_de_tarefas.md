@@ -23,13 +23,12 @@ Essa análise foi desenvolvida para compreender as competências e habilidades e
 
 ## 3. Diagrama das Tarefas
 
-A análise foi realizada com o uso do site do DETRAN GO. As atividades para análise foram divididas em 3 seções principais:
+A análise foi realizada com o uso do site do DETRAN GO, sendo que parte das funcionalidades precisam de login para serem acessadas, outras podem ser utilizadas sem realizar essa autenticação. As atividades para análise foram divididas em 2 seções principais:
 
-* Realização do Login
 * Atividades de acesso na plataforma logada
 * Atividades fora do escopo de acesso da plataforma logada
 
-O diagrama completo pode ser observado na figura 2 e as seções nas figuras 3, 4 e 5.
+O diagrama completo pode ser observado na figura 2 e as seções nas figuras 3 e 4.
 
 <center>
 
@@ -39,37 +38,27 @@ O diagrama completo pode ser observado na figura 2 e as seções nas figuras 3, 
 
 </center>
 
-### 3.1 Realização do Login
-
-<center>
-
-![Realização do Login](../assets/Analise_de_tarefas/realizar-login.png)
-
-**Figura 3: Diagrama para tarefa de Realização do Login (Fonte: Autores).**
-
-</center>
-
-### 3.2 Atividades de acesso na plataforma logada
+### 3.1 Atividades de acesso na plataforma logada
 
 <center>
 
 ![Atividades de acesso na plataforma logada](../assets/Analise_de_tarefas/atividades-logado-na-plataforma.png)
 
-**Figura 4: Diagrama para Atividades de acesso na plataforma logada (Fonte: Autores).**
+**Figura 3: Diagrama para Atividades de acesso na plataforma logada (Fonte: Autores).**
 
 </center>
 
-### 3.3 Atividades fora do escopo de acesso da plataforma logada
+### 3.2 Atividades fora do escopo de acesso da plataforma logada
 
 <center>
 
 ![Atividades fora do escopo de acesso da plataforma logada](../assets/Analise_de_tarefas/atividades-nao-logado.png)
 
-**Figura 5: Diagrama para Atividades fora do escopo de acesso da plataforma logada (Fonte: Autores).**
+**Figura 4: Diagrama para Atividades fora do escopo de acesso da plataforma logada (Fonte: Autores).**
 
 </center>
 
-### 3.4 Atividades dos funcionários do Detran
+### 3.3 Atividades dos funcionários do Detran
 
 Os funcionários do Detran são pessoas importantes para o funcionamento do Detran, pois as informações que o público têm acesso na plataforma precisam ser inseridas de alguma maneira, no caso do Detran, os funcionários possuem uma plataforma exclusiva e não vinculada diretamente ao sítio que estamos analisando, porém ambas plataformas utilizamo o mesmo banco de dados, é importante mencionar quais são as tarefas que estes fazem para manipular os dados, mas como a plataforma que utilizam não faz parte do escopo de análise desta equipe, nos limitaremos a apenas a análise de tarefas que pode ser observado na figura 6.
 
@@ -77,7 +66,7 @@ Os funcionários do Detran são pessoas importantes para o funcionamento do Detr
 
 ![Atividades fora do escopo de acesso da plataforma logada](../assets/Analise_de_tarefas/analise-tarefas-funcionario.png)
 
-**Figura 6: Diagrama para Atividades dos funcionários do Detran (Fonte: Autores).**
+**Figura 5: Diagrama para Atividades dos funcionários do Detran (Fonte: Autores).**
 
 </center>
 
