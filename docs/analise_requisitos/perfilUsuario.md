@@ -89,6 +89,7 @@ Respostas coletadas como mostra o [formulário](https://docs.google.com/forms/d/
 | Moovit,google maps                                |
 | Google maps e Moveit                              |
 
+Tabela 1: Respostas pergunta 3 (Fonte: autor,2023).
 
 ### Questão 4
 
@@ -192,6 +193,7 @@ Respostas coletadas como mostra o [formulário](https://docs.google.com/forms/d/
 | nao                                          |
 | Não                                |
 | No momento não.                              |
+Tabela 2: Respostas pergunta 11 (Fonte: autor,2023).
 
 ## Bibliografia
 
