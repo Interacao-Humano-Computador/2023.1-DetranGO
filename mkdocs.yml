@@ -4,33 +4,33 @@ repo_name: "2023.1-DetranGO"
 repo_url: "https://github.com/Interacao-Humano-Computador/2023.1-DetranGO"
 
 theme:
-    name: material
-    logo: assets/DETRAN/detran-icon.svg
-    favicon: assets/DETRAN/detran-icon.svg
-    icon:
-        repo: fontawesome/brands/github
-    language: pt-BR
-    palette:
-        - scheme: default
-          primary: deep orange
-          accent: orange
-          toggle:
-              icon: material/weather-night
-              name: Switch to dark mode
+  name: material
+  logo: assets/DETRAN/detran-icon.svg
+  favicon: assets/DETRAN/detran-icon.svg
+  icon:
+    repo: fontawesome/brands/github
+  language: pt-BR
+  palette:
+    - scheme: default
+      primary: deep orange
+      accent: orange
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
 
-        - scheme: slate
-          primary: deep orange
-          accent: orange
-          toggle:
-              icon: material/weather-sunny
-              name: Switch to light mode
+    - scheme: slate
+      primary: deep orange
+      accent: orange
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
 
-    features:
-        - navigation.instant
-        - navigation.section
-        - navigation.path
-        - navigation.top
-        - tabs
+  features:
+    - navigation.instant
+    - navigation.section
+    - navigation.path
+    - navigation.top
+    - tabs
 
 nav:
     - Home: index.md
@@ -57,16 +57,18 @@ nav:
     - Análise de Requisitos:
           - Aspectos Éticos: analise_requisitos/aspectos_eticos.md
           - Perfil do Usuário: analise_requisitos/perfilUsuario.md
+          - Personas: analise_requisitos/personas.md
           - Cenários: analise_requisitos/cenarios.md
     - Apresentações:
           - Primeira etapa: apresentacoes/1a_apresentacao.md
+
 markdown_extensions:
-    - tables
-    - attr_list
-    - md_in_html
-    - def_list
-    - pymdownx.tasklist:
-          custom_checkbox: true
-    - pymdownx.emoji:
-          emoji_index: !!python/name:materialx.emoji.twemoji
-          emoji_generator: !!python/name:materialx.emoji.to_svg
+  - tables
+  - attr_list
+  - md_in_html
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
