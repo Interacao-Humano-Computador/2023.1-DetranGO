@@ -12,7 +12,7 @@ Para o escopo do site escolhido pelo grupo, as tarefas foram avaliadas por meio 
 
 ## 2. Análise Hierárquica de Tarefas (HTA)
 
-Essa análise foi desenvolvida para compreender as competências e habilidades exibidas em tarefas complexas e não repetitivas, bem como para auxiliar na identificação de problemas de desempenho, seus elementos podem ser observados na figura 1.
+Essa análise foi desenvolvida para compreender as competências e habilidades exibidas em tarefas complexas e não repetitivas, bem como para auxiliar na identificação de problemas de desempenho, seus elementos podem ser observados na figura 1. [1]
 
 <center>
 
@@ -23,7 +23,7 @@ Essa análise foi desenvolvida para compreender as competências e habilidades e
 
 ## 3. Diagrama das Tarefas
 
-A análise foi realizada com o uso do site do DETRAN GO, sendo que parte das funcionalidades precisam de login para serem acessadas, outras podem ser utilizadas sem realizar essa autenticação. As atividades para análise foram divididas em 2 seções principais:
+A análise foi realizada com o uso do site do DETRAN GO [2], sendo que parte das funcionalidades precisam de login para serem acessadas, outras podem ser utilizadas sem realizar essa autenticação. As atividades para análise foram divididas em 2 seções principais:
 
 * Atividades de acesso na plataforma logada
 * Atividades fora do escopo de acesso da plataforma logada
@@ -40,41 +40,168 @@ O diagrama completo pode ser observado na figura 2 e as seções nas figuras 3 e
 
 ### 3.1 Atividades de acesso na plataforma logada
 
-<center>
+Na plataforma logada, as principais tarefas que o usuário pode realizar dependem de cada sessão em questão, sendo possível ter uma visão geral delas por meio do diagrama apresentado na figura 3. Assim, dividimos as tarefas em 3 sessões, cada uma com objetivos específicos do usuário. Assim, temos 3 sessões a serem analisadas: 
+
+* Seção de CNH
+* Seção de veículo 
+* Seção de infrações.
+
+<center> 
 
 ![Atividades de acesso na plataforma logada](../assets/Analise_de_tarefas/atividades-logado-na-plataforma.png)
 
-**Figura 3: Diagrama para Atividades de acesso na plataforma logada (Fonte: Autores).**
+</center>
+
+**Figura 3: Diagrama para Atividades de acesso na plataforma logada (Fonte: Autores, 2023).**
+
+### 3.1.1 Tarefas da seção de CNH
+
+As tarefas possíveis nesta seção estão relacionadas com os objetivos que são apresentados na tabela e na figura 4 a seguir.
+
+### Representação em Tabela dos objetivos da seção de CNH
+
+| Objetivos/Operações | Descrição |
+|---------------------|---------------------------|
+| 1.2.1.1 Solicitar CNH | pode ser feita com a solicitação da primeira ou segunda via, além de ser possível solicitar a CNH definitiva |
+| 1.2.1.2 Renovar CNH | Pedido de renovação do CNH |
+| 1.2.1.3 Solicitar da PID | Pedido de solicitação da PID |
+| 1.2.1.4 Mudança de categoria |  Mudar categoria da CNH |
+| 1.2.1.5 Mudança de endereço | Mudar endereço do usuário |
+
+<center>
+
+![Seção de CNH](../assets/Analise_de_tarefas/secao_cnh.png)
 
 </center>
 
+
+**Figura 4: Diagrama para atividades na seção de CNH (Fonte: Autores, 2023).**
+
+### 3.1.2 Tarefas da seção de veículo
+
+As tarefas possíveis nesta seção estão relacionadas com os objetivos que são apresentados na tabela e na figura 5 a seguir.
+
+### Representação em Tabela dos objetivos da seção de veículo
+
+| Objetivos/Operações | Descrição |
+|---------------------|---------------------------|
+| 1.2.2.1 Emissão do CRLV-e| Emitir CRLV-e |
+| 1.2.2.2 Transferência de veículo | Pedido para transferência do veículo |
+| 1.2.2.3 Agendar vistoria de veículo | agendamento para a vistoria |
+
+<center>
+
+![Seção de veículo](../assets/Analise_de_tarefas/secao_veiculo.png)
+
+</center>
+
+**Figura 5: Diagrama para atividades na seção de veículo (Fonte: Autores, 2023).**
+
+### 3.1.3 Tarefas da seção de infrações
+
+As tarefas possíveis nesta seção estão relacionadas com os objetivos que são apresentados na tabela e na figura 6 a seguir.
+
+### Representação em Tabela dos objetivos da seção de infrações
+
+| Objetivos/Operações | Descrição |
+|---------------------|---------------------------|
+| 1.2.3.1 Transformar infração em advertência| Transformação da infração em advertência |
+| 1.2.3.2 Identificar condutor infrator | Identificação do condutor infrator |
+| 1.2.3.3 Consultar infrações | Verificar quais infrações foram feitas |
+
+<center>
+
+![Seção de infrações](../assets/Analise_de_tarefas/secao_infracoes.png)
+
+</center>
+
+**Figura 6: Diagrama para atividades na seção de infrações (Fonte: Autores, 2023).**
+
+
 ### 3.2 Atividades fora do escopo de acesso da plataforma logada
+
+As atividades fora do escopo estão descritas a seguir na figura 7, onde o usuário possui 5 ações possíveis:
+
+* Consultar veículo
+* Consultar CNH
+* Agendar atendimento
+* Consultar processos
+* Consultar estatísticas
 
 <center>
 
 ![Atividades fora do escopo de acesso da plataforma logada](../assets/Analise_de_tarefas/atividades-nao-logado.png)
 
-**Figura 4: Diagrama para Atividades fora do escopo de acesso da plataforma logada (Fonte: Autores).**
+**Figura 7: Diagrama para Atividades fora do escopo de acesso da plataforma logada (Fonte: Autores).**
 
 </center>
 
+### 3.2.1 Tarefa para consultar veículo
+
+Essas tarefas dependem do usuário informar a placa do veículo em questão assim como o renavam que o mesmo apresenta. Está representado essa tarefa a seguir na figura 8.
+
+<center>
+
+![Consultar veículo](../assets/Analise_de_tarefas/consultar_veiculo.png)
+
+</center>
+
+**Figura 8: Diagrama para tarefa de consultar veículo (Fonte: Autores, 2023).**
+
+### 3.2.2 Tarefa para consultar CNH
+
+Essas tarefa depende apenas do usuário informar o número de registro do documento como pode ser visto na figura 9.
+
+<center>
+
+![Consultar CNH](../assets/Analise_de_tarefas/consultar_cnh.png)
+
+</center>
+
+**Figura 9: Diagrama para consultar CNH (Fonte: Autores, 2023).**
+
+### 3.2.3 Tarefa para agendar atendimento
+
+Para realizar essa tarefa é preciso realizar ações sequenciais, descritas na figura 10. Vão desde informar o CPF até a ação de confirmar os dados para a geração de comprovante.
+
+<center>
+
+![Agendar atendimento](../assets/Analise_de_tarefas/agendar_atendimento.png)
+
+</center>
+
+**Figura 10: Diagrama para agendar atendimento (Fonte: Autores, 2023).**
+
+### 3.2.4 Tarefas para consulta de processos e estatísticas
+
+São duas atividades, na qual a consulta de processos depende do usuário informar o número de processo e a consulta de estatísticas não depende de nenhuma outra ação para ser realizada. Isso pode ser visto no diagrama da figura 11 a seguir.
+
+<center>
+
+![Consultr estatísticas e processos](../assets/Analise_de_tarefas/consultar_estatistica_processo.png)
+
+</center>
+
+**Figura 11: Diagrama para consultar estatísticas e processos (Fonte: Autores, 2023).**
+
+
 ### 3.3 Atividades dos funcionários do Detran
 
-Os funcionários do Detran são pessoas importantes para o funcionamento do Detran, pois as informações que o público têm acesso na plataforma precisam ser inseridas de alguma maneira, no caso do Detran, os funcionários possuem uma plataforma exclusiva e não vinculada diretamente ao sítio que estamos analisando, porém ambas plataformas utilizamo o mesmo banco de dados, é importante mencionar quais são as tarefas que estes fazem para manipular os dados, mas como a plataforma que utilizam não faz parte do escopo de análise desta equipe, nos limitaremos a apenas a análise de tarefas que pode ser observado na figura 6.
+Os funcionários do Detran são pessoas importantes para o funcionamento do Detran, pois as informações que o público têm acesso na plataforma precisam ser inseridas de alguma maneira, no caso do Detran, os funcionários possuem uma plataforma exclusiva e não vinculada diretamente ao sítio que estamos analisando, porém ambas plataformas utilizamo o mesmo banco de dados, é importante mencionar quais são as tarefas que estes fazem para manipular os dados, mas como a plataforma que utilizam não faz parte do escopo de análise desta equipe, nos limitaremos a apenas a análise de tarefas que pode ser observada na figura 12.
 
 <center>
 
 ![Atividades fora do escopo de acesso da plataforma logada](../assets/Analise_de_tarefas/analise-tarefas-funcionario.png)
 
-**Figura 5: Diagrama para Atividades dos funcionários do Detran (Fonte: Autores).**
+**Figura 12: Diagrama para Atividades dos funcionários do Detran (Fonte: Autores).**
 
 </center>
 
 ## Bibliografia
 
-> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
+> [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
-> Sítio DetranGO: https://www.detran.go.gov.br/psw/#/pages/pagina-inicial, Acesso em 5 de Maio de 2023
+> [2] Sítio DetranGO: https://www.detran.go.gov.br/psw/#/pages/pagina-inicial, Acesso em 5 de Maio de 2023
 
 ## Histórico de Versão
 
@@ -83,3 +210,4 @@ Os funcionários do Detran são pessoas importantes para o funcionamento do Detr
 | `1.0`  | 29/04/2023 | Criação do documento.              | Pedro Henrique |  João Morbeck |
 | `1.1`  | 05/05/2023 | Adição inicial do Diagrama da HTA  | Pedro Henrique e João Morbeck |  Carlos Eduardo |
 | `1.2`  | 05/05/2023 | Adição das imagens e atividades dos funcionários  | Pedro Henrique e João Morbeck |  Carlos Eduardo |
+| `1.3`  | 08/05/2023 | Descrição das atividades e correção de erros  | Pedro Henrique e João Morbeck |  Carlos Eduardo |

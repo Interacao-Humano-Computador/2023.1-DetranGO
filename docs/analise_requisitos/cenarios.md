@@ -16,7 +16,7 @@ Cada cenário será detalhado tal qual modelo descrito por Milene Serrano [2]. P
 - **Recursos**: O que está disponível aos atores.
 - **Episódios**: O que efetivamente acontece neste cenário.
 
-É importante observar que podem ser definidas restriçõs nos episódios, isto é, cada episódio pode ter uma série de condições a obedecer [2].
+É importante observar que podem ser definidas restrições nos episódios, isto é, cada episódio pode ter uma série de condições a obedecer [2].
 
 Também é importante denotar que não serão todas as funcionalidades do site que poderão ser abordadas neste artefato. Para tanto, foram selecionadas algumas funcionalidades mais importantes do site Detran GO.
 
