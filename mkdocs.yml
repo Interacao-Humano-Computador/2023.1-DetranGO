@@ -55,6 +55,7 @@ nav:
           - Sítio Escolhido: planejamento/site_escolhido.md
           - Processo de design: planejamento/design.md
     - Análise de Requisitos:
+          - Análise de tarefas: analise_requisitos/analise_de_tarefas.md
           - Aspectos Éticos: analise_requisitos/aspectos_eticos.md
           - Perfil do Usuário: analise_requisitos/perfilUsuario.md
           - Personas: analise_requisitos/personas.md
