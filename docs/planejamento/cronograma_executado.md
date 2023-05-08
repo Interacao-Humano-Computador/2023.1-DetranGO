@@ -17,12 +17,12 @@ A tabela 1 descreve o cronograma executado da etapa 1 do projeto. A etapa se pas
 | **Atividade** | **Data de entrega** | **Data de revisão** | **Artefato elaborado** | **Autor(es)** | **Revisor(es)** |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | Avaliar lista de sites | 13/04/2023 | 13/04/2023 |[Sítios avaliados](./../planejamento/sites_avaliados/sites_avaliados.md)| Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. |
-| Criar GitHub Pages | 07/04/2023 | 07/04/2023 |[Página do projeto](./../index.md) Carlos E. | Pedro H. |
+| Criar GitHub Pages | 07/04/2023 | 07/04/2023 |[Página do projeto](./../index.md)| Carlos E. | Pedro H. |
 | Definir cronograma | 17/04/2023 | 20/04/2023 |[Cronograma](./cronograma.md)| Amanda N., Felipe M., Pedro F., João M. | Amanda N., Felipe M., Pedro F., João M. |
 | Definir site escolhido | 13/04/2023 | 13/04/2023 |[Sítio escolhido](./../planejamento/site_escolhido.md)| Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. |
 | Definir metodogia | 13/04/2023 | 13/04/2023 |[Metodologia](./../planejamento/metodologia.md)| Carlos E. | João M. |
 | Definir Ferramentas | 17/04/2023 | 18/04/2023 |[Ferramentas](./../planejamento/ferramentas.md)| Pedro H. | Carlos E. |
-| Definir Processo de design | 17/04/2023 |[Processo de design](./../planejamento/design.md)| 18/04/2023 | Pedro F. | Felipe M. |
+| Definir Processo de design | 17/04/2023 | 18/04/2023 |[Processo de design](./../planejamento/design.md)| Pedro F. | Felipe M. |
 | Gravar a apresentação | 21/04/2023 | 21/04/2023 |[Apresentação da primeira etapa](./../apresentacoes/1a_apresentacao.md)| Felipe M. | Amanda N. |
 | Editar a apresentação | 22/04/2023 | 23/04/2023 |[Apresentação da primeira etapa](./../apresentacoes/1a_apresentacao.md)| João M. | Pedro  H. |
 | Revisão da primeira etapa | 24/04/2023 | 24/04/2023 | | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. |

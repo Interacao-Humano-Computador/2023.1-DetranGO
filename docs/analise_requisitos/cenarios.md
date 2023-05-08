@@ -3,13 +3,13 @@
 ## Introdução
 
 Cenários são, essencialmente, histórias sobre pessoas realizando uma atividade. São narrativas que detalham uma situação de uso de uma aplicação e que, por sua natureza, envolvem dados reais ou potenciais, usuários e processos [1].
-Os cenários também descrevem os atores que dele participam. Assim, seus **objetivo**s dirigem a tarefa que ele realiza no sistema. Cada cenário possui um ator principal e um **objetivo** principal que pode ser desdobrado em subobjetivos [1].
+Os cenários também descrevem os atores que dele participam. Assim, seus objetivos dirigem a tarefa que ele realiza no sistema. Cada cenário possui um ator principal e um **objetivo** principal que pode ser desdobrado em subobjetivos [1].
 
 ## Metodologia
 
 Cada cenário será detalhado tal qual modelo descrito por Milene Serrano [2]. Portanto, cada cenário deverá conter:
 
-- **Título**: O **título** do cenário.
+- **Título**: O título do cenário.
 - **Objetivo**: O que o cenário objetiva descrever.
 - **Contexto**: Onde o cenário está situado em relação a outras partes do software, atores e recursos.
 - **Atores**: Os participantes do cenário que interagem com o sistema.
@@ -89,11 +89,11 @@ Abaixo estão descritos todos os cenários identificados para o projeto.
     * O condutor habilitado insere a placa do carro;
     * O condutor habilitado obtém um resultado negativo ou uma lista de infrações.
 
+
 ### Cenário 04
 
 * **Título**: Consulta de CFCs para CNH Social
 * **Objetivo**: Conseguir consultar quais CFCs são credenciados ao programa de CNH Social.
-* **Contexto**: 
     * **Local**: Em casa;
     * **Tempo**: Após o fim do expediente;
     * **Pré-condições**: Disponibilidade de internet, disponibilidade de computador ou celular.
@@ -108,23 +108,6 @@ Abaixo estão descritos todos os cenários identificados para o projeto.
     * O condutor habilitado obtém uma lista com todos os CFCs credenciados, seus municípios e seus telefones.
 
 ### Cenário 05
-
-* **Título**: Consulta de CFCs para CNH Social
-* **Objetivo**: Conseguir consultar quais CFCs são credenciados ao programa de CNH Social.
-    * **Local**: Em casa;
-    * **Tempo**: Após o fim do expediente;
-    * **Pré-condições**: Disponibilidade de internet, disponibilidade de computador ou celular.
-* **Ator**: Condutor habilitado.
-* **Recursos**:
-    * Internet;
-    * Computador ou celular.
-* **Episódios**:
-    * O condutor habilitado entra no site do Detran GO;
-    * O condutor habilitado clica na aba "CNH Social";
-    * O condutor habilitado seleciona o item "CFCs Credenciados ao programa CNH SOCIAL";
-    * O condutor habilitado obtém uma lista com todos os CFCs credenciados, seus municípios e seus telefones.
-
-### Cenário 06
 
 * **Título**: Agendamento de atendimento no Detran GO
 * **Objetivo**: Conseguir agendar um atendimento em uma unidade de atendimento que possua o serviço seleconado
@@ -148,7 +131,7 @@ Abaixo estão descritos todos os cenários identificados para o projeto.
     * O condutor habilitado confirma as informações sobre o agendamento;
     * O condutor habilitado obté um comprovante do agendamento.
 
-### Cenário 07
+### Cenário 06
 
 * **Título**: Verificação de atendimento
 * **Objetivo**: Conseguir verificar os dados pessoais de um solicitante e o atendimento solicitado
@@ -163,7 +146,7 @@ Abaixo estão descritos todos os cenários identificados para o projeto.
     * O atendente entra no sistema do Ciretran;
     * O atenednte consulta os dados fornecidos pelo Detran GO.
 
-### Cenário 08
+### Cenário 07
 
 * **Título**: Consulta ao calendário de licenciamento
 * **Objetivo**: Conseguir consultar o calendário de licenciaento de veículos.
@@ -181,7 +164,7 @@ Abaixo estão descritos todos os cenários identificados para o projeto.
     * O dono de veículo obtém um calendário com datas apra cada final da placa e cada parcela.
 
 
-### Cenário 09
+### Cenário 08
 
 * **Título**: Inscrição em curso de reciclagem
 * **Objetivo**: Conseguir inscrever-se em curso de reciclagem em caso de suspensão da CNH.
@@ -201,7 +184,7 @@ Abaixo estão descritos todos os cenários identificados para o projeto.
     * O condutor seleciona a modalidade e o CFC;
     * O condutor imprime o boleto ou paga-o com um aplicativo.
 
-### Cenário 10
+### Cenário 09
 
 * **Título**: Agendamento de vistoria veicular
 * **Objetivo**: Conseguir agendar uma vistoria veicular para auxiliar compra ou venda de automóveis.

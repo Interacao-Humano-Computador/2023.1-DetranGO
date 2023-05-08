@@ -152,47 +152,47 @@ Tabela 1: Respostas pergunta 3 (Fonte: autor,2023).
 
 
 ### Questão 11
-Respostas coletadas como mostra o [formulário](https://docs.google.com/forms/d/e/1FAIpQLSfy3ZQlIrlzoUkwZYM3xvTtEihPXdh84Fqrb85O0pCb8KKpVQ/viewform) sem nenhuma formatação, respostas coletadas pela pesquisa relatas acima.
+As respostas coletadas como mostra o [formulário](https://docs.google.com/forms/d/e/1FAIpQLSfy3ZQlIrlzoUkwZYM3xvTtEihPXdh84Fqrb85O0pCb8KKpVQ/viewform) sem nenhuma formatação, respostas coletadas pela pesquisa relatas acima.
 
-| Você tem algum feedback sobre como o site Detran pode dar uma experiêncoa melhor para o uauário?|
-|:---------------------------------------------------:|
-| Melhor serviço ao consumidor                      |
-| Melhorar na organização de tarefas do site, normalmente algo que está relacionado com o mesmo assunto estão em uma aba que não faz muito sentidp, o site deixa a desejar um pouco em relação ao aplicativo móvel.Poderia ter uma aba para recém habilitados, acho que as primeiras impressões seriam legais.|
-| Ah, poderia ter uma aba só para recém habilitados.|
-| Não                                               |
-| Nop                                               |
-| Poderia trazer as informações com mais facilidade! Ao invés de ficar entrando em outros sites!|
-| As vezes tem que perguntar pra alguém que tem costuma de usar onde se encontra determinado assunto|
-| Simplificar, deixar mais minimalistas             |
-| Ter acesso às informações cobre veículo sem ter que acessar outro site.|
+| Você tem algum feedback sobre como o site Detran pode dar uma experiêncoa melhor para o uauário? |
+|:-:|
+| Melhor serviço ao consumidor |
+| Melhorar na organização de tarefas do site, normalmente algo que está relacionado com o mesmo assunto estão em uma aba que não faz muito sentidp, o site deixa a desejar um pouco em relação ao aplicativo móvel.Poderia ter uma aba para recém habilitados, acho que as primeiras impressões seriam legais. |
+| Ah, poderia ter uma aba só para recém habilitados. |
+| Não |
+| Nop |
+| Poderia trazer as informações com mais facilidade! Ao invés de ficar entrando em outros sites! |
+| As vezes tem que perguntar pra alguém que tem costuma de usar onde se encontra determinado assunto |
+| Simplificar, deixar mais minimalistas |
+| Ter acesso às informações cobre veículo sem ter que acessar outro site. |
 | Pela importância do órgão o dites deixa a desejar |
-| Sim                                               |
-| nunca entrei                                      |
-| Melhorar o desempenho do site e melhorar as informações nele para resolver problemas, site confuso e sem clareza e dificulda na hora de usar.|
-| Não sei bem,pois usei já tem muito tempo.         |
-| O site é interessante e fácil de encontrar o que precisa.|
-| Uma interface mais intuitiva                      |
-| ..                                                |
-| não                                      |
-| Não, já é mt bom        |
-| n                              |
-| Ao meu ver, o site já está bem completo, dando opções tento para consultas de multas, quanto para solicitações de emissão de documento, sem precisar de burocracia sem sair de casa.|
-| A parte do detran digital possui apenas uma versão mobile que só pode ser acessada via aplicativo, seria legal o site ter isso também.|
-| Melhoria na interface principalmente para mobile|
-| em algum momento tive dificuldade quando pede Renavam em um serviço simples.|
-| Talves uma interface que mostrasse as abas mais acessadas pelos usuários, facilitando encontrar páginas importantes.|
-| Site ruim, pouco responsivo é nada intuitivo. Muito pesado e com vários bugs em diferentes navegadores.|
-| ser mais intuitivo                                |
-| Facilitar o uso da interface e colocar mais inclusão digital.|
-| .                              |
-| Não utilizo para além da carteira digital.|
-| Uma guia com acesso rápido a serviços mais recorrentes sempre ajuda(consulta de multas, pontos da carteira,IPVA etc...)|
-| Eu não uso ele o suficiente pra ter certeza do que ele necessita melhorar.|
-| Nao                             |
-| Quando acessei foi tranquilo              |
-| nao                                          |
-| Não                                |
-| No momento não.                              |
+| Sim |
+| nunca entrei |
+| Melhorar o desempenho do site e melhorar as informações nele para resolver problemas, site confuso e sem clareza e dificulda na hora de usar. |
+| Não sei bem,pois usei já tem muito tempo. |
+| O site é interessante e fácil de encontrar o que precisa. |
+| Uma interface mais intuitiva |
+| .. |
+| não |
+| Não, já é mt bom |
+| n |
+| Ao meu ver, o site já está bem completo, dando opções tento para consultas de multas, quanto para solicitações de emissão de documento, sem precisar de burocracia sem sair de casa. |
+| A parte do detran digital possui apenas uma versão mobile que só pode ser acessada via aplicativo, seria legal o site ter isso também. |
+| Melhoria na interface principalmente para mobile |
+| em algum momento tive dificuldade quando pede Renavam em um serviço simples. |
+| Talves uma interface que mostrasse as abas mais acessadas pelos usuários, facilitando encontrar páginas importantes. |
+| Site ruim, pouco responsivo é nada intuitivo. Muito pesado e com vários bugs em diferentes navegadores. |
+| ser mais intuitivo |
+| Facilitar o uso da interface e colocar mais inclusão digital. |
+| . |
+| Não utilizo para além da carteira digital. |
+| Uma guia com acesso rápido a serviços mais recorrentes sempre ajuda(consulta de multas, pontos da carteira,IPVA etc...) |
+| Eu não uso ele o suficiente pra ter certeza do que ele necessita melhorar. |
+| Nao |
+| Quando acessei foi tranquilo |
+| nao |
+| Não |
+| No momento não. |
 Tabela 2: Respostas pergunta 11 (Fonte: autor,2023).
 
 ## Bibliografia
