@@ -41,7 +41,7 @@ A tabela 2 descreve o cronograma executado da etapa 2 do projeto. A etapa se pas
 | Detalhamento de aspectos éticos de pesquisas envolvendo pessoas | 02/05 | 03/05 | [Aspectos Éticos](./../analise_requisitos/aspectos_eticos.md) | Carlos E. | Pedro F. |
 | Detalhamento de personas | 08/05 | 08/05 | [Personas](./../analise_requisitos/personas.md) | Felipe M., João M.| Carlos E. |
 | Cenários | 07/05 | 08/05 | [Cenários](./../analise_requisitos/cenarios.md) | Pedro F. | Felipe M. |
-| Análise de tarefas | 07/05 | 08/05 | [Análise de tarefas](./../analise_requisitos/analise_de_tarefas.md) | Pedro H. | Carlos E. |
+| Análise de tarefas | 07/05 | 08/05 | [Análise de tarefas](./../analise_requisitos/analise_de_tarefas.md) | Pedro H., João M. | Carlos E. |
 | Gravar a apresentação | 08/05 | 08/05 | [Apresentação da segunda etapa]() | Felipe M. | Amanda N. |
 | Editar a apresentação | 08/05 | 08/05 | [Apresentação da segunda etapa]() | João M. | Amanda N. |
 
@@ -57,3 +57,4 @@ Tabela 2: Cronograma executado da etapa 2 (Fonte: Do autor, 2023).
 | -------- | -------- | --------------------------------------- | -------------- | ------------- |
 |  `1.0`   | 20/04/23 | Primeira versão do cronograma executado da etapa 1 | Felipe M. | João M.  |
 |  `1.1`   | 08/05/23 | Adição do cronograma executado da etapa 2 e mudanças na etapa 1| Felipe M. | Carlos E.  |
+|  `1.2`   | 08/05/23 | Mudança na análise de tarefas (etapa 2)| Felipe M. | Carlos E.  |
