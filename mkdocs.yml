@@ -33,37 +33,37 @@ theme:
     - tabs
 
 nav:
-    - Home: index.md
-    - Reuniões:
-          - Reunião 1: reunioes/reuniao1.md
-          - Reunião 2: reunioes/reuniao2.md
-          - Reunião 3: reunioes/reuniao3.md
-    - Planejamento:
-          - Reuniões: planejamento/reunioes.md
-          - Cronograma: planejamento/cronograma.md
-          - Cronograma Executado: planejamento/cronograma_executado.md
-          - Metodologias: planejamento/metodologia.md
-          - Ferramentas: planejamento/ferramentas.md
-          - Sítios Avaliados:
-                - Sítios Avaliados: planejamento/sites_avaliados/sites_avaliados.md
-                - Avaliação NFE: planejamento/sites_avaliados/avaliacao_NFE.md
-                - Avaliação SAAE: planejamento/sites_avaliados/avaliacao_SAAE.md
-                - Avaliação CAESB: planejamento/sites_avaliados/avaliacao_CAESB.md
-                - Avaliação Caixa Econômica Federal: planejamento/sites_avaliados/avaliacao_CAIXA.md
-                - Avaliação SSALTO: planejamento/sites_avaliados/avaliacao_SSALTO.md
-                - Avaliação DETRAN: planejamento/sites_avaliados/avaliacao_DETRANGO.md
-          - Sítio Escolhido: planejamento/site_escolhido.md
-          - Processo de design: planejamento/design.md
-    - Análise de Requisitos:
-          - Análise de tarefas: analise_requisitos/analise_de_tarefas.md
-          - Aspectos Éticos: analise_requisitos/aspectos_eticos.md
-          - Perfil do Usuário: analise_requisitos/perfilUsuario.md
-          - Princípios e diretrizes gerais do projeto: analise_requisitos/principios.md
-          - Personas: analise_requisitos/personas.md
-          - Cenários: analise_requisitos/cenarios.md
-    - Apresentações:
-          - Primeira etapa: apresentacoes/1a_apresentacao.md
-          - Segunda etapa: apresentacoes/2a_apresentacao.md
+  - Home: index.md
+  - Reuniões:
+      - Reunião 1: reunioes/reuniao1.md
+      - Reunião 2: reunioes/reuniao2.md
+      - Reunião 3: reunioes/reuniao3.md
+  - Planejamento:
+      - Reuniões: planejamento/reunioes.md
+      - Cronograma: planejamento/cronograma.md
+      - Cronograma Executado: planejamento/cronograma_executado.md
+      - Metodologias: planejamento/metodologia.md
+      - Ferramentas: planejamento/ferramentas.md
+      - Sítios Avaliados:
+          - Sítios Avaliados: planejamento/sites_avaliados/sites_avaliados.md
+          - Avaliação NFE: planejamento/sites_avaliados/avaliacao_NFE.md
+          - Avaliação SAAE: planejamento/sites_avaliados/avaliacao_SAAE.md
+          - Avaliação CAESB: planejamento/sites_avaliados/avaliacao_CAESB.md
+          - Avaliação Caixa Econômica Federal: planejamento/sites_avaliados/avaliacao_CAIXA.md
+          - Avaliação SSALTO: planejamento/sites_avaliados/avaliacao_SSALTO.md
+          - Avaliação DETRAN: planejamento/sites_avaliados/avaliacao_DETRANGO.md
+      - Sítio Escolhido: planejamento/site_escolhido.md
+      - Processo de design: planejamento/design.md
+  - Análise de Requisitos:
+      - Análise de tarefas: analise_requisitos/analise_de_tarefas.md
+      - Aspectos Éticos: analise_requisitos/aspectos_eticos.md
+      - Perfil do Usuário: analise_requisitos/perfilUsuario.md
+      - Princípios e diretrizes do projeto: analise_requisitos/principios.md
+      - Personas: analise_requisitos/personas.md
+      - Cenários: analise_requisitos/cenarios.md
+  - Apresentações:
+      - Primeira etapa: apresentacoes/1a_apresentacao.md
+      - Segunda etapa: apresentacoes/2a_apresentacao.md
 
 markdown_extensions:
   - tables
