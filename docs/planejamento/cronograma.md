@@ -114,7 +114,7 @@ Tabela 5: Cronograma da etapa 4 (Fonte: Do autor, 2023).
 | Storyboard - Relato de resultados | 22/05/2023 | 23/05/2023 | [Storyboard - Relato de resultados]()| Pedro F. | Amanda N. |
 | Análise de tarefas - Relato de resultados | 22/05/2023 | 23/05/2023 | [Análise de tarefas - Relato de resultados]()| Pedro H. | Felipe M. |
 | Protótipo de papel - Planejamento da avaliação | 23/05/2023 | 24/05/2023 | [Protótipo de papel - Planejamento da avaliação]() | Carlos E. | Pedro F. |
-| Protótipo de papel - Planejamento do relato dos resultados da avaliação | [Protótipo de papel - Planejamento do relato dos resultados da avaliação]()| 23/05/2023 | 24/05/2023 | Amanda N. | Pedro H. |
+| Protótipo de papel - Planejamento do relato dos resultados da avaliação | 23/05/2023 | 24/05/2023 | [Protótipo de papel - Planejamento do relato dos resultados da avaliação]()| Amanda N. | Pedro H. |
 | Gravar a apresentação | 25/05/2023 | 25/05/2023 |[Apresentação da quinta etapa]()| Felipe M. | João M. |
 | Editar a apresentação | 27/05/2023 | 28/05/2023 |[Apresentação da quinta etapa]()| João M. | Carlos E. |
 | Revisão da quinta etapa | 30/05/2023 | 30/05/2023 | | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. |
