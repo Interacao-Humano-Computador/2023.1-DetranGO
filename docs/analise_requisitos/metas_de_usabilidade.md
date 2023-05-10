@@ -6,7 +6,7 @@ As metas de usabilidade envolve definir fatores de qualidade de uso que devem se
 ## 2. Objetivos 
 Esse documento visa identificar e detalhar as características da plataforma onde será consumida e disponibilizada o sistema do Detran-GO. Isto nso possibilita produzir um design personalizado que leva em consideração características específicas de cada plataforma, como por exemplo, tamanho da fonte, cor padrão do background, capacidade de processamento médio, memória disponibilizada, tamanho da tela e etc.
 
-## 3. Características 
+## 3. Metas
   
 
 ## 4. Conclusão
