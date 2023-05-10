@@ -17,10 +17,7 @@ Esse documento visa identificar e detalhar as características da plataforma ond
 Editora Elsevier, Rio de Janeiro, 2010.
 
 ## 6. Histórico de versão
-| Versão | Data     | Descrição                                 | Autor
-(es)      | Revisor(es) |
-| ------ | -------- | ----------------------------------------- | 
--------------- | ----------- |
-| `1.0`  | 10/05/23 | Criação do documento e adição do conteúdo | 
-Amanda Noda | Pedro Henrique |
+| Versão | Data       | Descrição            | Autor(es)   | Revisor(es)    |
+|--------|------------|----------------------|-------------|----------------|
+| '1.0'  | 10/05/2023 | Criação do documento | Amanda Noda | Pedro Henrique |
 
