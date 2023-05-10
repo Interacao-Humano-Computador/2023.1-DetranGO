@@ -32,7 +32,7 @@ A reunião abordou as seguntes pautas:
 
 ## Divisão de tarefas da etapa 3
 
-As tarfas da etapa 3 foram divididas na reunião de acordo com a lista abaixo, que detalha o(os) autor(es) de cada artefato.
+As tarefas da etapa 3 foram divididas na reunião de acordo com a lista abaixo, que detalha o(os) autor(es) de cada artefato.
 
 - Princípios gerais do projeto - Felipe e Pedro Muniz
 - Características da plataforma do projeto - Autores: Amanda Noda e Pedro Henrique
