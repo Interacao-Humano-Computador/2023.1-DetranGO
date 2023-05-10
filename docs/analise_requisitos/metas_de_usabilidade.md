@@ -19,5 +19,5 @@ Editora Elsevier, Rio de Janeiro, 2010.
 ## 6. Histórico de versão
 | Versão | Data       | Descrição            | Autor(es)   | Revisor(es)    |
 |--------|------------|----------------------|-------------|----------------|
-| '1.0'  | 10/05/2023 | Criação do documento | Amanda Noda | Pedro Henrique |
+| '1.0'  | 10/05/2023 | Criação do documento | Amanda Noda | Felipe MastroMauro |
 
