@@ -60,6 +60,7 @@ nav:
           - Perfil do Usuário: analise_requisitos/perfilUsuario.md
           - Personas: analise_requisitos/personas.md
           - Cenários: analise_requisitos/cenarios.md
+          - Característica para Plataforma: analise_requisitos/caracteristicas_para_plataforma.md
     - Apresentações:
           - Primeira etapa: apresentacoes/1a_apresentacao.md
           - Segunda etapa: apresentacoes/2a_apresentacao.md
