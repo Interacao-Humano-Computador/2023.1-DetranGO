@@ -49,7 +49,7 @@ O sistema também deve fornecer uma sáida clara dos caminhos de utilização, a
 
 Além disso, o sistema deve ser capaz de permitir que o usuário inicie e desfaça as ações, evitando que o mesmo apenas reaja aos avisos do sistema, além de reduzir sua ansiedade e aumentar seu aprendizado no uso do sistema. Permitir que o usuário desfaça suas ações também auxilia na quantidade de informação ao evitar a necessidade de diversas janelas de confirmação por exemplo.
 
-Por fim, o sistema também deve permitir que o usuário personalizae sua experiência através de parâmetros configuráveis, o sistema deve porém, ser projetado de forma a ser totalmente utilizável com seus parâmetros padrão.
+Por fim, o sistema também deve permitir que o usuário personalize sua experiência através de parâmetros configuráveis, o sistema deve porém, ser projetado de forma a ser totalmente utilizável com seus parâmetros padrão.
 
 ### Consistência e padronização
 
@@ -69,7 +69,7 @@ Nielsen (1994c) e Shneiderman (1998) recomendam a implementação de atalhos e a
 
 ### Antecipação das necessidades do usuário
 
-Segundo Tognazzini (2014) o sistema deve ser capaz de prever as intenções e desejos do usuário, se prontificando a atendê-los antes que o mesmo solicite. Uma forma de realizar esta antecipação proposta por Cooper (1999) é fornecer informações adicionais úteis ao usuário, evitando buscas repetitivas por exemplo, além disso o sistemadeve ser capaz de se preparar para prováveis situações futuras.
+Segundo Tognazzini (2014) o sistema deve ser capaz de prever as intenções e desejos do usuário, se prontificando a atendê-los antes que o mesmo solicite. Uma forma de realizar esta antecipação proposta por Cooper (1999) é fornecer informações adicionais úteis ao usuário, evitando buscas repetitivas por exemplo, além disso o sistema deve ser capaz de se preparar para prováveis situações futuras.
 
 Tognazzini (2014) também recomenda a atenção na criação de valores padrão bem definidos, além disso estes valores também podem ser pré-preenchidos em formulários, porém sempre permitindo a edição e alteração pelo usuário.
 
@@ -107,6 +107,56 @@ Cooper (1999) recomenda que controles perigosos, ou seja, que realizem ações i
 
 Nielsen (1994c) e Shneiderman(1998) recomendam que o sistema evite que o usuário cometa erros durante sua operação, contudo caso um erro ocorra, o sistema deve ser capaz de fornecer um feedback preciso e inteligível para o usuário, de forma que o mesmo possa reconhecer e se recuperar do erro cometido. Além disso, recomendam que o sistema possua uma documentação eficiente para auxiliar o usuário durante a operação do sistema.
 
+## Aplicação dos princípos no projeto
+
+### Correspondência com as expectativas dos usuários
+
+O site do Detran GO atende às expectativas dos usuários no quesito funcional. As funções possuem comandos simples e que remetem à experiências reais como informar nome e documentação necessária para um atendente. 
+O site também mostra o estado atual do sistema em todas as páginas, indicando ao usuário qual o seu local no software e por quais caminhos pode seguir. No entanto, há uso de jargões que não são imediatamente compreensíveis na seçao de CNH social, com um botão desconexo da interface principal do site que não remete à experiência da vida real de ver e usar botôes diferentes para funções específicas, como mostrado na figura 1.
+
+### Simplicidade nas estruturas das tarefas
+
+As tarefas são estuturadas, em maior parte, obedecendo às 4 regras detalhadas por Norman (1988) e explicitadas na [seção anterior](#simplicidade-nas-estruturas-das-tarefas) sobre este tópico. Contudo, há tarefas que fogem à regra, a exemplo do serviço de agendamento de vistorias, que lista diversos estabelecimentos que realizam este serviço e seus telefones, muitas vezes em cidades que não a solicitada pelo usuário, dificultando e complicando a utilização deste serviço.
+
+### Equilíbrio entre controle e liberdade do usuário
+
+O sistema do site Detran GO permite que o usuário desfaça suas açoes na maior parte dos módulos. No entanto, o princípio de maleabilidade de Cooper (1999) não é respeitado, não sendo assim permitido que se obtenha resultados iguais de forma diferente em uma mesma função, como a de solicitar a primeira via da CNH (a ordem das ações não pode ser mudada de nenhuma maneira neste módulo).
+
+### Consistência e padronização
+
+O site mantém o layout consistente durante todo o uso, sem mudanças radicais, o que permite um aprendizado mais facilitado por parte do usuário. Também deve-se notar que a utilização de funções de consulta de difeentes tipos possuem similaridades notáveis ente si e diferenças notáveis com outros módulos do software como os de solicitação de seviços, por exemplo.
+
+### Promoção da eficiência do usuário
+
+O sistema promove a eficiência do usuário de acordo com Tognazzini (2014), em que o sistema deve deixar o usuário encarregado de outras tarefas sempre que uma é terminada em algum módulo. Ao solicitar a CNH, por exemplo, em nenhum momento (exceto entre seções) o usuário deve esperar por resultados por longos tempos. O sistema também tem a vantagem de não utilizar-se de muitas tarefas dispendiosas que necessitariam de operação em segundo plano, indo de encontro às ideias de Tognazzini (2014).
+
+Também há no sistema diversas falhas de usuário que são avisadas por pop-ups temporários, evitando assim a propagação desses erros e comunicando as razões do ocorrido.
+
+No entanto, há de se considerar que o sistema não é projetado para eficiência de acordo com Nielsen (1994c) e Shneiderman (1998). Os atalhos disponíveis na seção de acessibilidade dsão poucos e não funcionam em todos os navegadores (nos navegadores Brave e Firefox, os atalhos conflitam com atalhos do navegador para mudar de aba rapidamente).
+
+### Antecipação das necessidades do usuário
+
+O sistema antecipa o uso de alguns serviços, como consulta de veículos e de CNH. Esta antecipação está de acordo com as ideias de Tognazzini (2014) e de Cooper (1999)m estando o sistema pronto para atender o usuário e oferecendo informações relevantes para o usuário, prevenindo-se para eventuais usos futuros.
+
+### Visibilidade e reconhecimento
+
+O sistema possui problemas de visibilidade claros na organização de suas funções. O botão de login e a barra de pesquisa estão ocultos pela organização da tela, e há funções que ficam ocultas devido à maneira que estão organizadas.
+
+O status do sistema é mostrado de acordo com as recomendações de Tognazzini (2014) e de Cooper (1999), isto é, sutis mas com o intuito de sinalizar o estado do sistema. No entanto, não é implementado um retorno facilitado a outras partes do sistema via status do sistema.
+
+Como o sistema é dependente de resposta de um servidor, os tempos de execução de certas tarefas podem varias. Com base nisso, pode-se destacar que feedbacks visuais são mostrados para quando um botão é clicado ou quando uma operação está sendo caregada de acordo com o estipulado por Tognazzini (2014).
+
+### Contéudo relevante e expressão adequada
+
+Se consideradas as máximas de Reeves e Nass (1996) baseadas em Grice (1975), é possível dizer que o sistema do Detran GO obedece às máximas de qualidade, relação e modo em seus módulos. No entanto, nota-se que há módulos que apresentam infomação desnecessária para o entendimento ou realização da tarefa que descreve, desrespeitando assim a máxima da quantidade.
+
+É notável o uso de cores no sistema, guiando para funções de consulta com o uso de cores brancas na maior parte do tempo. Contudo, também há momentos em que as funções confundem-se com elementos da interface, a exemplo da seção de CNH social. No entanto, a maneira como o sitema é desenhado prejudica levemente a acessibilidade. O contraste de cores é muito agressivo e as mudanças de tamanho da fonte diminuem ou aumentam demais outros elementos do site como um todo, dificultando o acesso por usuários que necessitam dessas funções.
+
+No entanto, o sistema possui design minimalista e conciso que, na maior parte do tempo, prioriza o usuário, estando de acordo com as ideias de Nielsen (1994c) e Tognazzini (2014).
+
+### Projeto para erros
+
+
 ## Referências Bibliográficas
 
 > [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Acesso em; 09 mai. 2023.
@@ -116,3 +166,4 @@ Nielsen (1994c) e Shneiderman(1998) recomendam que o sistema evite que o usuári
 | Versão | Data     | Descrição                                                        | Autor(es) | Revisor(es) |
 | ------ | -------- | ---------------------------------------------------------------- | --------- | ----------- |
 | `1.0`  | 09/05/23 | Criação do documento e adição dos principios e diretrizes gerais | Pedro M.  | João M.     |
+| `1.1`  | 09/05/23 | Adição dos principios e diretrizes gerais para o Detran GO       | Felipe M. | João M.     |
