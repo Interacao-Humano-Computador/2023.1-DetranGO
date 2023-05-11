@@ -22,7 +22,6 @@ O guia de estilo seguirá a estrutura comum adotada por Mayhew, na seguinte orga
     * Como Utilizar e Manter o Guia de Estilo
 - **Análise do Ambiente de Trabalho**
 - **Elementos de Interface**
-    * Disposição Espacial e Grid
     * Janelas
     * Tipografia
     * Cores
@@ -45,8 +44,49 @@ O público-alvo deste guia de estilo são os alunos da disciplina de Interação
 O guia de estilo é essencial para garantir consistência no projeto e deve ser atualizado regularmente. Ele é a fonte primária de estilização da aplicação e deve ser consultado para decisões de design. Sempre que novas ideias surgirem, o guia deve ser atualizado para garantir que seja a base principal para artefatos de prototipação.
 
 ## Análise do Ambiente de Trabalho
+Antes da realização do Guia de estilo em si é importante entender o contexto de trabalho do usuário para saber quais elementos devem ser trabalhados, assim foi feita uma análise dos principais recursos que o usuário tem acesso dentro do site, o usuário precisa que o ambiente seja minimalista e que, principalmente, com boa disposição dos elementos para que se tenha um bom entendimento das funcionalidades. Dessa forma, foram escolhidos dois componentes para serem analisados nesta etapa que estão destacados na figura 1.
+<center>
+
+![Página inicial DetranGO](../assets/guia_estilo/pagIni.png)
+Figura 1 - Página inicial DetranGO(fonte: [DetranGO](https://www.detran.go.gov.br/psw/#/pages/pagina-inicial), Acesso: 11 de maio de 2023).
+</center>
 
 ## Elementos de Interface
+Uma das partes importantes do guia de estilo são os elementos de interface. Esses elementos são responsáveis por compor as interfaces gráficas que os usuários terão contato durante o uso do sistema. Segue abaixo cada um dos elementos trabalhados neste tópico.
+
+### Janelas
+Foram consideradas pelo grupo as janelas sendo todo o espaço que contempla a interface de uma das páginas do site. Para garantir a padronização dos diferentes ambientes foi pensado em um modelo simples, escalável e que facilite as atividades do usuário para orientar os designers no momento de pensar em uma interface para o sistema. O modelo feito é o apresentado na figura 2.
+<center>
+
+![Modelo de janelas]()
+Figura 2 - Modelo de janelas(fonte: autor, 2023).
+</center>
+
+### Tipografia
+A tipografia escolhida foi a fonte Inter. A escolha da fonte foi pensada por ter uma boa leitura, para apresentar as informações, além de ser uma fonte mais moderna para o site. Segue abaixo uma ilustração mostrando os diferentes pesos, contextos e suas aplicações da fonte escolhida, na Figura 3.
+<center>
+
+![Tipografia utilizada](../assets/guia_estilo/fontes.png)
+Figura 3 - Tipografia utilizadas(fonte: autor, 2023).
+</center>
+
+### Cores
+As cores são um elemento essencial no guia de estilo e são responsáveis por grande parte da mensagem comunicada pela interface ao usuário. Para a escolha das cores foi pensada em uma paleta minimalista focando em apenas 3 cores, com suas respectivas variações para garantir a adaptação em diferentes contextos do sistema. Segue abaixo a ilustração mostrando cada uma das cores definidas, na Figura 4.
+<center>
+
+![Cores escolhidas](../assets/guia_estilo/cores.png)
+</br>Figura 4 - Cores escolhidas(fonte: autor, 2023).
+</center>
+
+#### Primária
+A cor primária escolhida foi o azul, já indentificado na interface do site atual. Foram escolhidas diversas tonalidades a partir da cor para garantir a versatilidade da sua aplicação em diferentes contextos do sistema.
+
+#### Secundária
+O laranja ficou como cor secundária por conta do contraste que conseguimos com o azul, utilizada para dar destaque a elementos específicos. Também foram escolhidas tonalidades para serem utilizadas em diferentes contextos.
+
+#### Cinza
+O cinza, uma cor neutra característica de ambientes digitais voltada para a aplicação no de telas e em demais contextos onde é necessário baixo contraste.
+
 
 ## Elementos de Interação
 
