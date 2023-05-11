@@ -58,6 +58,7 @@ nav:
     - Análise de Requisitos:
           - Análise de tarefas: analise_requisitos/analise_de_tarefas.md
           - Aspectos Éticos: analise_requisitos/aspectos_eticos.md
+          - Mapa de empatia: analise_requisitos/mapa_de_empatia.md
           - Perfil do Usuário: analise_requisitos/perfilUsuario.md
           - Personas: analise_requisitos/personas.md
           - Cenários: analise_requisitos/cenarios.md
