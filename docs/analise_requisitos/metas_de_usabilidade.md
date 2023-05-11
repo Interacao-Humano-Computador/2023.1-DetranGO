@@ -20,9 +20,7 @@ Para definir as metas que queremos alcançar foram discutidas as seguintes quest
 
 ## 5. Bibliografia
 > [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. 
-> [2] NIELSEN, Jacob. Designing Web Usability: The Practice of Simplicity Peachpit Press, la edição 1999
-
-Editora Elsevier, Rio de Janeiro, 2010.
+> [2] NIELSEN, Jacob. Designing Web Usability: The Practice of Simplicity Peachpit Press, la edição 1999 Editora Elsevier, Rio de Janeiro, 2010.
 
 ## 6. Histórico de versão
 | Versão | Data       | Descrição            | Autor(es)   | Revisor(es)    |
