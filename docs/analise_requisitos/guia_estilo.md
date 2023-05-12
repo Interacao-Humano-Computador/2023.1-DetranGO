@@ -58,7 +58,7 @@ Uma das partes importantes do guia de estilo são os elementos de interface. Ess
 Foram consideradas pelo grupo as janelas sendo todo o espaço que contempla a interface de uma das páginas do site. Para garantir a padronização dos diferentes ambientes foi pensado em um modelo simples, escalável e que facilite as atividades do usuário para orientar os designers no momento de pensar em uma interface para o sistema. O modelo feito é o apresentado na figura 2.
 <center>
 
-![Modelo de janelas]()
+![Modelo de janelas](../assets/guia_estilo/janelas.png)
 Figura 2 - Modelo de janelas(fonte: autor, 2023).
 </center>
 
@@ -120,6 +120,10 @@ Figura 5 - Teclas de atalho do DetranGO (fonte: [DetranGO](https://www.detran.go
 
 ## Vocabulário e Padrões
 
+## Figma
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F9lfSdxdTpmmXDPyIMOEQeq%2FGuia-de-Estilo---Grupo-do-Detran-GO%3Ftype%3Ddesign%26node-id%3D1%253A3%26t%3Dau8AjasrviLCFuY4-1" allowfullscreen></iframe>
+
 ## Bibliografia
 
 > BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010
@@ -131,3 +135,4 @@ Figura 5 - Teclas de atalho do DetranGO (fonte: [DetranGO](https://www.detran.go
 | Versão | Data       | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ---------- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  | 09/05/2023 | Criação do documento.              | Carlos Eduardo, João Morbeck, Pedro Henrique | Pedro Muniz |
+| `1.1`  | 09/05/2023 | Adição das janelas e Figma.        | Carlos Eduardo, João Morbeck, Pedro Henrique | Pedro Muniz |
