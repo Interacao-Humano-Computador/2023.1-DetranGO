@@ -1,7 +1,7 @@
 # Metas de Usabilidade do Projeto
 
 ## 1. Introdução
-As metas de usabilidade envolve definir fatores de qualidade de uso que devem ser priorizados em um projeto, como serão avaliados ao longo do processo de design, e quais faixas de valores são inaceitáveis ou aceitáveis. Essa priorização se baseia nos indicadores atuais de desempenho dos usuários ao utilizarem o sistema. Durante a definição das metas de usabilidade, podemos estabelecer metas de retorno de investimento, através de uma análise de custo e benefício envolvendo o sistema ou a prática atual, as despesas com o projeto do novo sistema e a economia que o seu uso deve proporcionar.
+As metas de usabilidade envolvem definir fatores de qualidade de uso que devem ser priorizados em um projeto, como serão avaliados ao longo do processo de design, e quais faixas de valores são inaceitáveis ou aceitáveis. Essa priorização se baseia nos indicadores atuais de desempenho dos usuários ao utilizarem o sistema. Durante a definição das metas de usabilidade, podemos estabelecer metas de retorno de investimento, através de uma análise de custo e benefício envolvendo o sistema ou a prática atual, as despesas com o projeto do novo sistema e a economia que o seu uso deve proporcionar.
 
 ## 2. Metas de usabilidade
 - **Eficácia**: Se refere a quanto um produto é bom em fazer o que foi pensado para ele realizar.
