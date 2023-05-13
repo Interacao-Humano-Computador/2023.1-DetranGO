@@ -60,7 +60,7 @@ Foram consideradas pelo grupo as janelas sendo todo o espaço que contempla a in
 
 ![Modelo de janelas](../assets/guia_estilo/janelas.png)
 
-Figura 2 - Modelo de janelas(fonte: autores, 2023).
+Figura 2 - Modelo de janelas (fonte: autores, 2023).
 
 </center>
 
@@ -94,7 +94,7 @@ O cinza, uma cor neutra característica de ambientes digitais voltada para a apl
 ## 5. Elementos de Interação
 
 ### 5.1 Estilos de Interação
-O usuário interage com o site por meio de ícones, botões e formulários.
+O usuário interage com o sítio por meio de ícones, botões e formulários.
 
 ### 5.2 Seleção de um estilo
 O estilo escolhido para botões, ícones e formulários foi pensado para ser objetivo e simples, visando uma padronização em como a interface e suas interações são feitas no sistema.
@@ -111,7 +111,7 @@ No sistema existem teclas de atalho, como aquelas voltadas para as abas mais ace
 * Notícias
 * Barra de pesquisa
 
-Todos os atalhos podem ser visualizados pela figura 5 a seguir.
+Todos os atalhos podem ser visualizados pelo menu superior do sítio do Detran GO [2], pela figura que pode ser visualizada a seguir.
 
 <center>
 
@@ -143,13 +143,13 @@ Figura 7 - Ícones (fonte: autores, 2023).
 </center>
 
 ### 6.3 Entrada / *Input*
-A Figura 8 ilustra os modelos de entrada/*input* que foram escolhidos para o sistema.
+A Figura 8 ilustra os modelos de entrada/*input* que foram escolhidos para o sistema. Além disso, os modelos quando o *input* está em modo de: seleção, preenchido ou incorreto foram considerados para a construção desses elementos.
 
 <center>
 
 ![Input](../assets/guia_estilo/input.png)
 
-Figura 7 - *Input* (fonte: autores, 2023).
+Figura 8 - *Input* (fonte: autores, 2023).
 </center>
 
 ## 7. Vocabulário e Padrões
@@ -161,13 +161,13 @@ O sistema conta com nomenclaturas e termos que são normalmente compreendidos po
 As telas vão seguir este guia de estilo, para o protótipo de baixa e alta fidelidade. Em geral, vão seguir as especificações dos elementos de interface, como as janelas que foram definidas. Em geral, as telas a serem definidas vão estar baseadas na tela de *menu* principal do sítio do [DETRAN GO](https://www.detran.go.gov.br/psw/#/pages/pagina-inicial).
 
 ### 7.3 Sequência de diálogos 
-Os diálogos a serem feitos com o usuário por meio dos elementos de interface serão feitos de forma padronizada. Isso, por exemplo, com o uso de botões de confirmação e cancelamento que buscam serem semelhantes durante todas as sequências de diálogos possíveis. Um exemplo disso pode ser visualizado na figura 8 a seguir, que apresenta diálogo com o usuário para preenchimento de um campo obrigatório ao tentar uma ação de consulta sem ter preenchido o campo obrigatório.
+Os diálogos a serem feitos com o usuário por meio dos elementos de interface serão feitos de forma padronizada. Isso, por exemplo, com o uso de botões de confirmação e cancelamento que buscam serem semelhantes durante todas as sequências de diálogos possíveis. Um exemplo disso pode ser visualizado na figura 9 a seguir, que apresenta diálogo com o usuário para preenchimento de um campo obrigatório ao tentar uma ação de consulta sem ter preenchido o campo obrigatório.
 
 <center>
 
 ![Sequência de Diálogos](../assets/guia_estilo/dialogo.png)
 
-Figura 7 - Diálogo com o usuário (fonte: [DetranGO](https://www.detran.go.gov.br/psw/#/pages/pagina-inicial), Acesso: 12 de maio de 2023).
+Figura 9 - Diálogo com o usuário (fonte: [DetranGO](https://www.detran.go.gov.br/psw/#/pages/pagina-inicial), Acesso: 12 de maio de 2023).
 </center>
 
 
@@ -179,7 +179,7 @@ Figura 7 - Diálogo com o usuário (fonte: [DetranGO](https://www.detran.go.gov.
 
 > [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010
 
-> Sítio DetranGO: <https://www.detran.go.gov.br/psw/#/pages/pagina-inicial>, Acesso em 11 de maio de 2023
+> [2] Sítio DetranGO: <https://www.detran.go.gov.br/psw/#/pages/pagina-inicial>, Acesso em 11 de maio de 2023
 
 # Histórico de Versão
 
