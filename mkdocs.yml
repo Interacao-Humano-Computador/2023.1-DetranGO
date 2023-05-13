@@ -38,6 +38,7 @@ nav:
           - Reunião 1: reunioes/reuniao1.md
           - Reunião 2: reunioes/reuniao2.md
           - Reunião 3: reunioes/reuniao3.md
+          - Reunião 4: reunioes/reuniao4.md
     - Planejamento:
           - Reuniões: planejamento/reunioes.md
           - Cronograma: planejamento/cronograma.md
@@ -57,6 +58,7 @@ nav:
     - Análise de Requisitos:
           - Aspectos Éticos: analise_requisitos/aspectos_eticos.md
           - Perfil do Usuário: analise_requisitos/perfilUsuario.md
+          - Princípios e diretrizes do projeto: analise_requisitos/principios.md
           - Personas: analise_requisitos/personas.md
           - Análise de Tarefas: analise_requisitos/analise_de_tarefas.md
           - Cenários: analise_requisitos/cenarios.md
