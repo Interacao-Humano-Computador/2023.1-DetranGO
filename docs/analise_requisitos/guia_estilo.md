@@ -59,7 +59,9 @@ Foram consideradas pelo grupo as janelas sendo todo o espaço que contempla a in
 <center>
 
 ![Modelo de janelas](../assets/guia_estilo/janelas.png)
-Figura 2 - Modelo de janelas(fonte: autor, 2023).
+
+Figura 2 - Modelo de janelas(fonte: autores, 2023).
+
 </center>
 
 ### 4.2 Tipografia
@@ -67,7 +69,8 @@ A tipografia escolhida foi a fonte Inter. A escolha da fonte foi pensada por ter
 <center>
 
 ![Tipografia utilizada](../assets/guia_estilo/fontes.png)
-Figura 3 - Tipografia utilizadas(fonte: autor, 2023).
+Figura 3 - Tipografia utilizadas(fonte: autores, 2023).
+
 </center>
 
 ### 4.3 Cores
@@ -75,7 +78,7 @@ As cores são um elemento essencial no guia de estilo e são responsáveis por g
 <center>
 
 ![Cores escolhidas](../assets/guia_estilo/cores.png)
-</br>Figura 4 - Cores escolhidas(fonte: autor, 2023).
+</br>Figura 4 - Cores escolhidas(fonte: autores, 2023).
 </center>
 
 #### 4.3.1 Primária
@@ -116,17 +119,65 @@ Todos os atalhos podem ser visualizados pela figura 5 a seguir.
 Figura 5 - Teclas de atalho do DetranGO (fonte: [DetranGO](https://www.detran.go.gov.br/psw/#/pages/pagina-inicial), Acesso: 11 de maio de 2023).
 </center>
 
-## Elementos de Ação
+## 6. Elementos de Ação
+São elementos os quais o usuário interage para realizar alguma determinada ação dentro do sistema. Ou seja, são formados por um conjunto de componentes para que o usuário realize uma ação. A seguir estão listados os principais elementos de ação determinados em conjuntos e com seus modelos fixos para a reprodução do design das interfaces. Isso a partir de como a ação é desempenhada pelo usuário.
 
-## Vocabulário e Padrões
+### 6.1 Botões
+A figura 6 lista os modelos de botões que foram definidos para utilização.
 
-## Figma
+<center>
+
+![Botões](../assets/guia_estilo/botoes.png)
+
+Figura 6 - Botões (fonte: autores, 2023).
+</center>
+
+### 6.2 Ícones
+A figura 7 ilustra os ícones escolhidos para o sítio, visando incluir as ações que o usuário pode tomar no sistema, em complemento com os botões.
+
+<center>
+
+![Ícones](../assets/guia_estilo/Icones.png)
+
+Figura 7 - Ícones (fonte: autores, 2023).
+</center>
+
+### 6.3 Entrada / *Input*
+A Figura 8 ilustra os modelos de entrada/*input* que foram escolhidos para o sistema.
+
+<center>
+
+![Input](../assets/guia_estilo/input.png)
+
+Figura 7 - *Input* (fonte: autores, 2023).
+</center>
+
+## 7. Vocabulário e Padrões
+
+### 7.1 Terminologia
+O sistema conta com nomenclaturas e termos que são normalmente compreendidos por usuários que já tiveram contato com algum serviço do DETRAN, como CNH e Renavam, o que pode ser um fator limitante para um determinado público.
+
+### 7.2 Tipos de tela (para tarefas comuns)
+As telas vão seguir este guia de estilo, para o protótipo de baixa e alta fidelidade. Em geral, vão seguir as especificações dos elementos de interface, como as janelas que foram definidas. Em geral, as telas a serem definidas vão estar baseadas na tela de *menu* principal do sítio do [DETRAN GO](https://www.detran.go.gov.br/psw/#/pages/pagina-inicial).
+
+### 7.3 Sequência de diálogos 
+Os diálogos a serem feitos com o usuário por meio dos elementos de interface serão feitos de forma padronizada. Isso, por exemplo, com o uso de botões de confirmação e cancelamento que buscam serem semelhantes durante todas as sequências de diálogos possíveis. Um exemplo disso pode ser visualizado na figura 8 a seguir, que apresenta diálogo com o usuário para preenchimento de um campo obrigatório ao tentar uma ação de consulta sem ter preenchido o campo obrigatório.
+
+<center>
+
+![Sequência de Diálogos](../assets/guia_estilo/dialogo.png)
+
+Figura 7 - Diálogo com o usuário (fonte: [DetranGO](https://www.detran.go.gov.br/psw/#/pages/pagina-inicial), Acesso: 12 de maio de 2023).
+</center>
+
+
+## 8. Figma
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F9lfSdxdTpmmXDPyIMOEQeq%2FGuia-de-Estilo---Grupo-do-Detran-GO%3Ftype%3Ddesign%26node-id%3D1%253A3%26t%3Dau8AjasrviLCFuY4-1" allowfullscreen></iframe>
 
 ## Bibliografia
 
-> BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010
+> [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010
 
 > Sítio DetranGO: <https://www.detran.go.gov.br/psw/#/pages/pagina-inicial>, Acesso em 11 de maio de 2023
 
@@ -135,4 +186,4 @@ Figura 5 - Teclas de atalho do DetranGO (fonte: [DetranGO](https://www.detran.go
 | Versão | Data       | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ---------- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  | 09/05/2023 | Criação do documento.              | Carlos Eduardo, João Morbeck, Pedro Henrique | Pedro Muniz |
-| `1.1`  | 09/05/2023 | Adição das janelas e Figma.        | Carlos Eduardo, João Morbeck, Pedro Henrique | Pedro Muniz |
+| `1.1`  | 12/05/2023 | Adição das janelas, Figma, Vocabulário e Padrões, Elementos de interação e ação        | Carlos Eduardo, João Morbeck, Pedro Henrique | Pedro Muniz |
