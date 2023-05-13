@@ -28,6 +28,7 @@ Como detalhado por Courage e Baxter (2005), deve*se criar ao menos uma persona p
 
 ### Letícia Ferreira Souza
 
+
 ![Foto de rosto de Letícia Ferreira Souza](../assets/personas/Leticia.jpeg)
 
 <div style="text-align: center">
