@@ -112,37 +112,128 @@ Nielsen (1994c) e Shneiderman(1998) recomendam que o sistema evite que o usuári
 ### Correspondência com as expectativas dos usuários
 
 O site do Detran GO atende às expectativas dos usuários no quesito funcional. As funções possuem comandos simples e que remetem à experiências reais como informar nome e documentação necessária para um atendente. 
-O site também mostra o estado atual do sistema em todas as páginas, indicando ao usuário qual o seu local no software e por quais caminhos pode seguir. No entanto, há uso de jargões que não são imediatamente compreensíveis na seçao de CNH social, com um botão desconexo da interface principal do site que não remete à experiência da vida real de ver e usar botôes diferentes para funções específicas, como mostrado na figura 1.
+
+O site também mostra o estado atual do sistema em todas as páginas, indicando ao usuário qual o seu local no software e por quais caminhos pode seguir. O uso de jargões é mínimo em todo o site. No entanto a interface de CNH Social é confusa, com um botão desconexo da interface principal do site que não remete à experiência da vida real de ver e usar botões diferentes para funções específicas, como mostrado pela figura 1, capturada com zoom de 80% mara melhor ilustrar a situação. O botão é delineado em vermelho e marcado pelo detalhe 1.
+
+<center>
+
+![Figura 1: Seção de CNH social do site Detran GO (Fonte: Detran GO, 2023[2]).](./../assets/principios_diretrizes/fig1.png)
+
+Figura 1: Seção de CNH social do site Detran GO (Fonte: Detran GO, 2023[2]).
+
+Detalhe 1: botão com funcionalidade em local desconexo.
+
+ </center>
+
 
 ### Simplicidade nas estruturas das tarefas
 
-As tarefas são estuturadas, em maior parte, obedecendo às 4 regras detalhadas por Norman (1988) e explicitadas na [seção anterior](#simplicidade-nas-estruturas-das-tarefas) sobre este tópico. Contudo, há tarefas que fogem à regra, a exemplo do serviço de agendamento de vistorias, que lista diversos estabelecimentos que realizam este serviço e seus telefones, muitas vezes em cidades que não a solicitada pelo usuário, dificultando e complicando a utilização deste serviço.
+As tarefas são estuturadas, em maior parte, obedecendo às 4 regras detalhadas por Norman (1988) e explicitadas na [seção anterior](#simplicidade-nas-estruturas-das-tarefas) sobre este tópico. Contudo, há tarefas que fogem à regra, a exemplo do serviço de agendamento de vistorias, que lista diversos estabelecimentos que realizam este serviço e seus telefones, muitas vezes em cidades que não a solicitada pelo usuário, dificultando e complicando a utilização deste serviço, como mostrado na figura 2, em que a tela por ela representada foi mostrada após selecionada a cidade de Aloândia - GO.
+
+<center>
+
+![Figura 2: Seção de CNH social do site Detran GO (Fonte: Detran GO, 2023[2]).](./../assets/principios_diretrizes/fig2.png)
+
+Figura 2: Página de agendamento de vistoria veicular (Fonte: Detran GO, 2023[2]).
+
+
+</center>
 
 ### Equilíbrio entre controle e liberdade do usuário
 
-O sistema do site Detran GO permite que o usuário desfaça suas açoes na maior parte dos módulos. No entanto, o princípio de maleabilidade de Cooper (1999) não é respeitado, não sendo assim permitido que se obtenha resultados iguais de forma diferente em uma mesma função, como a de solicitar a primeira via da CNH (a ordem das ações não pode ser mudada de nenhuma maneira neste módulo).
+O sistema do site Detran GO permite que o usuário desfaça suas açoes na maior parte dos módulos. No entanto, o princípio de maleabilidade de Cooper (1999) não é respeitado, não sendo assim permitido que se obtenha resultados iguais de forma diferente em uma mesma função, como a de solicitar a primeira via da CNH (a ordem das ações não pode ser mudada de nenhuma maneira neste módulo). Estes aspectos são ilustrados pela figura 3, onde o detalhe 1 marca o estádo do módulo mas não permite maleabilidade entre estes passos.
+
+<center>
+
+![Figura 3: Seção de requisição da primeira via da CNH (Fonte: Detran GO, 2023[2]).](./../assets/principios_diretrizes/fig3.png)
+
+Figura 3: Seção de requisição da primeira via da CNH (Fonte: Detran GO, 2023[2]).
+
+Detalhe 2: Registro de estado da tarefa.
+
+</center>
 
 ### Consistência e padronização
 
-O site mantém o layout consistente durante todo o uso, sem mudanças radicais, o que permite um aprendizado mais facilitado por parte do usuário. Também deve-se notar que a utilização de funções de consulta de difeentes tipos possuem similaridades notáveis ente si e diferenças notáveis com outros módulos do software como os de solicitação de seviços, por exemplo.
+O site mantém o layout consistente durante todo o uso, sem mudanças radicais, o que permite um aprendizado mais facilitado por parte do usuário. Também deve-se notar que a utilização de funções de consulta de diferentes tipos possuem similaridades notáveis ente si. No entanto, essas similaridades são mantidas para funções diferentes, como a de agendamento de atendimento, como mostrado pelas figuras 4 e 5.
+
+<center>
+
+![Figura 4: Seção de consulta de CNH (Fonte: Detran GO, 2023[2]).](./../assets/principios_diretrizes/fig4.png)
+
+Figura 4: Seção de consulta de CNH (Fonte: Detran GO, 2023[2]).
+
+![Figura 5: Seção de agendamento de atendimento (Fonte: Detran GO, 2023[2]).](./../assets/principios_diretrizes/fig5.png)
+
+Figura 5: Seção de agendamento de atendimento (Fonte: Detran GO, 2023[2]).
+
+</center>
 
 ### Promoção da eficiência do usuário
 
 O sistema promove a eficiência do usuário de acordo com Tognazzini (2014), em que o sistema deve deixar o usuário encarregado de outras tarefas sempre que uma é terminada em algum módulo. Ao solicitar a CNH, por exemplo, em nenhum momento (exceto entre seções) o usuário deve esperar por resultados por longos tempos. O sistema também tem a vantagem de não utilizar-se de muitas tarefas dispendiosas que necessitariam de operação em segundo plano, indo de encontro às ideias de Tognazzini (2014).
 
-Também há no sistema diversas falhas de usuário que são avisadas por pop-ups temporários, evitando assim a propagação desses erros e comunicando as razões do ocorrido.
+Também há no sistema diversas falhas de usuário que são avisadas por pop-ups temporários, evitando assim a propagação desses erros e comunicando as razões do ocorrido, como mostrado pela figura 6 (o número de registro testado foi ocultado). Ao tentar consultar uma CNH de outra UF, o site é capaz de avisar claramente o erro.
 
-No entanto, há de se considerar que o sistema não é projetado para eficiência de acordo com Nielsen (1994c) e Shneiderman (1998). Os atalhos disponíveis na seção de acessibilidade dsão poucos e não funcionam em todos os navegadores (nos navegadores Brave e Firefox, os atalhos conflitam com atalhos do navegador para mudar de aba rapidamente).
+<center>
+
+![Figura 6: Erro de número de registro ao consultar CNH (Fonte: Detran GO, 2023[2]).](./../assets/principios_diretrizes/fig6.png)
+
+Figura 6: Erro de número de registro ao consultar CNH (Fonte: Detran GO, 2023[2]).
+
+</center>
+
+No entanto, há de se considerar que o sistema não é projetado para eficiência de acordo com Nielsen (1994c) e Shneiderman (1998). Os atalhos disponíveis na seção de acessibilidade dsão poucos e não funcionam em todos os navegadores (nos navegadores Brave e Firefox, os atalhos conflitam com atalhos do navegador para mudar de aba rapidamente). Os atalhos estão representados na figura 7.
+
+<center>
+
+![Figura 7: Seção de acessibilidade do site (Fonte: Detran GO, 2023[2]).](./../assets/principios_diretrizes/fig7.png)
+
+Figura 7: Seção de acessibilidade do site (Fonte: Detran GO, 2023[2]).
+
+</center>
 
 ### Antecipação das necessidades do usuário
 
-O sistema antecipa o uso de alguns serviços, como consulta de veículos e de CNH. Esta antecipação está de acordo com as ideias de Tognazzini (2014) e de Cooper (1999)m estando o sistema pronto para atender o usuário e oferecendo informações relevantes para o usuário, prevenindo-se para eventuais usos futuros.
+O sistema antecipa o uso de alguns serviços, como consulta de veículos e de CNH. Esta antecipação está de acordo com as ideias de Tognazzini (2014) e de Cooper (1999) estando o sistema pronto para atender o usuário e oferecendo informações relevantes para o usuário, prevenindo-se para eventuais usos futuros. Estas antecipações estão na página principal, e uma delas está ilustrada na figura 8 como mostra o detalhe 3 na imagem.
+
+<center>
+
+![Figura 8: Seção de habilitação na página principal e antecipação da consulta (Fonte: Detran GO, 2023[2]).](./../assets/principios_diretrizes/fig8.png)
+
+Figura 8: Seção de habilitação na página principal e antecipação da consulta (Fonte: Detran GO, 2023[2]).
+
+Detalhe 3: Antecipação da consulta de CNH na página principal.
+
+</center>
 
 ### Visibilidade e reconhecimento
 
-O sistema possui problemas de visibilidade claros na organização de suas funções. O botão de login e a barra de pesquisa estão ocultos pela organização da tela, e há funções que ficam ocultas devido à maneira que estão organizadas.
+O sistema possui problemas de visibilidade claros na organização de suas funções. O botão de login e a barra de pesquisa estão ocultos pela organização da tela, e há funções que ficam ocultas devido à maneira que estão organizadas, como visível nos detalhes 4 e 5 da figura 9, respectivamente.
 
-O status do sistema é mostrado de acordo com as recomendações de Tognazzini (2014) e de Cooper (1999), isto é, sutis mas com o intuito de sinalizar o estado do sistema. No entanto, não é implementado um retorno facilitado a outras partes do sistema via status do sistema.
+<center>
+
+![Figura 9: Seção de veículos da página principal (Fonte: Detran GO, 2023[2]).](./../assets/principios_diretrizes/fig9.png)
+
+Figura 9: Seção de veículos da página principal (Fonte: Detran GO, 2023[2])..
+
+Detalhe 4: Barra de pesquisa e botão de login parcialmente fora da tela.
+
+Detalhe 5: Botões de funções ocultos pela interface.
+
+</center>
+
+O status do sistema é mostrado de acordo com as recomendações de Tognazzini (2014) e de Cooper (1999), isto é, sutis mas com o intuito de sinalizar o estado do sistema. No entanto, não é implementado um retorno facilitado a outras partes do sistema via status do sistema (isto é, o status do sistema não é clicável), como mostrado pelo detalhe 6 da figura 10.
+
+<center>
+
+![Figura 10: Seção de veículos da página principal (Fonte: Detran GO, 2023[2]).](./../assets/principios_diretrizes/fig10.png)
+
+Figura 10: Seção de veículos da página principal (Fonte: Detran GO, 2023[2]).
+
+Detalhe 6: Mostrador do estado do sistema.
+
+</center>
 
 Como o sistema é dependente de resposta de um servidor, os tempos de execução de certas tarefas podem varias. Com base nisso, pode-se destacar que feedbacks visuais são mostrados para quando um botão é clicado ou quando uma operação está sendo caregada de acordo com o estipulado por Tognazzini (2014).
 
@@ -150,16 +241,40 @@ Como o sistema é dependente de resposta de um servidor, os tempos de execução
 
 Se consideradas as máximas de Reeves e Nass (1996) baseadas em Grice (1975), é possível dizer que o sistema do Detran GO obedece às máximas de qualidade, relação e modo em seus módulos. No entanto, nota-se que há módulos que apresentam infomação desnecessária para o entendimento ou realização da tarefa que descreve, desrespeitando assim a máxima da quantidade.
 
-É notável o uso de cores no sistema, guiando para funções de consulta com o uso de cores brancas na maior parte do tempo. Contudo, também há momentos em que as funções confundem-se com elementos da interface, a exemplo da seção de CNH social. No entanto, a maneira como o sitema é desenhado prejudica levemente a acessibilidade. O contraste de cores é muito agressivo e as mudanças de tamanho da fonte diminuem ou aumentam demais outros elementos do site como um todo, dificultando o acesso por usuários que necessitam dessas funções.
+É notável o uso de cores no sistema, guiando para funções de consulta com o uso de cores brancas na maior parte do tempo. Contudo, também há momentos em que as funções confundem-se com elementos da interface, a exemplo da seção de CNH social (como mostrado pela figura 1 na seção de [correspondência com as expectativas dos usuários](#correspondencia-com-as-expectativas-dos-usuarios_1)). No entanto, a maneira como o sistema é desenhado para lidar com a acessibilidade prejudica seu funcionamento. As mudanças de tamanho da fonte diminuem ou aumentam demais outros elementos do site como um todo, dificultando o acesso por usuários que necessitam dessas funções seja por ocultar outras funções ou por impedir o uso das mesmas, como mostra a figura 11.
+
+<center>
+
+![Figura 11: Página principal após dois usos da função de aumento de fonte (Fonte: Detran GO, 2023[2]).](./../assets/principios_diretrizes/fig11.png)
+
+Figura 11: Página principal após dois usos da função de aumento de fonte (Fonte: Detran GO, 2023[2]).
+
+</center>
 
 No entanto, o sistema possui design minimalista e conciso que, na maior parte do tempo, prioriza o usuário, estando de acordo com as ideias de Nielsen (1994c) e Tognazzini (2014).
 
 ### Projeto para erros
 
+O sistema está de acordo com as recomendações de Nielsen (1994c) e Shneiderman(1998) quanto a retornar feedback inteligível para o usuário no caso de erros (como já mostrado na seção de [promoção da eficiência do usuário](#promocao-da-eficiencia-do-usuario_1) pela figura 6). 
+
+No entanto, nota-se que funções de caráter irreversível não são suficientemente separadas de funções corriqueiras, desrespeitando recomendações de Cooper (1999); e nem dificultadas de certa forma, desrespeitando recomendações de Norman (1988). O cadastro para solicitação de primeira CNH, por exemplo, mantém o botão de avanço próximo ao de retorno em todo o tempo do cadastro, permitindo que um possível cadastro com dados errados ou falsos ocorra. O problema está marcado pelo detalhe 7 da figura 12.
+
+<center>
+
+![Figura 12: Página de cadastro para primeira CNH (Fonte: Detran GO, 2023[2]).](./../assets/principios_diretrizes/fig12.png)
+
+Figura 12: Página de cadastro para primeira CNH (Fonte: Detran GO, 2023[2]).
+
+Detalhe 7: Botões de avançar e voltar próximos.
+
+</center>
+
 
 ## Referências Bibliográficas
 
 > [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Acesso em; 09 mai. 2023.
+
+> [2]  Detran GO, acesso em: 12 de maio de 2023. Para mais informações acesse: <https://www.detran.go.gov.br>
 
 ## Histórico de Versão
 
@@ -167,3 +282,4 @@ No entanto, o sistema possui design minimalista e conciso que, na maior parte do
 | ------ | -------- | ---------------------------------------------------------------- | --------- | ----------- |
 | `1.0`  | 09/05/23 | Criação do documento e adição dos principios e diretrizes gerais | Pedro M.  | João M.     |
 | `1.1`  | 09/05/23 | Adição dos principios e diretrizes gerais para o Detran GO       | Felipe M. | João M.     |
+| `1.2`  | 12/05/23 | Adição das figuras       | Felipe M. | João M.     |
