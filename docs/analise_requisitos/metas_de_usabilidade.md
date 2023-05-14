@@ -13,6 +13,7 @@ As metas de usabilidade envolvem definir fatores de qualidade de uso que devem s
 
 ## 3. Metas almejadas pelo nosso projeto
 Para definir as metas que queremos alcançar foram discutidas as seguintes questões sobre cada meta:
+
 - **Segurança**: O sistema permite ao usuário reverter ações indesejadas facilmente? Há opções de confirmação para evitar que o usuário faça alguma ação ou alteração por engano? Por isso é necessário oferecer diálogos de confirmação e ser possível voltar a uma etapa anterior da navegação para cancelar uma possível alteração indesejada. 
 - **Utilidade**: O usuário recebe um feedback virtual do que está acontecendo em tempo real? É importante que as opções de navegação estejam de acordo com o que o usuário esteja fazendo no momento.
 - **Aprendizagem**: Tendo como base o questionário para o perfil do usuário onde, os usuários, acabam por não explorar muito as demais funcionalidades do site, e gostariam de uma melhor organização dos recursos explorados no sistema.

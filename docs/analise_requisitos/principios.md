@@ -101,7 +101,7 @@ Além das informações, as cores são de grande importância na expressão do s
 
 ### Projeto para erros
 
-Segundo Norman (1988), o sistema deve ser projetado ao erro, ou seja, deve se prepara para que qualquer erro potencial será cometido pelo usuário, se prontificando para ajudá-lo a se recuperar do erro, além de permitir a reversão de qualquer ação do usuário e dificultar a realização de ações irreversíveis.
+Segundo Norman (1988), o sistema deve ser projetado ao erro, ou seja, deve ser preparado pensando que qualquer erro potencial será cometido pelo usuário, e se prontificando para ajudá-lo a se recuperar do erro, além de permitir a reversão de qualquer ação do usuário e dificultar a realização de ações irreversíveis.
 
 Cooper (1999) recomenda que controles perigosos, ou seja, que realizem ações importantes e irreversíveis não sejam posicionados próximos a controles frequentemente utilizados pelo usuário, evitando assim acidentes.
 

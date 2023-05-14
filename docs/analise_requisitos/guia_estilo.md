@@ -1,7 +1,7 @@
 # Guia de Estilo
 
 ## 1. Introdução
-O guia de estilo reúne as diretrizes e princípios utilizados no projeto e registra as principais decisões de design tomadas. Isso é feito com o intuito de evitar a perda dessas informações e permitir que elas sejam facilmente acessíveis para serem implementadas no produto final e reutilizadas durante as etapas de extensão do projeto. Esse documento também pode ser usado para facilitar a comunicação entre a equipe de design e a equipe de desenvolvimento. Neste caso, as diretrizes serão aplicadas ao sítio eletrônico DetranGO, levando em consideração as [Metas de Usabilidade](#) do ciclo de vida para engenharia de usabilidade de Mayhew [1].
+O guia de estilo reúne as diretrizes e princípios utilizados no projeto e registra as principais decisões de design tomadas. Isso é feito com o intuito de evitar a perda dessas informações e permitir que elas sejam facilmente acessíveis para serem implementadas no produto final e reutilizadas durante as etapas de extensão do projeto. Esse documento também pode ser usado para facilitar a comunicação entre a equipe de design e a equipe de desenvolvimento. Neste caso, as diretrizes serão aplicadas ao sítio eletrônico DetranGO, levando em consideração as [Metas de Usabilidade](./metas_de_usabilidade.md) do ciclo de vida para engenharia de usabilidade de Mayhew [1].
 
 ## 2. Objetivo
 O objetivo desse documento é compreender o design proposto para o projeto, analisando elementos como:
