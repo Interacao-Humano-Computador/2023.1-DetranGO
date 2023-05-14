@@ -69,6 +69,7 @@ nav:
     - Apresentações:
           - Primeira Etapa: apresentacoes/1a_apresentacao.md
           - Segunda Etapa: apresentacoes/2a_apresentacao.md
+          - Terceira Etapa: apresentacoes/3a_apresentacao.md
 
 markdown_extensions:
   - tables
