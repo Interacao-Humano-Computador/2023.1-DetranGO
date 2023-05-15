@@ -1,4 +1,4 @@
-# Apresentação da segunda etapa - 08/05/2023
+# Apresentação da terceira etapa - 14/05/2023
 
 ## Introdução
 
@@ -20,7 +20,7 @@ Vídeo 1 - Apresentação da terceira etapa do projeto (Fonte: Membros do grupo)
 
 ## Checklist da entrega
 
-A tabela 1 consiste na tabela de exemplos de critérios de avaliação para a etapa 2 apresentada no plano de ensino da disciplina, com marcações de "Sim", "Não" ou "Incompleto" para verificar o que é presente ou ausente na entrega.
+A tabela 1 consiste na tabela de exemplos de critérios de avaliação para a etapa 3 apresentada no plano de ensino da disciplina, com marcações de "Sim", "Não" ou "Incompleto" para verificar o que é presente ou ausente na entrega.
 
 <center>
 
