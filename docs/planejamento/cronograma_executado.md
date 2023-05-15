@@ -47,6 +47,22 @@ A tabela 2 descreve o cronograma executado da etapa 2 do projeto. A etapa se pas
 
 Tabela 2: Cronograma executado da etapa 2 (Fonte: Do autor, 2023).
 
+## Cronograma executado da etapa 3
+
+A tabela 3 descreve o cronograma executado da etapa 3 do projeto. A etapa se passou no espaço entre os dias 08/05/2023 e 15/05/2023.
+
+| **Atividade** | **Data de entrega** | **Data de revisão** | **Artefato elaborado** | **Autor(es)** | **Revisor(es)** |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| Descrever características para a plataforma | 14/05 | 15/05 | [Características para Plataforma](./../analise_requisitos/caracteristicas_para_plataforma.md) | Amanda N., Pedro H. | Felipe M. |
+| Detalhamento dos princípios e diretrizes | 12/05 | 14/05 | [Princípios e Diretrizes](./../analise_requisitos/principios.md) | Pedro F, Felipe M. | João M. |
+| Detalhamento de metas de usabilidade | 12/05 | 13/05 | [Metas de Usabilidade](./../analise_requisitos/metas_de_usabilidade.md) | Amanda N, Pedro H. | Felipe M. |
+| Criação mapa de empatia | 11/05 | 12/05 | [Mapa de Empatia](./../analise_requisitos/mapa_de_empatia.md) | Pedro F, Felipe M. | Carlos E. |
+| Criação do guia de estilo | 13/05 | 14/05 | [Guia de Estilo](./../analise_requisitos/guia_estilo.md) | Pedro H., João M e Carlos E. | Pedro F. |
+| Gravar a apresentação | 14/05 | 14/05 | [Apresentação da terceira etapa]() | Felipe M. | Carlos E. |
+| Editar a apresentação | 15/05 | 15/05 | [Apresentação da terceira etapa]() | Felipe M. | Carlos E. |
+
+Tabela 3: Cronograma executado da etapa 3 (Fonte: Do autor, 2023).
+
 ## Bibliografia
 
 > [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: [https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf](https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf). Acesso em: 8 de abril de 2023;
@@ -58,3 +74,4 @@ Tabela 2: Cronograma executado da etapa 2 (Fonte: Do autor, 2023).
 |  `1.0`   | 20/04/23 | Primeira versão do cronograma executado da etapa 1 | Felipe M. | João M.  |
 |  `1.1`   | 08/05/23 | Adição do cronograma executado da etapa 2 e mudanças na etapa 1| Felipe M. | Carlos E.  |
 |  `1.2`   | 08/05/23 | Mudança na análise de tarefas (etapa 2)| Felipe M. | Carlos E.  |
+|  `1.3`   | 15/05/23 | Adição do cronograma executado da etapa 3 | Carlos E. | Felipe M. |
