@@ -10,8 +10,8 @@ Após a execução da avaliação, os avaliadores deverão elaborar um relato de
 O objetivo do relato de resultados é que os membros elaborem um relatório que deve conter os objetivos da avaliação juntamente com uma verificação de quais foram atigindos e utilidades a serem melhoradas.
 
 ### Metodologia
-O relato de resultados deve conter um resumo da metodologia utilizada, em consonância com o que está registrado no planejamento da avaliação.
-A metodologia a ser empregada vai ser a entrevista. A entrevista será orientada por um roteiro , com a finalidade de conseguir o máximo de informação possível. Serão realizadas análises das tarefas e funcionalidades representadas nos storyboards, a fim de verificar a correspondência dessas tarefas e funcionalidades com o sistema avaliado.
+O relato de resultados deve conter um resumo da metodologia utilizada, em consonância com o que está registrado no planejamento da avaliação. 
+Uma vez que, a avaliação envolve pessoas, é necessário atentar-se á questões éticas, em que na primeira etapa da entrevista é apresentado o termo de consentimento ao entrevistado para que ele possa ou não concordar com os termos da entrevista. Partindo da premissa que nosso entrevistado aceite os termos, passando por um breve momento de adaptação, do qual o avaliador fará um ambiente amigável e descontraído para que o entrevistado não fique desconfortável. A seguir a entrevista será orientada por um roteiro , com a finalidade de conseguir o máximo de informação possível. Serão realizadas análises das tarefas e funcionalidades representadas nos storyboards, a fim de verificar a correspondência dessas tarefas e funcionalidades com o sistema avaliado.
 
 ### Participantes e Avaliadores
 Primeiramente, é necessário que o time estabeleça os indivíduos que participarão das entrevistas, bem como os avaliadores tanto do teste piloto quanto da avaliação. O entrevistado deve corresponder ao perfil de usuário estabelecido durante o projeto. O avaliador terá a tarefa de registrar todas as respostas do questionário e, caso julgue apropriado, fazer sugestões adicionais.
@@ -41,5 +41,4 @@ O avaliador deverá inserir no relato de resultados a gravação do teste piloto
 | Versão | Data     | Descrição                                                        | Autor(es) | Revisor(es) |
 | ------ | -------- | --------------------------------------------------------------- | --------- | ----------- |
 | `1.0`  | 18/05/23 | Criação do documento | Amanda N, Carlos E.  | Pedro F. |
-| `1.1`  | 19/05/23 | Descrião das atividades e correção de erros | Amanda N, Carlos E.  | Pedro 
-F. |
+| `1.1`  | 19/05/23 | Descrição das atividades e correção de erros | Amanda N, Carlos E.  | Pedro F. |
