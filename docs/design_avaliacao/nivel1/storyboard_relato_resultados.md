@@ -17,11 +17,20 @@ A metodologia a ser empregada vai ser a entrevista. A entrevista será orientada
 Primeiramente, é necessário que o time estabeleça os indivíduos que participarão das entrevistas, bem como os avaliadores tanto do teste piloto quanto da avaliação. O entrevistado deve corresponder ao perfil de usuário estabelecido durante o projeto. O avaliador terá a tarefa de registrar todas as respostas do questionário e, caso julgue apropriado, fazer sugestões adicionais.
 
 ### Tarefas
-Devem ser definidas tarefas para que o usúario realize e possa relatar sua experiencia posteriormente
+Devem ser definidas tarefas para que o usúario realize e possa relatar sua experiencia posteriormente. O avaliador deverá registar as respostas do entrevistado para cada uma das perguntas selecionadas, mesmo havendo inconclusões nas respostas dadas, como por exemplo, "não sei" ou "não sei informar".
 
 - Consultar CNH
 - Agendar atendimento
 - Consulta de veículo
+
+### Problemas Encontrados
+O avaliador deverá listar problemas encontrados nos storyboards, a partir das informações coletadas na entrevista.
+
+### Sugestão de Correção
+O avaliador deverá apresentar sugestões para correções a partir das informações coletadas informadas pelo usuário e acrescentando sugestões próprias caso seja necessário.
+
+### Gravação do Teste Piloto
+O avaliador deverá inserir no relato de resultados a gravação do teste piloto da entrevista. Caso o teste aponte mudanças no planejamento, será necessário registrar e realizar as modificações no planejamento.
 
 ## Bibliografia
 
@@ -30,5 +39,7 @@ Devem ser definidas tarefas para que o usúario realize e possa relatar sua expe
 ## Histórico de Versão
 
 | Versão | Data     | Descrição                                                        | Autor(es) | Revisor(es) |
-| ------ | -------- | ---------------------------------------------------------------- | --------- | ----------- |
+| ------ | -------- | --------------------------------------------------------------- | --------- | ----------- |
 | `1.0`  | 18/05/23 | Criação do documento | Amanda N, Carlos E.  | Pedro F. |
+| `1.1`  | 19/05/23 | Descrião das atividades e correção de erros | Amanda N, Carlos E.  | Pedro 
+F. |
