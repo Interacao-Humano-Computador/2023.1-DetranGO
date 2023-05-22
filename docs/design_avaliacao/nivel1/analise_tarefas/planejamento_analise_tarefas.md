@@ -81,7 +81,7 @@ A entrevista é um método de coleta de dados em formato de conversa guiada, com
 
 Para a realização de entrevistas semiestruturadas, surge a necessidade de definir um espaço para estas entrevistas, bem como recrutar usuários com base nas informações extraídas pelo artefato de [perfil do usuário](./../../../analise_requisitos/perfilUsuario.md). Em caso de falha neste recrutamento, surge a necessidade de interpretação de personas definidas em [artefato dedicado](./../../../analise_requisitos/personas.md).
 
-O espaço destas entrevistas será a plataforma Google Meet. A princípio, serão definidas três entrevistas. As tabelas 3, 4 e 5 definem o cronograma das entrevistas com os usuários.
+O espaço destas entrevistas será a plataforma Google Meet. A princípio, será definida uma entrevista. A tabelas 3 define o cronograma da entrevista com o usuário.
 
 #### Entrevista 1
 
@@ -95,30 +95,6 @@ Tabela 3: Cronograma da entrevista 1 (Fonte: do autor).
 
 </center>
 
-
-#### Entrevista 2
-
-<center>
-
-|**Entrevistador**|**Data**|**Horário**|**Entrevistado**|
-|:-:|:-:|:-:|:-:|
-| (A definir) |24/05/2023| 15:00 | (A definir) |
-
-Tabela 4: Cronograma da entrevista 2 (Fonte: do autor).
-
-</center>
-
-#### Entrevista 3
-
-<center>
-
-|**Entrevistador**|**Data**|**Horário**|**Entrevistado**|
-|:-:|:-:|:-:|:-:|
-| (A definir) |24/05/2023| 15:00 | (A definir) |
-
-Tabela 5: Cronograma da entrevista 3 (Fonte: do autor).
-
-</center>
 
 ### D: Decidir como lidar com as questões éticas
 
@@ -155,15 +131,15 @@ Para finalizar a avaliação da análise de tarefas, os integrantes do grupo dev
 
 A fim de garantir que os objetivos da avaliação sejam atingidos durante as entrevistas planejadas (isto é, para avaliar este planejamento), os integrantes do grupo devem realizar um teste piloto a fim de garantir que a linguagem da entrevista é clara e objetiva, bem como registrar se as ferramentas a serem utilizadas realizam sua função corretamente e permitir a correção deste planejamento anteriormente aos testes reais.
 
-A tabela 6 detalha o cronograma deste teste piloto.
+A tabela 4 detalha o cronograma deste teste piloto.
 
 <center>
 
 |**Entrevistador**|**Data**|**Horário**|**Entrevistado**|
 |:-:|:-:|:-:|:-:|
-| Felipe Corrêa |22/05/2023| 16:00 | (A definir) |
+| Felipe Corrêa |23/05/2023| 16:00 | (A definir) |
 
-Tabela 6: Cronograma do teste piloto (Fonte: do autor).
+Tabela 4: Cronograma do teste piloto (Fonte: do autor).
 
 </center>
 
@@ -178,3 +154,4 @@ Tabela 6: Cronograma do teste piloto (Fonte: do autor).
 | Versão | Data     | Descrição                                 | Autor(es) | Revisor(es) |
 | ------ | -------- | ----------------------------------------- | --------- | ----------- |
 | `1.0`  | 20/05/23 | Criação do documento e adição do conteúdo | Felipe M. | Carlos E.   |
+| `1.1`  | 21/05/23 | Mudanças no planejamento e organização    | Felipe M. | Carlos E.   |
