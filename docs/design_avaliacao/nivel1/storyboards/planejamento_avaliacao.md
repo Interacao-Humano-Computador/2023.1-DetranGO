@@ -6,7 +6,7 @@ Este artefato apresenta o planejamento da avaliação do storyboard, o storyboar
 
 ## Objetivos
 
-O objetivo deste artefato é realizar o planejamento da avaliação dos storyboards, utilizando a metodologia e as tarefas encontradas neste artefato, as avaliações são se as tarefas estão de acordo com o contexto do usuário, se as necessidades dos usuário em relação às tarefas estão de acordo com o esperado.
+O objetivo deste artefato é realizar o planejamento da avaliação dos storyboards, utilizando a metodologia e as tarefas encontradas neste artefato, o intuito das avaliações é analisar se as tarefas estão de acordo com o contexto do usuário, se as necessidades dos usuário em relação às tarefas estão de acordo com o esperado.
 
 ## Metodologia
 
