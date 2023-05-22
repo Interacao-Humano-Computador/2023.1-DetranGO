@@ -33,47 +33,48 @@ theme:
     - tabs
 
 nav:
-    - Home: index.md
-    - Reuniões:
-          - Reunião 1: reunioes/reuniao1.md
-          - Reunião 2: reunioes/reuniao2.md
-          - Reunião 3: reunioes/reuniao3.md
-          - Reunião 4: reunioes/reuniao4.md
-          - Reunião 5: reunioes/reuniao5.md
-    - Planejamento:
-          - Reuniões: planejamento/reunioes.md
-          - Cronograma: planejamento/cronograma.md
-          - Cronograma Executado: planejamento/cronograma_executado.md
-          - Metodologias: planejamento/metodologia.md
-          - Ferramentas: planejamento/ferramentas.md
-          - Sítios Avaliados:
-                - Sítios Avaliados: planejamento/sites_avaliados/sites_avaliados.md
-                - Avaliação NFE: planejamento/sites_avaliados/avaliacao_NFE.md
-                - Avaliação SAAE: planejamento/sites_avaliados/avaliacao_SAAE.md
-                - Avaliação CAESB: planejamento/sites_avaliados/avaliacao_CAESB.md
-                - Avaliação Caixa Econômica Federal: planejamento/sites_avaliados/avaliacao_CAIXA.md
-                - Avaliação SSALTO: planejamento/sites_avaliados/avaliacao_SSALTO.md
-                - Avaliação DETRAN: planejamento/sites_avaliados/avaliacao_DETRANGO.md
-          - Sítio Escolhido: planejamento/site_escolhido.md
-          - Processo de Design: planejamento/design.md
-    - Análise de Requisitos:
-          - Aspectos Éticos: analise_requisitos/aspectos_eticos.md
-          - Perfil do Usuário: analise_requisitos/perfilUsuario.md
-          - Princípios e diretrizes do projeto: analise_requisitos/principios.md
-          - Personas: analise_requisitos/personas.md
-          - Análise de Tarefas: analise_requisitos/analise_de_tarefas.md
-          - Cenários: analise_requisitos/cenarios.md
-          - Característica para Plataforma: analise_requisitos/caracteristicas_para_plataforma.md
-          - Guia de Estilo: analise_requisitos/guia_estilo.md
-          - Mapa de empatia: analise_requisitos/mapa_de_empatia.md
-          - Metas de usabilidade: analise_requisitos/metas_de_usabilidade.md
-    - Design, Avaliação e Desenvolvimento:
-          - Nível 1:
-              - Planejamento do Relato de Resultados da Análise de Tarefas: design_avaliacao/nivel1/relato_resultados.md
-    - Apresentações:
-          - Primeira Etapa: apresentacoes/1a_apresentacao.md
-          - Segunda Etapa: apresentacoes/2a_apresentacao.md
-          - Terceira Etapa: apresentacoes/3a_apresentacao.md
+  - Home: index.md
+  - Reuniões:
+      - Reunião 1: reunioes/reuniao1.md
+      - Reunião 2: reunioes/reuniao2.md
+      - Reunião 3: reunioes/reuniao3.md
+      - Reunião 4: reunioes/reuniao4.md
+      - Reunião 5: reunioes/reuniao5.md
+  - Planejamento:
+      - Reuniões: planejamento/reunioes.md
+      - Cronograma: planejamento/cronograma.md
+      - Cronograma Executado: planejamento/cronograma_executado.md
+      - Metodologias: planejamento/metodologia.md
+      - Ferramentas: planejamento/ferramentas.md
+      - Sítios Avaliados:
+          - Sítios Avaliados: planejamento/sites_avaliados/sites_avaliados.md
+          - Avaliação NFE: planejamento/sites_avaliados/avaliacao_NFE.md
+          - Avaliação SAAE: planejamento/sites_avaliados/avaliacao_SAAE.md
+          - Avaliação CAESB: planejamento/sites_avaliados/avaliacao_CAESB.md
+          - Avaliação Caixa Econômica Federal: planejamento/sites_avaliados/avaliacao_CAIXA.md
+          - Avaliação SSALTO: planejamento/sites_avaliados/avaliacao_SSALTO.md
+          - Avaliação DETRAN: planejamento/sites_avaliados/avaliacao_DETRANGO.md
+      - Sítio Escolhido: planejamento/site_escolhido.md
+      - Processo de Design: planejamento/design.md
+  - Análise de Requisitos:
+      - Aspectos Éticos: analise_requisitos/aspectos_eticos.md
+      - Perfil do Usuário: analise_requisitos/perfilUsuario.md
+      - Princípios e diretrizes do projeto: analise_requisitos/principios.md
+      - Personas: analise_requisitos/personas.md
+      - Análise de Tarefas: analise_requisitos/analise_de_tarefas.md
+      - Cenários: analise_requisitos/cenarios.md
+      - Característica para Plataforma: analise_requisitos/caracteristicas_para_plataforma.md
+      - Guia de Estilo: analise_requisitos/guia_estilo.md
+      - Mapa de empatia: analise_requisitos/mapa_de_empatia.md
+      - Metas de usabilidade: analise_requisitos/metas_de_usabilidade.md
+  - Design, Avaliação e Desenvolvimento:
+      - Nível 1:
+          - Análise de tarefas:
+              - Planejamento do Relato de Resultados da Análise de Tarefas: design_avaliacao/nivel1/analise_de_tarefas/relato_resultados.md
+  - Apresentações:
+      - Primeira Etapa: apresentacoes/1a_apresentacao.md
+      - Segunda Etapa: apresentacoes/2a_apresentacao.md
+      - Terceira Etapa: apresentacoes/3a_apresentacao.md
 
 markdown_extensions:
   - tables

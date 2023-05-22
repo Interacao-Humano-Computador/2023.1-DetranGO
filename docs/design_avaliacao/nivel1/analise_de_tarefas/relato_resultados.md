@@ -39,11 +39,11 @@ Aqui, deve-se discorrer sobre os dados coletados de maneira analítica e clara, 
 
 Nesta seção devem ser delineadas correções possíveis no artefato de análise de tarefas com base no que foi concluído e aprendido com a execução da avaliação.
 
-## Bibliografia
+## 4. Bibliografia
 
 > [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1
 
-## 8. Histórico de versão
+## 5. Histórico de versão
 | Versão | Data       | Descrição            | Autor(es)   | Revisor(es)    |
 |--------|------------|----------------------|-------------|----------------|
 | `1.0`  | 19/05/2023 | Criação do documento | Pedro Henrique e Pedro Muniz | João Morbeck |
