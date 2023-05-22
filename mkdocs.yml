@@ -39,6 +39,7 @@ nav:
           - Reunião 2: reunioes/reuniao2.md
           - Reunião 3: reunioes/reuniao3.md
           - Reunião 4: reunioes/reuniao4.md
+          - Reunião 5: reunioes/reuniao5.md
     - Planejamento:
           - Reuniões: planejamento/reunioes.md
           - Cronograma: planejamento/cronograma.md
@@ -68,8 +69,9 @@ nav:
           - Metas de usabilidade: analise_requisitos/metas_de_usabilidade.md
     - Design, Avaliação e Desenvolvimento:
           - Nível 1:
-              - Storyboards:
-                  - Planejamento do Relato de Resultados da Avaliação: design_avaliacao/nivel1/storyboard/storyboard_relato_resultados.md
+                - Análise de Tarefas:
+                      - Planejamento da avaliação: design_avaliacao/nivel1/analise_tarefas/planejamento_analise_tarefas.md 
+                      - Planejamento do Relato de Resultados da Análise de Tarefas: design_avaliacao/nivel1/analise_de_tarefas/relato_resultados.md
     - Apresentações:
           - Primeira Etapa: apresentacoes/1a_apresentacao.md
           - Segunda Etapa: apresentacoes/2a_apresentacao.md
