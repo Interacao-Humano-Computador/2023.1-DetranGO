@@ -34,8 +34,8 @@ A tabela 1 consiste na tabela de exemplos de critérios de avaliação para a et
 |8 - A(s) ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc).|Sim|
 |9 - A gravação da reunião do grupo.|Sim|
 |10 - O perfil do usuário?|Sim|
-|11 - O perfil do usuário segue os atributos de (Hackos e Redish, 1998; Courage e Baxter, 2005) (`reduzido para melhor vizualização`)|Incompleto|
-|12 - O perfil do usuário define os grupos de atributos apresentados no capítulo 8 - Organização do Espaço de Problema (`reduzido para melhor vizualização`)|Incompleto|
+|11 - O perfil do usuário segue os atributos de (Hackos e Redish, 1998; Courage e Baxter, 2005) (`reduzido para melhor visualização`)|Incompleto|
+|12 - O perfil do usuário define os grupos de atributos apresentados no capítulo 8 - Organização do Espaço de Problema (`reduzido para melhor visualização`)|Incompleto|
 |13 - Considera aspectos Éticos de Pesquisas Envolvendo Pessoas?|Sim|
 |14 - Os 4 princípios (da autonomia, da beneficência, princípio da não maleficência e da justiça e equidade)|Sim|
 |15 - que solicitará a permissão para gravar a voz ou imagem de qualquer pessoa, antes de começar a gravação?|Sim|
@@ -63,3 +63,4 @@ Tabela 1 - Checklist da segunda entrega (Adaptado de SALES, 2023).
 |  Versão  |   Data   |                      Descrição          |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------- | -------------- | ------------- |
 |  `1.0`   | 08/05/23 | Criação da página da segunda apresentação | Felipe M. |  Carlos E. |
+|  `1.1`   | 22/05/23 | Correção de erros ortográficos | Felipe M. |  Carlos E. |

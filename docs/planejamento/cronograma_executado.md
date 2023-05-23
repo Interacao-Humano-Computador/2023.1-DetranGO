@@ -58,10 +58,26 @@ A tabela 3 descreve o cronograma executado da etapa 3 do projeto. A etapa se pas
 | Detalhamento de metas de usabilidade | 12/05 | 13/05 | [Metas de Usabilidade](./../analise_requisitos/metas_de_usabilidade.md) | Amanda N, Pedro H. | Felipe M. |
 | Criação mapa de empatia | 11/05 | 12/05 | [Mapa de Empatia](./../analise_requisitos/mapa_de_empatia.md) | Pedro F, Felipe M. | Carlos E. |
 | Criação do guia de estilo | 13/05 | 14/05 | [Guia de Estilo](./../analise_requisitos/guia_estilo.md) | Pedro H., João M e Carlos E. | Pedro F. |
-| Gravar a apresentação | 14/05 | 14/05 | [Apresentação da terceira etapa]() | Felipe M. | Carlos E. |
-| Editar a apresentação | 15/05 | 15/05 | [Apresentação da terceira etapa]() | Felipe M. | Carlos E. |
+| Gravar a apresentação | 14/05 | 14/05 | [Apresentação da terceira etapa](./../apresentacoes/3a_apresentacao.md) | Felipe M. | Carlos E. |
+| Editar a apresentação | 15/05 | 15/05 | [Apresentação da terceira etapa](./../apresentacoes/3a_apresentacao.md) | Felipe M. | Carlos E. |
 
 Tabela 3: Cronograma executado da etapa 3 (Fonte: Do autor, 2023).
+
+## Cronograma executado da etapa 4
+
+A tabela 4 descreve o cronograma executado da etapa 4 do projeto. A etapa se passou no espaço entre os dias 16/05/2023 e 22/05/2023.
+
+| **Atividade** | **Data de entrega** | **Data de revisão** | **Artefato elaborado** | **Autor(es)** | **Revisor(es)** |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| Storyboard - Planejamento da avaliação | 19/05/2023 | 21/05/2023 | [Storyboard - Planejamento da avaliação](./../design_avaliacao/nivel1/storyboards/planejamento_avaliacao.md) | João M. | Amanda N. |
+| Análise de tarefas - Planejamento da avaliação | 21/05/2023 | 22/05/2023 | [Análise de tarefas - Planejamento da avaliação](./../design_avaliacao/nivel1/analise_tarefas/planejamento_analise_tarefas.md) | Felipe M. | Carlos E. |
+| Storyboard - Planejamento do relato dos resultados da avaliação | 19/05/2023 | 22/05/2023 | [Storyboard - Planejamento do relato dos resultados da avaliação](./../design_avaliacao/nivel1/storyboards/storyboard_relato_resultados.md) |Amanda N., Carlos E. | Pedro F. |
+| Análise de tarefas - Planejamento do relato dos resultados da avaliação | 19/05/2023 | 22/05/2023 |[Análise de tarefas - Planejamento do relato dos resultados da avaliação](./../design_avaliacao/nivel1/analise_tarefas/relato_resultados.md) |Pedro H. | Amanda N. |
+| Gravar a apresentação | 22/05/2023 | 22/05/2023 |[Apresentação da quarta etapa](./../apresentacoes/4a_apresentacao.md)| Carlos E. | Felipe M. |
+| Editar a apresentação | 22/05/2023 | 22/05/2023 |[Apresentação da quarta etapa](./../apresentacoes/4a_apresentacao.md) | Carlos E. | Felipe M. |
+
+Tabela 4: Cronograma executado da etapa 4 (Fonte: Do autor, 2023).
+
 
 ## Bibliografia
 
