@@ -37,11 +37,11 @@ A tabela 1 consiste na tabela de exemplos de critérios de avaliação para a et
 |9 - A gravação da reunião do grupo.|Sim|
 |10 - As características da plataforma para o projeto|Sim|
 |11 - Os Princípios Gerais do Projeto que serão utilizados no projeto?|Sim|
-|12 - Os Princípios Gerais do Projeto contém os seguintes tópicos (`reduzido para melhor vizualização`)|Sim|
+|12 - Os Princípios Gerais do Projeto contém os seguintes tópicos (`reduzido para melhor visualização`)|Sim|
 |13 - As metas de usabilidade que devem ser alcançadas no projeto?|Sim|
 |14 - A razão da seleção das metas de usabilidade?|Não|
 |15 - O Guia de Estilo do projeto?|Sim|
-|16 - O Guia de Estilo do projeto possui a seguinte estrutura (`reduzido para melhor vizualização`) |Sim|
+|16 - O Guia de Estilo do projeto possui a seguinte estrutura (`reduzido para melhor visualização`) |Sim|
 |17 - O Guia de Estilo corresponde ao site avaliado?|Sim|
 
 Tabela 1 - Checklist da terceira entrega (Adaptado de SALES, 2023).
@@ -57,3 +57,4 @@ Tabela 1 - Checklist da terceira entrega (Adaptado de SALES, 2023).
 |  Versão  |   Data   |                      Descrição          |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------- | -------------- | ------------- |
 |  `1.0`   | 14/05/23 | Criação da página da terceira apresentação | Felipe M. |  Carlos E. |
+|  `1.1`   | 22/05/23 | Correção de erros ortográficos | Felipe M. |  Carlos E. |
