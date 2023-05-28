@@ -71,10 +71,12 @@ nav:
           - Nível 1:
                 - Storyboards:
                       - Planejamento da Avaliação do Storyboard: design_avaliacao/nivel1/storyboards/planejamento_avaliacao.md
-                      - Planejamento do Relato de Resultados da Análise: design_avaliacao/nivel1/storyboards/storyboard_relato_resultados.md
+                      - Planejamento do Relato de Resultados da Análise: design_avaliacao/nivel1/storyboards/planejamento_relato_resultados.md
                 - Análise de Tarefas:
                       - Planejamento da Avaliação: design_avaliacao/nivel1/analise_tarefas/planejamento_analise_tarefas.md 
-                      - Planejamento do Relato de Resultados da Análise de Tarefas: design_avaliacao/nivel1/analise_tarefas/relato_resultados.md
+                      - Planejamento do Relato de Resultados da Análise de Tarefas: design_avaliacao/nivel1/analise_tarefas/planejamento_relato_resultados.md
+                      - Planejamento do Relato de Resultados da Análise de Tarefas: design_avaliacao/nivel1/analise_tarefas/relato_resultados_tarefas.md
+
     - Apresentações:
           - Primeira Etapa: apresentacoes/1a_apresentacao.md
           - Segunda Etapa: apresentacoes/2a_apresentacao.md
