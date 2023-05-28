@@ -38,7 +38,9 @@ Entrevista 01 - Jhoane
 
 ## Problemas Encontrados
 
+De maneira geral, os problemas encontrados foram acerca da quantidade de informação das páginas iniciais, onde nossa entervistada, prefere utilizar o aplicativo móvel à o sítio do Detran-GO. Desse modo, podemos acrescentar a dificuldade se visualizar e encontrar tarefas no sistema em questão.
+
 ## Histórico da versão
 | Versão | Data     | Descrição                                 | Autor(es) | Revisor(es) |
 | ------ | -------- | ----------------------------------------- | --------- | ----------- |
-| `1.0`  | 28/05/23 | Criação do documento e adição do conteúdo | Amanda N. | Pedro H.   |
+| `1.0`  | 28/05/23 | Criação do documento e adição do conteúdo | Amanda N. e João M. | Pedro H.   |
