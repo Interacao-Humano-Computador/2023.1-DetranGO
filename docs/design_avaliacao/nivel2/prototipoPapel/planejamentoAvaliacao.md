@@ -149,4 +149,4 @@ Após a execução da avaliação, os dados recolhidos deverão ser tratados e r
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |--|--|--|--|--|
-| `1.0` | 09/05/23 | Criação do documento e adição do conteúdo | Pedro M. | Felipe M. |
+| `1.0` | 28/05/23 | Criação do documento e adição do conteúdo | Pedro M. | Felipe M. |
