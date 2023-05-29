@@ -1,4 +1,4 @@
-# Planejamento da avaliação da análise de tarefas
+# Análise de Tarefas - Planejamento da avaliação
 
 ## Introdução
 
@@ -89,7 +89,7 @@ O espaço destas entrevistas será a plataforma Google Meet. A princípio, será
 
 |**Entrevistador**|**Data**|**Horário**|**Entrevistado**|
 |:-:|:-:|:-:|:-:|
-| (A definir) |24/05/2023| 15:00 | (A definir) |
+| Amanda Noda |27/05/2023| 15:20 | Jhoane Alexssandra |
 
 Tabela 3: Cronograma da entrevista 1 (Fonte: do autor).
 
