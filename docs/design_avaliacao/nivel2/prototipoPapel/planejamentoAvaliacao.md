@@ -65,6 +65,42 @@ As entrevistas poderão ser realizadas de forma presencial ou remota. Para que s
 #### 3.4.4 Teste piloto
 Antes de realizar as entrevistas de fato, deverá ser realizado um teste inicial pela equipe de desenvolvimento, visando afirmar o funcionamento de todas as ferramentas utilizadas, além da identificação de problemas não encontrados anteriormente.
 
+A realização do teste piloto deverá seguir o cronograma descrito na tabela 2.
+
+<center>
+
+|**Entrevistador**|**Data**|**Horário**|**Entrevistado**|
+|:-:|:-:|:-:|:-:|
+| João Morbeck |31/05/2023| 15:00 | Pedro Henrique |
+
+Tabela 2: Cronograma do teste piloto (Fonte: Autor, 2023).
+
+</center>
+
+#### 3.4.5 Entrevistas
+
+Devem ocorrer duas entrevistas para a avaliação do protótipo de papel com usuários distintos, a fim de obter opiniões mais diversas a respeito do site. O planejamento das duas entrevistas está delineado pelas tabelas 3 e 4.
+ 
+<center>
+
+|**Entrevistador**|**Data**|**Horário**|**Entrevistado**|
+|:-:|:-:|:-:|:-:|
+| (A definir) |01/06/2023| 17:00 | (A definir) |
+
+Tabela 3: Cronograma da primeira entrevista (Fonte: Autor, 2023).
+
+</center>
+
+<center>
+
+|**Entrevistador**|**Data**|**Horário**|**Entrevistado**|
+|:-:|:-:|:-:|:-:|
+| (A definir) |02/06/2023| 17:00 | (A definir) |
+
+Tabela 4: Cronograma da segunda entrevista (Fonte: Autor, 2023).
+
+</center>
+
 ### 3.5 D - Decidir como lidar com questões éticas
 As questões éticas a respeito da avaliação devem ser tratadas de acordo com o que foi definido no documento de [Aspectos éticos](../../../analise_requisitos/aspectos_eticos.md)[1] sobre pesquisa com pessoas.
 
