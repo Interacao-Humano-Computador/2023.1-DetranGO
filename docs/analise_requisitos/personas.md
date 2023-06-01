@@ -22,7 +22,7 @@ As personas serão definidas neste artefato com o auxílio do artefato de [perfi
 
 ## Elenco de personas
 
-Como detalhado por Courage e Baxter (2005), deve*se criar ao menos uma persona por papel de usuário, e o elenco de personas deve ter de 3 a 12 personas [1]. Também é importante para Cooper (1999, 2014) que o sistema não seja projetado para uma gama ampla de personas, mas sim para uma persona em específico [1]. Assim, este artefato detalhará 5 personas, sendo duas delas **primárias** e outras duas **secundárias** (a depender da sua importância para o direcionamento do projeto) e uma **antipersona** para quem o sistema não é direcionado.
+Como detalhado por Courage e Baxter (2005), deve*se criar ao menos uma persona por papel de usuário, e o elenco de personas deve ter de 3 a 12 personas [1]. Também é importante para Cooper (1999, 2014) que o sistema não seja projetado para uma gama ampla de personas, mas sim para uma persona em específico [1]. Assim, este artefato detalhará 5 personas, sendo duas delas **primárias** e outras duas **secundárias** (a depender da sua importância para o direcionamento do projeto) e uma **antipersona** para quem o sistema não é direcionado. Foram utilizadas 5 personas por termos muitas atividades no site e precisarmos direcionar nosso foco nas principais, além de ser uma quantidade ideal para criação de cenarios.
 
 ## Personas primárias
 
@@ -161,3 +161,4 @@ Como detalhado por Courage e Baxter (2005), deve*se criar ao menos uma persona p
 | `1.0`  | 05/05/23 | Criação do documento e adição do conteúdo | João M. e Felipe M. | Carlos E.   |
 | `1.1`  | 06/05/23 | Criação de personas secundárias | João M. e Felipe M. | Carlos E.   |
 | `1.2`  | 07/05/23 | Criação de personas primárias e antipersona | João M. e Felipe M. | Carlos E.   |
+| `1.3`  | 01/06/23 | Adição explicação número de personas | Carlos E. | Amanda Noda |
