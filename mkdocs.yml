@@ -71,22 +71,40 @@ nav:
           - Nível 1:
                 - Storyboards:
                       - Planejamento da Avaliação do Storyboard: design_avaliacao/nivel1/storyboards/planejamento_avaliacao.md
-                      - Planejamento do Relato de Resultados da Análise: design_avaliacao/nivel1/storyboards/planejamento_relato_resultados.md
-                      - Relato de Resultados do Storyboard: design_avaliacao/nivel1/storyboards/storyboard_relato.md
+                      - Planejamento do Relato de Resultados da Análise: design_avaliacao/nivel1/storyboards/storyboard_relato_resultados.md
                 - Análise de Tarefas:
                       - Planejamento da Avaliação: design_avaliacao/nivel1/analise_tarefas/planejamento_analise_tarefas.md 
-                      - Planejamento do Relato de Resultados da Análise de Tarefas: design_avaliacao/nivel1/analise_tarefas/planejamento_relato_resultados.md
-                      - Relato de Resultados da Análise de Tarefas: design_avaliacao/nivel1/analise_tarefas/relato_resultados_tarefas.md
+                      - Planejamento do Relato de Resultados da Análise de Tarefas: design_avaliacao/nivel1/analise_tarefas/relato_resultados.md
           - Nível 2:
                 - Protótipo de papel:
                       - Planejamento da avaliação do protótipo de papel: design_avaliacao/nivel2/prototipoPapel/planejamentoAvaliacao.md
-                      - Planejamento do Relato de Resultados do Protótipo de Papel: design_avaliacao/nivel2/prototipoPapel/relatoResultados.md
+    - Verificação:
+          - Planejamento da verificação: verificacao/planejamento.md
+          - Teste Piloto:
+                      - Planejamento: verificacao/teste/planejamento.md
+                      - Aspectos gerais: verificacao/teste/aspectos_gerais.md
+                      - Processo de design: verificacao/teste/processo_de_design.md
+                      - Perfil de usuário: verificacao/teste/perfil_de_usuario.md
+                      - Personas: verificacao/teste/personas.md
+                      - Aspectos éticos: verificacao/teste/aspectos_eticos.md
+                      - Análise de tarefas: verificacao/teste/analise_de_tarefas.md
+                      - Metas de usabilidade: verificacao/teste/metas_de_usabilidade.md
+                      - Características da Plataforma: verificacao/teste/caract_da_plataforma.md
+                      - Princípios gerais de projeto: verificacao/teste/principios_gerais_de_projeto.md
+                      - Guia de estilo: verificacao/teste/guia_de_estilo.md
+                      - Planejamento da avaliação - Análise de tarefas: verificacao/teste/planejamentoA_tarefas.md
+                      - Planejamento do relato - Análise de tarefas: verificacao/teste/planejamentoR_tarefas.md
+                      - Relato - Análise de tarefas: verificacao/teste/relato_tarefas.md
+                      - Planejamento da avaliação - Storyboard: verificacao/teste/planejamentoA_storyboard.md
+                      - Planejamento do relato - Storyboard: verificacao/teste/planejamentoR_storyboard.md
+                      - Relato - Storyboard: verificacao/teste/relato_storyboard.md
+                      - Planejamento da avaliação - Protótipo de papel: verificacao/teste/planejamentoA_papel.md
+                      - Planejamento do relato - Protótipo de papel: verificacao/teste/planejamentoR_papel.md
     - Apresentações:
           - Primeira Etapa: apresentacoes/1a_apresentacao.md
           - Segunda Etapa: apresentacoes/2a_apresentacao.md
           - Terceira Etapa: apresentacoes/3a_apresentacao.md
           - Quarta Etapa: apresentacoes/4a_apresentacao.md
-          - Quinta Etapa: apresentacoes/5a_apresentacao.md
 
 markdown_extensions:
   - tables
