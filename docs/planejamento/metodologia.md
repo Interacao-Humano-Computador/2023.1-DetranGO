@@ -14,7 +14,7 @@ A organização das tarefas será feita por meio da criação de issues e a revi
 
 <center>
 
-![Fluxo scrum](../assets/metodologia/scrum-cycle.png){width="100%"}
+![Fluxo scrum](../assets/metodologia/cycle-scrum.png){width="100%"}
 Figura 1: Scrum fluxo (Fonte: [link](https://www.wrike.com/project-management-guide/methodologies/), 2023).
 
 </center>
@@ -29,7 +29,7 @@ Definimos a utilização de branches para realização de cada issue, ou mais de
 
 <center>
 
-![Fluxo branches](../assets/metodologia/GitHub-Flow.webp){width="100%"}
+![Fluxo branches](../assets/metodologia/github-flow.png){width="100%"}
 Figura 2: Fluxo de branches (Fonte: [link](https://build5nines.com/introduction-to-git-version-control-workflow/), 2023).
 
 </center>
@@ -64,3 +64,4 @@ Para o projeto, implementamos uma política que simplifica o controle das ativid
 | Versão | Data     | Descrição                                 | Autor(es)      | Revisor(es)  |
 | ------ | -------- | ----------------------------------------- | -------------- | ------------ |
 | `1.0`  | 13/04/23 | Criação do documento e adição do conteúdo | Carlos Eduardo | João Morbeck |
+| `1.1`  | 05/06/23 | Tradução das imagens | Carlos Eduardo | João Morbeck |

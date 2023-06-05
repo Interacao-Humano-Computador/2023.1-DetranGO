@@ -71,8 +71,8 @@ A tabela 4 descreve o cronograma executado da etapa 4 do projeto. A etapa se pas
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | Storyboard - Planejamento da avaliação | 19/05/2023 | 21/05/2023 | [Storyboard - Planejamento da avaliação](./../design_avaliacao/nivel1/storyboards/planejamento_avaliacao.md) | João M. | Amanda N. |
 | Análise de tarefas - Planejamento da avaliação | 21/05/2023 | 22/05/2023 | [Análise de tarefas - Planejamento da avaliação](./../design_avaliacao/nivel1/analise_tarefas/planejamento_analise_tarefas.md) | Felipe M. | Carlos E. |
-| Storyboard - Planejamento do relato dos resultados da avaliação | 19/05/2023 | 22/05/2023 | [Storyboard - Planejamento do relato dos resultados da avaliação](./../design_avaliacao/nivel1/storyboards/planejamento_relato_resultados.md) |Amanda N., Carlos E. | Pedro F. |
-| Análise de tarefas - Planejamento do relato dos resultados da avaliação | 19/05/2023 | 22/05/2023 |[Análise de tarefas - Planejamento do relato dos resultados da avaliação](./../design_avaliacao/nivel1/analise_tarefas/planejamento_relato_resultados.md) |Pedro H. | Amanda N. |
+| Storyboard - Planejamento do relato dos resultados da avaliação | 19/05/2023 | 22/05/2023 | [Storyboard - Planejamento do relato dos resultados da avaliação](./../design_avaliacao/nivel1/storyboards/storyboard_relato.md) |Amanda N., Carlos E. | Pedro F. |
+| Análise de tarefas - Planejamento do relato dos resultados da avaliação | 19/05/2023 | 22/05/2023 |[Análise de tarefas - Planejamento do relato dos resultados da avaliação](./../design_avaliacao/nivel1/analise_tarefas/relato_resultados_tarefas.md) |Pedro H. | Amanda N. |
 | Gravar a apresentação | 22/05/2023 | 22/05/2023 |[Apresentação da quarta etapa](./../apresentacoes/4a_apresentacao.md)| Carlos E. | Felipe M. |
 | Editar a apresentação | 22/05/2023 | 22/05/2023 |[Apresentação da quarta etapa](./../apresentacoes/4a_apresentacao.md) | Carlos E. | Felipe M. |
 
@@ -107,3 +107,4 @@ Tabela 5: Cronograma executado da etapa 5 (Fonte: Do autor, 2023).
 |  `1.3`   | 15/05/23 | Adição do cronograma executado da etapa 3 | Carlos E. | Felipe M. |
 |  `1.4`   | 22/05/23 | Adição do cronograma executado da etapa 4 | Felipe M. | Carlos E. |
 |  `1.5`   | 29/05/23 | Adição do cronograma executado da etapa 5 | Felipe M. | Carlos E. |
+|  `1.6`   | 29/05/23 | Correção de links de algumas páginas | Carlos E. | Felipe M. |

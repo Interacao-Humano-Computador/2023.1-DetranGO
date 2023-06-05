@@ -55,7 +55,7 @@ Figura 1 - Página inicial DetranGO (fonte: [DetranGO](https://www.detran.go.gov
 Uma das partes importantes do guia de estilo são os elementos de interface. Esses elementos são responsáveis por compor as interfaces gráficas que os usuários terão contato durante o uso do sistema. Segue abaixo cada um dos elementos trabalhados neste tópico.
 
 ### 4.1 Janelas
-Foram consideradas pelo grupo as janelas sendo todo o espaço que contempla a interface de uma das páginas do site. Para garantir a padronização dos diferentes ambientes foi pensado em um modelo simples, escalável e que facilite as atividades do usuário para orientar os designers no momento de pensar em uma interface para o sistema. O modelo feito é o apresentado na figura 2.
+Foram consideradas pelo grupo as janelas sendo todo o espaço que contempla a interface de uma das páginas do site. Para garantir a padronização dos diferentes ambientes foi pensado em um modelo simples, escalável e que facilite as atividades do usuário para orientar os designers no momento de pensar em uma interface para o sistema. O modelo feito é o apresentado na figura 2. Com as janelas apresentadas na figura 2 buscamos respeitar o principio de "Visibilidade e Reconhecimento" não atendido no site atualmente.
 <center>
 
 ![Modelo de janelas](../assets/guia_estilo/janelas.png)
@@ -65,7 +65,7 @@ Figura 2 - Modelo de janelas (fonte: autores, 2023).
 </center>
 
 ### 4.2 Tipografia
-A tipografia escolhida foi a fonte Inter. A escolha da fonte foi pensada por ter uma boa leitura, para apresentar as informações, além de ser uma fonte mais moderna para o site. Segue abaixo uma ilustração mostrando os diferentes pesos, contextos e suas aplicações da fonte escolhida, na Figura 3.
+A tipografia escolhida foi a fonte Inter. A escolha da fonte foi pensada por ter uma boa leitura, para apresentar as informações, além de ser uma fonte mais moderna para o site. Segue abaixo uma ilustração mostrando os diferentes pesos, contextos e suas aplicações da fonte escolhida, na Figura 3. Com a definição da tipografia buscamos atender ao princípio "Contéudo Relevante" pois com uma tipografia e tamanhos definidos podemos dar maior atenção aos contéudos mais importantes.
 <center>
 
 ![Tipografia utilizada](../assets/guia_estilo/fontes.png)
@@ -74,7 +74,7 @@ Figura 3 - Tipografia utilizadas(fonte: autores, 2023).
 </center>
 
 ### 4.3 Cores
-As cores são um elemento essencial no guia de estilo e são responsáveis por grande parte da mensagem comunicada pela interface ao usuário. Para a escolha das cores foi pensada em uma paleta minimalista focando em apenas 3 cores, com suas respectivas variações para garantir a adaptação em diferentes contextos do sistema. Segue abaixo a ilustração mostrando cada uma das cores definidas, na Figura 4.
+As cores são um elemento essencial no guia de estilo e são responsáveis por grande parte da mensagem comunicada pela interface ao usuário. Para a escolha das cores foi pensada em uma paleta minimalista focando em apenas 3 cores, com suas respectivas variações para garantir a adaptação em diferentes contextos do sistema. Segue abaixo a ilustração mostrando cada uma das cores definidas, na Figura 4. Com a definição das cores buscamos atender varios princípios pois elas podem ser usadas para padronização, destaque de informações e visibilidade e reconhecimento.
 <center>
 
 ![Cores escolhidas](../assets/guia_estilo/cores.png)
@@ -97,7 +97,7 @@ O cinza, uma cor neutra característica de ambientes digitais voltada para a apl
 O usuário interage com o sítio por meio de ícones, botões e formulários.
 
 ### 5.2 Seleção de um estilo
-O estilo escolhido para botões, ícones e formulários foi pensado para ser objetivo e simples, visando uma padronização em como a interface e suas interações são feitas no sistema.
+O estilo escolhido para botões, ícones e formulários foi pensado para ser objetivo e simples, visando uma padronização em como a interface e suas interações são feitas no sistema e atendendo os princípios: "Consistência e padronização", "Visibilidade e reconhecimento" e "Promoção da eficiência do usuário".
 
 ### 5.3 Aceleradores (teclas de atalho)
 No sistema existem teclas de atalho, como aquelas voltadas para as abas mais acessadas e que serão utilizadas, as abas são:
@@ -142,14 +142,14 @@ A figura 7 ilustra os ícones escolhidos para o sítio, visando incluir as açõ
 Figura 7 - Ícones (fonte: autores, 2023).
 </center>
 
-### 6.3 Entrada / *Input*
-A Figura 8 ilustra os modelos de entrada/*input* que foram escolhidos para o sistema. Além disso, os modelos quando o *input* está em modo de: seleção, preenchido ou incorreto foram considerados para a construção desses elementos.
+### 6.3 Entrada/Campo
+A Figura 8 ilustra os modelos de entrada/campos que foram escolhidos para o sistema. Além disso, os modelos quando o campo está em modo de: seleção, preenchido ou incorreto foram considerados para a construção desses elementos.
 
 <center>
 
 ![Input](../assets/guia_estilo/input.png)
 
-Figura 8 - *Input* (fonte: autores, 2023).
+Figura 8 - Entrada/Campo (fonte: autores, 2023).
 </center>
 
 ## 7. Vocabulário e Padrões
@@ -187,3 +187,4 @@ Figura 9 - Diálogo com o usuário (fonte: [DetranGO](https://www.detran.go.gov.
 | ------ | ---------- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  | 09/05/2023 | Criação do documento.              | Carlos Eduardo, João Morbeck, Pedro Henrique | Pedro Muniz |
 | `1.1`  | 12/05/2023 | Adição das janelas, Figma, Vocabulário e Padrões, Elementos de interação e ação        | Carlos Eduardo, João Morbeck, Pedro Henrique | Pedro Muniz |
+| `1.2`  | 01/06/2023 | Correção de termos em ingles e adição de princípios atendidos.              | Carlos Eduardo | Amanda Noda |
