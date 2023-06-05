@@ -1,10 +1,28 @@
 # Verificação - Características da Plataforma
 
-## 1. Preparação 
+## 1. Introdução
 
-Será utilizado o método de "Checklist" na inspenção com perguntas que tem como base nas referências do processo de design, sendo assim, quando a pergunta não for atendida pelo artefato o documento terá uma demonstração de ocorrências de erros e acertos através de uma tabela padronizada pelo planejamento da verificação de artefatos.
+Este documento possui a função de verificar o artefato referente as Características da Plataforma do 
+projeto do [grupo 7 - Agiel](https://interacao-humano-computador.github.io/2023.1-Agiel/)[3]. As características da plataforma define limitações e possibilidades da platafoema assim como onde podemos ter acesso a mesma.
 
-## 2. Inspenção
+
+## 2. Metodologia
+
+Será utilizado o método de "Checklist" proposto no [planejamento](../planejamento.md)[1] , no qual as 
+perguntas que tem como base nas referências da análise de tarefas, sendo assim, quando a pergunta não for 
+atendida pelo artefato o documento terá uma 
+demonstração de ocorrências de erros e acertos através de uma tabela padronizada pelo planejamento da 
+verificação de artefatos do [grupo 7 - Agiel](https://interacao-humano-computador.github.io/2023.1-Agiel/)[3]
+
+
+## 3. Verificação
+
+Abaixo demonstramos através de duas tabelas as verificações realizadas no artefato escolhido. Na tabela 1, 
+avaliamos a padronização do projeto, enquanto na tabela 2, se encontram verificações obtidas através dos 
+conhecimentos obtidos  partir do plano de ensino da disciplina[4] e do livro de Interação Humano Computador 
+de Simone Barbosa[2].
+
+### 3.1 Padronização
 
 <center>
 
@@ -24,7 +42,7 @@ Tabela 2: Modelo de checklist para padronização (Fonte: Autor, 2023).
 
 </center>
 
-## 3. Acompanhamento
+## 3.2 Conteúdo
 
 <center>
 
@@ -39,7 +57,9 @@ Tabela 3: Modelo de checklist para características da plataforma (Fonte: Autor,
 
 </center>
 
-## 4. Referências Bibliográficas
+## 4. Resultados
+
+## 5. Referências Bibliográficas
 
 > [1] Agiel, acesso em: 1 de junho de 2023. Para mais informações acesse: <https://www.agiel.com.br/site/>
 
@@ -55,7 +75,7 @@ php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.
 pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf). Acesso em: 1 
 de junho de 2023;
 
-## 5. Histórico de versão
+## 6. Histórico de versão
 
 | Versão | Data     | Descrição                                        | Autor(es)   | Revisor(es)   |
 | ------ | -------- | ------------------------------------------------ | ----------- | ------------- |
