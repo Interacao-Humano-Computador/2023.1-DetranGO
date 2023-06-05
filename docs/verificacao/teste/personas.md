@@ -46,7 +46,7 @@ Tabela 2: Verificações de conteúdo (Fonte: Autor, 2023).
 </center>
 
 ## 4. Resultados
-Os resultados da verificação de aspectos gerais podem ser encontrados na tabela 3 abaixo, onde podem ser verificados o grau de satisfação e a ocorrência de erros no artefato verificado. Estes resultados levam em conta apenas a verificação do conteúdo.
+Os resultados da verificação de personas podem ser encontrados na tabela 3 abaixo, onde podem ser verificados o grau de satisfação e a ocorrência de erros no artefato verificado. Estes resultados levam em conta apenas a verificação do conteúdo.
 
 <center>
 
