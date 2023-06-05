@@ -87,7 +87,7 @@ A tabela 5 descreve o cronograma executado da etapa 5 do projeto. A etapa se pas
 | Storyboard - Relato de resultados | 29/05/2023 | 29/05/2023 | [Storyboard - Relato de resultados](./../design_avaliacao/nivel1/storyboards/storyboard_relato.md)| Pedro H., Carlos E. | Amanda N. |
 | Análise de tarefas - Relato de resultados | 29/05/2023 | 29/05/2023 | [Análise de tarefas - Relato de resultados](./../design_avaliacao/nivel1/analise_tarefas/relato_resultados_tarefas.md)| Amanda N., João M. | Pedro H. |
 | Protótipo de papel - Planejamento da avaliação | 28/05/2023 | 28/05/2023 | [Protótipo de papel - Planejamento da avaliação](./../design_avaliacao/nivel2/prototipoPapel/planejamentoAvaliacao.md) | Pedro M. | Felipe M. |
-| Protótipo de papel - Planejamento do relato dos resultados da avaliação | 29/05/2023 | 29/05/2023 | [Protótipo de papel - Planejamento do relato dos resultados da avaliação](./../design_avaliacao/nivel2/prototipoPapel/relatoResultados.md)| Felipe M. | Pedro M. |
+| Protótipo de papel - Planejamento do relato dos resultados da avaliação | 29/05/2023 | 29/05/2023 | [Protótipo de papel - Planejamento do relato dos resultados da avaliação](./../design_avaliacao/nivel2/prototipoPapel/planejamentoRelatoResultados.md)| Felipe M. | Pedro M. |
 | Gravar a apresentação | 29/05/2023 | 29/05/2023 |[Apresentação da quinta etapa](./../apresentacoes/5a_apresentacao.md)| Pedro M. | Felipe M. |
 | Editar a apresentação | 29/05/2023 | 29/05/2023 |[Apresentação da quinta etapa](./../apresentacoes/5a_apresentacao.md)| Pedro M. | Felipe M. |
 
