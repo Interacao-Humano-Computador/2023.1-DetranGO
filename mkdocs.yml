@@ -71,13 +71,16 @@ nav:
           - Nível 1:
                 - Storyboards:
                       - Planejamento da Avaliação do Storyboard: design_avaliacao/nivel1/storyboards/planejamento_avaliacao.md
-                      - Planejamento do Relato de Resultados da Análise: design_avaliacao/nivel1/storyboards/storyboard_relato_resultados.md
+                      - Planejamento do Relato de Resultados da Análise: design_avaliacao/nivel1/storyboards/planejamento_relato_resultados.md
+                      - Relato de Resultados: design_avaliacao/nivel1/storyboards/storyboard_relato.md
                 - Análise de Tarefas:
                       - Planejamento da Avaliação: design_avaliacao/nivel1/analise_tarefas/planejamento_analise_tarefas.md 
-                      - Planejamento do Relato de Resultados da Análise de Tarefas: design_avaliacao/nivel1/analise_tarefas/relato_resultados.md
+                      - Planejamento do Relato de Resultados da Análise de Tarefas: design_avaliacao/nivel1/analise_tarefas/planejamento_relato_resultados.md
+                      - Relato de Resultados: design_avaliacao/nivel1/analise_tarefas/relato_resultados_tarefas.md
           - Nível 2:
                 - Protótipo de papel:
-                      - Planejamento da avaliação do protótipo de papel: design_avaliacao/nivel2/prototipoPapel/planejamentoAvaliacao.md
+                      - Planejamento da Avaliação do Protótipo de Papel: design_avaliacao/nivel2/prototipoPapel/planejamentoAvaliacao.md
+                      - Planejamento do Relato de Resultados: design_avaliacao/nivel2/prototipoPapel/relatoResultados.md
     - Verificação:
           - Planejamento da verificação: verificacao/planejamento.md
           - Teste Piloto:
@@ -105,6 +108,7 @@ nav:
           - Segunda Etapa: apresentacoes/2a_apresentacao.md
           - Terceira Etapa: apresentacoes/3a_apresentacao.md
           - Quarta Etapa: apresentacoes/4a_apresentacao.md
+          - Quinta Etapa: apresentacoes/5a_apresentacao.md
 
 markdown_extensions:
   - tables

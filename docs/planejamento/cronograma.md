@@ -9,6 +9,7 @@ Este documento contém o cronograma geral do projeto, apresentando as datas de i
 Como os planejamentos podem sofrer mudanças, as versões anteriores de cronogramas estão armazenadas em um artefato de [crongramas anteriores](./cronogramas_anteriores.md).
 
 ## Cronograma geral
+Na tabela 1 temos o inicio e o fim de cada etapa planejada do projeto.
 
 <center>
 
@@ -30,6 +31,7 @@ Tabela 1: Cronograma geral do projeto (Fonte: autor, 2023).
 </center>
 
 ## Cronograma etapa 1
+Na tabela 2 é apresentado o cronograma planejado da etapa 1.
 
 <center>
 
@@ -51,6 +53,7 @@ Tabela 2: Cronograma da etapa 1 (Fonte: Do autor, 2023).
 </center>
 
 ## Cronograma etapa 2
+Na tabela 3 é apresentado o cronograma planejado da etapa 2.
 
 <center>
 
@@ -70,6 +73,7 @@ Tabela 3: Cronograma da etapa 2 (Fonte: Do autor, 2023).
 </center>
 
 ## Cronograma etapa 3
+Na tabela 4 é apresentado o cronograma planejado da etapa 3.
 
 <center>
 
@@ -88,6 +92,7 @@ Tabela 4: Cronograma da etapa 3 (Fonte: Do autor, 2023).
 </center>
 
 ## Cronograma etapa 4
+Na tabela 5 é apresentado o cronograma planejado da etapa 4.
 
 <center>
 
@@ -106,6 +111,7 @@ Tabela 5: Cronograma da etapa 4 (Fonte: Do autor, 2023).
 </center>
 
 ## Cronograma etapa 5
+Na tabela 6 é apresentado o cronograma planejado da etapa 5.
 
 <center>
 
@@ -124,6 +130,7 @@ Tabela 6: Cronograma da etapa 5 (Fonte: Do autor, 2023).
 </center>
 
 ## Cronograma etapa 6
+Na tabela 7 é apresentado o cronograma planejado da etapa 6.1 e na tabela 8 temos o cronograma da etapa 6.2.
 
 <center>
 
@@ -157,6 +164,7 @@ Tabela 8: Cronograma da etapa 6.2 (Fonte: Do autor, 2023).
 </center>
 
 ## Cronograma etapa 7
+Na tabela 9 é apresentado o cronograma planejado da etapa 7.
 
 <center>
 
@@ -174,6 +182,7 @@ Tabela 9: Cronograma da etapa 7 (Fonte: Do autor, 2023).
 </center>
 
 ## Cronograma etapa 8
+Na tabela 10 é apresentado o cronograma planejado da etapa 8.
 
 <center>
 
@@ -189,7 +198,7 @@ Tabela 10: Cronograma da etapa 8 (Fonte: Do autor, 2023)
 </center>
 
 ## Cronograma etapa 9
-
+Na tabela 11 é apresentado o cronograma planejado da etapa 9.
 <center>
 
 | **Atividade** | **Limite para entrega** | **Limite para revisão** | **Artefato a ser elaborado** | **Autor(es)** | **Revisor(es)** |
@@ -216,3 +225,4 @@ Tabela 11: Cronograma da etapa 9 (Fonte: Do autor, 2023).
 |  `1.2`   | 14/04/23 | Formulação das etapas 4, 5 e 6          | João Morbeck   | Amanda Noda   |
 |  `1.3`   | 17/04/23 | Formulação das etapas 7, 8 e 9          | Amanda Noda    | João Morbeck  |
 |  `1.4`   | 08/05/23 | Adição de coluna de artefatos e linha de revisão de entregas | Felipe M. | Carlos E.  |
+|  `1.5`   | 05/06/23 | Adição de chamada das tabelas no texto | Carlos E. | Pedro M. |
