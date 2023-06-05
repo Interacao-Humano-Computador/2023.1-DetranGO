@@ -53,6 +53,16 @@ Tabela 2: Verificações de conteúdo dos artefatos de planejamento (Fonte: Auto
 
 Os resultados da verificação dos artefatos de planejamento podem ser encontrados na tabela 3 abaixo, onde podem ser verificados o grau de satisfação e a ocorrência de erros nos artefatos verificados. Estes resultados levam em conta apenas a verificação do conteúdo destes artefatos.
 
+<center>
+
+| ![Grau de satisfação do artefato](../../assets/analise/planejamento/1.png)                                             | ![Ocorrência de erros do artefato](../../assets/analise/planejamento/2.png)                                       |
+| ------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| Figura 1: Representação do grau de satisfação do artefato (Fonte: Autor, 2023). | Figura 2: Gráfico de ocorrência de erros no artefato (Fonte: Autor, 2023). |
+
+Tabela 3: Representações gráficas dos resultados da verificação (Fonte: Autor, 2023).
+
+</center>
+
 ## 5. Referências Bibliográficas
 
 > [1] Artefato de planejamento da verificação, acesso em: 5 de junho de 2023. Para mais informações acesse: [link](../planejamento.md)

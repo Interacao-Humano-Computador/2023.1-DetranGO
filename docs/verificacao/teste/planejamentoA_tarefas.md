@@ -57,7 +57,17 @@ Tabela 3: Modelo de checklist para planejamento de análise de tarefas (Fonte: A
 </center>
 
 ## 4. Resultados
+Os resultados da verificação do planejamento da avaliação da análise de tarefas podem ser encontrados na tabela 3 abaixo, onde podem ser verificados o grau de satisfação e a ocorrência de erros no artefato verificado. Estes resultados levam em conta apenas a verificação do conteúdo.
 
+<center>
+
+| ![Grau de satisfação do artefato](../../assets/analise/tarefasp/1.png)                                             | ![Ocorrência de erros do artefato](../../assets/analise/tarefasp/2.png)                                       |
+| ------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| Figura 1: Representação do grau de satisfação do artefato (Fonte: Autor, 2023). | Figura 2: Gráfico de ocorrência de erros no artefato (Fonte: Autor, 2023). |
+
+Tabela 3: Representações gráficas dos resultados da verificação (Fonte: Autor, 2023).
+
+</center>
 
 ## 5. Referências Bibliográficas
 

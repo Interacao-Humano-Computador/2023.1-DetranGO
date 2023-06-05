@@ -63,7 +63,17 @@ Tabela 3: Modelo de checklist para relato análise de tarefas (Fonte: Autor, 202
 </center>
 
 ## 4. Resultados
+Os resultados da verificação do relato dos resultados da avaliação da análise de tarefas podem ser encontrados na tabela 3 abaixo, onde podem ser verificados o grau de satisfação e a ocorrência de erros no artefato verificado. Estes resultados levam em conta apenas a verificação do conteúdo.
 
+<center>
+
+| ![Grau de satisfação do artefato](../../assets/analise/tarefasr/1.png)                                             | ![Ocorrência de erros do artefato](../../assets/analise/tarefasr/2.png)                                       |
+| ------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| Figura 1: Representação do grau de satisfação do artefato (Fonte: Autor, 2023). | Figura 2: Gráfico de ocorrência de erros no artefato (Fonte: Autor, 2023). |
+
+Tabela 3: Representações gráficas dos resultados da verificação (Fonte: Autor, 2023).
+
+</center>
 ## 5. Referências Bibliográficas
 
 > [1] Agiel, acesso em: 1 de junho de 2023. Para mais informações acesse: <https://www.agiel.com.br/site/>

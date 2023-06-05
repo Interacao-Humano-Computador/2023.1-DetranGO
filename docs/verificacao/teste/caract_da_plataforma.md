@@ -58,6 +58,17 @@ Tabela 3: Modelo de checklist para características da plataforma (Fonte: Autor,
 </center>
 
 ## 4. Resultados
+Os resultados da verificação de características da plataforma podem ser encontrados na tabela 3 abaixo, onde podem ser verificados o grau de satisfação e a ocorrência de erros nos artefatos verificados. Estes resultados levam em conta apenas a verificação do conteúdo.
+
+<center>
+
+| ![Grau de satisfação do artefato](../../assets/analise/plataforma/1.png)               | ![Ocorrência de erros dos artefatos](../../assets/analise/plataforma/2.png)                 |
+| ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| Figura 1: Representação do grau de satisfação dos artefatos (Fonte: Autor, 2023). | Figura 2: Gráfico de ocorrência de erros nos artefatos (Fonte: Autor, 2023). |
+
+Tabela 3: Representações gráficas dos resultados da verificação (Fonte: Autor, 2023).
+
+</center>
 
 ## 5. Referências Bibliográficas
 

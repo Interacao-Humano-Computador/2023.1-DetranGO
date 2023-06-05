@@ -49,11 +49,11 @@ Tabela 2: Verificações de conteúdo (Fonte: Autor, 2023).
 
 ## 4. Resultados
 
-Os resultados da verificação de aspectos gerais podem ser encontrados na tabela 3 abaixo, onde podem ser verificados o grau de satisfação e a ocorrência de erros no artefato verificado. Estes resultados levam em conta apenas a verificação do conteúdo.
+Os resultados da verificação do planejamento do relato dos resultados da análise do protótipo de papel podem ser encontrados na tabela 3 abaixo, onde podem ser verificados o grau de satisfação e a ocorrência de erros no artefato verificado. Estes resultados levam em conta apenas a verificação do conteúdo.
 
 <center>
 
-| ![Grau de satisfação do artefato]()                                             | ![Ocorrência de erros do artefato]()                                       |
+| ![Grau de satisfação do artefato](../../assets/analise/papelpr/1.png)                                             | ![Ocorrência de erros do artefato](../../assets/analise/papelpr/2.png)                                       |
 | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
 | Figura 1: Representação do grau de satisfação do artefato (Fonte: Autor, 2023). | Figura 2: Gráfico de ocorrência de erros no artefato (Fonte: Autor, 2023). |
 
