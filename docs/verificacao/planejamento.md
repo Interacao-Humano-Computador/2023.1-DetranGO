@@ -18,7 +18,7 @@ Através dos dados coletados pelo método do _checklist_, pode-se calcular numer
 
 Figura 1: Equação para o cálculo do grau de satisfação (Fonte: Autor, 2023).
 
-| ![Modelo de representação do grau de satisfação](../assets/analise/padraoProgresso.gif)               | ![Modelo de gráfico de ocorrência de erros](../assets/analise/padraoGrafico.gif)                 |
+| ![Modelo de representação do grau de satisfação](../assets/analise/padraoProgresso.jpg)               | ![Modelo de gráfico de ocorrência de erros](../assets/analise/padraoGrafico.jpg)                 |
 | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
 | Figura 2: Modelo de representação do grau de satisfação (Fonte: Autor, 2023). | Figura 3: Modelo de gráfico de ocorrência de erros (Fonte: Autor, 2023). |
 
