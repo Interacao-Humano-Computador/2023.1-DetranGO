@@ -44,7 +44,7 @@ Além disso, utilizaremos também o framework DECIDE para guiar o planejamento e
 ### Preparação
 
 #### Definir as Tarefas
-Nesta etapa é necessário definir quais serão as atividades solicitadas aos participantes para que posssamos ter um escopo de analise e observar diferentes pessoas realizarem as mesmas atividades para percebermos dificuldades diferetes. Algumas sugestões utilizadas anteriormente em outras avaliações no trabalho são:
+Nesta etapa é necessário definir quais serão as atividades solicitadas aos participantes para que posssamos ter um escopo de analise e observar diferentes pessoas realizarem as mesmas atividades para percebermos dificuldades diferentes. Algumas sugestões utilizadas anteriormente em outras avaliações no trabalho são:
 
 - Consultar CNH
 - Agendar atendimento
