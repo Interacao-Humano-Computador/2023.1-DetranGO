@@ -85,6 +85,7 @@ nav:
             - Nível 3:
                   - Protótipo de Alta Fidelidade:
                         - Planejamento da Avaliação: design_avaliacao/nivel3/prototipoAlta/plan_avaliacao.md
+                        - Planejamento do Relato de Resultados da Análise: design_avaliacao/nivel3/prototipoAlta/plan_relato.md
     - Verificação:
           - Planejamento da verificação: verificacao/planejamento.md
           - Teste Piloto:
