@@ -133,7 +133,7 @@ Após a execução da avaliação, os dados recolhidos deverão ser tratados e r
 ## 4. Referências Bibliográficas
 > [1] Artefato Aspectos éticos, acesso em 27 de maio de 2023. Para mais informações acesse: [link](../../../analise_requisitos/aspectos_eticos.md).
 
-> [2] Artefato Planejamento do relato dos resultados da avaliação do protótipo de papel, acesso em 27 de maio de 2023. Para mais informações acesse: [link](#).
+> [2] Artefato Planejamento do relato dos resultados da avaliação do protótipo de papel, acesso em 27 de maio de 2023. Para mais informações acesse: [link](./planejamentoRelatoResultados.md).
 
 > [3] Artefato Perfil de usuário, acesso em 27 de maio de 2023. Para mais informações acesse: [link](../../../analise_requisitos/perfilUsuario.md).
 
