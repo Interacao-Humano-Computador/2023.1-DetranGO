@@ -41,6 +41,7 @@ nav:
           - Reunião 4: reunioes/reuniao4.md
           - Reunião 5: reunioes/reuniao5.md
           - Reunião 6: reunioes/reuniao6.md
+          - Reunião 7: reunioes/reuniao7.md
     - Planejamento:
           - Reuniões: planejamento/reunioes.md
           - Cronograma: planejamento/cronograma.md
@@ -116,6 +117,7 @@ nav:
           - Quarta Etapa: apresentacoes/4a_apresentacao.md
           - Quinta Etapa: apresentacoes/5a_apresentacao.md
           - Etapa 6.1: apresentacoes/6-1a_apresentacao.md
+          - Sétima Etapa: apresentacoes/7a_apresentacao.md
 
 markdown_extensions:
   - tables
