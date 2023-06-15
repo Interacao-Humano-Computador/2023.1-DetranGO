@@ -89,8 +89,31 @@ nav:
                         - Planejamento da Avaliação: design_avaliacao/nivel3/prototipoAlta/plan_avaliacao.md
                         - Planejamento do Relato de Resultados da Análise: design_avaliacao/nivel3/prototipoAlta/plan_relato.md
     - Verificação:
-          - Planejamento da verificação: verificacao/planejamento.md
+          - Planejamento da verificação: verificacao/planejamentoVerificacao.md
+          - Planejamento: verificacao/planejamento.md
+          - Aspectos gerais: verificacao/aspectos_gerais.md
+          - Processo de design: verificacao/processo_de_design.md
+          - Perfil de usuário: verificacao/perfil_de_usuario.md
+          - Personas: verificacao/personas.md
+          - Aspectos éticos: verificacao/aspectos_eticos.md
+          - Análise de tarefas: verificacao/analise_de_tarefas.md
+          - Metas de usabilidade: verificacao/metas_de_usabilidade.md
+          - Características da Plataforma: verificacao/caract_da_plataforma.md
+          - Princípios gerais de projeto: verificacao/principios_gerais_de_projeto.md
+          - Guia de estilo: verificacao/guia_de_estilo.md
+          - Planejamento da avaliação - Análise de tarefas: verificacao/planejamentoA_tarefas.md
+          - Planejamento do relato - Análise de tarefas: verificacao/planejamentoR_tarefas.md
+          - Relato - Análise de tarefas: verificacao/relato_tarefas.md
+          - Planejamento da avaliação - Storyboard: verificacao/planejamentoA_storyboard.md
+          - Planejamento do relato - Storyboard: verificacao/planejamentoR_storyboard.md
+          - Relato - Storyboard: verificacao/relato_storyboard.md
+          - Planejamento da avaliação - Protótipo de papel: verificacao/planejamentoA_papel.md
+          - Planejamento do relato - Protótipo de papel: verificacao/planejamentoR_papel.md
+          - Relato - Protótipo de papel: verificacao/relato_papel.md
+          - Planejamento da avaliação - Protótipo de alta fidelidade: verificacao/planejamentoA_alta.md
+          - Planejamento do relato - Protótipo de alta fidelidade: verificacao/planejamentoR_alta.md
           - Teste Piloto:
+                      - Planejamento da verificação: verificacao/teste/planejamentoVerificacao.md
                       - Planejamento: verificacao/teste/planejamento.md
                       - Aspectos gerais: verificacao/teste/aspectos_gerais.md
                       - Processo de design: verificacao/teste/processo_de_design.md
