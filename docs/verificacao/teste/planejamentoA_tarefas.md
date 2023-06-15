@@ -7,7 +7,7 @@ Este documento possui a função de verificar o artefato referente ao Planejamen
 
 ## 2. Metodologia
 
-Será utilizado o método de "Checklist" proposto no [planejamento](../planejamento.md)[1] , no qual as perguntas que tem como base nas referências da análise de tarefas, sendo assim, quando a pergunta não for atendida pelo artefato o documento terá uma 
+Será utilizado o método de "Checklist" proposto no [planejamento](./planejamentoVerificacao.md)[1] , no qual as perguntas que tem como base nas referências da análise de tarefas, sendo assim, quando a pergunta não for atendida pelo artefato o documento terá uma 
 demonstração de ocorrências de erros e acertos através de uma tabela padronizada pelo planejamento da 
 verificação de artefatos do [grupo 7 - Agiel](https://interacao-humano-computador.github.io/2023.1-Agiel/)[3]
 

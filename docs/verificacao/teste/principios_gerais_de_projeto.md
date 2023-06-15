@@ -8,7 +8,7 @@ projeto do [grupo 7 - Agiel](https://interacao-humano-computador.github.io/2023.
 
 ## 2. Metodologia
 
-Será utilizado o método de "Checklist" proposto no [planejamento](../planejamento.md)[1] , no qual as 
+Será utilizado o método de "Checklist" proposto no [planejamento](./planejamentoVerificacao.md)[1] , no qual as 
 perguntas que tem como base nas referências da análise de tarefas, sendo assim, quando a pergunta não for 
 atendida pelo artefato o documento terá uma 
 demonstração de ocorrências de erros e acertos através de uma tabela padronizada pelo planejamento da 
