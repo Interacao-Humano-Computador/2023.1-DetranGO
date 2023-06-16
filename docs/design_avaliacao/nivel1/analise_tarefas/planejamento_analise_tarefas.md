@@ -1,157 +1,211 @@
 # Análise de Tarefas - Planejamento da avaliação
 
-## Introdução
+## 1. Introdução
 
 Na etapa de análise de requisitos foi realizada uma [análise de tarefas](./../../../analise_requisitos/analise_de_tarefas.md) a fim de compreender como certas tarefas são realizadas e por quê. Essa análise primeiramente definiu os objetivos das pessoas para depois listar os passos para a realização de uma determinada tarefa. 
 
 Para o escopo da disciplina, foi utilizado o HTA (Análise Hierárquica de Tarefas) para analisar o desempenho dos usuários no sistema proposto. Para solidificar as conclusões e informações obtidas a partir dessa análise, bem como corrigi-las, há de se realizar uma avaliação com usuários acerca desta análise. Para tanto, faz-se necessário o planejamento desta avaliação a fim de roteirizá-la, registrar datas e demarcar métodos. Descrito neste artefato está o planejamento da avaliação da análise de tarefas. 
 
-## Metodologia
+## 2. Metodologia
 
-Para o planejamento, execução e análise desta avaliação, será utilizado o framework DECIDE, proposto por Preece et al. (2002) e descrito por Simone Barbosa et al. (2021) em seu livro [1]. O framework descreve atividades iterativas e interdependentes, descritas por sua sigla. A tabela 1 descreve, adaptando do livro de Simone Barbosa et al. (2021), as atividades do framework DECIDE de acordo com sua sigla.
+Para o planejamento da avaliação do protótipo de papel elaborado, será utilizado o framework DECIDE, descrito por Simone Barbosa em seu livro Interação Humano Computador[4], seguindo o framework, o artefato terá os seguintes tópicos:
 
-| **O framework DECIDE** | **Descrição da atividade**|
-|:----------:|:---------:|
-|**D**|Determinar os objetivos da avaliação de IHC. O avaliador deve determinar os objetivos gerais da avaliação e identificar por que e para quem tais objetivos são importantes.|
-|**E**|Explorar perguntas a serem respondidas com a avaliação. Essas perguntas são responsáveis por operacionalizar a investigação e o julgamento de valor a serem realizados. Elas devem considerar o perfil dos usuários-alvo e suas atividades. |
-|**C**|Escolher (Choose) os métodos de avaliação a serem utilizados. O avaliador deve escolher os métodos mais adequados para responder as perguntas e atingir os objetivos esperados|
-|**I**|Identificar e administrar as questões práticas da avaliação. |
-|**D**|Decidir como lidar com as questões éticas. Os participantes da avaliação devem ser respeitados e não podem ser prejudicados direta ou indiretamente, nem durante os experimentos, nem após a divulgação dos resultados da avaliação.|
-|**E**|Avaliar (Evaluate), interpretar e apresentar os dados. O avaliador precisa estar atento a alguns aspectos da avaliação realizada antes de tirar conclusões e divulgar resultados.|
+- **D** - Determinar os objetivos gerais da avaliação e identificar por que e para quem tais objetivos são importantes.
+- **E** - Explorar perguntas a serem respondidas com a avaliação.
+- **C** - Escolher (Choose) os métodos de avaliação a serem utilizados.
+- **I** - Identificar e administrar as questões práticas da avaliação.
+- **D** - Decidir como lidar com as questões éticas.
+- **E** - Avaliar (Evaluate), interpretar e apresentar os dados.
 
-<center>
+## 3. DECIDE
 
-Tabela 1: Descrição do framework DECIDE (Fonte: adaptado de Simone Barbosa et al. (2021)[1]).
+### 3.1 D: Determinar os objetivos da avaliação de IHC
 
-</center>
-
-## Atividades do framework DECIDE
-
-### D: Determinar os objetivos da avaliação de IHC
-
-Dentre os objetivos da avaliação da [análise de tarefas](./../analise_tarefas/planejamento_analise_tarefas.md) produzida em etapa anterior do projeto, pode-se destacar a necessidade de verificar se o artefato produzido atende os critérios de qualidade necessários, a verificação de problemas na descrição de tarefas a fim de melhorar este artefato e obter o ponto de vista dos utilizadores do Detran GO sobre as tarefas implementadas atualmente no sítio, observando a existência ou ausência de problemas de IHC em tarefas especificadas a fim de garantir uma análise mais detalhada e robusta [1].
+Dentre os objetivos da avaliação da [análise de tarefas](./../analise_tarefas/planejamento_analise_tarefas.md) produzida em etapa anterior do projeto, pode-se destacar a necessidade de verificar se o artefato produzido atende os critérios de qualidade necessários, a verificação de problemas na descrição de tarefas a fim de melhorar este artefato e obter o ponto de vista dos utilizadores do Detran GO sobre as tarefas implementadas atualmente no sítio, observando a existência ou ausência de problemas de IHC em tarefas especificadas a fim de garantir uma análise mais detalhada e robusta [4].
 
 Em suma, os objetivos desta avaliação podem ser listados desta forma:
 
-* Garantia da qualidade e precisão da análise;
 * Obtenção do ponto de vista do usuário sobre problemas de IHC;
 * Verificação do fluxo de tarefas.
 
-### E: Explorar perguntas a serem respondidas com a avaliação
+### 3.2 E: Explorar perguntas a serem respondidas com a avaliação
 
-A avaliação da análise de tarefas será balizada pelas perguntas a serem respondidas a partir da execução da avaliação. A tabela 2 descreve as principais perguntas a serem respondidas pela avaliação a partir da tabela 11.1 do livro de Simone Barbosa et al. (2021)[1].
+A avaliação da análise de tarefas será balizada pelas perguntas a serem respondidas a partir da execução da avaliação. A seguir estão descritas as perguntas elaboradas discriminadas por seu objetivo.
 
-|**Ordem das perguntas**|**Objetivo da pergunta**|**Pergunta**|**Tipo de pergunta**|**Tipo de resposta**|
-|:-:|:-:|:-:|:-:|:-:|
-|1|Identificação|Qual o nome completo do entrevistado? |Fechada|Resposta discursiva|
-|2|Identificação|Qual a idade do entrevistado?|Fechada|Resposta discursiva|
-|3|Identificação|Qual a ocupação do entrevistado?|Fechada|Resposta discursiva|
-|4|Identificação|Qual o grau de escolaridade do entrevistado?|Fechada|Resposta discursiva|
-|5|Identificação|Qual o grau de experiência tecnológica do entrevistado? (tecnófilo/tecnófobo)|Fechada|Resposta discursiva|
-|6 (`Pergunta especial`)|Verificação do fluxo de tarefas|O entrevistado já utilizou o Detran GO?|Fechada|Sim ou não|
-|7|Obtenção do ponto de vista do usuário sobre problemas de IHC|O entrevistado acha que a interface do Detran GO é satisfatória para a realização de suas tarefas?|Fechada|Sim ou não|
-|8|Obtenção do ponto de vista do usuário sobre problemas de IHC|O entrevistado já teve problemas ou confundiu-se durante o uso do site do Detran GO?|Fechada|Resposta discursiva|
-|9 (`Pergunta especial`)|Verificação do fluxo de tarefas|O entrevistado já realizou tarefas relacionadas à CNH no site do Detran GO?|Fechada|Sim ou não|
-|10|Verificação do fluxo de tarefas|O entrevistado acredita que os diagramas relacionados às tarefas de CNH são condizentes com a realidade?|Fechada|Sim ou não|
-|11 (`Pergunta especial`)|Verificação do fluxo de tarefas|O entrevistado já realizou tarefas relacionadas à veículos no site do Detran GO?|Fechada|Sim ou não|
-|12|Verificação do fluxo de tarefas|O entrevistado acredita que os diagramas relacionados às tarefas de veículos são condizentes com a realidade?|Fechada|Sim ou não|
-|13 (`Pergunta especial`)|Verificação do fluxo de tarefas|O entrevistado já realizou tarefas relacionadas à infrações no site do Detran GO?|Fechada|Sim ou não|
-|14|Verificação do fluxo de tarefas|O entrevistado acredita que os diagramas relacionados às tarefas de infrações são condizentes com a realidade?|Fechada|Sim ou não|
+#### 3.2.1 Identificação do usuário
 
-<center>
+As perguntas elaboradas para obter a identificação do usuário estão presentes na tabela 1 abaixo.
 
-Tabela 2: Descrição de principais perguntas a serem respondidas pela avaliação da análise de tarefas (Fonte: adaptado de Simone Barbosa et al. (2021)[1] e Lichess [2]).
-
-</center>
-
-Na tabela 2, são definidas `perguntas especiais`. Essas perguntas são aquelas que, a depender da resposta, alterarão de maneira significativa o fluxo da avaliação, como descrito abaixo.
-
-* **Pergunta 6**: Em caso de resposta negativa, é impossível prosseguir com a avaliação.
-* **Pergunta 9**: Em caso de resposta negativa, é impossível obter uma resposta à pergunta 10.
-* **Pergunta 11**: Em caso de resposta negativa, é impossível obter uma resposta à pergunta 12.
-* **Pergunta 13**: Em caso de resposta negativa, é impossível obter uma resposta à pergunta 14.
-
-### C: Escolher (Choose) os métodos de avaliação a serem utilizados
-
-A fim de cumprir com a obtenção do ponto de vista do usuário sobre problemas de IHC no site do Detran GO (como requisitado em [seção anterior](#d-determinar-os-objetivos-da-avaliacao-de-ihc)), é necessário que ao menos um método de avaliação de investigação seja utilizado. Com isso em mente, e observando também as principais perguntas organizadas em [seção anterior](#e-explorar-perguntas-a-serem-respondidas-com-a-avaliacao), optou-se por escolher o método de **entrevista semiestruturada**. 
-
-A entrevista é um método de coleta de dados em formato de conversa guiada, com o objetivo de extrair informações de um entrevistado [1]. Pensando nisso, optar por uma entrevista semiestruturada significa ater-se a um roteiro de tópicos, mas desviar-se dele quando necessário a fim de obter informações mais específicas e detalhadas [1]. Dessa forma, haverá a possibilidade de exceder às expectativas delineadas por este artefato sem deixar de cumpri-las.
-
-### I: Identificar e administrar as questões práticas da avaliação
-
-Para a realização de entrevistas semiestruturadas, surge a necessidade de definir um espaço para estas entrevistas, bem como recrutar usuários com base nas informações extraídas pelo artefato de [perfil do usuário](./../../../analise_requisitos/perfilUsuario.md). Em caso de falha neste recrutamento, surge a necessidade de interpretação de personas definidas em [artefato dedicado](./../../../analise_requisitos/personas.md).
-
-O espaço destas entrevistas será a plataforma Google Meet. A princípio, será definida uma entrevista. A tabelas 3 define o cronograma da entrevista com o usuário.
-
-#### Entrevista 1
-
-<center>
-
-|**Entrevistador**|**Data**|**Horário**|**Entrevistado**|
+|**Número**|**Pergunta**|**Resposta**|**Observações**|
 |:-:|:-:|:-:|:-:|
-| Amanda Noda |27/05/2023| 15:20 | Jhoane Alexssandra |
+|1|Qual o nome completo do entrevistado? |Resposta aberta | - |
+|2|Qual a idade do entrevistado?| Resposta aberta | - |
+|3|Qual a ocupação do entrevistado?| Resposta aberta | - |
+|4|Qual o grau de escolaridade do entrevistado?| Resposta aberta | - |
+|5|Qual o grau de experiência tecnológica do entrevistado? (tecnófilo/tecnófobo)| Resposta aberta | - |
 
-Tabela 3: Cronograma da entrevista 1 (Fonte: do autor).
+<center>
+
+Tabela 1: Roteiro de perguntas para obtenção da identidade do usuário (Fonte: Autor, 2023).
 
 </center>
 
+#### 3.2.2 Obtenção do ponto de vista do usuário sobre problemas de IHC
 
-### D: Decidir como lidar com as questões éticas
+As perguntas elaboradas para verificar o ponto de vista do usuário quanto aproblemas de IHC estão presentes na tabela 2 abaixo.
 
-Como já definido na seção de análise de requisitos do projeto, a coleta de informação deve seguir determinados [aspectos éticos](./../../../analise_requisitos/aspectos_eticos.md) a fim de garantir aos envolvidos a ciência de como seus dados serão utilizados.
+|**Número**|**Pergunta**|**Resposta**|**Observações**|
+|:-:|:-:|:-:|:-:|
+| 1 | O entrevistado acha que a interface do Detran GO é satisfatória para a realização de suas tarefas?| Sim / Não | - |
+| 2 | O entrevistado já teve problemas ou confundiu-se durante o uso do site do Detran GO?| Resposta aberta | - |
 
-Portanto, faz-se necessária a elaboração de um termo de consentimento para as entrevistas, a fim de que os participantes sejam informados de como seus dados serão utilizados pelos pesquisadores durante o desenvolvimento do projeto, bem como aceitação clara dos participantes sobre o uso das informações extraídas.
+<center>
 
-Abaixo, está delineado o termo de consentimento para essa entrevista.
+Tabela 2: Perguntas elaboradas para o objetivo 1 (Fonte: adaptado de Simone Barbosa et al. (2021)[4] e Lichess [6]).
 
-###  <center> Termo de consentimento Livre e esclarecido </center>
+</center>
 
-Somos estudantes de Engenharia de software da Universidade de Brasília e deejamos conduzir, com sua participação, uma **entrevista semiestruturada** (isto é, uma entrevista com tópicos definidos porém sem roteiro fixo) sobre documentos já produzidos em um projeto para a disciplina de Interação Humano Computador que discorre sobre o Detran GO, sítio da internet que busca oferecer serviços para a população do Goiás mas possui as mesmas funcionalidades de sítios do Detran de outros estados. Sua participação nesta entrevista é de caráter voluntário e pode ser interrompida a qualquer momento e por qualquer motivação.
+#### 3.2.3 Verificação do fluxo de tarefas
+
+As perguntas elaboradas para verificar se os fluxos de tarefas desenvolvidos estão de acordo com a realidade estão presentes na tabela 3 abaixo.
+
+|**Número**|**Pergunta**|**Resposta**|**Observações**|
+|:-:|:-:|:-:|:-:|
+| 1 | O entrevistado já utilizou o Detran GO? | Sim / Não| Caso a resposta seja negativa, não é possível prosseguir. |
+| 2 | O entrevistado já realizou tarefas relacionadas à CNH no site do Detran GO?| Sim / Não | - |
+| 3  | O entrevistado acredita que os diagramas relacionados às tarefas de CNH são condizentes com a realidade?| Sim / Não / Não sei | Deve ser feita somente se a resposta anterior for positiva. |
+| 4  | O entrevistado já realizou tarefas relacionadas à veículos no site do Detran GO? | Sim / Não| - |
+| 5  | O entrevistado acredita que os diagramas relacionados às tarefas de veículos são condizentes com a realidade?| Sim / Não / Não sei | Deve ser feita somente se a resposta anterior for positiva. |
+| 6  | O entrevistado já realizou tarefas relacionadas à infrações no site do Detran GO? | Sim / Não | - |
+| 7  | O entrevistado acredita que os diagramas relacionados às tarefas de infrações são condizentes com a realidade?| Sim ou não| Deve ser feita somente se a resposta anterior for positiva. |
+
+<center>
+
+Tabela 3: Perguntas elaboradas para o objetivo 2 (Fonte: adaptado de Simone Barbosa et al. (2021)[4] e Lichess [6]).
+
+</center>
+
+### 3.3 C: Escolher (Choose) os métodos de avaliação a serem utilizados
+
+O método escolhido para avaliar é a investigação com entrevistas, neste método iremos fazer uma análise sobre as respostas obtidas através das entrevistas com usuários, este método é ótimo para entender o que e como o usuário se sente ao falar sobre determinada atividade e proverá informações importantes para que o designer possa tomar decisões conscientes quanto ao público que deve atender.
+
+### 3.4 I: Identificar e administrar as questões práticas da avaliação
+
+#### 3.4.1 Recrutamento
+Para a escolha dos participantes das entrevistas, deve ser levado em conta o [perfil de usuário](../../../analise_requisitos/perfilUsuario.md)[3] elaborado anteriormente, para que se possa afirmar que os entrevistados na avaliação representam de forma correta o público alvo do sistema trabalhado.
+
+#### 3.4.2 Tarefas propostas
+Para a avaliação, é necessário que todos os fluxos de tarefas representados na análise de tarefas seja validada.
+
+#### 3.4.3 Ferramentas utilizadas
+As entrevistas poderão ser realizadas de forma presencial ou remota. Para que se possa realizar a avaliação de forma remota, os storyboards desenvolvidos devem ser convertidos em arquivos PDF utilizando a ferramenta [CamScanner](https://www.camscanner.com/)[5]. Para a realização e gravação da entrevista serão utilizadas as ferramentas [Google Meet](https://meet.google.com/)[7] para a realização da reunião e o [OBS](https://obsproject.com/pt-br/download/)[8] para a gravação da mesma.
+
+#### 3.4.4 Teste piloto
+Antes de realizar as entrevistas de fato, deverá ser realizado um teste inicial pela equipe de desenvolvimento, visando afirmar o funcionamento de todas as ferramentas utilizadas, além da identificação de problemas não encontrados anteriormente.
+
+#### 3.4.5 Participantes das atividades
+Na tabela 4 abaixo se encontram descritos os participantes do teste piloto.
+
+<center>
+
+| Atividade | Participante | Função | Papel |
+| -- | -- | -- | -- |
+| Teste piloto | Amanda Noda | Equipe de desenvolvimento | Testador |
+| Teste piloto | João Pedro Morbeck | Equipe de desenvolvimento | Testador |
+
+Tabela 4: Participantes do teste piloto(Fonte: Autor, 2023)
+
+</center>
+
+Na tabela 5 abaixo se encontram descritos os participantes da entrevista.
+
+<center>
+
+| Atividade | Participante | Função | Papel |
+| -- | -- | -- | -- |
+| Entrevista 1 | Amanda Noda | Equipe de desenvolvimento | Entrevistador |
+| Entrevista 1 | Jhoane Alexssandra | Usuário do sistema | Entrevistado |
+
+Tabela 5: Participantes da entrevista(Fonte: Autor, 2023)
+
+</center>
+
+#### 3.4.6 Cronograma das atividades 
+Na tabela 6 abaixo, estão descritos local, data e horário para o teste piloto.
+
+<center>
+
+| Atividade | Local | Data | Horário |
+| -- | -- | -- | -- |
+| Teste piloto | Remoto (Google Meet) | 26/05/2023 | 18:00 |
+
+Tabela 6: Cronograma para o teste piloto(Fonte: Autor, 2023)
+
+</center>
+
+Na tabela 7 abaixo, estão descritos local, data e horário para a entrevista.
+
+<center>
+
+| Atividade | Local | Data | Horário |
+| -- | -- | -- | -- |
+| Entrevista 1 | Remoto (Google Meet) | 27/05/2023 | 15:20 |
+
+Tabela 7: Cronograma para a entrevista(Fonte: Autor, 2023)
+
+</center>
+
+### 3.5 D: Decidir como lidar com as questões éticas
+
+As questões éticas a respeito da avaliação devem ser tratadas de acordo com o que foi definido no documento de [Aspectos éticos](../../../analise_requisitos/aspectos_eticos.md) sobre pesquisa com pessoas.
+
+Segue abaixo o termo de consentimento que será utilizado
+
+#### <center>Termo de Consentimento Livre e Esclarecido</center>
+
+---
+
+Somos estudantes de Engenharia de software da Universidade de Brasília e estamos conduzindo uma pesquisa sobre o DetranGO, sitio da internet que busca oferecer serviços para a população do Goiás mas possui as mesmas funcionalidades do Detran de outros estados, como parte de nosso projeto na disciplina de Interação Humano Computador. Sua participação neste formulário é de caráter voluntário e todas as perguntas serão mantidas para fins acadêmicos e não serão compartilhados para terceiros.
 
 Para decidir sobre o seu consentimento, é importante que você conheça as seguintes informações sobre a pesquisa:
 
 -   Nossa equipe tem o compromisso de divulgar os resultados de nossas pesquisas para o cliente.
 -   O consentimento para a participação na atividade é uma escolha livre, feita mediante a prestação de todos os esclarecimentos necessários sobre a pesquisa.
 -   A atividade pode ser interrompida a qualquer momento, segundo a sua disponibilidade e vontade.
-- A entrevista ocorrerá via Google Meet (ambiente online para videoconferências).
--   A entrevista será gravada, e a gravação efetuada será divulgada nos resultados do projeto (disponíveis em <https://interacao-humano-computador.github.io/2023.1-DetranGO/>).
+-   Será necessário gravar a atividade, e as gravações efetuadas serão divulgadas nos resultados do projeto.
 -   Os dados coletados durante a atividade destinam-se estritamente a atividades de análise e elaboração de melhorias para o sistema do DetranGO.
 
-Diante das explicações dadas neste documento, você acredita estar suficientemente informado sobre a entrevista e está de acordo com sua realização? Se o participante for menor de idade, a permissão de um responsável legal é necessária.
+Diante das explicações, é necessário que você esteja de acordo com a pesquisa que será realizada e concorda de livre e espontânea vontade em participar, como colaborador? Caso o participante seja menor de idade é necessária a permissão do responsável legal.
 
-( ) Sim, estou de acordo.  
+( ) Sim, estou de acordo. </br>
 ( ) Não estou de acordo.
 
+### 3.6 E: Avaliar (Evaluate), interpretar e apresentar os dados
 
-### E: Avaliar (Evaluate), interpretar e apresentar os dados
+Após a execução da avaliação, os dados recolhidos deverão ser tratados e representados em um relatório final, visando afirmar e melhorar os storyboards desenvolvidos. Tal relatório deverá seguir a entrutura proposta no artefato de [planejamento do relato dos resultados da análise de tarefas](./planejamento_relato_resultados.md)[2].
 
-Para finalizar a avaliação da análise de tarefas, os integrantes do grupo deverão avaliar os dados obtidos e, após esta avaliação, apresentá-los em outro artefato.
+## 4. Bibliografia
 
-## Teste piloto
+> [1] Artefato Aspectos éticos, acesso em 27 de maio de 2023. Para mais informações acesse: [link](../../../analise_requisitos/aspectos_eticos.md).
 
-A fim de garantir que os objetivos da avaliação sejam atingidos durante as entrevistas planejadas (isto é, para avaliar este planejamento), os integrantes do grupo devem realizar um teste piloto a fim de garantir que a linguagem da entrevista é clara e objetiva, bem como registrar se as ferramentas a serem utilizadas realizam sua função corretamente e permitir a correção deste planejamento anteriormente aos testes reais.
+> [2] Artefato Planejamento do relato dos resultados da avaliação da análise de tarefas, acesso em 27 de maio de 2023. Para mais informações acesse: [link](./planejamento_relato_resultados.md).
 
-A tabela 4 detalha o cronograma deste teste piloto.
+> [3] Artefato Perfil de usuário, acesso em 27 de maio de 2023. Para mais informações acesse: [link](../../../analise_requisitos/perfilUsuario.md).
 
-<center>
+> [4] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Acesso em: 27 mai. 2023.
 
-|**Entrevistador**|**Data**|**Horário**|**Entrevistado**|
-|:-:|:-:|:-:|:-:|
-| Felipe Corrêa |23/05/2023| 16:00 | (A definir) |
+> [5] CamScanner, acesso em: 27 de maio de 2023. Para mais informações acesse: [link](https://www.camscanner.com/).
 
-Tabela 4: Cronograma do teste piloto (Fonte: do autor).
+> [6] Google Meet, acesso em: 27 de maio de 2023. Para mais informações acesse: [link](https://meet.google.com/).
 
-</center>
+> [7] Lichess. Planejamento da avaliação da Análise de tarefas. Disponível em https://interacao-humano-computador.github.io/2022.2-Lichess. Acesso em 19 mai. 2023.
 
-## Bibliografia
+> [8] OBS, acesso em: 27 de maio de 2023. Para mais informações acesse: [link](https://obsproject.com/pt-br/download/).
 
-> [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
-
-> [2] Lichess. Planejamento da avaliação da Análise de tarefas. Disponível em https://interacao-humano-computador.github.io/2022.2-Lichess. Acesso em 19 mai. 2023.
-
-## Histórico de versão
+## 5. Histórico de versão
 
 | Versão | Data     | Descrição                                 | Autor(es) | Revisor(es) |
 | ------ | -------- | ----------------------------------------- | --------- | ----------- |
 | `1.0`  | 20/05/23 | Criação do documento e adição do conteúdo | Felipe M. | Carlos E.   |
 | `1.1`  | 21/05/23 | Mudanças no planejamento e organização    | Felipe M. | Carlos E.   |
+| `1.2`  | 16/06/23 | Alterações de padronização                | Pedro M.  | Amanda Noda |

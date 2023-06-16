@@ -46,3 +46,55 @@ Foram encontrados alguns pontos que deveriam ser mudados nos *storyboards*. Em g
 | `1.0`  | 25/05/23 | Criação do documento | Pedro H. e Carlos E. | Amanda Noda |
 | `1.1`  | 29/05/23 | Adição de metodologia, teste piloto, relato e problemas encontrados | Pedro H. e Carlos E. | Amanda Noda |
 |
+
+## Storyboards desenvolvidos
+
+Os storyboards desenvolvidos podem ser vistos nas figuras 1 a 6.
+
+<center>
+
+![Storyboard Consulta de CNH](../../../assets/storyboards/consulta-cnh.jpg)
+
+Figura 1 - Storyboard Consulta de CNH (Fonte: Carlos Eduardo, 2023)
+
+</center>
+
+<center>
+
+![Storyboard Consulta de Veículo](../../../assets/storyboards/consulta-veiculo.jpg)
+
+Figura 2 - Storyboard Consulta de Veículo (Fonte: Amanda Noda, 2023)
+
+</center>
+
+<center>
+
+![Storyboard Agendar atendimento](../../../assets/storyboards/agendar-atendimento.jpg)
+
+Figura 3 - Storyboard Agendar atendimento (Fonte: Pedro Muniz, 2023)
+
+</center>
+
+<center>
+
+![Storyboard Solicitar CNH](../../../assets/storyboards/solicitar-cnh.jpg)
+
+Figura 4 - Storyboard Solicitar CNH (Fonte: João Morbeck, 2023)
+
+</center>
+
+<center>
+
+![Storyboard Emissão de CRLV](../../../assets/storyboards/emissao-crlv.jpg)
+
+Figura 5 - Storyboard Emissão de CRLV (Fonte: Felipe Mastromauro, 2023)
+
+</center>
+
+<center>
+
+![Storyboard Transferência de Veículo](../../../assets/storyboards/transferencia-veiculo.jpg)
+
+Figura 6 - Storyboard Transferência de Veículo (Fonte: Pedro Henrique, 2023)
+
+</center>

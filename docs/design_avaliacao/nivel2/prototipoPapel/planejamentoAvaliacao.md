@@ -23,24 +23,56 @@ A avaliação tem como meta principal a confirmação por parte dos usuários do
 - Ideias e alternativas de design
 
 ### 3.2 E - Explorar perguntas a serem respondidas
-Os questionamentos que a avaliação deverá responder acerca de cada fluxo de atividade descritos no protótipo elaborado se encontram na tabela 1 presente abaixo.
+Para cada objetivo definido para a avaliação, foram elaboradas perguntas a serem respondidas pela mesma, tais questões são:
 
-| Número | Pergunta | Resposta | Observações |
-| ------ | -------- | -------- | ----------- |
-| 1 | Você já realizou o fluxo apresentado? | Sim/Não | - |
-| 2 | Com que frequência você realiza este fluxo? | Sim/Não | Deve ser feita somente se a resposta anterior for afirmativa |
-| 3 | Realize o fluxo de atividade no protótipo e apresente a lógica utilizada. | Aberta | O entrevistador deve auxiliar o usuário se o mesmo tiver dificuldade, porém anotando tais dificuldades. |
-| 4 | Você considera o fluxo de atividade realizado coerente com a realidade? | Sim/Não | - |
-| 5 | O que você considera não coerente com a realidade? | Aberta | Deve ser feita somente se a resposta anterior for negativa |
-| 6 | Você teve dificuldades na realização do fluxo proposto? | Sim/Não | - |
-| 7 | Quais dificuldades você encontrou? | Aberta | Deve ser feita somente se a resposta anterior for negativa |
-| 8 | Você imagina outra maneira de realizar o fluxo proposto? | Sim/Não | - |
-| 9 | Qual seria esta maneira? | Aberta | Deve ser feita somente se a resposta anterior for negativa |
-| 10 | Você considera o protótipo apresentado mais eficiente do que a função atual do site DetranGO? | Sim/Não | - |
+#### 3.2.1 Problemas de interação e design
+
+As perguntas elaboradas visando encontrar problemas de interação no protótipo estão presentes na tabela 1 abaixo.
 
 <center>
 
-Tabela 1: Roteiro de perguntas (Fonte: Autor, 2023)
+| Número | Pergunta | Resposta | Observações |
+| :-: | :-: | :-: | :-: |
+| 1 | Você conseguiu operar o sistema? | Sim / Não | - |
+| 2 | Você conseguiu atingir o objetivo proposto? | Sim / Não | - |
+| 3 | Por que você não conseguiu atingir o objetivo? | Resposta aberta | Somente deve ser feita se a resposta anterior for negativa. |
+| 4 | Alguma parte da interface te deixou insatisfeito? | - |
+| 5 | Qual parte da interface te deixou insatisfeito? | Resposta aberta | Somente deve ser feita se a resposta anterior for positiva. |
+| 6 | Você entende a função de cada elemento da interface? | Sim / Não | - |
+| 7 | Quais elementos você teve dificuldade de entender? | Resposta aberta | Somente deve ser feita se a resposta anterior for negativa. |
+
+Tabela 1: Perguntas elaboradas para o objetivo 1 (Fonte: adaptado de Simone Barbosa et al. (2021)[4]).
+
+</center>
+
+#### 3.2.2 Conformidade com um padrão
+
+As perguntas elaboradas visando verificar a padronização do protótipo estão presentes na tabela 2 abaixo.
+
+<center>
+
+| Número | Pergunta | Resposta | Observações |
+| :-: | :-: | :-: | :-: |
+| 1 | As interfaces apresentadas seguem um padrão único? | Sim / Não | - |
+| 2 | O padrão apresentado remete a padrões utilizados em outros sites da Web? | Sim / Não | - |
+
+Tabela 2: Perguntas elaboradas para o objetivo 2 (Fonte: adaptado de Simone Barbosa et al. (2021)[4]).
+
+</center>
+
+#### 3.2.3 Ideias e alternativas de design
+
+As perguntas elaboradas visando obter ideias de alternativas para o protótipo estão presentes na tabela 3 abaixo.
+
+<center>
+
+| Número | Pergunta | Resposta | Observações |
+| :-: | :-: | :-: | :-: |
+| 1 | Você considera o fluxo realizado eficiente? | Sim / Não | - | 
+| 2 | Você possui alguma anternativa para a implementação deste fluxo ou das interfaces apresentadas? | Sim / Não | - |
+| 3 | Quais alternativas você propõe? | Resposta aberta | Deve ser feita somente se a resposta anterior for positiva. | 
+
+Tabela 3: Perguntas elaboradas para o objetivo 3 (Fonte: adaptado de Simone Barbosa et al. (2021)[4]).
 
 </center>
 
@@ -50,14 +82,14 @@ Para a avaliação do protótipo, será utilizado o método da investigação at
 ### 3.4 I - Identificar e administrar as questões práticas da avaliação
 
 #### 3.4.1 Recrutamento
-Para a escolha dos participantes das entrevistas, deve ser levado em conta o [perfil de usuário](../../../analise_requisitos/perfilUsuario.md)[3] elaborado anteriormente, para que se possa afirmar que os entrevistados na avaliação representam de forma correta o público alvo do sistema trabalhado.
+Para a escolha dos participantes das entrevistas, deve ser levado em conta o [perfil de usuário](../../../analise_requisitos/perfilUsuario.md)[3] elaborado anteriormente, para que se possa afirmar que os entrevistados na avaliação representam de forma correta o público alvo do sistema trabalhado. Além disso, devem ser realizadas entrevistas com ao menos 3 usuários distintos, já que segundo Krug[] 3 ou 4 usuários são suficientes para encontrar a maioria dos problemas de um objeto a ser validado.
 
-#### 3.4.2 Fluxos representados
+#### 3.4.2 Tarefas propostas
 Na prototipação em papel será representada uma quantidade limitada de fluxos de atividade realizados no sistema, sendo estes fluxos:
 
-- A consulta de CNH pelo site do DetranGO
-- A solicitação de CNH pelo site do DetranGO
-- A emissão de CRLV pelo site do DetranGO
+- A consulta de CNH
+- A solicitação de CNH
+- A emissão de CRLV
 
 #### 3.4.3 Ferramentas utilizadas
 As entrevistas poderão ser realizadas de forma presencial ou remota. Para que se possa realizar a avaliação de forma remota, as telas prototipadas devem ser convertidas em arquivos PDF utilizando a ferramenta [CamScanner](https://www.camscanner.com/)[5]. Para a realização e gravação da entrevista serão utilizadas as ferramentas [Google Meet](https://meet.google.com/)[6] para a realização da reunião e o [OBS](https://obsproject.com/pt-br/download/)[7] para a gravação da mesma.
@@ -65,39 +97,88 @@ As entrevistas poderão ser realizadas de forma presencial ou remota. Para que s
 #### 3.4.4 Teste piloto
 Antes de realizar as entrevistas de fato, deverá ser realizado um teste inicial pela equipe de desenvolvimento, visando afirmar o funcionamento de todas as ferramentas utilizadas, além da identificação de problemas não encontrados anteriormente.
 
-A realização do teste piloto deverá seguir o cronograma descrito na tabela 2.
+#### 3.4.5 Participantes das atividades
+
+Na tabela 4 abaixo se encontram descritos os participantes do teste piloto.
 
 <center>
 
-|**Entrevistador**|**Data**|**Horário**|**Entrevistado**|
-|:-:|:-:|:-:|:-:|
-| João Morbeck |31/05/2023| 15:00 | Pedro Henrique |
+| Atividade    | Participante       | Função                    | Papel    |
+| ------------ | ------------------ | ------------------------- | -------- |
+| Teste piloto | Felipe Mastromauro | Equipe de desenvolvimento | Testador |
+| Teste piloto | Pedro Muniz        | Equipe de desenvolvimento | Testador |
 
-Tabela 2: Cronograma do teste piloto (Fonte: Autor, 2023).
+Tabela 4: Participantes do teste piloto(Fonte: Autor, 2023)
 
 </center>
 
-#### 3.4.5 Entrevistas
+Na tabela 5 abaixo se encontram descritos os participantes da entrevista 1.
 
-Devem ocorrer duas entrevistas para a avaliação do protótipo de papel com usuários distintos, a fim de obter opiniões mais diversas a respeito do site. O planejamento das duas entrevistas está delineado pelas tabelas 3 e 4.
- 
 <center>
 
-|**Entrevistador**|**Data**|**Horário**|**Entrevistado**|
-|:-:|:-:|:-:|:-:|
-| (A definir) |01/06/2023| 17:00 | (A definir) |
+| Atividade    | Participante       | Função                    | Papel         |
+| ------------ | ------------------ | ------------------------- | ------------- |
+| Entrevista 1 | Felipe Mastromauro | Equipe de desenvolvimento | Entrevistador |
+| Entrevista 1 | Pedro Muniz        | Equipe de desenvolvimento | Relator       |
+| Entrevista 1 | -     | Usuário do sistema        | Entrevistado  |
 
-Tabela 3: Cronograma da primeira entrevista (Fonte: Autor, 2023).
+Tabela 5: Participantes da entrevista 1(Fonte: Autor, 2023)
 
 </center>
 
+Na tabela 6 abaixo se encontram descritos os participantes da entrevista 2.
+
 <center>
 
-|**Entrevistador**|**Data**|**Horário**|**Entrevistado**|
-|:-:|:-:|:-:|:-:|
-| (A definir) |02/06/2023| 17:00 | (A definir) |
+| Atividade    | Participante       | Função                    | Papel         |
+| ------------ | ------------------ | ------------------------- | ------------- |
+| Entrevista 2 | Pedro Muniz | Equipe de desenvolvimento | Entrevistador |
+| Entrevista 2 | Felipe Mastromauro | Equipe de desenvolvimento | Relator       |
+| Entrevista 2 | Welder Fernades     | Usuário do sistema        | Entrevistado  |
 
-Tabela 4: Cronograma da segunda entrevista (Fonte: Autor, 2023).
+Tabela 6: Participantes da entrevista 2(Fonte: Autor, 2023)
+
+</center>
+
+Na tabela 7 abaixo se encontram descritos os participantes da entrevista 3.
+
+<center>
+
+| Atividade    | Participante       | Função                    | Papel         |
+| ------------ | ------------------ | ------------------------- | ------------- |
+| Entrevista 3 | Felipe Mastromauro | Equipe de desenvolvimento | Entrevistador |
+| Entrevista 3 | Pedro Muniz        | Equipe de desenvolvimento | Relator       |
+| Entrevista 3 | -     | Usuário do sistema        | Entrevistado  |
+
+Tabela 7: Participantes da entrevista 3(Fonte: Autor, 2023)
+
+</center>
+
+#### 3.4.6 Cronograma das atividades
+
+Na tabela 8 abaixo, estão descritos local, data e horário para o teste piloto.
+
+<center>
+
+| Atividade    | Local                | Data       | Horário |
+| ------------ | -------------------- | ---------- | ------- |
+| Teste piloto | Remoto (Google Meet) | 16/06/2023 | 20:00   |
+
+Tabela 8: Cronograma para o teste piloto(Fonte: Autor, 2023)
+
+</center>
+
+Na tabela 9 abaixo, estão descritos local, data e horário para as entrevistas.
+
+<center>
+
+| Atividade    | Local                | Data       | Horário |
+| ------------ | -------------------- | ---------- | ------- |
+| Entrevista 1 | Remoto (Google Meet) | - | -   |
+| Entrevista 2 | Remoto (Google Meet) | - | -   |
+| Entrevista 3 | Remoto (Google Meet) | - | -   |
+
+Tabela 9: Cronograma para as entrevistas(Fonte: Autor, 2023)
 
 </center>
 
@@ -128,7 +209,7 @@ Diante das explicações, é necessário que você esteja de acordo com a pesqui
 ---
 
 ### 3.6 E - Avaliar, interpretar e apresentar dados
-Após a execução da avaliação, os dados recolhidos deverão ser tratados e representados em um relatório final, visando afirmar e melhorar o protótipo realizado. Tal relatório deverá seguir a entrutura proposta no artefato de [planejamento do relato dos resultados da avaliação do protótipo de papel](#)[2].
+Após a execução da avaliação, os dados recolhidos deverão ser tratados e representados em um relatório final, visando afirmar e melhorar o protótipo realizado. Tal relatório deverá seguir a entrutura proposta no artefato de [planejamento do relato dos resultados da avaliação do protótipo de papel](./planejamentoRelatoResultados.md)[2].
 
 ## 4. Referências Bibliográficas
 > [1] Artefato Aspectos éticos, acesso em 27 de maio de 2023. Para mais informações acesse: [link](../../../analise_requisitos/aspectos_eticos.md).
@@ -149,4 +230,5 @@ Após a execução da avaliação, os dados recolhidos deverão ser tratados e r
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |--|--|--|--|--|
-| `1.0` | 28/05/23 | Criação do documento e adição do conteúdo | Pedro M. | Felipe M. |
+| [`1.0`](./planejamentoAvaliacaov1.md) | 28/05/23 | Criação do documento e adição do conteúdo | Pedro M. | Felipe M. |
+| `2.0` | 16/06/23 | Refeitura do planejamento | Pedro Muniz | Amanda Noda |
