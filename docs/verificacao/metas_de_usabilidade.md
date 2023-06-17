@@ -18,25 +18,19 @@ Abaixo seguem as verificações de conteúdos elaborados contendo a justificativ
 
 `BARBOSA, Simone et al. Processos de Design de IHC: Processos de Design de IHC. In: BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 6. p. 112-127.`
 
-## 2.2 Verificação 2 - Um texto fazendo uma introdução dos artefatos, por exemplo das “Ferramentas”?
-
-O artefato deve apresentar uma introdução para que o leitor entenda a proposta do artefato e os seus objetivos.
-
-`SALES, André Barros. Plano de ensino da disciplina.`
-
-## 2.3 Verificação 3 - É mostrado quais metas de usabilidade foram utilizadas?
+## 2.2 Verificação 2 - É mostrado quais metas de usabilidade foram utilizadas?
 
 O artefato deve abordar quais metas foram definidas e qual a razão dessas escolhas para o direcionamento do projeto.
 
 `BARBOSA, Simone et al. Processos de Design de IHC: Processos de Design de IHC. In: BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 6. p. 112-127.`
 
-## 2.4 Verificação 4 - As metas de usabilidade utilizadas são aplicadas ao contexto do site avaliado?
+## 2.3 Verificação 3 - As metas de usabilidade utilizadas são aplicadas ao contexto do site avaliado?
 
 É preciso que as metas de usabilidade sejam aplicadas para o site avaliado para que o objetivo principal do projeto seja alcançado. 
 
 `BARBOSA, Simone et al. Processos de Design de IHC: Processos de Design de IHC. In: BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 6. p. 112-127.`
 
-## 2.5 Verificação 5 - As metas de usabilidade são definidas com base no perfil dos usuários, análise de tarefas, possibilidades e limitações da plataforma em que o sistema será executado e princípios gerais de design de IHC?
+## 2.4 Verificação 4 - As metas de usabilidade são definidas com base no perfil dos usuários, análise de tarefas, possibilidades e limitações da plataforma em que o sistema será executado e princípios gerais de design de IHC?
 
 De acordo com a análise de requisitos, as metas de usabilidade devem ser definidas com base nos elementos propostos da engenharia de usabilidade de Mayhew.
 
@@ -72,10 +66,9 @@ Na tabela 2, se encontra o _[checklist]_ de conteúdo preenchido após a realiza
 | ID | Verificação | Ocorrências | Acertos | Erros |
 |--|--|--|--|--|
 | 1 | As metas de usabilidade são explicadas?[2] | 1 | 1 | 0 |
-| 2 | Um texto fazendo uma introdução dos artefatos, por exemplo das “Ferramentas”?[3] | 1 | 1 | 0 |
-| 3 | É mostrado quais metas de usabilidade foram utilizadas?[2] | 1 | 1 | 0 |
-| 4 | As metas de usabilidade utilizadas são aplicadas ao contexto do site avaliado?[2] | 1 | 1 | 0 |
-| 5 | As metas de usabilidade são definidas de forma clara com base no perfil dos usuários, análise de tarefas, possibilidades e limitações da plataforma em que o sistema será executado e princípios gerais de design de IHC?[2] | 1 | 0 | 1 |
+| 2 | É mostrado quais metas de usabilidade foram utilizadas?[2] | 1 | 1 | 0 |
+| 3 | As metas de usabilidade utilizadas são aplicadas ao contexto do site avaliado?[2] | 1 | 1 | 0 |
+| 4 | As metas de usabilidade são definidas de forma clara com base no perfil dos usuários, análise de tarefas, possibilidades e limitações da plataforma em que o sistema será executado e princípios gerais de design de IHC?[2] | 1 | 0 | 1 |
 
 <center>
 
@@ -100,9 +93,6 @@ O artefato ao abordar sobre as metas almejadas pelo nosso projeto não consegue 
 > [1] Artefato de planejamento da verificação, acesso em 13 de junho de 2023. Para mais informações acesse: [link](../planejamento.md)
 
 > [2] BARBOSA, Simone et al. Processos de Design de IHC: Processos de Design de IHC. In: BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 6. p. 112-116.
-
-> [3] SALES, André Barros. Plano de ensino da disciplina. Disponível em: https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/27/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf. Acesso em: 13 de junho de 2023;
-
 
 ## 5. Histórico de versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
