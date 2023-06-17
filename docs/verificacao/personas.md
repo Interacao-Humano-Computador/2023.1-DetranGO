@@ -106,7 +106,7 @@ Tabela 1 _[checklist]_ de padronização (fonte: autor, 2023)
 
 ### 3.2 Conteúdo
 
-Na tabela 2, se encontra o _[checklist]_ de conteúdo preenchido após a realização da verificação. As verificações realizadas foram obtidas a partir do plano de ensino da disciplina[3] e do capítulo 6, seção 6.3 até a seção 6.3.3 do livro Interação Humano Computador de Simone Barbosa[2].
+Na tabela 2, se encontra o _[checklist]_ de conteúdo preenchido após a realização da verificação. As verificações realizadas foram obtidas a partir do plano de ensino da disciplina[3] e do capítulo 8 do livro Interação Humano Computador de Simone Barbosa[2].
 
 | ID | Verificação | Ocorrências | Acertos | Erros |
 |--|--|--|--|--|

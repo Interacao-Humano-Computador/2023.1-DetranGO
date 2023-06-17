@@ -92,11 +92,9 @@ O artefato ao abordar sobre as metas almejadas pelo nosso projeto não consegue 
 
 > [1] Artefato de planejamento da verificação, acesso em 13 de junho de 2023. Para mais informações acesse: [link](../planejamento.md)
 
-> [2] BARBOSA, Simone et al. Processos de Design de IHC: Processos de Design de IHC. In: BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 6. p. 112-116.
+> [2] BARBOSA, Simone et al. Processos de Design de IHC: Processos de Design de IHC. In: BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 6. p. 112-127.
 
 ## 5. Histórico de versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |--|--|--|--|--|
 | `1.0` | 17/06/23 | Criação do documento e adição do conteúdo | Pedro Henrique | ? |
-
-

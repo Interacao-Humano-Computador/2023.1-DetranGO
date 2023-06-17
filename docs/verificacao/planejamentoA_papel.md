@@ -3,11 +3,11 @@
 ## 1. Introdução
 
 O método de prototipação em papel (Snyder, 2003) avalia a usabilidade de um design de IHC
-representado em papel, através de simulações de uso com a participação de potenciais usuários[3]. 
+representado em papel, através de simulações de uso com a participação de potenciais usuários[2]. 
 
-Assim, a avaliação do protótipo de papel tem como objetivo definir as tarefas para os participantes executarem, o perfil dos participantes e recrutá-los, criar protótipos em papel da interface para executar as tarefas e executar um teste-piloto[3]. 
+Assim, a avaliação do protótipo de papel tem como objetivo definir as tarefas para os participantes executarem, o perfil dos participantes e recrutá-los, criar protótipos em papel da interface para executar as tarefas e executar um teste-piloto[2]. 
 
-Tudo isso está incluso no planejamento da avaliação, que envolve planejar como as atividades básicas da avaliação vão ser realizadas. Essas atividades são: a preparação, coleta de dados, interpretação, consolidação e relato dos resultados[2].
+Tudo isso está incluso no planejamento da avaliação, que envolve planejar como as atividades básicas da avaliação vão ser realizadas. Essas atividades são: a preparação, coleta de dados, interpretação, consolidação e relato dos resultados[3].
 
 Este documento tem como objetivo verificar o artefato referente ao planejamento da avaliação de protótipo de papel realizado por nosso grupo da disciplina de interação humano computador.
 
@@ -29,19 +29,25 @@ O artefato deve apresentar as tarefas com o objetivo de condizir o planejamento 
 
 `BARBOSA, Simone et al. Métodos de Avaliação de IHC: Avaliação de IHC através de Observação - Prototipação em Papel. In: BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 12. p. 301-319.`
 
-## 2.3 Verificação 3 - O artefato apresenta e descreve alguma metodologia para o planejamento da avaliação?
+## 2.3 Verificação 3 - O artefato apresenta os objetivos da avaliação do protótipo de papel?
+
+O artefato deve deixar claro os objetivos da avaliação para compreensão e entendimento sobre o que o elemento avaliativo, que neste caso é o protótipo de papel, busca atingir com essa realização.
+
+`BARBOSA, Simone et al. Métodos de Avaliação de IHC: Avaliação de IHC através de Observação - Prototipação em Papel. In: BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 12. p. 301-319.`
+
+## 2.4 Verificação 4 - O artefato apresenta e descreve alguma metodologia para o planejamento da avaliação?
 
 É importante que o artefato seja desenvolvido por meio de uma metodologia com o objetivo de orientar o planejamento da avaliação.
 
 `BARBOSA, Simone et al. Planejamento da Avaliação de IHC: Como Avaliar? e O Framework DECIDE In: BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 11. p. 273-279.`
 
-## 2.4 Verificação 4 - O artefato explica e detalha como a metodologia vai ser utilizada e aplicada para o planejamento da avaliação?
+## 2.5 Verificação 5 - O artefato explica e detalha como a metodologia vai ser utilizada e aplicada para o planejamento da avaliação?
 
-O artefato precisa seguir o que a metodologia descreve, aplicando os conceitos que a mesma apresenta. Então se utilizar um *framework* como o DECIDE, é preciso que esteja descrito cada uma de suas etapas.
+O artefato precisa seguir o que a metodologia descreve, aplicando os conceitos que a mesma apresenta. Então se for utilizado um *framework* como o DECIDE, é preciso que esteja descrito cada uma de suas etapas.
 
 `BARBOSA, Simone et al. Planejamento da Avaliação de IHC: Como Avaliar? e O Framework DECIDE In: BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 11. p. 273-279.`
 
-## 2.5 Verificação 5 - O artefato segue algum modelo de planejamento de avaliação estabelecido?
+## 2.6 Verificação 6 - O artefato segue algum modelo de planejamento de avaliação estabelecido?
 
 Por se tratar de um planejamento de avaliação, o modelo proposto para o mesmo deve ser seguido com o objetivo de padronizar a forma como a avaliação deve ser feita e planejada.
 
@@ -72,15 +78,17 @@ Tabela 1 _[checklist]_ de padronização (fonte: autor, 2023)
 
 ### 3.2 Conteúdo
 
-Na tabela 2, se encontra o _[checklist]_ de conteúdo preenchido após a realização da verificação. As verificações realizadas foram obtidas a partir do plano de ensino da disciplina[3] e do capítulo 6, seção 6.3 até a seção 6.3.3 do livro Interação Humano Computador de Simone Barbosa[2].
+Na tabela 2, se encontra o _[checklist]_ de conteúdo preenchido após a realização da verificação. As verificações realizadas foram obtidas a partir dos capítulos 11 e 12, do livro Interação Humano Computador de Simone Barbosa[2, 3].
 
 | ID | Verificação | Ocorrências | Acertos | Erros |
 |--|--|--|--|--|
-| 1 | O artefato apresenta questões práticas da avaliação?[2] | 1 | 1 | 0 |
-| 2 | O artefato apresenta e descreve as tarefas que serão analisadas no documento?[3] | 1 | 1 | 0 |
-| 3 | O artefato apresenta e descreve alguma metodologia para o planejamento da avaliação?[2] | 1 | 1 | 0 |
-| 4 | O artefato explica e detalha como a metodologia vai ser utilizada e aplicada para o planejamento da avaliação?[2] | 1 | 1 | 0 |
-| 5 | O artefato segue algum modelo de planejamento de avaliação estabelecido?[2] | 1 | 0 | 1 |
+| 1 | O artefato apresenta questões práticas da avaliação?[3] | 1 | 1 | 0 |
+| 2 | O artefato apresenta e descreve as tarefas que serão analisadas no documento?[2] | 1 | 1 | 0 |
+| 3 | O artefato apresenta os objetivos da Avaliação do Protótipo de Papel?[2]  | 1 | 1 | 0 |
+| 4 |O artefato apresenta e descreve alguma metodologia para o planejamento da avaliação?[3] | 1 | 0 | 1 |
+| 5 | O artefato explica e detalha como a metodologia vai ser utilizada e aplicada para o planejamento da avaliação?[3] | 1 | 1 | 0 |
+| 6 | O artefato segue algum modelo de planejamento de avaliação estabelecido?[3] | 1 | 0 | 1 |
+
 
 <center>
 
@@ -107,9 +115,11 @@ O artefato em questão não apresenta nenhum modelo de planejamento que é segui
 
 > [1] Artefato de planejamento da verificação, acesso em 13 de junho de 2023. Para mais informações acesse: [link](../planejamento.md)
 
-> [2] BARBOSA, Simone et al. Planejamento da Avaliação de IHC: Como Avaliar? e O Framework DECIDE In: BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 11. p. 273-279.
+> [2] BARBOSA, Simone et al. Métodos de Avaliação de IHC: Avaliação de IHC através de Observação - Prototipação em Papel. In: BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 12. p. 301-319.
 
-> [3] BARBOSA, Simone et al. Métodos de Avaliação de IHC: Avaliação de IHC através de Observação - Prototipação em Papel. In: BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 12. p. 301-319.
+> [3] BARBOSA, Simone et al. Planejamento da Avaliação de IHC: Como Avaliar? e O Framework DECIDE In: BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 11. p. 273-279.
+
+
 
 ## 5. Histórico de versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
