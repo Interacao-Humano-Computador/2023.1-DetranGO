@@ -16,11 +16,11 @@ Abaixo seguem as verificações de conteúdos elaborados contendo a justificativ
 
 É importante que o artefato deixe claro as atividades do processo de design que foram utilizadas e planejadas pelo grupo.
 
-`BARBOSA, Simone et al. Processos de Design de IHC: Processos de Design de IHC. In: BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 6. p. 112-116.`
+`BARBOSA, Simone et al. Processos de Design de IHC: Processos de Design de IHC. In: BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 6. p. 112-127.`
 
 ## 2.2 Verificação 2 - Um texto fazendo uma introdução dos artefatos, por exemplo das “Ferramentas”?
 
-O artefato deve apresentar uma introdução para que o leitor entenda a proposta do artefato e os seus objetivos
+O artefato deve apresentar uma introdução para que o leitor entenda a proposta do artefato e os seus objetivos.
 
 `SALES, André Barros. Plano de ensino da disciplina.`
 
@@ -34,23 +34,23 @@ A escolha precisa de uma justificativa de acordo com os problemas que foram anal
 
 É preciso que o tipo de ciclo de vida esteja apresentado de forma clara para o entendimento das atividades do processo de design.
 
-`BARBOSA, Simone et al. Processos de Design de IHC: Processos de Design de IHC. In: BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 6. p. 112-116.`
+`BARBOSA, Simone et al. Processos de Design de IHC: Processos de Design de IHC. In: BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 6. p. 112-127.`
 
 ## 2.5 Verificação 5 - É apresentada uma descrição a respeito das técnicas utilizadas?
 
-`BARBOSA, Simone et al. Processos de Design de IHC: Processos de Design de IHC. In: BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 6. p. 112-116.`
+`BARBOSA, Simone et al. Processos de Design de IHC: Processos de Design de IHC. In: BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 6. p. 112-127.`
 
 ## 2.6 Verificação 6 - Foi apresentada uma conclusão ou direcionamento a respeito do ciclo escolhido?
 
 O ciclo deve ser concluído ou direcionado com o intuito de determinar se o objetivo principal da análise do processo de IHC foi alcançado ou não.
 
-`BARBOSA, Simone et al. Processos de Design de IHC: Processos de Design de IHC. In: BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 6. p. 112-116.`
+`BARBOSA, Simone et al. Processos de Design de IHC: Processos de Design de IHC. In: BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 6. p. 112-127.`
 
 ## 2.7 Verificação 7 - O ciclo de vida de Mayhew está presente no documento?
 
 O ciclo de vida de Mayhew determina o processo de design de IHC em 3 níveis que estabelecem de forma detalhada as atividades de IHC.
 
-`BARBOSA, Simone et al. Processos de Design de IHC: Processos de Design de IHC. In: BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 6. p. 112-116.`
+`BARBOSA, Simone et al. Processos de Design de IHC: Processos de Design de IHC. In: BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 6. p. 112-127.`
 
 
 ## 3. Desenvolvimento
@@ -104,7 +104,7 @@ Em geral, após a análise da verificação do artefato, percebe-se que o mesmo 
 
 > [1] Artefato de planejamento da verificação, acesso em 13 de junho de 2023. Para mais informações acesse: [link](../planejamento.md)
 
-> [2] BARBOSA, Simone et al. Processos de Design de IHC: Processos de Design de IHC. In: BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 6. p. 112-116.
+> [2] BARBOSA, Simone et al. Processos de Design de IHC: Processos de Design de IHC. In: BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 6. p. 112-127.
 
 > [3] SALES, André Barros. Plano de ensino da disciplina. Disponível em: https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/27/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf. Acesso em: 13 de junho de 2023;
 
