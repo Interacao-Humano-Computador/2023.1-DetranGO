@@ -51,7 +51,7 @@ Na tabela 3, se encontra o _[checklist]_ de padronização preenchido após a re
 |--|--|--|
 | 1 | Possui ortografia correta e formal? | Sem necessidade |
 | 2 | Possui introdução? | Sim |
-| 3 | Possui links necessários? | Sem necessidade |
+| 3 | Possui links necessários? | Sim |
 | 4 | As tabelas e imagens possuem legenda padronizada e chamada no texto? | Sem necessidade |
 | 5 | As tabelas e imagens estão totalmente em português? | Sem necessidade |
 | 6 | Possui bibliografia? | Sim |
@@ -87,7 +87,7 @@ Tabela 2 _[checklist]_ de conteúdo (fonte: autor, 2023)
 
 ### 3.3.1 Verificação 1 - Possui ortografia correta e formal?
 
-O artefato apresenta alguns erros de ortografia, como questões semânticas em alguns períodos e frases apresentados no artefato.
+O artefato apresenta alguns erros de ortografia, como questões semânticas em alguns períodos e frases apresentados no decorrer de certas explicações.
 
 ## 3.4 Problemas encontrados - Conteúdo
 

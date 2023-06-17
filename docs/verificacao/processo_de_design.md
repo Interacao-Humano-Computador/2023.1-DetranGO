@@ -18,35 +18,29 @@ Abaixo seguem as verificações de conteúdos elaborados contendo a justificativ
 
 `BARBOSA, Simone et al. Processos de Design de IHC: Processos de Design de IHC. In: BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 6. p. 112-127.`
 
-## 2.2 Verificação 2 - Um texto fazendo uma introdução dos artefatos, por exemplo das “Ferramentas”?
-
-O artefato deve apresentar uma introdução para que o leitor entenda a proposta do artefato e os seus objetivos.
-
-`SALES, André Barros. Plano de ensino da disciplina.`
-
-## 2.3 Verificação 3 - A justificativa da escolha do Processo de Design?
+## 2.2 Verificação 2 - A justificativa da escolha do Processo de Design?
 
 A escolha precisa de uma justificativa de acordo com os problemas que foram analisados para a proposta do projeto de IHC.
 
 `SALES, André Barros. Plano de ensino da disciplina.`
 
-## 2.4 Verificação 4 - Os ciclos de vida foram apresentados com clareza?
+## 2.3 Verificação 3 - Os ciclos de vida foram apresentados com clareza?
 
 É preciso que o tipo de ciclo de vida esteja apresentado de forma clara para o entendimento das atividades do processo de design.
 
 `BARBOSA, Simone et al. Processos de Design de IHC: Processos de Design de IHC. In: BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 6. p. 112-127.`
 
-## 2.5 Verificação 5 - É apresentada uma descrição a respeito das técnicas utilizadas?
+## 2.4 Verificação 4 - É apresentada uma descrição a respeito das técnicas utilizadas?
 
 `BARBOSA, Simone et al. Processos de Design de IHC: Processos de Design de IHC. In: BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 6. p. 112-127.`
 
-## 2.6 Verificação 6 - Foi apresentada uma conclusão ou direcionamento a respeito do ciclo escolhido?
+## 2.5 Verificação 5 - Foi apresentada uma conclusão ou direcionamento a respeito do ciclo escolhido?
 
 O ciclo deve ser concluído ou direcionado com o intuito de determinar se o objetivo principal da análise do processo de IHC foi alcançado ou não.
 
 `BARBOSA, Simone et al. Processos de Design de IHC: Processos de Design de IHC. In: BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 6. p. 112-127.`
 
-## 2.7 Verificação 7 - O ciclo de vida de Mayhew está presente no documento?
+## 2.6 Verificação 6 - O ciclo de vida de Mayhew está presente no documento?
 
 O ciclo de vida de Mayhew determina o processo de design de IHC em 3 níveis que estabelecem de forma detalhada as atividades de IHC.
 
@@ -83,12 +77,11 @@ Na tabela 2, se encontra o _[checklist]_ de conteúdo preenchido após a realiza
 | ID | Verificação | Ocorrências | Acertos | Erros |
 |--|--|--|--|--|
 | 1 | O artefato apresenta as atividades do processo de design e elas foram explicitadas?[2] | 1 | 1 | 0 |
-| 2 | Um texto fazendo uma introdução dos artefatos, por exemplo das “Ferramentas”?[3] | 1 | 1 | 0 |
-| 3 | A justificativa da escolha do Processo de Design?[3] | 1 | 1 | 0 |
-| 4 | Os ciclos de vida foram apresentados com clareza?[3] | 1 | 1 | 0 |
-| 5 | É apresentada uma descrição a respeito das técnicas utilizadas?[3] | 1 | 1 | 0 |
-| 6 | Foi apresentada uma conclusão ou direcionamento a respeito do ciclo escolhido?[3] | 1 | 1 | 0 |
-| 7 | O ciclo de vida de Mayhew está presente no documento?[3] | 1 | 1 | 0 |
+| 2 | A justificativa da escolha do Processo de Design?[3] | 1 | 1 | 0 |
+| 3 | Os ciclos de vida foram apresentados com clareza?[3] | 1 | 1 | 0 |
+| 4 | É apresentada uma descrição a respeito das técnicas utilizadas?[3] | 1 | 1 | 0 |
+| 5 | Foi apresentada uma conclusão ou direcionamento a respeito do ciclo escolhido?[3] | 1 | 1 | 0 |
+| 6 | O ciclo de vida de Mayhew está presente no documento?[3] | 1 | 1 | 0 |
 
 <center>
 
@@ -113,5 +106,3 @@ Em geral, após a análise da verificação do artefato, percebe-se que o mesmo 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |--|--|--|--|--|
 | `1.0` | 15/06/23 | Criação do documento e adição do conteúdo | Pedro Henrique | ? |
-
-
