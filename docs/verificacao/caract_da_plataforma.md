@@ -14,19 +14,51 @@ O checklist conterá as verificações descritas abaixo.
 
 ### 2.1 Verificação 1 - O artefato trata de características de hardware e de software?
 
+O hardware e o software são importantes considerações a serem feitas, visto que eles impõem limites às opções de design de nterface de usuário. Dessa forma, o artefato deve considerar e registrar as disponibilidades dos mesmos para os designers.
+
+`MAYHEW, Deborah J.. The usability engineering lifecycle: a practitioner's handbook for user interface design. São Francisco: Morgan Kaufmann Publishers, 1999. Página 145.`
+
 ### 2.2 Verificação 2 - O artefato descreve múltiplas características de software de maneira organizada e clara? 
+
+As plataformas possíveis para a implementação do sistema devem ser identificadas claramente no artefato, como sistemas operacionais, navegadores, etc.
+
+`MAYHEW, Deborah J.. The usability engineering lifecycle: a practitioner's handbook for user interface design. São Francisco: Morgan Kaufmann Publishers, 1999. Página 152.`
 
 ### 2.3 Verificação 3 - O artefato deixa clara a existência ou não de documentação? 
 
+A existência de documentação deve ser considerada no artefato, a fim de verificar trabalhos passados sobre a interface e considerá-los na identificação de capacidades e limites da plataforma.
+
+`MAYHEW, Deborah J.. The usability engineering lifecycle: a practitioner's handbook for user interface design. São Francisco: Morgan Kaufmann Publishers, 1999. Página 152.`
+
 ### 2.4 Verificação 4 - Se existe documentação, o artefato marca sua leitura ou a referencia em algum momento? 
+
+Se existe documentação sobre a interface de usuário, esta pode auxiliar na identificação de elementos de interface, auxiliando na identificação de capacidades e limites da plataforma.
+
+`MAYHEW, Deborah J.. The usability engineering lifecycle: a practitioner's handbook for user interface design. São Francisco: Morgan Kaufmann Publishers, 1999. Página 152.`
 
 ### 2.5 Verificação 5 - São consideradas limitações e possibilidades específicas da Web no sítio que são mostradas no artefato? 
 
+Um site na Web possui especificidades de plataforma, devendo, por exemplo, considerar uma maior gama de hardware e software do que outros tipos de sistema. 
+
+`MAYHEW, Deborah J.. The usability engineering lifecycle: a practitioner's handbook for user interface design. São Francisco: Morgan Kaufmann Publishers, 1999. Página 155.`
+
 ### 2.6 Verificação 6 - As limitações do sítio mostradas no artefato são verificáveis?
 
-### 2.7 Verificação 7 - As possiblidades do sítio mostradas no artefato são verificáveis?
+As limitações encontradas devem ser identificáveis no site e mostradas na documentação a fim de torná-las verificáveis para uso futuro em outros artefatos.
+
+`MAYHEW, Deborah J.. The usability engineering lifecycle: a practitioner's handbook for user interface design. São Francisco: Morgan Kaufmann Publishers, 1999. Páginas de 152 a 154.`
+
+### 2.7 Verificação 7 - As possibilidades do sítio mostradas no artefato são verificáveis?
+
+As possibilidades encontradas devem ser identificáveis no site e mostradas na documentação a fim de torná-las verificáveis para uso futuro em outros artefatos.
+
+`MAYHEW, Deborah J.. The usability engineering lifecycle: a practitioner's handbook for user interface design. São Francisco: Morgan Kaufmann Publishers, 1999. Páginas de 152 a 154.`
 
 ### 2.8 Verificação 8 - As características do sistema são enumeradas de maneira satisfatória, considerando todas as possibilidades e elementos importantes de um design para a Web? (e.g. versão de HTML, controles do browser em relação ao site, etc.)
+
+As variações de plataforma são diversas, e portanto, o design deve ser pensado também para hardwares menos capazes, por exemplo. Para tanto, considerações sobre elementos externos ao site em si devem ser realizadas a fim de criar um design mais universal.
+
+`MAYHEW, Deborah J.. The usability engineering lifecycle: a practitioner's handbook for user interface design. São Francisco: Morgan Kaufmann Publishers, 1999. Páginas de 155 a 156.`
 
 ## 3. Desenvolvimento
 

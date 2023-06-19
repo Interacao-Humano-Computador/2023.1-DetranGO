@@ -52,7 +52,7 @@ A categorização com base em semelhanças quanto a características específica
 
 `Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. Página 166.`
 
-### 2.7 Verificação 6 - Se utilizado um questionário, o ambiente de uso do software aparece nas questões? (e.g. uso via celular, no trabalho ou em casa, via computador, etc.)
+### 2.6 Verificação 6 - Se utilizado um questionário, o ambiente de uso do software aparece nas questões? (e.g. uso via celular, no trabalho ou em casa, via computador, etc.)
 
 O ambiente do usuário é de importante nota visto que permite demarcar melhor a maneira com a qual o usuário interage com o sistema e permite manter o usuário à frente no design.
 
@@ -81,6 +81,17 @@ Tabela 1: Checklist de padronização do perfil de usuário (Fonte: Autor, 2023)
 </center>
 
 ### 3.2 Checklist de conteúdo
+
+A tabela 2 contém os itens definidos na seção de metodologia para a realização de um checklist de conteúdo, bem como os números a ele associados.
+
+| ID | Verificação | Ocorrências | Acertos | Erros |
+|:-:|:-:|:-:|:-:|:-:|
+| 10 | É conduzido um estudo para a coleta de dados para o desenvolvimento do perfil de usuário (e. g. entrevista, questionário) | | | |
+| 11 | O perfil de usuário descrito pelo artefato contém as características necessárias para uma boa definição de usuário no geral | | | |
+| 12 | É disponibilizado um termo de consentimento para a realização da pesquisa, demonstrando claramente o destino e uso dos dados? | | | |
+| 13 | São utilizadas ao menos duas técnicas para a definição de um perfil de usuário? | | | |
+| 14 | Os usuários foram categorizados em grupos com base em suas semelhanças (grupos de idade, tarefas principais no sistema, etc.) | | | |
+| 15 | Se utilizado um questionário, o ambiente de uso do software aparece nas questões? (e.g. uso via celular, no trabalho ou em casa, via computador, etc.) | | | |
 
 ## 4. Resultados
 

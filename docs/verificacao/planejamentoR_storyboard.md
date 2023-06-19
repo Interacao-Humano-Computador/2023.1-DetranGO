@@ -12,21 +12,53 @@ A presente verificação acompanha os métodos definidos no [planejamento da ver
 
 O checklist conterá as verificações descritas abaixo.
 
+### 2.1 Verificação 1 - O artefato marca claramente os elementos que serão contidos no relato de resultados?
+
+Um relato de resultados possui elementos definidos que aparecem usualmente em sua escrita. Esses elementos, portanto, devem ser descritos no planejamento do relato dos resultados para que sua presença no relato seja devidamente implementada.
+
+`plano de ensino andre barros pag11`
+
+`Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. Página 279.`
+
 ### 2.1 Verificação 1 - O artefato marca a necessidade de delinear o objetivo da avaliação no relato? 
+
+Dos diversos elementos que podem estar presentes em um relato de resultados, o objetivo da avaliação é principal, sua presença garantindo que a avaliação tenha um alvo claro a ser atingido com a avaliação.
+
+``
 
 ### 2.2 Verificação 2 - O artefato marca a necessidade de delinear o escopo da avaliação no relato? 
 
+O escopo da avaliação é necessário no planejamento do relato dos resultados para se definir o tamanho da avaliação a realizar e o que será avaliado, bem como os efeitos das correções dessa avaliação.
+
+``
+
 ### 2.3 Verificação 3 - O artefato marca a necessidade de delinear o método de avaliação utilizado no relato? 
+
+O método de avaliação deve ser definido no relato de resultados para registro definido e verificável de técnicas e elementos da avaliação.
+
+``
 
 ### 2.4 Verificação 4 - O artefato marca a necessidade de delinear o cronograma real da avaliação no relato, com o número de participantes e avaliadores? 
 
+O planejamento do relato dos resultados deve marcar a necessidade de registrar os horários reais, plataforma de realização, participantes da avaliação e avaliadores planejados a fim de temporalizar e espacializar as avaliações.
+
+``
+
 ### 2.5 Verificação 5 - O artefato marca a necessidade de uma seção para os registros gravados das avaliações?
+
+Os registros da avaliação são necessários para a consulta e verificação da mesma. Para tanto, uma seção para os mesmos deve existir no relato.
 
 ### 2.6 Verificação 6 - O artefato marca a necessidade de uma seção para a interpretação e análise dos dados encontrados de maneira organizada?
 
+A interpretação dos dados encontrados deve ter uma seção própria, mostrando os resultados obtidos com a avaliação de acordo com o planejamento da avaliação e permitindo conjecturas sobre esses resultados.
+
 ### 2.7 Verificação 7 -  O artefato marca a necessidade de uma seção para a listagem de problemas encontrados de maneira organizada (ex. classificando o tipo de problema encontrado quanto à sua gravidade, separado os problemas por soryboard, entre outros)? 
 
+Os problemas encontrados com a avaliação devem ter uma seção própria, com a definição de métodos para seu registro, seja por tabelas, listas ou outros.
+
 ### 2.8 Verificação 8 - O artefato marca a necessidade de uma seção para possível reprojeto dos storyboards de acordo com os feedbacks recebidos? 
+
+Uma seção de reprojeto deve ser definida, visto que os [storyboards]() definidos pelos membros da equipe podem não representar adequadamente as tarefas definidas pela [análise de tarefas]()
 
 ## 3. Desenvolvimento
 
