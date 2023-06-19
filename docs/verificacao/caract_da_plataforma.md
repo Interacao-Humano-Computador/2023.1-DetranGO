@@ -92,6 +92,8 @@ Tabela 1: Checklist de padronização das características da plataforma (Fonte:
 
 ## 7. Referências bibliográficas
 
+> MAYHEW, Deborah J.. The usability engineering lifecycle: a practitioner's handbook for user interface design. São Francisco: Morgan Kaufmann Publishers, 1999. Disponível em: https://archive.org/details/usabilityenginee0000mayh. Acesso em: 17 jun. 2023
+
 ## 8. Histórico de versão
 
 |  Versão  |   Data   |                 Descrição               |    Autor(es)   |  Revisor(es)  |

@@ -93,6 +93,10 @@ A tabela 2 contém os itens definidos na seção de metodologia para a realizaç
 | 14 | Os usuários foram categorizados em grupos com base em suas semelhanças (grupos de idade, tarefas principais no sistema, etc.) | | | |
 | 15 | Se utilizado um questionário, o ambiente de uso do software aparece nas questões? (e.g. uso via celular, no trabalho ou em casa, via computador, etc.) | | | |
 
+<center>
+Tabela 2: Checklist de conteúdo do perfil de usuário (Fonte: Autor, 2023).
+</center>
+
 ## 4. Resultados
 
 ## 5. Problemas encontrados
@@ -100,6 +104,8 @@ A tabela 2 contém os itens definidos na seção de metodologia para a realizaç
 ## 6. Acompanhamento
 
 ## 7. Referências bibliográficas
+
+> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Acesso em: 17 jun. 2023. 
 
 ## 8. Histórico de versão
 
