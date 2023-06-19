@@ -1,55 +1,92 @@
 # Storyboard - Relato de Resultados da Avaliação
 
 ## 1. Introdução
+A criação de storyboards é uma técnica de prototipação de baixa fidelidade amplamente utilizada para a representação das tarefas realizadas pelos usuários no sistema. Busca auxiliar na comunicação entre a equipe de desenvolvimento e os _stakeholders_ do projeto.[]
+
+## 2. Objetivo
+
 Este artefato tem o objetivo de relatar os resultados obtidos da avaliação dos storyboards, que foi realizada por meio de uma metodologia que segue o planejamento do relato que foi desenvolvido anteriormente.
 
-## 2. Teste Piloto
-No dia 26/05/2023 o grupo realizou um teste piloto para a entrevista a respeito dos *Storyboards*, sendo que dois deles foram escolhidos em relação à análise de tarefas no site do Detran GO. As tarefas escolhidas foi a de consulta de veículo e a de agendar um atendimento.
+A avaliação seguiu os objetivos que foram estabelecidos no [planejamento da avaliação dos *storyboards*](planejamento_avaliacao.md), buscando confirmar se:
 
-### 2.1 Gravação do Teste Piloto
+- A fidelidade dos storyboards com a realidade é atendida.
+- As necessidades dos usuários representados são satisfeitas.
+- Existe a necessidade de alteração.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/giXta8euVgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+## 3. Metodologia
+A metodologia utilizada pelo grupo foi a de entrevistas, na qual foi realizada de acordo com o [planejamento dos *storyboards*.](planejamento_avaliacao.md).
 
-## 3. Objetivos da Avaliação
-A avaliação seguiu os objetivos que foram estabelecidos no [planejamento da avaliação dos *storyboards*](planejamento_avaliacao.md), sendo eles:
+## 3.1 Aspectos éticos
+Sendo uma pesquisa com a participação de pessoas, a avaliação utilizou um termo de consentimento elaborado anteriormente e presente no [artefato](../../../analise_requisitos/aspectos_eticos.md)[1] correspondente, abaixo se encontra o mesmo.
 
-* Compreender se os *storyboards* cumprem seu objetivo e se condizem com a realidade ou não;
-* Avaliar se as tarefas propostas são, de fato, realizadas e concluídas para cumprir as necessidades do usuário no sistema;
-* Avaliar pontos e sugestões de melhorias aos *storyboards*.
+#### <center>Termo de Consentimento Livre e Esclarecido</center>
 
-## 4. Metodologia
-A metodologia utilizada pelo grupo foi a de entrevistas, na qual foi realizada de acordo com o [planejamento dos *storyboards*.](planejamento_avaliacao.md)
+---
 
-## 5. Avaliadores e Participantes
-Os avaliadores escolhidos foram os estudantes Felipe Mastroumaro  e Pedro Muniz e o participante da entrevista foi Leornado Jesus. Como proposto, o entrevistado é um usuário do sistema do Detran GO e por isso foi escolhido para a entrevista.
+Somos estudantes de Engenharia de software da Universidade de Brasília e estamos conduzindo uma pesquisa sobre o DetranGO, sitio da internet que busca oferecer serviços para a população do Goiás mas possui as mesmas funcionalidades do Detran de outros estados, como parte de nosso projeto na disciplina de Interação Humano Computador. Sua participação neste formulário é de caráter voluntário e todas as perguntas serão mantidas para fins acadêmicos e não serão compartilhados para terceiros.
 
-## 6. Gravação da Entrevista
+Para decidir sobre o seu consentimento, é importante que você conheça as seguintes informações sobre a pesquisa:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_jQ1AbOWpC4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+-   Nossa equipe tem o compromisso de divulgar os resultados de nossas pesquisas para o cliente.
+-   O consentimento para a participação na atividade é uma escolha livre, feita mediante a prestação de todos os esclarecimentos necessários sobre a pesquisa.
+-   A atividade pode ser interrompida a qualquer momento, segundo a sua disponibilidade e vontade.
+-   Será necessário gravar a atividade, e as gravações efetuadas serão divulgadas nos resultados do projeto.
+-   Os dados coletados durante a atividade destinam-se estritamente a atividades de análise e elaboração de melhorias para o sistema do DetranGO.
 
-## 7. Respostas da Entrevista
-As respostas seguiram o modelo que foi proposto no planejamento, nas quais também podem ser vistos na planilha a seguir:
+Diante das explicações, é necessário que você esteja de acordo com a pesquisa que será realizada e concorda de livre e espontânea vontade em participar, como colaborador? Caso o participante seja menor de idade é necessária a permissão do responsável legal.
 
-<iframe width="1050" height="700" src="https://docs.google.com/spreadsheets/d/1tRjL5EIgvGvKqWDRjfXqcQpfBH7xV2gXwwPweXK_st4/edit#gid=0"></iframe>
+( ) Sim, estou de acordo. </br>
+( ) Não estou de acordo.
 
-## 8. Sugestões e problemas encontrados
-Foram encontrados alguns pontos que deveriam ser mudados nos *storyboards*. Em geral temos que no *storyboard* de consultar CNH a indicação de que é díficil receber multas pelo correio. Já no de consultar veículo, foi passado que o site do Detran GO não apresenta certas funcionalidades que contribuem para a questão financeira do veículo. Por fim, na tarefa de solicitar CNH foi apontado a existência de ambiguidade no ato de "perder a CNH".
+---
 
-## 9. Bibliografia
+## 4. Cronograma e participantes
 
-> [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
+### 4.1 Participantes
 
-## Histórico de Versão
+Na tabela 1 se encontram os participantes do teste piloto realizado.
 
-| Versão | Data     | Descrição                                                        | Autor(es) | Revisor(es) |
-| ------ | -------- | --------------------------------------------------------------- | --------- | ----------- |
-| `1.0`  | 25/05/23 | Criação do documento | Pedro H. e Carlos E. | Amanda Noda |
-| `1.1`  | 29/05/23 | Adição de metodologia, teste piloto, relato e problemas encontrados | Pedro H. e Carlos E. | Amanda Noda |
-|
+<center>
 
-## Storyboards desenvolvidos
+| Atividade | Participante | Papel |
+|-|-|-|
+| Teste piloto | Felipe Mastromauro | Testador |
+| Teste piloto | Pedro Muniz | Testador |
 
-Os storyboards desenvolvidos podem ser vistos nas figuras 1 a 6.
+Tabela 1: Participantes do teste piloto realizado(Fonte: Autor).
+
+</center>
+
+Na tabela 2 se encontram os participantes da entrevista realizada.
+
+<center>
+
+| Atividade | Participante | Papel |
+|-|-|-|
+| Entrevista | Felipe Mastromauro | Entrevistador |
+| Entrevista | Pedro Muniz | Relator |
+| Entrevista | Leonardo Jesus | Entrevistado |
+
+Tabela 2: Participantes da entrevista realizada(Fonte: Autor).
+
+</center>
+
+### 4.2 Cronograma
+
+Na tabela 3 estão detalhados os cronogramas das atividades realizadas.
+
+<center>
+
+| Atividade | Local | Data | Horário |
+|-|-|-|-|
+| Teste piloto | Remoto (Google meet) | 26/05/2023 | 18:00 |
+
+Tabela 3: Cronograma das atividades realizadas(Fonte: Autor).
+
+</center>
+
+### 5. Storyboards desenvolvidos
+Abaixo estão representados os storyboards desenvolvidos pela equipe.
 
 <center>
 
@@ -98,3 +135,203 @@ Figura 5 - Storyboard Emissão de CRLV (Fonte: Felipe Mastromauro, 2023)
 Figura 6 - Storyboard Transferência de Veículo (Fonte: Pedro Henrique, 2023)
 
 </center>
+
+## 6. Respostas das perguntas
+Visando sumarizar os dados obtidos através da avaliação, as tabelas a seguir detalham as respostas do entrevistado para as perguntas elaboradas anteriormente, discriminadas por objetivo de avaliação. Para cada sotoryboard desenvolvido, foram feitas todas as perguntas elaboradas anteriormente.
+
+### 6.1 Consulta de CNH
+
+Abaixo se encontram as respostas do entrevistado para as perguntas acerca do storyboard de consulta de CNH.
+
+#### 6.1.1 Fidelidade dos storyboards com a realidade
+
+<center>
+
+Tabela 4: Respostas para as perguntas elaboradas para o objetivo 1 do storyboard de consulta de CNH(Fonte: Autor, 2023).
+
+</center>
+
+#### 6.1.2 Satisfação das necessidades do usuário
+
+<center>
+
+Tabela 5: Respostas para as perguntas elaboradas para o objetivo 2 do storyboard de consulta de CNH(Fonte: Autor, 2023).
+
+</center>
+
+#### 6.1.3 Necessidade de alteração
+
+<center>
+
+Tabela 6: Respostas para as perguntas elaboradas para o objetivo 3 do storyboard de consulta de CNH(Fonte: Autor, 2023).
+
+</center>
+
+### 6.2 Consulta de veículo
+Abaixo se encontram as respostas do entrevistado para as perguntas acerca do storyboard de consulta de veículo.
+
+#### 6.2.1 Fidelidade dos storyboards com a realidade
+
+<center>
+
+Tabela 7: Respostas para as perguntas elaboradas para o objetivo 1 do storyboard de consulta de veículo(Fonte: Autor, 2023).
+
+</center>
+
+#### 6.2.2 Satisfação das necessidades do usuário
+
+<center>
+
+Tabela 8: Respostas para as perguntas elaboradas para o objetivo 2 do storyboard de consulta de veículo(Fonte: Autor, 2023).
+
+</center>
+
+#### 6.2.3 Necessidade de alteração
+
+<center>
+
+Tabela 9: Respostas para as perguntas elaboradas para o objetivo 3 do storyboard de consulta de veículo(Fonte: Autor, 2023).
+
+</center>
+
+### 6.3 Agendamento de atendimento
+Abaixo se encontram as respostas do entrevistado para as perguntas acerca do storyboard de agendamento de atendimento.
+
+#### 6.3.1 Fidelidade dos storyboards com a realidade
+
+<center>
+
+Tabela 10: Respostas para as perguntas elaboradas para o objetivo 1 do storyboard de agendamento de atendimento(Fonte: Autor, 2023).
+
+</center>
+
+#### 6.3.2 Satisfação das necessidades do usuário
+
+<center>
+
+Tabela 11: Respostas para as perguntas elaboradas para o objetivo 2 do storyboard de agendamento de atendimento(Fonte: Autor, 2023).
+
+</center>
+
+#### 6.1.3 Necessidade de alteração
+
+<center>
+
+Tabela 10: Respostas para as perguntas elaboradas para o objetivo 3 do storyboard de agendamento de atendimento(Fonte: Autor, 2023).
+
+</center>
+
+### 6.4 Solicitação de CNH
+Abaixo se encontram as respostas do entrevistado para as perguntas acerca do storyboard de solicitação de CNH.
+
+#### 6.4.1 Fidelidade dos storyboards com a realidade
+
+<center>
+
+Tabela 13: Respostas para as perguntas elaboradas para o objetivo 1 do storyboard de solicitação de CNH(Fonte: Autor, 2023).
+
+</center>
+
+#### 6.4.2 Satisfação das necessidades do usuário
+
+<center>
+
+Tabela 14: Respostas para as perguntas elaboradas para o objetivo 2 do storyboard de solicitação de CNH(Fonte: Autor, 2023).
+
+</center>
+
+#### 6.4.3 Necessidade de alteração
+
+<center>
+
+Tabela 15: Respostas para as perguntas elaboradas para o objetivo 3 do storyboard de solicitação de CNH(Fonte: Autor, 2023).
+
+</center>
+
+### 6.5 Emissão de CRLV
+Abaixo se encontram as respostas do entrevistado para as perguntas acerca do storyboard de emissão de CRLV.
+
+#### 6.5.1 Fidelidade dos storyboards com a realidade
+
+<center>
+
+Tabela 16: Respostas para as perguntas elaboradas para o objetivo 1 do storyboard de emissão de CRLV(Fonte: Autor, 2023).
+
+</center>
+
+#### 6.5.2 Satisfação das necessidades do usuário
+
+<center>
+
+Tabela 17: Respostas para as perguntas elaboradas para o objetivo 2 do storyboard de emissão de CRLV(Fonte: Autor, 2023).
+
+</center>
+
+#### 6.5.3 Necessidade de alteração
+
+<center>
+
+Tabela 18: Respostas para as perguntas elaboradas para o objetivo 3 do storyboard de emissão de CRLV(Fonte: Autor, 2023).
+
+</center>
+
+### 6.6 Transferência de veículo
+Abaixo se encontram as respostas do entrevistado para as perguntas acerca do storyboard de transferência de veículo.
+
+#### 6.6.1 Fidelidade dos storyboards com a realidade
+
+<center>
+
+Tabela 19: Respostas para as perguntas elaboradas para o objetivo 1 do storyboard de transferência de veículo(Fonte: Autor, 2023).
+
+</center>
+
+#### 6.6.2 Satisfação das necessidades do usuário
+
+<center>
+
+Tabela 20: Respostas para as perguntas elaboradas para o objetivo 2 do storyboard de transferência de veículo(Fonte: Autor, 2023).
+
+</center>
+
+#### 6.6.3 Necessidade de alteração
+
+<center>
+
+Tabela 21: Respostas para as perguntas elaboradas para o objetivo 3 do storyboard de transferência de veículo(Fonte: Autor, 2023).
+
+</center>
+
+## 7. Gravações
+
+### 7.1 Teste piloto
+No vídeo abaixo se encontra a gravação em vídeo do teste piloto realizado.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/giXta8euVgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### 7.2 Entrevista
+No vídeo abaixo se encontra a gravação em vídeo da entrevista realizada.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_jQ1AbOWpC4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## 8. Análise dos dados coletados
+
+## 9. Correções possíveis
+
+## 10. Conclusão
+
+## 8. Sugestões e problemas encontrados
+Foram encontrados alguns pontos que deveriam ser mudados nos *storyboards*. Em geral temos que no *storyboard* de consultar CNH a indicação de que é díficil receber multas pelo correio. Já no de consultar veículo, foi passado que o site do Detran GO não apresenta certas funcionalidades que contribuem para a questão financeira do veículo. Por fim, na tarefa de solicitar CNH foi apontado a existência de ambiguidade no ato de "perder a CNH".
+
+## 9. Bibliografia
+
+> [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
+
+## Histórico de Versão
+
+| Versão | Data     | Descrição                                                        | Autor(es) | Revisor(es) |
+| ------ | -------- | --------------------------------------------------------------- | --------- | ----------- |
+| `1.0`  | 25/05/23 | Criação do documento | Pedro H. e Carlos E. | Amanda Noda |
+| `1.1`  | 29/05/23 | Adição de metodologia, teste piloto, relato e problemas encontrados | Pedro H. e Carlos E. | Amanda Noda |
+|
+

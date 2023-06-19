@@ -1,7 +1,7 @@
 # Protótipo de papel - Relato dos resultados
 
 ## 1. Introdução
-A prototipação é uma técnica amplamente difundida e importante no desenvolvimento de um software, pois auxilia na transmissão de ideias de design e conceitos entre os _stakeholders_ e a equipe de desenvolvimento. Neste quesito, o prtótipo de papel se mantém afastado de um design específico, buscando a passagem de conceitos e ideias criadas pela equipe de desenvolvimento, procurando uma validação das mesmas pelos usuários do sistema[3].
+A prototipação é uma técnica amplamente difundida e importante no desenvolvimento de um software, pois auxilia na transmissão de ideias de design e conceitos entre os _stakeholders_ e a equipe de desenvolvimento. Neste quesito, o protótipo de papel se mantém afastado de um design específico, buscando a passagem de conceitos e ideias criadas pela equipe de desenvolvimento, procurando uma validação das mesmas pelos usuários do sistema[3].
 
 Este documento possui a função de relatar os resultados obtidos a partir da avaliação do protótipo de papel elaborado realizada em conjunto com usuários reais do sistema do [Detran de Goiás](https://www.detran.go.gov.br/psw/#/pages/pagina-inicial)[4], buscando uma validação dos mesmos para o protótipo.
 

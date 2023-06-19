@@ -1,44 +1,57 @@
-# Storyboard - Planejamento do Relato dos Resultados da Avaliação
+# Storyboard - Planejamento do relato dos resultados
 
-## Introdução
-O objetivo deste dispositivo é criar o esquema do relato dos resultados da avaliação dos storyboards, ou seja, como os resultados devem ser expostos e verificados pelos membros da equipe avaliadora. O relato dos resultados é um artefato cujo propósito é documentar os resultados alcançados através de uma avaliação. Este presente documento delineia um plano para a produção desse artefato, relacionado à avaliação dos storyboards desenvolvidos pela equipe.
+## 1. Introdução
 
-## Elementos do Relato de Resultados
-Após a execução da avaliação, os avaliadores deverão elaborar um relato de resultados, contendo os itens especificados a seguir.
+O objetivo deste artefato é realizar o planejamento do relato dos resultados obtidos a partir da avaliação do Storyboard. Ou seja, utilizamos do artefato Planejamento da Avaliação do Storyboard para organizarmos os dados e a coleta dos mesmos, atividades que foram realizadas na fase de avaliação do Storyboard. Com isso, o resultado esperado do relato é conseguir insumos que auxiliem para a realização de melhorias e sugestões a serem implementadas no sistema do Detran GO.
 
-### Objetivos da Avaliação
-O objetivo do relato de resultados é que os membros elaborem um relatório que deve conter os objetivos da avaliação juntamente com uma verificação de quais foram atigindos e utilidades a serem melhoradas.
+## 2. Elementos do relato dos resultados
 
-### Metodologia
-O relato de resultados deve conter um resumo da metodologia utilizada, em consonância com o que está registrado no planejamento da avaliação. 
-Uma vez que, a avaliação envolve pessoas, é necessário atentar-se á questões éticas, em que na primeira etapa da entrevista é apresentado o termo de consentimento ao entrevistado para que ele possa ou não concordar com os termos da entrevista. Partindo da premissa que nosso entrevistado aceite os termos, passando por um breve momento de adaptação, do qual o avaliador fará um ambiente amigável e descontraído para que o entrevistado não fique desconfortável. A seguir a entrevista será orientada por um roteiro , com a finalidade de conseguir o máximo de informação possível. Serão realizadas análises das tarefas e funcionalidades representadas nos storyboards, a fim de verificar a correspondência dessas tarefas e funcionalidades com o sistema avaliado.
+O artefato de relato dos resultados da avaliação deverá ter os tópicos descritos nesta seção.
 
-### Participantes e Avaliadores
-Primeiramente, é necessário que o time estabeleça os indivíduos que participarão das entrevistas, bem como os avaliadores tanto do teste piloto quanto da avaliação. O entrevistado deve corresponder ao perfil de usuário estabelecido durante o projeto. O avaliador terá a tarefa de registrar todas as respostas do questionário e, caso julgue apropriado, fazer sugestões adicionais.
+### 2.1 Objetivos da avaliação
 
-### Tarefas
-Devem ser definidas tarefas para que o usúario realize e possa relatar sua experiencia posteriormente. O avaliador deverá registar as respostas do entrevistado para cada uma das perguntas selecionadas, mesmo havendo inconclusões nas respostas dadas, como por exemplo, "não sei" ou "não sei informar".
+Neste tópico devem ser explicitados os objetivos da avaliação do Storyboard, justificando assim sua realização.
 
-- Consultar CNH
-- Agendar atendimento
-- Consulta de veículo
+### 2.2 Metodologia
 
-### Problemas Encontrados
-O avaliador deverá listar problemas encontrados nos storyboards, a partir das informações coletadas na entrevista.
+Os métodos utilizados para a realização desta avaliação devem ser explicitados de maneira clara, estando também de acordo com o que foi planejado em [artefato anterior](./planejamentoAvaliacao.md).
 
-### Sugestão de Correção
-O avaliador deverá apresentar sugestões para correções a partir das informações coletadas informadas pelo usuário e acrescentando sugestões próprias caso seja necessário.
+#### 2.2.1 Aspectos éticos
 
-### Gravação do Teste Piloto
-O avaliador deverá inserir no relato de resultados a gravação do teste piloto da entrevista. Caso o teste aponte mudanças no planejamento, será necessário registrar e realizar as modificações no planejamento.
+Em se tratando de uma pesquisa envolvendo pessoas não afiliadas ao grupo, a consideração de aspectos éticos é necessaria para o desenvolvimento de uma pesquisa a fim de garantir a integridade dos participantes e da pesquisa em si.
 
-## Bibliografia
+Como foi planejada uma entrevista, um termo de consentimento livre e esclarecido condizente com os acontecimentos planejados deve ser apresentado ao participante a fim de que o mesmo concorde com os termos apresentados anteriormente à realização da pesquisa.
 
-> [1] BBARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
+### 2.3 Cronograma e participantes
 
-## Histórico de Versão
+Todos os participantes da avaliação, bem como os avaliadores designados (seja para o teste piloto ou para a avaliação), devem ser listados de maneira organizada e clara no relato dos resultados. Também deve-se ressaltar que o usuário escolhido deve estar de acordo com o perfil do usuário do sistema, definido em [artefato anterior](./../../../analise_requisitos/perfilUsuario.md).
 
-| Versão | Data     | Descrição                                                        | Autor(es) | Revisor(es) |
-| ------ | -------- | --------------------------------------------------------------- | --------- | ----------- |
-| `1.0`  | 18/05/23 | Criação do documento | Amanda N, Carlos E.  | Pedro F. |
-| `1.1`  | 19/05/23 | Descrição das atividades e correção de erros | Amanda N, Carlos E.  | Pedro F. |
+### 2.4 Respostas das perguntas
+
+Nesta seção devem ser compiladas as respostas às perguntas elaboradas no planejamento da avaliação da Storyboard, a fim de observar se todas foram respondidas satisfatoriamente.
+
+### 2.5 Gravações das entrevistas
+
+Esta seção deve compilar as gravações das entrevistas de maneira organizada.
+
+### 2.6 Análise dos dados coletados
+
+Aqui, deve-se discorrer sobre os dados coletados de maneira analítica e clara, com o intuito de tirar conclusões sobre o artefato atual de Storyboard.
+
+### 2.7 Correções possíveis
+
+Nesta seção devem ser delineadas correções possíveis no artefato de Storyboard com base no que foi concluído e aprendido com a execução da avaliação.
+
+### 2.8 Conclusão
+
+Esta seção do artefato deverá registrar se os objetivos da avaliação foram atingidos.
+
+## 3. Bibliografia
+
+> [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1
+
+## 4. Histórico de versão
+| Versão | Data       | Descrição            | Autor(es)   | Revisor(es)    |
+|--------|------------|----------------------|-------------|----------------|
+| `1.0`  | 19/05/2023 | Criação do documento | Pedro Henrique e Pedro Muniz | João Morbeck |
+| `1.1`  | 19/06/2023 | Alterações de padronização | Pedro Muniz | Amanda Noda |
