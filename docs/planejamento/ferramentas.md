@@ -1,9 +1,9 @@
 # Ferramentas 
 
-## Introdução
+## 1. Introdução
 As ferramentas para o uso do projeto da disciplina foram escolhidas de acordo com as necessidades do grupo. Isso em relação a comunicação do grupo e também com o objetivo de facilitar a documentação e a gestão do trabalho. A escolha foi feita baseada na familiarização dos membros de acordo com cada ferramenta. Para que cada uma possa ser usada de maneira efetiva durante a disciplina.
 
-## Ferramentas utilizadas
+## 2. Ferramentas utilizadas
 
 Cada uma das ferramentas escolhidas estão listadas na Tabela 1, detalhando a finalidade e como é cada ferramenta.
 
@@ -19,18 +19,21 @@ Cada uma das ferramentas escolhidas estão listadas na Tabela 1, detalhando a fi
 |     ![Canva](../assets/ferramentas/Canva-Logotipo.png){width="70%"}     |  Canva   | Utilizado para criação de designs para apresentações ou trabalho relacionado ao projeto                                                                         |
 |     ![YouTube](../assets/ferramentas/logo-youtube.png){width="50%"}     |  YouTube   | Utilizado para salvar gravações realizadas pelo grupo na GitPages da disciplina                                                                        |
 |     ![This Person Does Not Exist](../assets/ferramentas/this-person-doesnt-exist.png){width="50%"}     |  This Person Does Not Exist   | Utilizado para gerar imagens a serem utilizadas para as personas                                                                        |
+| ![Google Meet](../assets/ferramentas/meet.png){width="50%"} | Google Meet | Utilizado para entrevistas com usuários remotamente |
+| ![CamScanner](../assets/ferramentas/cs.jpg){width="50%"}  | CamScanner | Utilizado para digitalizar documentos e protótipos em papel |
+| ![OBS](../assets/ferramentas/obs.png){width="50%"} | OBS | Utilizado para gravação de tela e entrevistas com usuários |
 
 <center>
 Tabela 1: Ferramentas utilizadas no projeto (Fonte: autor, 2023).
 </center>
 
-## Bibliografia
+## 3. Bibliografia
 
 [1] Wiki IHC - Planejamento - Ferramentas. Disponível no [link](https://interacao-humano-computador.github.io/2022.2-Lichess/planejamento/tools/). Acesso em: 22 de abril de 2023.
 
-## Histórico de Versão
+## 4. Histórico de Versão
 
 | Data  |    Data    |                            Descrição                            |   Autor(es)   |  Revisor(es)  |
 | :---: | :--------: | :-------------------------------------------------------------: | :-----------: | :-----------: |
-| `1.0` | 17/04/2023 |                Adição das ferramentas iniciais para o projeto               | Pedro Henrique  | Carlos Eduardo |
-| `1.1` | 22/04/2023 |                Adição de chamada da tabela no texto e inclusão das ferramentas YouTube e This Person Does Not Exist               | Pedro Henrique  | Pedro Muniz |
+| `1.0` | 17/04/2023 |                Adição das ferramentas iniciais para o projeto               | Pedro H.  | Carlos E. |
+| `1.1` | 22/04/2023 |                Adição de chamada da tabela no texto e inclusão das ferramentas YouTube e This Person Does Not Exist               | Pedro H.  | Pedro M. |

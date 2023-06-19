@@ -197,17 +197,17 @@ Os funcionários do Detran são pessoas importantes para o funcionamento do Detr
 
 </center>
 
-## Bibliografia
+## 4. Bibliografia
 
 > [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
 > [2] Sítio DetranGO: https://www.detran.go.gov.br/psw/#/pages/pagina-inicial, Acesso em 5 de Maio de 2023
 
-## Histórico de Versão
+## 5. Histórico de Versão
 
 | Versão | Data       | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ---------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  | 29/04/2023 | Criação do documento.              | Pedro Henrique |  João Morbeck |
-| `1.1`  | 05/05/2023 | Adição inicial do Diagrama da HTA  | Pedro Henrique e João Morbeck |  Carlos Eduardo |
-| `1.2`  | 05/05/2023 | Adição das imagens e atividades dos funcionários  | Pedro Henrique e João Morbeck |  Carlos Eduardo |
-| `1.3`  | 08/05/2023 | Descrição das atividades e correção de erros  | Pedro Henrique e João Morbeck |  Carlos Eduardo |
+| `1.0`  | 29/04/2023 | Criação do documento.              | Pedro H. |  João M. |
+| `1.1`  | 05/05/2023 | Adição inicial do Diagrama da HTA  | Pedro H. e João M. |  Carlos E. |
+| `1.2`  | 05/05/2023 | Adição das imagens e atividades dos funcionários  | Pedro H. e João M. |  Carlos E. |
+| `1.3`  | 08/05/2023 | Descrição das atividades e correção de erros  | Pedro H. e João M. |  Carlos E. |

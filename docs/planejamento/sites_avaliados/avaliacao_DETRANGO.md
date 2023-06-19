@@ -1,18 +1,18 @@
 # Avaliação de IHC - DETRAN GO
 
-## Introdução
+## 1. Introdução
 
 O sítio do [Detran GO](https://www.detran.go.gov.br/psw/#/pages/pagina-inicial) possui como objetivo principal, disponibilizar informações diversas, todas ligadas ao departamento de trânsito e aos serviços que são disponibilizados, estes separados em categorias como Habilitação, Veículo, Processo, Atendimento, Notícias, a princípio o usuário acessa o sítio para adquirir informações que são de posse do departamento de trânsito, seja sobre o próprio Detran ou sobre o veículo ou habilitação do usuário, e marcar atendimentos que serão feitos presencialmente, segue o [planejamento disponível](../../assets/DETRAN/ProjetoParteIndividualPlanejAvali%C3%A7%C3%A3oJo%C3%A3oPedroRodrigues.pdf).
 
-## Avaliação heurística
+## 2. Avaliação heurística
 
 A avaliação heurística é o método de avaliação escolhido, consiste em o avaliador se colocar no papel do usuário e utilizar a aplicação, a fim de encontrar e avaliar problemas de usabilidade da interface, para avaliar, é utilizado uma série de heurísticas para determinar se o usuário é capaz de executar seus objetivos de maneira eficiente e satisfatória.
 
-## 1. Compatibilidade do sistema com o mundo real
+## 3. Compatibilidade do sistema com o mundo real
 
 Em geral, o sítio do DETRAN possui uma boa compatibilidade com o mundo real, não existe termos ou jargões técnicos sendo utilizados pela interface e o uso de siglas é limitado e para aquelas em que o usuário já deve ter um certo grau de familiaridade, principalmente pelo fato de que o usuário deve utilizar os mesmos termos para fazer as buscas e chegar ao sítio do DETRAN.
 
-## 2. Consistência e padrões
+## 4. Consistência e padrões
 
 Na imagem abaixo, é possível identificar diversos problemas na interface, mas quanto à consistência de padrões, verificamos que existe a consulta de CNH à esquerda, mas na aba Outros Serviços existe uma aba de Consulta de CNH.
 
@@ -36,11 +36,11 @@ Na imagem abaixo, é possível identificar diversos problemas na interface, mas 
 
 </center>
 
-## 3. Prevenção de erros
+## 5. Prevenção de erros
 
 O sítio do DETRAN possui boas medidas de prevenção de erros, entre elas temos marcações para caso algum campo necessário não esteja preenchido, e os campos possuem informações sobre qual é a forma correta de preencher o campo, além de que ao fazer uma busca, por exemplo, pelo Renavam do veículo, surge um ícone indicando onde na documentação que se encontra o valor.
 
-## 4. Reconhecimento ao invés de memorização
+## 6. Reconhecimento ao invés de memorização
 
 Na imagem, podemos ver que parte das opções não são completamente visíveis e não é possível descer para que as opções se tornem legíveis, é preciso clicar na parte visível para avançar e entender sobre o que se trata.
 
@@ -64,7 +64,7 @@ Na imagem, podemos ver que parte das opções não são completamente visíveis 
 
 </center>
 
-## 5. Flexibilidade e eficiência de uso
+## 7. Flexibilidade e eficiência de uso
 
 A aplicação não flexibiliza o uso para um usuário experiente, isso pode ser visto na falta de atalhos para realizar certas tarefas (Figura 1), além da dificuldade que novos usuários possam ter ao encontrar opções desejadas.
 
@@ -83,7 +83,7 @@ A aplicação não flexibiliza o uso para um usuário experiente, isso pode ser 
 
 </center>
 
-## 6. Estética e design minimalista
+## 8. Estética e design minimalista
 
 Na Figura 2, é possível verificar que há problemas quanto ao design de interface, certos elementos não estão completamente visíveis, além de possuir muitos elementos que ocupam boa parte do espaço do sítio.
 
@@ -102,7 +102,7 @@ Na Figura 2, é possível verificar que há problemas quanto ao design de interf
 
 </center>
 
-## 7. Ajuda e documentação
+## 9. Ajuda e documentação
 
 Na Figura 1, identifica-se uma seção de Outros Serviços, nessa seção há diversas opções, mas nestas opções se encontram informações dos serviços, e não os serviços em si.
 
@@ -121,15 +121,15 @@ Na Figura 1, identifica-se uma seção de Outros Serviços, nessa seção há di
 
 </center>
 
-## Conclusão
+## 10. Conclusão
 
 O sítio do Detran do Goiás possui alguns problemas de usabilidade, alguns problemas estéticos que dificultam o uso, como os diferentes scrolls e a quantidade de informações, porém a maioria dos problemas são ruídos em que o usuário consegue aprender para poder utilizar, porém estes problemas geram incômodo no usuário e devem ser corrigidos.
 
-## Referências bibliográficas
+## 11. Referências bibliográficas
   > [1] MACIEL, C. _et al_. Avaliação Heurística de Sítios na Web. Niterói, RJ: UFF, 2004.
 
-## Histórico de Versão
+## 12. Histórico de Versão
 
 |  Versão  |   Data   |                      Descrição                      |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
-|  `1.0`   | 13/04/23 | Criação do documento e adição do conteúdo           | João Morbeck | Amanda Noda |
+|  `1.0`   | 13/04/23 | Criação do documento e adição do conteúdo           | João M. | Amanda N. |

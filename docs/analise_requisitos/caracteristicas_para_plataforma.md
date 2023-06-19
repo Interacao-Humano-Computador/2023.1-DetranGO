@@ -49,6 +49,6 @@ Apesar das limitações, o site possui muitas funcionalidades por se tratar de u
 ## 8. Histórico de versão
 | Versão | Data       | Descrição            | Autor(es)   | Revisor(es)    |
 |--------|------------|----------------------|-------------|----------------|
-| `1.0`  | 10/05/2023 | Criação do documento | Amanda Noda e Pedro Henrique | Pedro Muniz |
-| `1.1`  | 11/05/2023 | Adição das características e objetivos | Amanda Noda e Pedro Henrique | Pedro Muniz |
-| `1.2`  | 11/05/2023 | Adição das limitações e possibilidades | Amanda Noda e Pedro Henrique | Pedro Muniz |
+| `1.0`  | 10/05/2023 | Criação do documento | Amanda N. e Pedro H. | Pedro M. |
+| `1.1`  | 11/05/2023 | Adição das características e objetivos | Amanda N. e Pedro H. | Pedro M. |
+| `1.2`  | 11/05/2023 | Adição das limitações e possibilidades | Amanda N. e Pedro H. | Pedro M. |

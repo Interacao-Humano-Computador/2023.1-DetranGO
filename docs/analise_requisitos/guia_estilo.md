@@ -175,16 +175,16 @@ Figura 9 - Diálogo com o usuário (fonte: [DetranGO](https://www.detran.go.gov.
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F9lfSdxdTpmmXDPyIMOEQeq%2FGuia-de-Estilo---Grupo-do-Detran-GO%3Ftype%3Ddesign%26node-id%3D1%253A3%26t%3Dau8AjasrviLCFuY4-1" allowfullscreen></iframe>
 
-## Bibliografia
+## 9. Bibliografia
 
 > [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010
 
 > [2] Sítio DetranGO: <https://www.detran.go.gov.br/psw/#/pages/pagina-inicial>, Acesso em 11 de maio de 2023
 
-# Histórico de Versão
+# 10. Histórico de Versão
 
 | Versão | Data       | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ---------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  | 09/05/2023 | Criação do documento.              | Carlos Eduardo, João Morbeck, Pedro Henrique | Pedro Muniz |
-| `1.1`  | 12/05/2023 | Adição das janelas, Figma, Vocabulário e Padrões, Elementos de interação e ação        | Carlos Eduardo, João Morbeck, Pedro Henrique | Pedro Muniz |
-| `1.2`  | 01/06/2023 | Correção de termos em ingles e adição de princípios atendidos.              | Carlos Eduardo | Amanda Noda |
+| `1.0`  | 09/05/2023 | Criação do documento.              | Carlos E., João M., Pedro H. | Pedro M. |
+| `1.1`  | 12/05/2023 | Adição das janelas, Figma, Vocabulário e Padrões, Elementos de interação e ação        | Carlos E., João M., Pedro H. | Pedro M. |
+| `1.2`  | 01/06/2023 | Correção de termos em ingles e adição de princípios atendidos.              | Carlos E. | Amanda N. |

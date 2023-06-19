@@ -1,49 +1,57 @@
-# Análise de Tarefas - Planejamento do relato dos resultados da análise de tarefas
+# Análise de Tarefas - Planejamento do relato dos resultados
 
 ## 1. Introdução
 
-O objetivo deste artefato é realizar o planejamento do relato dos resultados obtidos da análise de tarefas. Ou seja, utilizamos do artefato Planejamento da Avaliação da Análise de Tarefas para organizarmos os dados e a coleta dos mesmos, atividades que foram realizadas na fase de avaliação da análise de tarefas. Com isso, o resultado esperado do relato é conseguir insumos que auxiliem para a realização de melhorias e sugestões a serem implementadas no sistema do Detran GO.
+O objetivo deste artefato é realizar o planejamento do relato dos resultados obtidos a partir da avaliação da análise de tarefas. Ou seja, utilizamos do artefato Planejamento da Avaliação da Análise de Tarefas para organizarmos os dados e a coleta dos mesmos, atividades que foram realizadas na fase de avaliação da análise de tarefas. Com isso, o resultado esperado do relato é conseguir insumos que auxiliem para a realização de melhorias e sugestões a serem implementadas no sistema do Detran GO.
 
-## 2. Metodologia
-Como metodologia para realizar o relato dos resultados, nossa equipe optou por utilizar dos métodos de investigação (*inquiry*) [1]. Entre os métodos, optamos pela realização de entrevistas. Essa escolha foi feita baseada nas tarefas que buscamos analisar que condizem com usuários do sistema que realizam essas tarefas para obtermos objetivos de avaliação coerentes com o sistema proposto.
-
-## 3. Tópicos do relato dos resultados
+## 2. Elementos do relato dos resultados
 
 O artefato de relato dos resultados da avaliação deverá ter os tópicos descritos nesta seção.
 
-### 3.1 Objetivos da avaliação
+### 2.1 Objetivos da avaliação
 
 Neste tópico devem ser explicitados os objetivos da avaliação da análise de tarefas, justificando assim sua realização.
 
-### 3.2 Método de avaliação utilizado
+### 2.2 Metodologia
 
-Este tópico reserva-se a definir o método de avaliação utilizado, as razões para a escolha do método, e como esta avaliação ocorreu.
+Os métodos utilizados para a realização desta avaliação devem ser explicitados de maneira clara, estando também de acordo com o que foi planejado em [artefato anterior](./planejamento_analise_tarefas.md).
 
-### 3.3 Participantes
+#### 2.2.1 Aspectos éticos
 
-Os participantes da avaliação deverão ser listados neste tópico de maneira organizada.
+Em se tratando de uma pesquisa envolvendo pessoas não afiliadas ao grupo, a consideração de aspectos éticos é necessaria para o desenvolvimento de uma pesquisa a fim de garantir a integridade dos participantes e da pesquisa em si.
 
-### 3.4 Respostas das perguntas
+Como foi planejada uma entrevista, um termo de consentimento livre e esclarecido condizente com os acontecimentos planejados deve ser apresentado ao participante a fim de que o mesmo concorde com os termos apresentados anteriormente à realização da pesquisa.
+
+### 2.3 Cronograma e participantes
+
+Todos os participantes da avaliação, bem como os avaliadores designados (seja para o teste piloto ou para a avaliação), devem ser listados de maneira organizada e clara no relato dos resultados. Também deve-se ressaltar que o usuário escolhido deve estar de acordo com o perfil do usuário do sistema, definido em [artefato anterior](./../../../analise_requisitos/perfilUsuario.md).
+
+### 2.4 Respostas das perguntas
 
 Nesta seção devem ser compiladas as respostas às perguntas elaboradas no planejamento da avaliação da análise de tarefas, a fim de observar se todas foram respondidas satisfatoriamente.
 
-### 3.5 Gravações das entrevistas
+### 2.5 Gravações das entrevistas
 
 Esta seção deve compilar as gravações das entrevistas de maneira organizada.
 
-### 3.6 Análise dos dados coletados
+### 2.6 Análise dos dados coletados
 
 Aqui, deve-se discorrer sobre os dados coletados de maneira analítica e clara, com o intuito de tirar conclusões sobre o artefato atual de análise de tarefas.
 
-### 3.7 Correções possíveis
+### 2.7 Correções possíveis
 
 Nesta seção devem ser delineadas correções possíveis no artefato de análise de tarefas com base no que foi concluído e aprendido com a execução da avaliação.
 
-## 4. Bibliografia
+### 2.8 Conclusão
+
+Esta seção do artefato deverá registrar se os objetivos da avaliação foram atingidos.
+
+## 3. Bibliografia
 
 > [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1
 
-## 5. Histórico de versão
+## 4. Histórico de versão
 | Versão | Data       | Descrição            | Autor(es)   | Revisor(es)    |
 |--------|------------|----------------------|-------------|----------------|
-| `1.0`  | 19/05/2023 | Criação do documento | Pedro Henrique e Pedro Muniz | João Morbeck |
+| `1.0`  | 19/05/2023 | Criação do documento | Pedro H. e Pedro M. | João M. |
+| `1.1`  | 19/06/2023 | Alterações de padronização | Pedro M. | Amanda N. |

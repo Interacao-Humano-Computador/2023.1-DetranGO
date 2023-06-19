@@ -34,17 +34,17 @@ Após a realização do teste piloto, foram identificados problemas na estrutura
 
 <center>
 
-| ID | Verificação | Ocorrências | Acertos | Erros |
-|:-:|--|--|--|--|
-| 1 | Possui ortografia correta e formal? | - | - | - |
-| 2 | Possui introdução? | - | - | - |
-| 3 | Possui links necessários? | - | - | - |
-| 4 | As tabelas e imagens possuem legenda padronizada e chamada no texto? | - | - | - |
-| 5 | As tabelas e imagens estão totalmente em português? | - | - | - |
-| 6 | Possui bibliografia? | - | - | - |
-| 7 | A bibliografia está em ordem alfabética? | - | - | - |
-| 8 | Possui histórico de versão padronizado? | - | - | - |
-| 9 | O histórico de versão possui autor(es) e revisor(es)? | - | - | - |
+| ID | Verificação | Realizado |
+|:-:|--|--|
+| 1 | Possui ortografia correta e formal? | - |
+| 2 | Possui introdução? | - |
+| 3 | Possui links necessários? | - |
+| 4 | As tabelas e imagens possuem legenda padronizada e chamada no texto? | - |
+| 5 | As tabelas e imagens estão totalmente em português? | - |
+| 6 | Possui bibliografia? | - |
+| 7 | A bibliografia está em ordem alfabética? | - |
+| 8 | Possui histórico de versão padronizado? | - |
+| 9 | O histórico de versão possui autor(es) e revisor(es)? | - |
 
 Tabela 2: Modelo de checklist para padronização (Fonte: Autor, 2023).
 

@@ -1,11 +1,11 @@
 # Cenários
 
-## Introdução
+## 1. Introdução
 
 Cenários são, essencialmente, histórias sobre pessoas realizando uma atividade. São narrativas que detalham uma situação de uso de uma aplicação e que, por sua natureza, envolvem dados reais ou potenciais, usuários e processos [1].
 Os cenários também descrevem os atores que dele participam. Assim, seus objetivos dirigem a tarefa que ele realiza no sistema. Cada cenário possui um ator principal e um **objetivo** principal que pode ser desdobrado em subobjetivos [1].
 
-## Metodologia
+## 2. Metodologia
 
 Cada cenário será detalhado tal qual modelo descrito por Milene Serrano [2]. Portanto, cada cenário deverá conter:
 
@@ -20,11 +20,11 @@ Cada cenário será detalhado tal qual modelo descrito por Milene Serrano [2]. P
 
 Também é importante denotar que não serão todas as funcionalidades do site que poderão ser abordadas neste artefato. Para tanto, foram selecionadas algumas funcionalidades mais importantes do site Detran GO.
 
-## Cenários
+## 3. Cenários
 
 Abaixo estão descritos todos os cenários identificados para o projeto.
 
-### Cenário 01
+### 3.1 Cenário 01
 
 * **Título**: Consulta de dados de um veículo
 * **Objetivo**: Conseguir consultar dados importantes de um veículo a partir da placa e do Renavam do mesmo.
@@ -44,7 +44,7 @@ Abaixo estão descritos todos os cenários identificados para o projeto.
     * O condutor habilitado digita a placa e o Renavam nos campos solicitados;
     * O condutor habilitado obtém os dados de seu veículo.
 
-### Cenário 02
+### 3.2 Cenário 02
 
 * **Título**: Registro para primeira habilitação
 * **Objetivo**: Conseguir realizar o pré-cadastro para o processo de primeira habilitação.
@@ -69,7 +69,7 @@ Abaixo estão descritos todos os cenários identificados para o projeto.
     * O estudante informa o CFC (opcional);
     * O estudante emite o boleto para pagamento.
 
-### Cenário 03
+### 3.3 Cenário 03
 
 * **Título**: Consulta de multas de outras UFs
 * **Objetivo**: Conseguir consultar informações sobre infrações cometidas no Goiás por veículos de outras UFs.
@@ -90,7 +90,7 @@ Abaixo estão descritos todos os cenários identificados para o projeto.
     * O condutor habilitado obtém um resultado negativo ou uma lista de infrações.
 
 
-### Cenário 04
+### 3.4 Cenário 04
 
 * **Título**: Consulta de CFCs para CNH Social
 * **Objetivo**: Conseguir consultar quais CFCs são credenciados ao programa de CNH Social.
@@ -107,7 +107,7 @@ Abaixo estão descritos todos os cenários identificados para o projeto.
     * O condutor habilitado seleciona o item "CFCs Credenciados ao programa CNH SOCIAL";
     * O condutor habilitado obtém uma lista com todos os CFCs credenciados, seus municípios e seus telefones.
 
-### Cenário 05
+### 3.5 Cenário 05
 
 * **Título**: Agendamento de atendimento no Detran GO
 * **Objetivo**: Conseguir agendar um atendimento em uma unidade de atendimento que possua o serviço seleconado
@@ -131,7 +131,7 @@ Abaixo estão descritos todos os cenários identificados para o projeto.
     * O condutor habilitado confirma as informações sobre o agendamento;
     * O condutor habilitado obté um comprovante do agendamento.
 
-### Cenário 06
+### 3.6 Cenário 06
 
 * **Título**: Verificação de atendimento
 * **Objetivo**: Conseguir verificar os dados pessoais de um solicitante e o atendimento solicitado
@@ -146,7 +146,7 @@ Abaixo estão descritos todos os cenários identificados para o projeto.
     * O atendente entra no sistema do Ciretran;
     * O atenednte consulta os dados fornecidos pelo Detran GO.
 
-### Cenário 07
+### 3.7 Cenário 07
 
 * **Título**: Consulta ao calendário de licenciamento
 * **Objetivo**: Conseguir consultar o calendário de licenciaento de veículos.
@@ -164,7 +164,7 @@ Abaixo estão descritos todos os cenários identificados para o projeto.
     * O dono de veículo obtém um calendário com datas apra cada final da placa e cada parcela.
 
 
-### Cenário 08
+### 3.8 Cenário 08
 
 * **Título**: Inscrição em curso de reciclagem
 * **Objetivo**: Conseguir inscrever-se em curso de reciclagem em caso de suspensão da CNH.
@@ -184,7 +184,7 @@ Abaixo estão descritos todos os cenários identificados para o projeto.
     * O condutor seleciona a modalidade e o CFC;
     * O condutor imprime o boleto ou paga-o com um aplicativo.
 
-### Cenário 09
+### 3.9 Cenário 09
 
 * **Título**: Agendamento de vistoria veicular
 * **Objetivo**: Conseguir agendar uma vistoria veicular para auxiliar compra ou venda de automóveis.
@@ -203,15 +203,15 @@ Abaixo estão descritos todos os cenários identificados para o projeto.
     * O dono de veículo obtém uma tabela com os prestadores de serviços, seus endereços, contatos e municípios.
     * O dono de veículo seleciona um prestador de serviços e é redirecionado.
 
-## Bibliografia
+## 4. Bibliografia
 
 > [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Acesso em; 07 mai. 2023.
 
 > [2]  Milene Serrano e Maurício Serrano. Slides da disciplina de Requisitos de Software. Requisitos - Aula 10. Elicitação, modelagem e análise. Acesso em: 07 mai. 2023.
 
 
-## Histórico de Versão
+## 5. Histórico de Versão
 
 | Versão | Data     | Descrição                                 | Autor(es)      | Revisor(es) |
 | ------ | -------- | ----------------------------------------- | -------------- | ----------- |
-| `1.0`  | 02/05/23 | Criação do documento e adição do conteúdo | Pedro Muniz | Felipe Corrêa |
+| `1.0`  | 02/05/23 | Criação do documento e adição do conteúdo | Pedro M. | Felipe M. |
