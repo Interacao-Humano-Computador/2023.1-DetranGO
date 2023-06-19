@@ -155,6 +155,10 @@ O ambiente de uso do software é tangencialmente imaginável a partir da questã
 
 Esta seção do artefato dedica-se às correções que forem realizadas no artefato a partir da disponibilização desta verificação no GitHub Pages da disciplina. 
 
+### 6.1 Versão 1.1 
+
+Esta versão realizou correções relacionadas ao checklist de padronização, não afetando assim os gráficos. 
+
 ## 7. Referências bibliográficas
 
 > [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Acesso em: 17 jun. 2023. 

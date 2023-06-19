@@ -139,6 +139,31 @@ Não é definida uma seção de interpretação de dados no relato dos resultado
 
 ## 6. Acompanhamento
 
+Esta seção do artefato dedica-se às correções que forem realizadas no artefato a partir da disponibilização desta verificação no GitHub Pages da disciplina. 
+
+### 6.1 Versão 1.2
+
+O artefato sofreu mudanças que corrigiram as pendências mostradas no checklist de conteúdo. Para tanto, ambos os gráficos atualmente estão em **100%**. As figuras 3 e 4 mostram ambos os gráficos.
+
+<center>
+
+![Grau de satisfação relato resultados storyboard 1.1](../assets/analise/storypr/10.png)
+
+</center>
+
+<center>
+Figura 3: Grau de satisfação do artefato do relato dos resultados da avaliação do storyboard versão 1.2 (Fonte: Autor, 2023).
+</center>
+
+<center>
+
+![Porcentagem erros relato resultados storyboard 1.1](../assets/analise/storypr/9.png)
+
+</center>
+
+<center>
+Figura 4: Porcentagem de erros do artefato do relato dos resultados da avaliação do storyboard versão 1.2 (Fonte: Autor, 2023).
+</center>
 
 ## 7. Referências bibliográficas
 

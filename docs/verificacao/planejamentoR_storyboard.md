@@ -95,7 +95,6 @@ A tabela 2 contém os itens definidos na seção de metodologia para a realizaç
 Tabela 2: Checklist de conteúdo do planejamento do relato dos resultados da avaliação do storyboard (Fonte: Autor, 2023).
 </center>
 
-
 ## 4. Resultados
 
 Seguindo aquilo que foi definido no [planejamento da verificação](./planejamentoVerificacao.md), e utilizando-se unicamente do checklist de conteúdo desenvolvido para este artefato, é possível desenvolver os gráficos mostrados nas figuras 1 e 2, que delineiam o grau de satisfação deste artefato e a porcentagem de erros do mesmo.
@@ -137,6 +136,30 @@ O presente artefato não demarca a necessidade de uma seção para a interpreta�
 ## 6. Acompanhamento
 
 Esta seção do artefato dedica-se às correções que forem realizadas no artefato a partir da disponibilização desta verificação no GitHub Pages da disciplina. 
+
+### 6.1 Versão 1.1
+
+O artefato sofreu mudanças que corrigiram as pendências mostradas no checklist de conteúdo. Para tanto, ambos os gráficos atualmente estão em **100%**. As figuras 3 e 4 mostram ambos os gráficos.
+
+<center>
+
+![Grau de satisfação planejamento relato resultados storyboard 1.1](../assets/analise/storypr/10.png)
+
+</center>
+
+<center>
+Figura 3: Grau de satisfação do artefato do planejamento do relato dos resultados da avaliação do storyboard versão 1.1 (Fonte: Autor, 2023).
+</center>
+
+<center>
+
+![Porcentagem erros planejamento relato resultados storyboard 1.1](../assets/analise/storypr/9.png)
+
+</center>
+
+<center>
+Figura 4: Porcentagem de erros do artefato do planejamento do relato dos resultados da avaliação do storyboard versão 1.1 (Fonte: Autor, 2023).
+</center>
 
 ## 7. Referências bibliográficas
 
