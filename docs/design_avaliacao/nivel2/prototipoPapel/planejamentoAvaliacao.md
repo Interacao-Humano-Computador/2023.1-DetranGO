@@ -3,6 +3,8 @@
 ## 1. Introdução
 A prototipação em papel é uma forma de prototipação de baixa fidelidade conhecida e amplamente utilizada, por conta de seu baixíssimo custo e sua grande ajuda na passagem de ideias da equipe de desenvolvimento para o usuário, assim como a elaboração de novas soluções e a possibilidade de alteração com facilidade.
 
+
+
 ## 2. Metodologia
 Para o planejamento da avaliação do protótipo de papel elaborado, será utilizado o framework DECIDE, descrito por Simone Barbosa em seu livro Interação Humano Computador[2], seguindo o framework, o artefato terá os seguintes tópicos:
 
@@ -82,7 +84,8 @@ Para a avaliação do protótipo, será utilizado o método da investigação at
 ### 3.4 I - Identificar e administrar as questões práticas da avaliação
 
 #### 3.4.1 Recrutamento
-Para a escolha dos participantes das entrevistas, deve ser levado em conta o [perfil de usuário](../../../analise_requisitos/perfilUsuario.md)[3] elaborado anteriormente, para que se possa afirmar que os entrevistados na avaliação representam de forma correta o público alvo do sistema trabalhado. Além disso, devem ser realizadas entrevistas com ao menos 3 usuários distintos, já que segundo Krug[] 3 ou 4 usuários são suficientes para encontrar a maioria dos problemas de um objeto a ser validado.
+
+Para a escolha dos participantes das entrevistas, deve ser levado em conta o [perfil de usuário](../../../analise_requisitos/perfilUsuario.md)[3] elaborado anteriormente, para que se possa afirmar que os entrevistados na avaliação representam de forma correta o público-alvo do sistema trabalhado.
 
 #### 3.4.2 Tarefas propostas
 Na prototipação em papel será representada uma quantidade limitada de fluxos de atividade realizados no sistema, sendo estes fluxos:
@@ -92,7 +95,7 @@ Na prototipação em papel será representada uma quantidade limitada de fluxos 
 - A emissão de CRLV
 
 #### 3.4.3 Ferramentas utilizadas
-As entrevistas poderão ser realizadas de forma presencial ou remota. Para que se possa realizar a avaliação de forma remota, as telas prototipadas devem ser convertidas em arquivos PDF utilizando a ferramenta [CamScanner](https://www.camscanner.com/)[5]. Para a realização e gravação da entrevista serão utilizadas as ferramentas [Google Meet](https://meet.google.com/)[6] para a realização da reunião e o [OBS](https://obsproject.com/pt-br/download/)[7] para a gravação da mesma.
+As entrevistas poderão ser realizadas de forma presencial ou remota. Para que se possa realizar a avaliação de forma remota, as telas prototipadas devem ser convertidas em arquivos PDF utilizando a ferramenta [CamScanner](https://www.camscanner.com/)[5]. Para a realização e gravação da entrevista serão utilizadas as ferramentas [Google Meet](https://meet.google.com/)[6], esta para a realização da reunião, e o [OBS](https://obsproject.com/pt-br/download/)[7] para a gravação da mesma.
 
 #### 3.4.4 Teste piloto
 Antes de realizar as entrevistas de fato, deverá ser realizado um teste inicial pela equipe de desenvolvimento, visando afirmar o funcionamento de todas as ferramentas utilizadas, além da identificação de problemas não encontrados anteriormente.
@@ -214,9 +217,9 @@ Após a execução da avaliação, os dados recolhidos deverão ser tratados e r
 ## 4. Referências Bibliográficas
 > [1] Artefato Aspectos éticos, acesso em 27 de maio de 2023. Para mais informações acesse: [link](../../../analise_requisitos/aspectos_eticos.md).
 
-> [2] Artefato Planejamento do relato dos resultados da avaliação do protótipo de papel, acesso em 27 de maio de 2023. Para mais informações acesse: [link](./planejamentoRelatoResultados.md).
+> [2] Artefato Perfil de usuário, acesso em 27 de maio de 2023. Para mais informações acesse: [link](../../../analise_requisitos/perfilUsuario.md).
 
-> [3] Artefato Perfil de usuário, acesso em 27 de maio de 2023. Para mais informações acesse: [link](../../../analise_requisitos/perfilUsuario.md).
+> [3] Artefato Planejamento do relato dos resultados da avaliação do protótipo de papel, acesso em 27 de maio de 2023. Para mais informações acesse: [link](./planejamentoRelatoResultados.md).
 
 > [4] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Acesso em: 27 mai. 2023.
 
