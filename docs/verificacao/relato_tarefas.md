@@ -33,7 +33,7 @@ O avaliador deve determinar os objetivos gerais da avaliação e identificar por
 
 `BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 9. Seção 9.7.5`
 
-### 2.5. Verificação 5 - OO artefato demonstra quais participantes foram definidos ?
+### 2.5. Verificação 5 - O artefato demonstra quais participantes foram definidos ?
 O relato de resultados deve conter o número e o perfil de usuários e avaliadores que participaram da avaliação.
 
 `BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 9. Seção 9.7.5`
@@ -93,8 +93,8 @@ A tabela 2 marca as verificações de conteúdo dos artefatos. Os critérios con
 | 11 | O artefato deixa claro como foi realizada a pesquisa ? | 1 | 1 | 0 |
 | 12 | Os resultados foram separados em subcategorias para a análise ? | 3 | 3 | 0 |
 | 13 | O artefato deixa seu objetivo claro ? | 1 | 1 | 0 |
-| 14 | O artefato demonstra quais participantes foram definidos ?| 1 | 1 | 0 |
-| 15 | O artefato demonstra através de visualização gráfica e de fácil análise dos resultados obtidos ?| 1 | 1 | 0 |
+| 14 | O artefato demonstra quais participantes foram definidos ? | 1 | 1 | 0 |
+| 15 | O artefato demonstra através de visualização gráfica e de fácil análise dos resultados obtidos ? | 1 | 1 | 0 |
 | 16 | O artefato possui uma conclusão plausível seguindo o rumo dos fatos previamente apresentados ? | 1 | 1 | 0 |
 | 17 | As questões éticas foram respeitadas ? | 1 | 1 | 0 |
 | 18 | As referências bibliográficas estão corretas ? | 1 | 0 | 1 |
