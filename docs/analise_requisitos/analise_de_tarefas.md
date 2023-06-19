@@ -23,7 +23,7 @@ Essa análise foi desenvolvida para compreender as competências e habilidades e
 
 ## 3. Diagrama das Tarefas
 
-A análise foi realizada com o uso do site do DETRAN GO [2], sendo que parte das funcionalidades precisam de login para serem acessadas, outras podem ser utilizadas sem realizar essa autenticação. As atividades para análise foram divididas em 2 seções principais:
+A análise foi realizada com o uso do site do DETRAN GO [2], sendo que parte das funcionalidades precisam de login para serem acessadas, outras podem ser utilizadas sem realizar essa autenticação As atividades para análise foram divididas em 2 seções principais:
 
 * Atividades de acesso na plataforma logada
 * Atividades fora do escopo de acesso da plataforma logada
@@ -40,7 +40,7 @@ O diagrama completo pode ser observado na figura 2 e as seções nas figuras 3 e
 
 ### 3.1 Atividades de acesso na plataforma logada
 
-Na plataforma logada, as principais tarefas que o usuário pode realizar dependem de cada sessão em questão, sendo possível ter uma visão geral delas por meio do diagrama apresentado na figura 3. Assim, dividimos as tarefas em 3 sessões, cada uma com objetivos específicos do usuário. Assim, temos 3 sessões a serem analisadas: 
+Na plataforma logada, as principais tarefas que o usuário pode realizar dependem de cada sessão em questão, sendo possível ter uma visão geral delas por meio do diagrama apresentado na figura 3. Assim, dividimos as tarefas em 3 seções, cada uma com objetivos específicos do usuário. Assim, temos 3 seções a serem analisadas: 
 
 * Seção de CNH
 * Seção de veículo 
@@ -187,7 +187,7 @@ São duas atividades, na qual a consulta de processos depende do usuário inform
 
 ### 3.3 Atividades dos funcionários do Detran
 
-Os funcionários do Detran são pessoas importantes para o funcionamento do Detran, pois as informações que o público têm acesso na plataforma precisam ser inseridas de alguma maneira, no caso do Detran, os funcionários possuem uma plataforma exclusiva e não vinculada diretamente ao sítio que estamos analisando, porém ambas plataformas utilizamo o mesmo banco de dados, é importante mencionar quais são as tarefas que estes fazem para manipular os dados, mas como a plataforma que utilizam não faz parte do escopo de análise desta equipe, nos limitaremos a apenas a análise de tarefas que pode ser observada na figura 12.
+Os funcionários do Detran são pessoas importantes para o funcionamento do Detran, pois as informações que o público têm acesso na plataforma precisam ser inseridas de alguma maneira, no caso do Detran, os funcionários possuem uma plataforma exclusiva e não vinculada diretamente ao sítio que estamos analisando, porém ambas plataformas utilizamos o mesmo banco de dados, é importante mencionar quais são as tarefas que estes fazem para manipular os dados, mas como a plataforma que utilizam não faz parte do escopo de análise desta equipe, nos limitaremos a apenas a análise de tarefas que pode ser observada na figura 12.
 
 <center>
 
