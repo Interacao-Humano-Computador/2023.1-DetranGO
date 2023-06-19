@@ -108,7 +108,10 @@ O artefato apresenta alguns erros de ortografia, como alguns pequenos erros de p
 O artefato apresenta uma incoerência na ordem da blbliografia dos itens 2 e 3.
 ### 4.2 Problemas encontrados - Conteúdo
 
-#### 4.2.1 Verificação 5 - O artefato segue algum modelo de planejamento de avaliação estabelecido?
+#### 4.2.1 Verificação 4 - O artefato apresenta e descreve alguma metodologia para o planejamento da avaliação?
+
+O artefato em questão não descrevia a metodologia utilizada, que no caso era o *framework* DECIDE, no qual não foi descrito e aplicado a metodologia em relação ao planejamento da avaliação.
+#### 4.2.2 Verificação 6 - O artefato segue algum modelo de planejamento de avaliação estabelecido?
 
 O artefato em questão não apresenta nenhum modelo de planejamento que é seguido por outros artefatos de planejamento de avaliação.
 

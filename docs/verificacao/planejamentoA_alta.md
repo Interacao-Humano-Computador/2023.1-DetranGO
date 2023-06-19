@@ -100,7 +100,7 @@ Nenhum erro de padronização foi encontrado no artefato em questão.
 
 #### 4.2.1 Verificação 1 - O artefato apresenta questões práticas da avaliação?
 
-O artefato explica que as questões práticas devem ser feitas porém naõ descreve como elas vão realmente ser realizadas. As datas e prazos estabelidos não estão bem definidos por conta disso.
+O artefato explica que as questões práticas devem ser feitas porém não descreve como elas vão realmente ser realizadas. As datas e prazos estabelecidos não estão bem definidos por conta disso.
 
 #### 4.2.2 Verificação 5 - O artefato explica e detalha como a metodologia vai ser utilizada e aplicada para o planejamento da avaliação?
 
