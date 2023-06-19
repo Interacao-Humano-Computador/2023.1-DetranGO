@@ -61,7 +61,7 @@ Tabela 1 _[checklist]_ de padronização (fonte: autor, 2023)
 
 ### 3.2 Conteúdo
 
-Na tabela 2, se encontra o _[checklist]_ de conteúdo preenchido após a realização da verificação. As verificações realizadas foram obtidas a partir do plano de ensino da disciplina[3] e do capítulo 6, seção 6.3 até a seção 6.3.3 do livro Interação Humano Computador de Simone Barbosa[2].
+Na tabela 2, se encontra o _[checklist]_ de conteúdo preenchido após a realização da verificação. As verificações realizadas foram obtidas a partir do capítulo 6, seção 6.3 até a seção 6.3.3 do livro Interação Humano Computador de Simone Barbosa[2].
 
 | ID | Verificação | Ocorrências | Acertos | Erros |
 |--|--|--|--|--|
@@ -81,13 +81,13 @@ Tabela 2 _[checklist]_ de conteúdo (fonte: autor, 2023)
 
 ### 4.1 Problemas encontrados - Padronização
 
-### 4.1.1 Verificação 1 - Possui ortografia correta e formal?
+#### 4.1.1 Verificação 1 - Possui ortografia correta e formal?
 
 O artefato apresenta alguns erros de ortografia, como questões semânticas em alguns períodos e frases apresentados no decorrer de certas explicações.
 
 ### 4.2 Problemas encontrados - Conteúdo
 
-### 4.2.1 Verificação 5 - As metas de usabilidade são definidas com base no perfil dos usuários, análise de tarefas, possibilidades e limitações da plataforma em que o sistema será executado e princípios gerais de design de IHC?
+#### 4.2.1 Verificação 5 - As metas de usabilidade são definidas com base no perfil dos usuários, análise de tarefas, possibilidades e limitações da plataforma em que o sistema será executado e princípios gerais de design de IHC?
 
 O artefato ao abordar sobre as metas almejadas pelo nosso projeto não consegue definir com clareza se as metas de usabilidade são definidas de acordo com a verificação deste item. No geral, a definição é realizada porém faltou demonstrar a conexão que as metas de usabilidade apresentam com os outros elementos da engenharia de usabilidade de Mayhew[2].
 

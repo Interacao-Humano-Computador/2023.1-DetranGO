@@ -132,15 +132,15 @@ Tabela 2 _[checklist]_ de conteúdo (fonte: autor, 2023)
 ## 4. Problemas Encontrados
 ### 4.1 Problemas encontrados - Padronização
 
-### 4.1.1 Verificação 1 - Possui ortografia correta e formal?
+#### 4.1.1 Verificação 1 - Possui ortografia correta e formal?
 
 O artefato apresenta alguns erros de ortografia, como questões semânticas em alguns períodos e frases apresentados no decorrer de certas explicações. Além disso, o mesmo se encontrava com a falta de numeração de cada um dos tópicos apresentados.
 
-### 4.1.2 Verificação 4 - As tabelas e imagens possuem legenda padronizada e chamada no texto?
+#### 4.1.2 Verificação 4 - As tabelas e imagens possuem legenda padronizada e chamada no texto?
 
 O artefato não apresentava chamada no texto sobre as imagens de cada persona, porém apresenta uma legenda padronizada de cada uma.
 
-### 4.1.3 Verificação 7 - A bibliografia está em ordem alfabética? 
+#### 4.1.3 Verificação 7 - A bibliografia está em ordem alfabética? 
 
 A bibliografia apresentada não estava em ordem alfabética.
 

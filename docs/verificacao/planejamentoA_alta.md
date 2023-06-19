@@ -93,19 +93,19 @@ Tabela 2 _[checklist]_ de conteúdo (fonte: autor, 2023)
 </center>
 
 ## 4. Problemas Encontrados
-### 4.1 Problemas encontrados - Padronização
+#### 4.1 Problemas encontrados - Padronização
 
 Nenhum erro de padronização foi encontrado no artefato em questão.
 ### 4.2 Problemas encontrados - Conteúdo
 
-### 4.2.1 Verificação 1 - O artefato apresenta questões práticas da avaliação?
+#### 4.2.1 Verificação 1 - O artefato apresenta questões práticas da avaliação?
 
 O artefato explica que as questões práticas devem ser feitas porém naõ descreve como elas vão realmente ser realizadas. As datas e prazos estabelidos não estão bem definidos por conta disso.
 
-### 4.2.2 Verificação 5 - O artefato explica e detalha como a metodologia vai ser utilizada e aplicada para o planejamento da avaliação?
+#### 4.2.2 Verificação 5 - O artefato explica e detalha como a metodologia vai ser utilizada e aplicada para o planejamento da avaliação?
 
 O artefato não deixou claro a aplicação da metodologia escolhida, na qual é o uso do *framework* DECIDE
-### 4.2.3 Verificação 6 - O artefato segue algum modelo de planejamento de avaliação estabelecido?
+#### 4.2.3 Verificação 6 - O artefato segue algum modelo de planejamento de avaliação estabelecido?
 
 O artefato em questão não apresenta nenhum modelo de planejamento que é seguido por outros artefatos de planejamento de avaliação.
 

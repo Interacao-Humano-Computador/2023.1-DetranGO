@@ -99,16 +99,16 @@ Tabela 2 _[checklist]_ de conteúdo (fonte: autor, 2023)
 ## 4. Problemas Encontrados
 ### 4.1 Problemas encontrados - Padronização
 
-### 4.1.1 Verificação 1 - Possui ortografia correta e formal?
+#### 4.1.1 Verificação 1 - Possui ortografia correta e formal?
 
 O artefato apresenta alguns erros de ortografia, como alguns pequenos erros de pontuação.
 
-### 4.1.2 Verificação 7 - A bibliografia está em ordem alfabética?
+#### 4.1.2 Verificação 7 - A bibliografia está em ordem alfabética?
 
 O artefato apresenta uma incoerência na ordem da blbliografia dos itens 2 e 3.
 ### 4.2 Problemas encontrados - Conteúdo
 
-### 4.2.1 Verificação 5 - O artefato segue algum modelo de planejamento de avaliação estabelecido?
+#### 4.2.1 Verificação 5 - O artefato segue algum modelo de planejamento de avaliação estabelecido?
 
 O artefato em questão não apresenta nenhum modelo de planejamento que é seguido por outros artefatos de planejamento de avaliação.
 
