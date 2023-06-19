@@ -220,10 +220,10 @@ Tabela 11: Cronograma da etapa 9 (Fonte: Do autor, 2023).
 
 |  Versão  |   Data   |                      Descrição          |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------- | -------------- | ------------- |
-|  `1.0`   | 08/04/23 | Versão inicial do cronograma do projeto e formulação cronograma geral e etapa 1 |  Pedro F. | Felipe M. |
-|  `1.1`   | 09/04/23 | Formulação das etapas 2 e 3             | Felipe M. | Pedro Ferreira |
-|  `1.2`   | 14/04/23 | Formulação das etapas 4, 5 e 6          | João Morbeck   | Amanda Noda   |
-|  `1.3`   | 17/04/23 | Formulação das etapas 7, 8 e 9          | Amanda Noda    | João Morbeck  |
+|  `1.0`   | 08/04/23 | Versão inicial do cronograma do projeto e formulação cronograma geral e etapa 1 |  Pedro M. | Felipe M. |
+|  `1.1`   | 09/04/23 | Formulação das etapas 2 e 3             | Felipe M. | Pedro M. |
+|  `1.2`   | 14/04/23 | Formulação das etapas 4, 5 e 6          | João M.  | Amanda N.  |
+|  `1.3`   | 17/04/23 | Formulação das etapas 7, 8 e 9          | Amanda N.    | João M.  |
 |  `1.4`   | 08/05/23 | Adição de coluna de artefatos e linha de revisão de entregas | Felipe M. | Carlos E.  |
 |  `1.5`   | 05/06/23 | Adição de chamada das tabelas no texto | Carlos E. | Pedro M. |
 |  `1.6`   | 16/06/23 | Adição dos links faltantes | Carlos E. | Pedro H. |

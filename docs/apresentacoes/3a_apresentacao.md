@@ -1,12 +1,12 @@
 # Apresentação da terceira etapa - 14/05/2023
 
-## Introdução
+## 1. Introdução
 
 Este artefato consiste na gravação em vídeo da apresentação disponível pelo YouTube e um checklist dos itens da terceira etapa que condizem com os possíveis critérios de avaliação apresentados pelo professor.
 
 A integrante do grupo Amanda Noda não pôde participar desta gravação por problemas pessoais.
 
-## Gravação da apresentação
+## 2. Gravação da apresentação
 
 O vídeo 1 consiste na gravação da apresentação da terceira etapa. A gravação foi feita em 14 de maio de 2023 com todos os membros presentes e disponibilizada no YouTube como vídeo não listado.
 
@@ -18,7 +18,7 @@ Vídeo 1 - Apresentação da terceira etapa do projeto (Fonte: Membros do grupo)
 
 </center>
 
-## Checklist da entrega
+## 3. Checklist da entrega
 
 A tabela 1 consiste na tabela de exemplos de critérios de avaliação para a etapa 3 apresentada no plano de ensino da disciplina, com marcações de "Sim", "Não" ou "Incompleto" para verificar o que é presente ou ausente na entrega.
 
@@ -48,11 +48,11 @@ Tabela 1 - Checklist da terceira entrega (Adaptado de SALES, 2023).
 
 </center>
 
-## Bibliografia
+## 4. Bibliografia
 
 > [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: [https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf](https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf). Acesso em: 8 de abril de 2023;
 
-## Histórico de Versão
+## 5. Histórico de Versão
 
 |  Versão  |   Data   |                      Descrição          |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------- | -------------- | ------------- |

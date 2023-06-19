@@ -53,7 +53,7 @@ Utilizamos quatro nomes reservados para identificar o tipo de alteração que fo
 
 Para o projeto, implementamos uma política que simplifica o controle das atividades e oferece uma abordagem prática para a revisão dos artefatos. Quando um pull request é aberto, o revisor designado anteriormente é solicitado a avaliar as alterações feitas, permitindo o merge caso estejam corretas ou fornecendo feedback caso haja erros, juntamente com uma mensagem solicitando que o autor do pull request os corrija.
 
-## 4. Referências bibliográficas
+## 4. Bibliografia
 
 > [1] Bourque and R.E. Fairley, eds., Guide to the Software Engineering Body of Knowledge, Version 3.0, IEEE Computer Society, 2014; www.swebok.org.
 
@@ -63,5 +63,5 @@ Para o projeto, implementamos uma política que simplifica o controle das ativid
 
 | Versão | Data     | Descrição                                 | Autor(es)      | Revisor(es)  |
 | ------ | -------- | ----------------------------------------- | -------------- | ------------ |
-| `1.0`  | 13/04/23 | Criação do documento e adição do conteúdo | Carlos Eduardo | João Morbeck |
-| `1.1`  | 05/06/23 | Tradução das imagens | Carlos Eduardo | João Morbeck |
+| `1.0`  | 13/04/23 | Criação do documento e adição do conteúdo | Carlos E. | João M. |
+| `1.1`  | 05/06/23 | Tradução das imagens | Carlos E. | João M. |

@@ -1,16 +1,12 @@
-# Storyboard - Planejamento de avaliação
+# Storyboard - Planejamento da avaliação
 
 ## 1. Introdução
 
 Este artefato apresenta o planejamento da avaliação do storyboard, o storyboard é uma técnica que consiste em desenhar uma história que trate a realidade de uma pessoa e como uma aplicação ou funcionalidade dessa aplicação pode resolver alguns de suas dificuldades. Com isso, junto com o usuário, é possível fazer a avaliações e validações para alinhar as tomadas de decisões do designer.
 
-## 2. Objetivos
+## 2. Metodologia
 
-O objetivo deste artefato é realizar o planejamento da avaliação dos storyboards, utilizando a metodologia e as tarefas encontradas neste artefato, o intuito das avaliações é analisar se as tarefas estão de acordo com o contexto do usuário, se as necessidades dos usuário em relação às tarefas estão de acordo com o esperado.
-
-## 3. Metodologia
-
-A avaliação do storyboard será feita através de entrevistas de usuários do site Detran GO, deve se atentar que a avaliação envolve pessoas, logo é necessário levar em consideração as questões éticas e por isso será apresentado um termo de consentimento para assinatura do entrevistado, para orientar o processo de coleta de dados, será utilizado o framework DECIDE, que serve como um guia para o planejamento de uma avaliação, os pontos abordados pelo framework são:
+Para o planejamento da avaliação do protótipo de papel elaborado, será utilizado o framework DECIDE, descrito por Simone Barbosa em seu livro Interação Humano Computador[4], seguindo o framework, o artefato terá os seguintes tópicos:
 
 - **D** - Determinar os objetivos gerais da avaliação e identificar por que e para quem tais objetivos são importantes.
 - **E** - Explorar perguntas a serem respondidas com a avaliação.
@@ -19,66 +15,152 @@ A avaliação do storyboard será feita através de entrevistas de usuários do 
 - **D** - Decidir como lidar com as questões éticas.
 - **E** - Avaliar (Evaluate), interpretar e apresentar os dados.
 
-## 4. DECIDE
+## 3. DECIDE
 
-### 4.1. D - Determinar os objetivos gerais da avaliação
+### 3.1 D - Determinar os objetivos gerais da avaliação
 
-Esta avaliação tem como objetivo avaliar se as tarefas estão representadas de acordo com o executado pelo usuário, analisar a fidelidade das storyboards com a realidade e se necessário fazer alterações nas storyboards para torna-las mais alinhados com a realidade.
+Esta avaliação tem como objetivo a validação por parte de um usuário acerca dos storyboards desenvolvidos pela equipe, esta validação busca confirmar se:
 
-### 4.2. E - Explorar perguntas a serem respondidas
+- A fidelidade dos storyboards com a realidade é atendida.
+- As necessidades dos usuários representados são satisfeitas.
+- Existe a necessidade de alteração.
 
-As perguntas elaboradas estão disponibilizadas na tabela 1.
+### 3.2 E - Explorar perguntas a serem respondidas
 
-| **Número** | **Pergunta**                                                                   | **Resposta**         |
-|:----------:|:------------------------------------------------------------------------------:|:--------------------:|
-| 1          | Quanto aos storyboards, você acha que eles estão condizentes com a realidade?  | Sim / Não / Não sei  |
-| 2          | Qual ou quais storyboards não estão condizentes com a realidade? Por quê?      | Resposta aberta      |
-| 3          | Ficou clara a motivação do usuário para usar a aplicação do Detran GO?         | Sim / Não / Não sei  |
-| 4          | A sequência de ações do storyboard fez sentido para você?                      | Sim / Não / Não sei  |
-| 5          | Você considera que o ator principal concluiu seu objetivo na história contada? | Sim / Não / Não sei  |
-| 6          | Você tem algum ponto que acha que deveria ser alterado nas storyboards?        | Resposta aberta      |
+Para cada objetivo definido para a avaliação, foram elaboradas perguntas a serem respondidas pela mesma, tais questões são:
+
+#### 3.2.1 Fidelidade dos storyboards com a realidade
+
+As perguntas elaboradas para verificar se os storyboards desenvolvidos estão de acordo com a realizade estão presentes na tabela 1 abaixo.
+
+| **Número** |                                 **Pergunta**                                  |    **Resposta**     |                    **Observações**                    |
+| :--------: | :---------------------------------------------------------------------------: | :-----------------: | :---------------------------------------------------: |
+|     1      | Quanto aos storyboards, você acha que eles estão condizentes com a realidade? | Sim / Não / Não sei |                           -                           |
+|     2      |   Qual ou quais storyboards não estão condizentes com a realidade? Por quê?   |   Resposta aberta   | Realizada somente se a resposta anterior for negativa |
+|     3      |           A sequência de ações do storyboard fez sentido para você?           | Sim / Não / Não sei |                           -                           |
 
 <center>
 
-Tabela 1: Roteiro de perguntas (Fonte: Autor, 2023)
+Tabela 1: Roteiro de perguntas para o objetivo 1(Fonte: Autor, 2023)
 
 </center>
 
-### 4.3. C - Escolher os métodos de avaliação a serem utilizados
+#### 3.2.2 Satisfação das necessidades do usuário
+
+As perguntas elaboradas para verificar se as tarefas descritas nos storyboards são realizadas de forma satisfatória estão presentes na tabela 2 abaixo.
+
+| **Número** |                                  **Pergunta**                                  |    **Resposta**     | **Observações** |
+| :--------: | :----------------------------------------------------------------------------: | :-----------------: | :-------------: |
+|     1      |     Ficou clara a motivação do usuário para usar a aplicação do Detran GO?     | Sim / Não / Não sei |        -        |
+|     2      | Você considera que o ator principal concluiu seu objetivo na história contada? | Sim / Não / Não sei |        -        |
+
+<center>
+
+Tabela 2: Roteiro de perguntas para o objetivo 2(Fonte: Autor, 2023)
+
+</center>
+
+#### 3.2.3 Necessidade de alteração
+
+As perguntas elaboradas para verificar se existe a necessidade de alteração dos storyboards estão presentes na tabela 3 abaixo.
+
+| **Número** |                              **Pergunta**                               |  **Resposta**   | **Observações** |
+| :--------: | :---------------------------------------------------------------------: | :-------------: | :-------------: |
+|     1      | Você tem algum ponto que acha que deveria ser alterado nas storyboards? | Resposta aberta |        -        |
+
+<center>
+
+Tabela 3: Roteiro de perguntas para o objetivo 3(Fonte: Autor, 2023)
+
+</center>
+
+### 3.3 C - Escolher os métodos de avaliação a serem utilizados
 
 O método escolhido para avaliar é a investigação com entrevistas, neste método iremos fazer uma análise sobre as respostas obtidas através das entrevistas com usuários, este método é ótimo para entender o que e como o usuário se sente ao falar sobre determinada atividade e proverá informações importantes para que o designer possa tomar decisões conscientes quanto ao público que deve atender.
 
-### 4.4. I - Identificar e administrar as questões práticas da avaliação
+### 3.4 I - Identificar e administrar as questões práticas da avaliação
 
-É preciso se atentar a alguns detalhes na hora de definir quem entrevistar, o primeiro ponto é que deve estar alinhado com o que foi definido no [Perfil de usuário](../../../analise_requisitos/perfilUsuario.md) e que tenha uma carteira de habilitação registrada no estado do Goiás pois é necessário para ter acesso a mais funções no site do Detran GO, porém para a pesquisa pode ser analisado a partir de cadastros em plataformas do Detran de outros estados, e por último deve ter aceito o termo de consentimento. Deverá ser combinado entre o avaliador e o entrevistado, uma data e horário para que possa ser feitas as perguntas.
+#### 3.4.1 Recrutamento
 
-O espaço destas entrevistas será a plataforma Google Meet. A princípio, será definida uma entrevista. A tabela 3 define o cronograma do teste piloto enquanto a tabela 4 contém o cronograma da entrevista com o usuário.
+Para a escolha dos participantes das entrevistas, deve ser levado em conta o [perfil de usuário](../../../analise_requisitos/perfilUsuario.md)[3] elaborado anteriormente, para que se possa afirmar que os entrevistados na avaliação representam de forma correta o público alvo do sistema trabalhado.
 
-#### Teste Piloto
+#### 3.4.2 Tarefas propostas
+
+Para a avaliação, foram propostos 6 storyboards distintos, cada um deles representando uma tarefa de usuário presente no site do DetranGO.
+
+As tarefas propostas para os storyboard foram:
+
+- Consulta de CNH
+- Consulta de veículo
+- Agendamento de atendimento
+- Solicitação de CNH
+- Emissão de CRLV
+- Transferência de veículo
+
+#### 3.4.3 Ferramentas utilizadas
+
+As entrevistas poderão ser realizadas de forma presencial ou remota. Para que se possa realizar a avaliação de forma remota, os storyboards desenvolvidos devem ser convertidos em arquivos PDF utilizando a ferramenta [CamScanner](https://www.camscanner.com/)[5]. Para a realização e gravação da entrevista serão utilizadas as ferramentas [Google Meet](https://meet.google.com/)[6] para a realização da reunião e o [OBS](https://obsproject.com/pt-br/download/)[7] para a gravação da mesma.
+
+#### 3.4.4 Teste piloto
+
+Antes de realizar as entrevistas de fato, deverá ser realizado um teste inicial pela equipe de desenvolvimento, visando afirmar o funcionamento de todas as ferramentas utilizadas, além da identificação de problemas não encontrados anteriormente.
+
+#### 3.4.5 Participantes das atividades
+
+Na tabela 4 abaixo se encontram descritos os participantes do teste piloto.
 
 <center>
 
-|**Entrevistador**|**Data**|**Horário**|**Entrevistado**|
-|:-:|:-:|:-:|:-:|
-| Felipe M. | 26/05/2023| 16:00 | Pedro Muniz |
+| Atividade    | Participante       | Função                    | Papel    |
+| ------------ | ------------------ | ------------------------- | -------- |
+| Teste piloto | Felipe Mastromauro | Equipe de desenvolvimento | Testador |
+| Teste piloto | Pedro Muniz        | Equipe de desenvolvimento | Testador |
 
-Tabela 3: Cronograma do teste piloto (Fonte: autor, 2023).
+Tabela 4: Participantes do teste piloto(Fonte: Autor, 2023)
 
 </center>
 
-#### Entrevista 1
+Na tabela 5 abaixo se encontram descritos os participantes da entrevista.
 
 <center>
 
-|**Entrevistador**|**Data**|**Horário**|**Entrevistado**|
-|:-:|:-:|:-:|:-:|
-| Felipe M. e Pedro M. | 27/05/2023 | 15:20 | Leonardo Jesus |
+| Atividade    | Participante       | Função                    | Papel         |
+| ------------ | ------------------ | ------------------------- | ------------- |
+| Entrevista 1 | Felipe Mastromauro | Equipe de desenvolvimento | Entrevistador |
+| Entrevista 1 | Pedro Muniz        | Equipe de desenvolvimento | Relator       |
+| Entrevista 1 | Leonardo Jesus     | Usuário do sistema        | Entrevistado  |
 
-Tabela 4: Cronograma da entrevista 1 (Fonte: autor, 2023).
+Tabela 5: Participantes da entrevista(Fonte: Autor, 2023)
 
 </center>
 
-### 4.5. D - Decidir como lidar com questões éticas
+#### 3.4.6 Cronograma das atividades
+
+Na tabela 6 abaixo, estão descritos local, data e horário para o teste piloto.
+
+<center>
+
+| Atividade    | Local                | Data       | Horário |
+| ------------ | -------------------- | ---------- | ------- |
+| Teste piloto | Remoto (Google Meet) | 26/05/2023 | 18:00   |
+
+Tabela 6: Cronograma para o teste piloto(Fonte: Autor, 2023)
+
+</center>
+
+Na tabela 7 abaixo, estão descritos local, data e horário para a entrevista.
+
+<center>
+
+| Atividade    | Local                | Data       | Horário |
+| ------------ | -------------------- | ---------- | ------- |
+| Entrevista 1 | Remoto (Google Meet) | 27/05/2023 | 21:30   |
+
+Tabela 7: Cronograma para a entrevista(Fonte: Autor, 2023)
+
+</center>
+
+### 3.5 D - Decidir como lidar com questões éticas
 
 As questões éticas a respeito da avaliação devem ser tratadas de acordo com o que foi definido no documento de [Aspectos éticos](../../../analise_requisitos/aspectos_eticos.md) sobre pesquisa com pessoas.
 
@@ -92,89 +174,41 @@ Somos estudantes de Engenharia de software da Universidade de Brasília e estamo
 
 Para decidir sobre o seu consentimento, é importante que você conheça as seguintes informações sobre a pesquisa:
 
--   Nossa equipe tem o compromisso de divulgar os resultados de nossas pesquisas para o cliente.
--   O consentimento para a participação na atividade é uma escolha livre, feita mediante a prestação de todos os esclarecimentos necessários sobre a pesquisa.
--   A atividade pode ser interrompida a qualquer momento, segundo a sua disponibilidade e vontade.
--   Será necessário gravar a atividade, e as gravações efetuadas serão divulgadas nos resultados do projeto.
--   Os dados coletados durante a atividade destinam-se estritamente a atividades de análise e elaboração de melhorias para o sistema do DetranGO.
+- Nossa equipe tem o compromisso de divulgar os resultados de nossas pesquisas para o cliente.
+- O consentimento para a participação na atividade é uma escolha livre, feita mediante a prestação de todos os esclarecimentos necessários sobre a pesquisa.
+- A atividade pode ser interrompida a qualquer momento, segundo a sua disponibilidade e vontade.
+- Será necessário gravar a atividade, e as gravações efetuadas serão divulgadas nos resultados do projeto.
+- Os dados coletados durante a atividade destinam-se estritamente a atividades de análise e elaboração de melhorias para o sistema do DetranGO.
 
 Diante das explicações, é necessário que você esteja de acordo com a pesquisa que será realizada e concorda de livre e espontânea vontade em participar, como colaborador? Caso o participante seja menor de idade é necessária a permissão do responsável legal.
 
 ( ) Sim, estou de acordo. </br>
 ( ) Não estou de acordo.
 
-### 4.6. E - Avaliar, interpretar e apresentar dados
+### 3.6 E - Avaliar, interpretar e apresentar dados
 
-Com a execução deste planejamento, é esperado a apresentação dos resultados e da interpretação destes via um relatório final, que deverá abordar os seguintes pontos citados no livro da Simone:
+Após a execução da avaliação, os dados recolhidos deverão ser tratados e representados em um relatório final, visando afirmar e melhorar os storyboards desenvolvidos. Tal relatório deverá seguir a entrutura proposta no artefato de [planejamento do relato dos resultados do storyboard](./planejamento_relato_resultados.md)[2].
 
-- Os objetivos e escopo da avaliação;
-- A forma como a avaliação foi realizada (métodos de avaliação empregados);
-- O número e perfil de usuários e avaliadores que participaram da avaliação;
-- Um sumário dos dados coletados, podendo incluir tabelas e gráficos;
-- Um relato da interpretação e análise de dados;
-- Uma lista dos problemas encontrados;
-- Um planejamento para o reprojeto do artefato.
+## 4. Referências Bibliográficas
 
-## 5. Storyboards desenvolvidos
+> [1] Artefato Aspectos éticos, acesso em 27 de maio de 2023. Para mais informações acesse: [link](../../../analise_requisitos/aspectos_eticos.md).
 
-Os storyboards desenvolvidos podem ser vistos nas figuras 1 a 6.
+> [2] Artefato Planejamento do relato dos resultados da avaliação do storyboard, acesso em 27 de maio de 2023. Para mais informações acesse: [link](./planejamento_relato_resultados.md).
 
-<center>
+> [3] Artefato Perfil de usuário, acesso em 27 de maio de 2023. Para mais informações acesse: [link](../../../analise_requisitos/perfilUsuario.md).
 
-![Storyboard Consulta de CNH](../../../assets/storyboards/consulta-cnh.jpg)
+> [4] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Acesso em: 27 mai. 2023.
 
-Figura 1 - Storyboard Consulta de CNH (Fonte: Carlos Eduardo, 2023)
+> [5] CamScanner, acesso em: 27 de maio de 2023. Para mais informações acesse: [link](https://www.camscanner.com/).
 
-</center>
+> [6] Google Meet, acesso em: 27 de maio de 2023. Para mais informações acesse: [link](https://meet.google.com/).
 
-<center>
+> [7] OBS, acesso em: 27 de maio de 2023. Para mais informações acesse: [link](https://obsproject.com/pt-br/download/).
 
-![Storyboard Consulta de Veículo](../../../assets/storyboards/consulta-veiculo.jpg)
+## 5. Histórico de Versão
 
-Figura 2 - Storyboard Consulta de Veículo (Fonte: Amanda Noda, 2023)
-
-</center>
-
-<center>
-
-![Storyboard Agendar atendimento](../../../assets/storyboards/agendar-atendimento.jpg)
-
-Figura 3 - Storyboard Agendar atendimento (Fonte: Pedro Muniz, 2023)
-
-</center>
-
-<center>
-
-![Storyboard Solicitar CNH](../../../assets/storyboards/solicitar-cnh.jpg)
-
-Figura 4 - Storyboard Solicitar CNH (Fonte: João Morbeck, 2023)
-
-</center>
-
-<center>
-
-![Storyboard Emissão de CRLV](../../../assets/storyboards/emissao-crlv.jpg)
-
-Figura 5 - Storyboard Emissão de CRLV (Fonte: Felipe Mastromauro, 2023)
-
-</center>
-
-<center>
-
-![Storyboard Transferência de Veículo](../../../assets/storyboards/transferencia-veiculo.jpg)
-
-Figura 6 - Storyboard Transferência de Veículo (Fonte: Pedro Henrique, 2023)
-
-</center>
-
-## 6. Referências Bibliográficas
-
-> [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Acesso em; 07 mai. 2023.
-
-## 7. Histórico de Versão
-
-|  Versão  |   Data   |                      Descrição                      |    Autor(es)   |  Revisor(es)  |
-| -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
-|  `1.0`   | 19/05/23 | Criação do documento e adição do conteúdo           |  João Morbeck  |  Amanda Noda  |
-|  `1.1`   | 21/05/23 | Adição do framework DECIDE e storyboards            |  João Morbeck  |  Amanda Noda  |
-|  `1.2`   | 17/06/23 | Correções com base na [verificação](../../../verificacao/planejamentoA_storyboard.md) | Carlos E. | Pedro H. |
+| Versão | Data     | Descrição                                 | Autor(es)    | Revisor(es) |
+| ------ | -------- | ----------------------------------------- | ------------ | ----------- |
+| `1.0`  | 19/05/23 | Criação do documento e adição do conteúdo | João M. | Amanda N. |
+| `1.1`  | 21/05/23 | Adição do framework DECIDE e storyboards  | João M. | Amanda N. |
+| `1.2`  | 16/06/23 | Alterações de padronização                | Pedro M.  | Amanda N. |

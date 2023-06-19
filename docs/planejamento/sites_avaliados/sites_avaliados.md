@@ -42,7 +42,7 @@ O [SAAE Sorocaba](https://www.saaesorocaba.com.br/) é a companhia responsável 
 ## 7. SSALTO
 A [Prefeitura de São Sebastião do Alto](http://ssalto.rj.gov.br/) é um site que fornece diversas informações para o cidadão de São Sebastião do Alto - Rio de Janeiro. Em sua avaliação, percebe-se que o site possui varios redirecionamentos dentro de sua  página principal, como solicitação de segunda via do IPTU, Alvará online e varios outros serviços que são redirecionados para outros sitios  de cada assunto referido, Nota-se que com o redirecionamento para outros sítios, acaba gerando ruído causando falha em sua usabilidade. A avaliação completa pode ser encontrada neste [link](./avaliacao_SSALTO.md).
 
-## 8. Referências bibliográficas
+## 8. Bibliografia
 
 > [1] MACIEL, C. _et al_. Avaliação Heurística de Sítios na Web. Niterói, RJ: UFF, 2004.
 
@@ -50,4 +50,4 @@ A [Prefeitura de São Sebastião do Alto](http://ssalto.rj.gov.br/) é um site q
 
 |   Versão   | Data  |                      Descrição                      |    Autor(es)   |  Revisor(es)  |
 | ---------- | ----- | --------------------------------------------------- | -------------- | ------------- |
-| 06/04/2023 | `1.0` | Versão inicial do documento | Carlos Eduardo | Pedro Henrique |
+| 06/04/2023 | `1.0` | Versão inicial do documento | Carlos E. | Pedro H. |

@@ -1,49 +1,68 @@
 # Perfil de Usuário
 
-## Introdução
+## 1. Introdução
 
-O Perfil de usuário é uma descrição detalhada dos usuários cujos os objetivos devem ser apoiado pelo sistema projetado. Portanto, através de uma análise dos perfis de usuário visamos descobrir e definir quais características principais dos usuários que utilizam o sistema que está sendo desenvolvido. Essa etapa é de extrema importância, pois tem como objetivo melhorar a expêriencia dos usuários que a acessam. Para conseguirmos coletar as informações necessárias para a definição de um perfil de usuário, criamos um formulário especificando cada área de importância em nossa análise.
+O Perfil de usuário é uma descrição detalhada dos usuários cujos os objetivos devem ser apoiado pelo sistema projetado. Portanto, através de uma análise dos perfis de usuário, visamos descobrir e definir quais características principais dos usuários que utilizam o sistema que está sendo desenvolvido. Esta etapa é de extrema importância, pois tem como objetivo melhorar a expêriencia dos usuários que utilizam-se dos serviços oferecidos pelo site do Detran GO. 
 
-## Metodologia
+## 2. Metodologia
 
-### Vantagens
+Para conseguirmos coletar as informações necessárias para a definição de um perfil de usuário, criamos um questionário especificando cada área de importância em nossa análise.
 
-- Técnica relativamente rápida e barata de ser aplicada.
-- Obtém de maneira mais fácil informações de um público numeroso.
-- Em geral não demanda tanto tempo dos respondentes como em uma entrevista.
-- Muito útil quando o público-alvo está disperso geograficamente.
-- Quando aplicado a uma amostra representativa das partes interessadas, permite representar as opiniões de toda a população.
+### 2.1 Vantagens
+
+
+- Técnica relativamente rápida e barata de ser aplicada;
+- Obtém de maneira mais fácil informações de um público numeroso;
+- Em geral não demanda tanto tempo dos respondentes como em uma entrevista;
+- Muito útil quando o público-alvo está disperso geograficamente;
+- Quando aplicado a uma amostra representativa das partes interessadas, permite representar as opiniões de toda a população;
 - As questões com respostas limitadas são muito efetivas para a geração de dados quantitativos para análise estatística.
 
-### Desvantagens
+### 2.2 Desvantagens
 
-- Se a taxa de resposta for baixa, o resultado pode não ser estatisticamente significativo.
-- Uma falha na elaboração do questionário pode levar a respostas em branco ou incorretas, ou também gerar interpretações distintas da mesma pergunta, o que pode levar a erros nos requisitos.
+- Se a taxa de resposta for baixa, o resultado pode não ser estatisticamente significativo;
+- Uma falha na elaboração do questionário pode levar a respostas em branco ou incorretas, ou também gerar interpretações distintas da mesma Questão, o que pode levar a erros nos requisitos;
 - O uso de questões com respostas ilimitadas demanda mais esforço de análise das respostas, se o público for numeroso.
 
-## Resultados coletados
+## 3. Resultados coletados
 
-A seguir iremos mostrar os resultados coletados para cada questão do formulário. O formulário conta com 55 respostas, antes da coleta os usuários aceitaram o nosso [termo consentimento](https://docs.google.com/forms/d/e/1FAIpQLSfy3ZQlIrlzoUkwZYM3xvTtEihPXdh84Fqrb85O0pCb8KKpVQ/viewform)
+A seguir iremos mostrar os resultados coletados para cada questão do formulário. O formulário conta com 55 respostas.
+
+É importante ressaltar que, anterior ao acesso ao formulário, os usuários tinham acesso a um [termo de consentimento](https://docs.google.com/forms/d/e/1FAIpQLSfy3ZQlIrlzoUkwZYM3xvTtEihPXdh84Fqrb85O0pCb8KKpVQ/viewform), que deveria ser aceito para permitir o preenchimento do questionário.
+
 Respostas foram coletadas entre as datas **29/04/2023** e **02/05/2023**.
 
-### Questão 1
+### 3.1 Questão 1
+
+A figura 1 mostra os resultados da questão 1 do questionário.
+
+<center>
 
 ![Questao1](https://user-images.githubusercontent.com/58089751/235820158-d5f9b400-078c-456a-ad06-1a5573b58368.png)
 
+</center>
 
 <div style="text-align: center">
-<p> Figura 1: Pergunta 1. (Fonte: autor, 2023).</p>
+<p> Figura 1: Questão 1. (Fonte: Autor, 2023).</p>
 </div>
 
-### Questão 2
+### 3.2 Questão 2
+
+A figura 2 mostra os resultados da questão 2 do questionário.
+
+<center>
+
 ![Questao2](https://user-images.githubusercontent.com/58089751/235820223-2b779c4d-9901-410a-90a8-e8292f687aa1.png)
 
+</center>
+
 <div style="text-align: center">
-<p> Figura 2: Pergunta 2. (Fonte: autor, 2023).</p>
+<p> Figura 2: Questão 2. (Fonte: Autor, 2023).</p>
 </div>
 
-### Questão 3
-Respostas coletadas como mostra o [formulário](https://docs.google.com/forms/d/e/1FAIpQLSfy3ZQlIrlzoUkwZYM3xvTtEihPXdh84Fqrb85O0pCb8KKpVQ/viewform) sem nenhuma formatação, respostas coletadas pela pesquisa relatas acima.
+### 3.3 Questão 3
+
+A tabela 1 mostra respostas à questão 3, coletadas como mostra o [formulário](https://docs.google.com/forms/d/e/1FAIpQLSfy3ZQlIrlzoUkwZYM3xvTtEihPXdh84Fqrb85O0pCb8KKpVQ/viewform) sem nenhuma formatação.
 
 | Quais sites de mobilidade vc tem costume de usar? |
 |---------------------------------------------------|
@@ -89,70 +108,113 @@ Respostas coletadas como mostra o [formulário](https://docs.google.com/forms/d/
 | Moovit,google maps                                |
 | Google maps e Moveit                              |
 
-Tabela 1: Respostas pergunta 3 (Fonte: autor,2023).
+<center>
 
-### Questão 4
+Tabela 1: Respostas Questão 3 (Fonte: Autor,2023).
 
-![Questao3](https://user-images.githubusercontent.com/58089751/235820266-10ac7583-6e2c-40d0-a6fa-7e269ae5bb72.png)
+</center>
 
-<div style="text-align: center">
-<p> Figura 4: Pergunta 4. (Fonte: autor, 2023).</p>
-</div>
+### 3.4 Questão 4
 
-### Questão 5
+A figura 3 mostra os resultados da questão 4 do questionário.
 
-![Questao4](https://user-images.githubusercontent.com/58089751/235820326-2bd90daa-d4dd-47fc-b389-3e0297b57442.png)
 
-<div style="text-align: center">
-<p> Figura 5: Pergunta 5. (Fonte: autor, 2023).</p>
-</div>
+<center>
 
-### Questão 6
+![Questao4](https://user-images.githubusercontent.com/58089751/235820266-10ac7583-6e2c-40d0-a6fa-7e269ae5bb72.png)
 
-![Questao5](https://user-images.githubusercontent.com/58089751/235820365-2fa1cb52-a6b3-41b8-8606-7303532d32b9.png)
+</center>
 
 <div style="text-align: center">
-<p> Figura 6: Pergunta 6. (Fonte: autor, 2023).</p>
+<p> Figura 3: Questão 4. (Fonte: Autor, 2023).</p>
 </div>
 
-### Questão 7
+### 3.5 Questão 5
 
-![Questao6](https://user-images.githubusercontent.com/58089751/235820396-afd3bec7-aa67-4f94-b017-1e709f4e4011.png)
+A figura 4 mostra os resultados da questão 5 do questionário.
 
+<center>
+
+![Questao5](https://user-images.githubusercontent.com/58089751/235820326-2bd90daa-d4dd-47fc-b389-3e0297b57442.png)
+
+</center>
 
 <div style="text-align: center">
-<p> Figura 7: Pergunta 7. (Fonte: autor, 2023).</p>
+<p> Figura 4: Questão 5. (Fonte: Autor, 2023).</p>
 </div>
 
-### Questão 8
+### 3.6 Questão 6
 
-![Questao7](https://user-images.githubusercontent.com/58089751/235820438-85a06bd9-7378-4a05-a8cc-27019254d8a9.png)
+A figura 5 mostra os resultados da questão 6 do questionário.
+
+<center>
+
+![Questao6](https://user-images.githubusercontent.com/58089751/235820365-2fa1cb52-a6b3-41b8-8606-7303532d32b9.png)
+
+</center>
 
 <div style="text-align: center">
-<p> Figura 8: Pergunta 8. (Fonte: autor, 2023).</p>
+<p> Figura 5: Questão 6. (Fonte: Autor, 2023).</p>
 </div>
 
-### Questão 9
+### 3.7 Questão 7
 
-![Questao8](https://user-images.githubusercontent.com/58089751/235820488-08784665-921b-43eb-b4d0-09663ed57387.png)
+A figura 6 mostra os resultados da questão 7 do questionário.
+
+<center>
+
+![Questao7](https://user-images.githubusercontent.com/58089751/235820396-afd3bec7-aa67-4f94-b017-1e709f4e4011.png)
+
+</center>
 
 <div style="text-align: center">
-<p> Figura 9: Pergunta 9. (Fonte: autor, 2023).</p>
+<p> Figura 6: Questão 7. (Fonte: Autor, 2023).</p>
 </div>
 
-### Questão 10
+### 3.8 Questão 8
 
-![Questao9](https://user-images.githubusercontent.com/58089751/235820509-916f2902-c1cd-4d90-a0f1-1c97d9c8e92e.png)
-![Questao9-2](https://user-images.githubusercontent.com/58089751/235820514-c57f5a67-f39d-4b4f-a0e9-4a93d905a003.png)
+A figura 7 mostra os resultados da questão 8 do questionário.
+
+<center>
+
+![Questao8](https://user-images.githubusercontent.com/58089751/235820438-85a06bd9-7378-4a05-a8cc-27019254d8a9.png)
+
+</center>
 
 <div style="text-align: center">
-<p> Figura 10: Pergunta 10. (Fonte: autor, 2023).</p>
-   Figura 10-2: Pergunta 10. (Fonte: autor, 2023).</p>
+<p> Figura 7: Questão 8. (Fonte: Autor, 2023).</p>
 </div>
 
+### 3.9 Questão 9
 
-### Questão 11
-As respostas coletadas como mostra o [formulário](https://docs.google.com/forms/d/e/1FAIpQLSfy3ZQlIrlzoUkwZYM3xvTtEihPXdh84Fqrb85O0pCb8KKpVQ/viewform) sem nenhuma formatação, respostas coletadas pela pesquisa relatas acima.
+A figura 8 mostra os resultados da questão 9 do questionário.
+
+<center>
+
+![Questao9](https://user-images.githubusercontent.com/58089751/235820488-08784665-921b-43eb-b4d0-09663ed57387.png)
+
+</center>
+
+<div style="text-align: center">
+<p> Figura 8: Questão 9. (Fonte: Autor, 2023).</p>
+</div>
+
+### 3.10 Questão 10
+
+As figuras 9 e 10 mostra os resultados da questão 10 do questionário.
+
+![Questao10](https://user-images.githubusercontent.com/58089751/235820509-916f2902-c1cd-4d90-a0f1-1c97d9c8e92e.png)
+![Questao10-2](https://user-images.githubusercontent.com/58089751/235820514-c57f5a67-f39d-4b4f-a0e9-4a93d905a003.png)
+
+<div style="text-align: center">
+<p> Figura 9: Questão 10. (Fonte: Autor, 2023).</p>
+   Figura 109: Questão 10. (Fonte: Autor, 2023).</p>
+</div>
+
+### 3.11 Questão 11
+
+A tabela 2 mostra respostas à questão 11, coletadas como mostra o [formulário](https://docs.google.com/forms/d/e/1FAIpQLSfy3ZQlIrlzoUkwZYM3xvTtEihPXdh84Fqrb85O0pCb8KKpVQ/viewform) sem nenhuma formatação.
+
 
 | Você tem algum feedback sobre como o site Detran pode dar uma experiência melhor para o usuário? |
 |:-:|
@@ -162,7 +224,7 @@ As respostas coletadas como mostra o [formulário](https://docs.google.com/forms
 | Não |
 | Nop |
 | Poderia trazer as informações com mais facilidade! Ao invés de ficar entrando em outros sites! |
-| As vezes tem que perguntar pra alguém que tem costuma de usar onde se encontra determinado assunto |
+| As vezes tem que Questãor pra alguém que tem costuma de usar onde se encontra determinado assunto |
 | Simplificar, deixar mais minimalistas |
 | Ter acesso às informações cobre veículo sem ter que acessar outro site. |
 | Pela importância do órgão o dites deixa a desejar |
@@ -194,17 +256,23 @@ As respostas coletadas como mostra o [formulário](https://docs.google.com/forms
 | Não |
 | No momento não. |
 
-Tabela 2: Respostas pergunta 11 (Fonte: autor,2023).
+<center>
 
-## Bibliografia
+Tabela 2: Respostas Questão 11 (Fonte: Autor,2023).
+
+</center>
+
+## 4. Bibliografia
 
   > [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: [https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf](https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf). Acesso em: 2 de maio de 2023;
-  >
+
   >  https://docs.google.com/forms/d/1tDkLWOFgCxfdQC3KglediV4bSTw-QOXMBVE3MfLx-9U/edit#responses [Detran GO - IHC.pdf](https://github.com/Interacao-Humano-Computador/2023.1-DetranGO/files/11379117/Detran.GO.-.IHC.pdf)
 
 
-## Histórico de Versão
+## 5. Histórico de Versão
 
 |  Versão  |   Data   |                      Descrição                      |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
 |  `1.0`   | 02/05/23 | Versão inicial do Perfil de usuário | Amanda Noda | Pedro Henrique |
+|  `1.1`   | 19/06/23 | Correções ortográficas e de padrão | Felipe M. | Pedro M. |
+

@@ -1,10 +1,10 @@
 # Avaliação de IHC - SAAE Sorocaba
 
-## Introdução
+## 1. Introdução
 
 Este documento tem como objetivo realizar uma avaliação técnica sobre o quesito de usabilidade do sítio pertencente ao [SAAE Sorocaba](https://www.saaesorocaba.com.br/), companhia responsável pela água e esgoto da cidade de Sorocaba-SP. Esta avaliação utiliza o método por inspeção através da formulação de uma avaliação heurística do sítio. Serão avaliados as 10 heurísticas propostas por Nielsen, assim como a tabela de avaliação proposta no artigo “Avaliação Heurística de Sítios na Web”. O planejamento para esta avaliação pode ser encontrado [neste documento](../../assets/SAAE/PlanejamentoSaae.pdf).
 
-## 1. Visibilidade do estado do sistema
+## 2. Visibilidade do estado do sistema
 
 O sítio no geral não fornece nenhuma forma de informar ao usuário o caminho percorrido pelo mesmo durante a navegação, porém o mais grave se mostra ao se acessar uma solicitação de serviço, tal qual um pedido de religamento de água, pois o mesmo se abre em outra aba, inutilizando a navegação nativa do navegador e causando confusão ao usuário. A especificação do problema pode ser vista no formulário de avaliação, conforme tabela 1.
 
@@ -29,10 +29,10 @@ O sítio no geral não fornece nenhuma forma de informar ao usuário o caminho p
 
 </center>
 
-## 2. Correspondência entre o sistema e o mundo real
+## 3. Correspondência entre o sistema e o mundo real
 O sítio possui boa correspondência com o mundo real, possui algumas poucas expressões fora do entendimento do público geral. Sendo estas poucas ocorrências presentes em opções e páginas voltadas aos usuários técnicos da instituição. Dito isso, pode-se concluir que o sítio é compatível com o mundo real.
 
-## 3. Controle e liberdade do usuário
+## 4. Controle e liberdade do usuário
 O sítio impõe diversas restrições ao usuário, principalmente nas páginas relacionadas à solicitação de serviços, limitando assim sua liberdade de navegação. A especificação do problema pode ser vista no formulário de avaliação, conforme tabela 2.
 
 <center>
@@ -55,7 +55,7 @@ O sítio impõe diversas restrições ao usuário, principalmente nas páginas r
 
 </center>
 
-## 4. Consistência e padronização
+## 5. Consistência e padronização
 O sítio não apresenta consistência de padrão entre suas páginas como pode ser observado nas figuras abaixo. A especificação do problema pode ser vista no formulário de avaliação, conforme tabela 3.
 
 <center>
@@ -79,10 +79,10 @@ O sítio não apresenta consistência de padrão entre suas páginas como pode s
 
 </center>
 
-## 5. Reconhecimento em vez de memorização
+## 6. Reconhecimento em vez de memorização
 O sítio não possui muitos elementos visuais, sendo os poucos existentes bem identificados. Ao se utilizar do elemento textual na maioria do conteúdo, o sistema evita se apoiar na memória anterior do usuário, quanto aos formulários presentes no sítio, estes possuem campos bem identificados, que podem ser reconhecidos rapidamente pelo usuário. Dito isso, o sítio não se apoia na memória do usuário, possuindo um bom grau de reconhecimento.
 
-## 6. Flexibilidade e eficiência de uso
+## 7. Flexibilidade e eficiência de uso
 O sítio não fornece ao usuário experiente qualquer forma de atalho ou facilitador para realizar tarefas frequentes para o mesmo, tendo que percorrer o mesmo caminho que um novo usuário. A especificação do problema pode ser vista no formulário de avaliação, conforme tabela 4.
 
 <center>
@@ -105,7 +105,7 @@ O sítio não fornece ao usuário experiente qualquer forma de atalho ou facilit
 
 </center>
 
-## 7. Projeto estético e minimalista
+## 8. Projeto estético e minimalista
 O sítio possui uma interface confusa e sobrecarregada de informações em suas páginas, com destaque à página principal, que possui diversos menus de navegação, todos contendo um grande excesso de opções. A especificação do problema pode ser vista no formulário de avaliação, conforme tabela 5.
 
 <center>
@@ -123,7 +123,7 @@ O sítio possui uma interface confusa e sobrecarregada de informações em suas 
 
 </center>
 
-## 8. Prevenção de erros
+## 9. Prevenção de erros
 O sítio não entrega qualquer forma de prevenção a erros para o usuário em seus formulários, optando por aguardar o envio do formulário para informar ao usuário a informação incorreta. A especificação do problema pode ser vista no formulário de avaliação, conforme tabela 6.
 
 <center>
@@ -141,7 +141,7 @@ O sítio não entrega qualquer forma de prevenção a erros para o usuário em s
 
 </center>
 
-## 9. Reconhecimento, diagnóstico e recuperação de erros
+## 10. Reconhecimento, diagnóstico e recuperação de erros
 Por mais que o sítio possua mensagens de erro em seus formulários, estas não são necessariamente precisas, podendo causar confusão ao usuário através de instruções imprecisas. A especificação do problema pode ser vista no formulário de avaliação, conforme tabela 7.
 
 <center>
@@ -164,7 +164,7 @@ Por mais que o sítio possua mensagens de erro em seus formulários, estas não 
 
 </center>
 
-## 10. Ajuda e documentação
+## 11. Ajuda e documentação
 O sítio não possui uma documentação auxiliar detalhada, acessada através da página “Dúvidas Frequentes”, a qual não possui grande detalhamento de como proceder na realização das tarefas pelo site. A especificação do problema pode ser vista no formulário de avaliação, conforme tabela 8.
 
 <center>
@@ -187,16 +187,16 @@ O sítio não possui uma documentação auxiliar detalhada, acessada através da
 
 </center>
 
-## Conclusão
+## 12. Conclusão
 Por mais que o sítio pertencente ao SAAE Sorocaba possua uma boa consistência com o mundo real e bom reconhecimento, acaba por pecar em diversas características necessárias para uma boa usabilidade. Com destaque ao design sobrecarregado e a falta de auxílio ao usuário que,  ao se considerar o perfil geral de usuário do sítio, sendo este formado por pessoas de idade avançada e com dificuldades, se tornam os maiores agravantes para a falta de usabilidade e acessibilidade do sítio analisado.
 
-## Referências bibliográficas
+## 13. Referências bibliográficas
    > [1] MACIEL, C. et al. Avaliação Heurística de Sítios na Web. [s.d.].
 
    > [2] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
-## Histórico de Versão
+## 14. Histórico de Versão
 
 |  Versão  |   Data   |                      Descrição                      |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
-|  `1.0`   | 10/04/23 | Criação do documento e adição do conteudo           | Pedro Ferreira | Felipe Mastromauro |
+|  `1.0`   | 10/04/23 | Criação do documento e adição do conteudo           | Pedro F. | Felipe M. |

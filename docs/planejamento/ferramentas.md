@@ -24,7 +24,7 @@ Cada uma das ferramentas escolhidas estão listadas na Tabela 1, detalhando a fi
 Tabela 1: Ferramentas utilizadas no projeto (Fonte: autor, 2023).
 </center>
 
-## 3. Referências bibliográficas
+## 3. Bibliografia
 
 > [1] Wiki IHC - Planejamento - Ferramentas. Disponível no [link](https://interacao-humano-computador.github.io/2022.2-Lichess/planejamento/tools/). Acesso em: 22 de abril de 2023.
 
