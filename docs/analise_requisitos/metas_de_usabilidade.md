@@ -33,5 +33,5 @@ Com a definição das metas de usabilidade para o site do Detran GO, a análise 
 |--------|------------|----------------------|-------------|----------------|
 | `1.0`  | 10/05/2023 | Criação do documento | Amanda Noda | Felipe MastroMauro |
 | `1.1`  | 11/05/2023 | Adição de Metas do projeto | Amanda Noda | Felipe MastroMauro e Pedro Henrique |
-| `1.2`  | 17/06/2023 | Correções de acordo com a verificação do artefato | Pedro Henrique | ? |
+| `1.2`  | 17/06/2023 | Correções de acordo com a verificação do artefato | Pedro Henrique | João Morbeck |
 

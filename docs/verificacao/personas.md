@@ -161,8 +161,12 @@ Tabela 3: Representações gráficas dos resultados da verificação (Fonte: Aut
 
 </center>
 
+## 6. Acompanhamento
 
-## 6. Referências bibliográficas
+Os problemas relatados na seção "4. Problemas Encontrados" foram corrigidos e  como os únicos problemas encontrados são em relação a padronização, os mesmos já foram corrigidos. Por fim, o artefato verificado no momento (17/06/23) está na versão 1.4.
+
+
+## 7. Referências bibliográficas
 
 > [1] Artefato de planejamento da verificação, acesso em 13 de junho de 2023. Para mais informações acesse: [link](../verificacao/planejamentoVerificacao.md)
 
@@ -171,7 +175,7 @@ Tabela 3: Representações gráficas dos resultados da verificação (Fonte: Aut
 > [3] SALES, André Barros. Plano de ensino da disciplina. Disponível em: https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/27/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf. Acesso em: 13 de junho de 2023;
 
 
-## 7. Histórico de versão
+## 8. Histórico de versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |--|--|--|--|--|
 | `1.0` | 17/06/23 | Criação do documento e adição do conteúdo | Pedro Henrique | João Morbeck |

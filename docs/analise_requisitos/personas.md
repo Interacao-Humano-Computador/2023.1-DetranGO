@@ -173,4 +173,4 @@ A persona Ana Carolina Costa Hanamura foi descrita de acordo com os elementos ca
 | `1.1`  | 06/05/23 | Criação de personas secundárias | João M. e Felipe M. | Carlos E.   |
 | `1.2`  | 07/05/23 | Criação de personas primárias e antipersona | João M. e Felipe M. | Carlos E.   |
 | `1.3`  | 01/06/23 | Adição da explicação do número de personas | Carlos E. | Amanda Noda |
-| `1.4`  | 17/06/23 | Correções realizadas a partir da verificação do artefato | Pedro H. | ? |
+| `1.4`  | 17/06/23 | Correções realizadas a partir da verificação do artefato | Pedro H. | João Morbeck |

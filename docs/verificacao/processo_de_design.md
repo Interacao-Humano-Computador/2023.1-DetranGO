@@ -105,8 +105,10 @@ Tabela 3: Representações gráficas dos resultados da verificação (Fonte: Aut
 
 </center>
 
+## 6. Acompanhamento
 
-## 6. Referências bibliográficas
+Como apontado no tópico 4. sobre os problemas encontrados, não foi preciso realizar nenhuma correção no artefato em questão.
+## 7. Referências bibliográficas
 
 > [1] Artefato de planejamento da verificação, acesso em 13 de junho de 2023. Para mais informações acesse: [link](../verificacao/planejamentoVerificacao.md)
 
@@ -115,7 +117,7 @@ Tabela 3: Representações gráficas dos resultados da verificação (Fonte: Aut
 > [3] SALES, André Barros. Plano de ensino da disciplina. Disponível em: https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/27/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf. Acesso em: 13 de junho de 2023;
 
 
-## 7. Histórico de versão
+## 8. Histórico de versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |--|--|--|--|--|
 | `1.0` | 15/06/23 | Criação do documento e adição do conteúdo | Pedro Henrique | João Morbeck |

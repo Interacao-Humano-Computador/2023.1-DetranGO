@@ -104,13 +104,27 @@ Tabela 3: Representações gráficas dos resultados da verificação (Fonte: Aut
 
 </center>
 
-## 6. Referências bibliográficas
+## 6. Acompanhamento
+
+Os problemas relatados na seção "4. Problemas Encontrados" foram corrigidos e na tabela 4 temos o novo grau de satisfação, figura 3, e ocorrência de erros, figura 4, após as mudanças. Além disso o artefato verificado no momento(17/06/23) está na versão 1.2.
+
+<center>
+
+| ![Grau de satisfação do artefato](../../assets/analise/papelp/1.png) | ![Ocorrência de erros do artefato](../../assets/analise/papelp/2.png) |
+| :-: | :-: |
+| Figura 3: Representação do grau de satisfação do artefato (Fonte: Autor, 2023). | Figura 4: Gráfico de ocorrência de erros no artefato (Fonte: Autor, 2023). |
+
+Tabela 4: Representações gráficas dos resultados da verificação (Fonte: Autor, 2023).
+
+</center>
+
+## 7. Referências bibliográficas
 
 > [1] Artefato de planejamento da verificação, acesso em 13 de junho de 2023. Para mais informações acesse: [link](../verificacao/planejamentoVerificacao.md)
 
 > [2] BARBOSA, Simone et al. Processos de Design de IHC: Processos de Design de IHC. In: BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 6. p. 112-127.
 
-## 7. Histórico de versão
+## 8. Histórico de versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |--|--|--|--|--|
 | `1.0` | 17/06/23 | Criação do documento e adição do conteúdo | Pedro Henrique | João Morbeck |
