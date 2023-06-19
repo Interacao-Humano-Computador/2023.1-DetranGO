@@ -31,49 +31,49 @@ Abaixo seguem as verificações de conteúdo elaboradas, contendo a justificativ
 
 É necessário que o cronograma planejado contemple todas as etapas e atividades com suas datas e autores para que o escopo do projeto e planejamento sejam bem compreendidos e elaborados.
 
-`BARBOSA, Simone et al. Planejamento da Avaliação de IHC: Como Avaliar? e O Framework DECIDE In: BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 11. p. 273-279.`
+`SALES, André Barros. Plano de ensino da disciplina - Avaliação da Entrega 1`
 
 ### 2.2 Verificação 2 - O cronograma planejado possui um período para a gravação da apresentação ?
 
-Todas as etapas devem possuir o planejamento da gravação da apresentação pois também contempla uma atividade referente à etapa.
+Todas as etapas devem possuir o planejamento da gravação da apresentação, pois também contempla uma atividade referente à etapa.
 
-`BARBOSA, Simone et al. Métodos de Avaliação de IHC: Avaliação de IHC através de Observação - Prototipação em Papel. In: BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 12. p. 301-319.`
+`SALES, André Barros. Plano de ensino da disciplina - Avaliação da Entrega 1`
 
 ### 2.3 Verificação 3 - O cronograma planejado possui um período para a revisão dos apontamentos do professor ?
 
 A revisão dos artefatos após o feedback recebido tanto do professor quanto dos monitores é de suma importância para que o trabalho mantenha um padrão e um nível bom durante todo o processo.
 
-`BARBOSA, Simone et al. Métodos de Avaliação de IHC: Avaliação de IHC através de Observação - Prototipação em Papel. In: BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 12. p. 301-319.`
+`SALES, André Barros. Plano de ensino da disciplina - Avaliação da Entrega 1`
 
 ### 2.4 Verificação 4 - As ferramentas são condizentes com o desenvolvimento do projeto ?
 
 As ferramentas determinadas precisam estar alinhadas com o que vai ser necessário para construção dos outros artefatos no projeto.
 
-`BARBOSA, Simone et al. Planejamento da Avaliação de IHC: Como Avaliar? e O Framework DECIDE In: BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 11. p. 273-279.`
+`Elaboração própria`
 
 ### 2.5 Verificação 5 - O artefato de reunião deixa claro o horário definido, a priori, para as reuniões do grupo ?
 
 É importante que o artefato de reunião possua horário definido para que todos do grupo estejam cientes e reservem o horário da reunião.
 
-`BARBOSA, Simone et al. Planejamento da Avaliação de IHC: Como Avaliar? e O Framework DECIDE In: BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 11. p. 273-279.`
+`Elaboração própria`
 
 ### 2.6 Verificação 6 - O cronograma executado contém as datas reais de execução e entrega do artefato, com os autores e revisores reais ?
 
-[Por se tratar de um planejamento de avaliação, o modelo proposto para o mesmo deve ser seguido com o objetivo de padronizar a forma como a avaliação deve ser feita e planejada.
+É importante que se tenha um cronograma executado para percebermos o que foi planejado e como realmente foi executado.
 
-`BARBOSA, Simone et al. Planejamento da Avaliação de IHC: Como Avaliar? e O Framework DECIDE In: BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 11. p. 273-279.`]
+`SALES, André Barros. Plano de ensino da disciplina - Avaliação da Entrega 1`
 
 ### 2.7 Verificação 7 - O artefato de escolha do site contém as avaliações e seus planejamentos ?
 
-[Por se tratar de um planejamento de avaliação, o modelo proposto para o mesmo deve ser seguido com o objetivo de padronizar a forma como a avaliação deve ser feita e planejada.
+Para a escolha do melhor site para a avaliação é necessário avaliar as possibilidades, portanto o artefato de avaliação de sítios deve conter suas devidas avaliações e planejamento das mesmas.
 
-`BARBOSA, Simone et al. Planejamento da Avaliação de IHC: Como Avaliar? e O Framework DECIDE In: BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 11. p. 273-279.`]
+`Elaboração própria`
 
 ### 2.8 Verificação 8 - Os cronogramas anteriores, se sinalizados com alterações significantes nos históricos de versão, foram salvos em artefato de cronogramas legados ?
 
-[Por se tratar de um planejamento de avaliação, o modelo proposto para o mesmo deve ser seguido com o objetivo de padronizar a forma como a avaliação deve ser feita e planejada.
+Durante o projeto podem ocorrer diversas mudanças por N motivos, dessa forma é interessante termos o artefato de cronogramas anteriores para comparação.
 
-`BARBOSA, Simone et al. Planejamento da Avaliação de IHC: Como Avaliar? e O Framework DECIDE In: BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 11. p. 273-279.`]
+`Elaboração própria`
 
 ## 3. Desenvolvimento
 
