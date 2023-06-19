@@ -163,8 +163,6 @@ A persona Ana Carolina Costa Hanamura foi descrita de acordo com os elementos ca
 
 > [3] USABILITY.GOV (Estados Unidos). Personas. Disponível em: https://www.usability.gov/how-to-and-tools/methods/personas.html. Acesso em: 06 maio 2023.
 
-
-
 ## 5. Histórico de Versão
 
 | Versão | Data     | Descrição                                 | Autor(es)           | Revisor(es) |

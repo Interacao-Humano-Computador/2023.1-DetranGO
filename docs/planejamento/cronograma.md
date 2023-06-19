@@ -1,6 +1,6 @@
 # Cronograma
 
-## Introdução
+## 1. Introdução
 
 O cronograma da equipe foi formulado a partir das datas de entrega estipuladas pelo plano de ensino da disciplina de Interação Humano Computador para o primeiro semestre de 2023 da UnB FGA, assim como os artefatos solicitados para cada etapa do projeto.
 
@@ -8,7 +8,7 @@ Este documento contém o cronograma geral do projeto, apresentando as datas de i
 
 Como os planejamentos podem sofrer mudanças, as versões anteriores de cronogramas estão armazenadas em um artefato de [crongramas anteriores](./cronogramas_anteriores.md).
 
-## Cronograma geral
+## 2. Cronograma geral
 Na tabela 1 temos o inicio e o fim de cada etapa planejada do projeto.
 
 <center>
@@ -30,7 +30,7 @@ Tabela 1: Cronograma geral do projeto (Fonte: autor, 2023).
 
 </center>
 
-## Cronograma etapa 1
+## 3. Cronograma etapa 1
 Na tabela 2 é apresentado o cronograma planejado da etapa 1.
 
 <center>
@@ -52,7 +52,7 @@ Tabela 2: Cronograma da etapa 1 (Fonte: Do autor, 2023).
 
 </center>
 
-## Cronograma etapa 2
+## 4. Cronograma etapa 2
 Na tabela 3 é apresentado o cronograma planejado da etapa 2.
 
 <center>
@@ -72,7 +72,7 @@ Tabela 3: Cronograma da etapa 2 (Fonte: Do autor, 2023).
 
 </center>
 
-## Cronograma etapa 3
+## 5. Cronograma etapa 3
 Na tabela 4 é apresentado o cronograma planejado da etapa 3.
 
 <center>
@@ -91,7 +91,7 @@ Tabela 4: Cronograma da etapa 3 (Fonte: Do autor, 2023).
 
 </center>
 
-## Cronograma etapa 4
+## 6. Cronograma etapa 4
 Na tabela 5 é apresentado o cronograma planejado da etapa 4.
 
 <center>
@@ -110,7 +110,7 @@ Tabela 5: Cronograma da etapa 4 (Fonte: Do autor, 2023).
 
 </center>
 
-## Cronograma etapa 5
+## 7. Cronograma etapa 5
 Na tabela 6 é apresentado o cronograma planejado da etapa 5.
 
 <center>
@@ -129,7 +129,7 @@ Tabela 6: Cronograma da etapa 5 (Fonte: Do autor, 2023).
 
 </center>
 
-## Cronograma etapa 6
+## 8. Cronograma etapa 6
 Na tabela 7 é apresentado o cronograma planejado da etapa 6.1 e na tabela 8 temos o cronograma da etapa 6.2.
 
 <center>
@@ -163,7 +163,7 @@ Tabela 7: Cronograma da etapa 6.1 (Fonte: Do autor, 2023).
 Tabela 8: Cronograma da etapa 6.2 (Fonte: Do autor, 2023).
 </center>
 
-## Cronograma etapa 7
+## 9. Cronograma etapa 7
 Na tabela 9 é apresentado o cronograma planejado da etapa 7.
 
 <center>
@@ -181,7 +181,7 @@ Tabela 9: Cronograma da etapa 7 (Fonte: Do autor, 2023).
 
 </center>
 
-## Cronograma etapa 8
+## 10. Cronograma etapa 8
 Na tabela 10 é apresentado o cronograma planejado da etapa 8.
 
 <center>
@@ -197,7 +197,7 @@ Tabela 10: Cronograma da etapa 8 (Fonte: Do autor, 2023)
 
 </center>
 
-## Cronograma etapa 9
+## 11. Cronograma etapa 9
 Na tabela 11 é apresentado o cronograma planejado da etapa 9.
 <center>
 
@@ -212,17 +212,17 @@ Tabela 11: Cronograma da etapa 9 (Fonte: Do autor, 2023).
 
 </center>
 
-## Bibliografia
+## 12. Bibliografia
 
   > [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: [https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf](https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf). Acesso em: 8 de abril de 2023;
 
-## Histórico de Versão
+## 13. Histórico de Versão
 
 |  Versão  |   Data   |                      Descrição          |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------- | -------------- | ------------- |
-|  `1.0`   | 08/04/23 | Versão inicial do cronograma do projeto e formulação cronograma geral e etapa 1 |  Pedro F. | Felipe M. |
-|  `1.1`   | 09/04/23 | Formulação das etapas 2 e 3             | Felipe M. | Pedro Ferreira |
-|  `1.2`   | 14/04/23 | Formulação das etapas 4, 5 e 6          | João Morbeck   | Amanda Noda   |
-|  `1.3`   | 17/04/23 | Formulação das etapas 7, 8 e 9          | Amanda Noda    | João Morbeck  |
+|  `1.0`   | 08/04/23 | Versão inicial do cronograma do projeto e formulação cronograma geral e etapa 1 |  Pedro M. | Felipe M. |
+|  `1.1`   | 09/04/23 | Formulação das etapas 2 e 3             | Felipe M. | Pedro M. |
+|  `1.2`   | 14/04/23 | Formulação das etapas 4, 5 e 6          | João M.  | Amanda N.  |
+|  `1.3`   | 17/04/23 | Formulação das etapas 7, 8 e 9          | Amanda N.    | João M.  |
 |  `1.4`   | 08/05/23 | Adição de coluna de artefatos e linha de revisão de entregas | Felipe M. | Carlos E.  |
 |  `1.5`   | 05/06/23 | Adição de chamada das tabelas no texto | Carlos E. | Pedro M. |

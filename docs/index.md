@@ -1,6 +1,6 @@
 # Detran GO
 
-## Introdução
+## 1. Introdução
 Esse repositório foi criado para organizar a documentação e artefatos do trabalho da disciplina Interação Humano-Computador da Universidade de Brasília, durante o 1º semestre de 2023. A disciplina visa passar de forma prática os conhecimentos sobre as interações que os usuários desempenham em um sistema, aprendendo as boas práticas e diretrizes que devem ser levadas em consideração durante o desenvolvimento de uma aplicação. Para fazer o desenvolvimento de nosso trabalho, que visa avaliar e apontar sugestões para resolver os problemas encontrados, escolhemos avaliar o site [Detran GO](https://www.detran.go.gov.br/psw/#/pages/pagina-inicial).
 
 Com uma organização dinâmica e intuitiva, facilitamos o processo de encontrar os arquivos que utilizamos para o estudo da matéria e trabalhos.
@@ -9,7 +9,7 @@ Com uma organização dinâmica e intuitiva, facilitamos o processo de encontrar
 <img src="./assets/DETRAN/logo-detran.svg" style="width:20vw" alt="logo Detran GO"/>
 </div>
 
-## Equipe
+## 2. Equipe
 
 Nossa equipe de trabalho é composta pelos estudantes de Engenharia de Software da Universidade de Brasília presentes na Tabela 1.
 
@@ -30,8 +30,8 @@ Nossa equipe de trabalho é composta pelos estudantes de Engenharia de Software 
 <p> Tabela 1: Equipe de trabalho (Fonte: autor, 2023).</p>
 </div>
 
-## Histórico de Versão
+## 3. Histórico de Versão
 
 |  Versão  |   Data   |                      Descrição                      |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
-|  `1.0`   | 07/04/23 | Versão inicial de documento de descrição do projeto | Carlos Eduardo | Pedro Henrique |
+|  `1.0`   | 07/04/23 | Versão inicial de documento de descrição do projeto | Carlos E. | Pedro H. |

@@ -1,10 +1,10 @@
 # Metodologias
 
-## Introdução
+## 1. Introdução
 
 Nós utilizamos diversas abordagens em nossa equipe, as quais de alguma maneira se complementam e otimizam nosso fluxo de desenvolvimento como um todo. Cabe ressaltar que este documento tem como objetivo apresentar nossas metodologias em diferentes situações, e de certa forma, explicar como nossa equipe se comunicou e trabalhou durante todo o processo.
 
-## Scrum
+## 2. Scrum
 
 Para garantir um fluxo consistente e ágil de entregas, optamos por adotar a metodologia SCRUM, visando a organização do tempo de nossa equipe. Foi estabelecido um timebox de uma semana para cada sprint, com início e término nas reuniões semanais realizadas às segundas-feiras, às 19:00.
 
@@ -19,11 +19,11 @@ Figura 1: Scrum fluxo (Fonte: [link](https://www.wrike.com/project-management-gu
 
 </center>
 
-## Políticas
+## 3. Políticas
 
 Para maior controle sobre criação e mudanças de artefatos, definimos que os commit's devem seguir as regras:
 
-### Branch
+### 3.1 Branch
 
 Definimos a utilização de branches para realização de cada issue, ou mais de uma issue relacionadas, com isso temos maior liberdade para realização de tarefas em paralelo sem que haja conflito em uma mesma branch, além disso, temos maior controle do que está sendo realizado em cada atividade. Esse fluxo está representado na figura 2 fluxo branches.
 
@@ -34,7 +34,7 @@ Figura 2: Fluxo de branches (Fonte: [link](https://build5nines.com/introduction-
 
 </center>
 
-### Commit
+### 3.2 Commit
 
 Utilizamos quatro nomes reservados para identificar o tipo de alteração que foi feita:
 
@@ -49,19 +49,19 @@ Utilizamos quatro nomes reservados para identificar o tipo de alteração que fo
 >
 > `Update: política de commit no documento de metodologias`
 
-### Pull Request
+### 3.3 Pull Request
 
 Para o projeto, implementamos uma política que simplifica o controle das atividades e oferece uma abordagem prática para a revisão dos artefatos. Quando um pull request é aberto, o revisor designado anteriormente é solicitado a avaliar as alterações feitas, permitindo o merge caso estejam corretas ou fornecendo feedback caso haja erros, juntamente com uma mensagem solicitando que o autor do pull request os corrija.
 
-## Bibliografia
+## 4. Bibliografia
 
 > [1] Bourque and R.E. Fairley, eds., Guide to the Software Engineering Body of Knowledge, Version 3.0, IEEE Computer Society, 2014; www.swebok.org.
 
 > [2] WRIKE. Wrike: Project Management Methodologies. Disponível em: <https://www.wrike.com/project-management-guide/methodologies/>. Acesso em: 12 de abril de 2023.
 
-## Histórico de Versão
+## 5. Histórico de Versão
 
 | Versão | Data     | Descrição                                 | Autor(es)      | Revisor(es)  |
 | ------ | -------- | ----------------------------------------- | -------------- | ------------ |
-| `1.0`  | 13/04/23 | Criação do documento e adição do conteúdo | Carlos Eduardo | João Morbeck |
-| `1.1`  | 05/06/23 | Tradução das imagens | Carlos Eduardo | João Morbeck |
+| `1.0`  | 13/04/23 | Criação do documento e adição do conteúdo | Carlos E. | João M. |
+| `1.1`  | 05/06/23 | Tradução das imagens | Carlos E. | João M. |
