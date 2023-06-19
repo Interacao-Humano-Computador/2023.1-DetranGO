@@ -167,5 +167,5 @@ Esta versão realizou correções relacionadas ao checklist de padronização, n
 
 |  Versão  |   Data   |                 Descrição               |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------- | -------------- | ------------- |
-|  `1.0`   | 18/06/23 | Primeira versão da verificação do perfil de usuário | Felipe M. | João M.  |
+|  `1.0`   | 18/06/23 | Primeira versão da verificação do perfil de usuário | Felipe M. | Pedro M.  |
 

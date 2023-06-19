@@ -171,4 +171,4 @@ Esta seção do artefato dedica-se às correções que forem realizadas no artef
 
 |  Versão  |   Data   |                 Descrição               |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------- | -------------- | ------------- |
-|  `1.0`   | 18/06/23 | Primeira versão da verificação das características da plataforma | Felipe M. | João M.  |
+|  `1.0`   | 18/06/23 | Primeira versão da verificação das características da plataforma | Felipe M. | Pedro M.  |

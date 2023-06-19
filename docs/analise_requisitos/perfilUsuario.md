@@ -272,4 +272,4 @@ Tabela 2: Respostas Questão 11 (Fonte: Autor,2023).
 |  Versão  |   Data   |                      Descrição                      |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
 |  `1.0`   | 02/05/23 | Versão inicial do Perfil de usuário | Amanda Noda | Pedro Henrique |
-|  `1.1`   | 19/06/23 | Correções ortográficas e de padrão | Felipe M. | João M. |
+|  `1.1`   | 19/06/23 | Correções ortográficas e de padrão | Felipe M. | Pedro M. |

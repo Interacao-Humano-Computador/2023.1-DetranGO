@@ -171,4 +171,4 @@ Figura 4: Porcentagem de erros do artefato do planejamento do relato dos resulta
 
 |  Versão  |   Data   |                 Descrição               |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------- | -------------- | ------------- |
-|  `1.0`   | 18/06/23 | Primeira versão da verificação do planejamento do relato do storyboard | Felipe M. | João M.  |
+|  `1.0`   | 18/06/23 | Primeira versão da verificação do planejamento do relato do storyboard | Felipe M. | Pedro M.  |
