@@ -6,7 +6,7 @@ Os aspectos gerais do projeto dizem respeito aos artefatos básicos do projeto, 
 
 ## 2. Metodologia
 
-A verificação a seguir segue a metodologia proposta no planejamento[1], ond8 serão utilizados checklists para a verificação dos conteúdos presentes no artefato, buscando encontrar erros e elementos faltantes no mesmo, as verificações foram escolhidas com base no plano de ensino da disciplina[2] e a verificação de artefatos feita pela equipe 05 Equipe 05,. https://interacao-humano-computador.github.io/2023.1-Alistamento/verificacao/verificacao_6/etapa1/verificacao_entrega1/ Artefato de verificação dos artefatos da entrega 1, acesso em 18 de junho de 2023 da disciplina de Interação Humano Computador.
+A verificação a seguir segue a metodologia proposta no planejamento[1], onde serão utilizados checklists para a verificação dos conteúdos presentes no artefato, buscando encontrar erros e elementos faltantes no mesmo, as verificações foram escolhidas com base no plano de ensino da disciplina[2] e a verificação de artefatos feita pela Equipe 05, encontrado no [link](https://interacao-humano-computador.github.io/2023.1-Alistamento/verificacao/verificacao_6/etapa1/verificacao_entrega1/).
 
 Abaixo seguem as verificações de conteúdo elaboradas, contendo a justificativa de cada uma além de sua fonte:
 
@@ -120,9 +120,9 @@ As correções citadas anteriormente já foram efetuadas e o os documentos se en
 
 > [1] Artefato de planejamento da verificação, acesso em 18 de junho de 2023. Para mais informações acesse: [link](../verificacao/planejamentoVerificacao.md)
 
-> [2] SALES, André Barros. Plano de ensino da disciplina. Disponível em: https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/27/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf. Acesso em: 18 de junho de 2023;
+> [2] SALES, André Barros. Plano de ensino da disciplina. Disponível em: [link](https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/27/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf). Acesso em: 18 de junho de 2023;
 
-> [3] Equipe 05, Artefato de verificação dos artefatos da entrega 1, acesso em 18 de junho de 2023. [https://interacao-humano-computador.github.io/2023.1-Alistamento/verificacao/verificacao_6/etapa1/verificacao_entrega1/]
+> [3] Equipe 05, Artefato de verificação dos artefatos da entrega 1, acesso em 18 de junho de 2023. Disponível em: [link](https://interacao-humano-computador.github.io/2023.1-Alistamento/verificacao/verificacao_6/etapa1/verificacao_entrega1/)
 
 ## 8. Histórico de versão
 
