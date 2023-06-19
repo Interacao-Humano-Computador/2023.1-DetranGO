@@ -1,6 +1,6 @@
 # Cronograma executado
 
-## Introdução
+## 1. Introdução
 
 Apesar de desejável, nem sempre o cronograma de uma equipe é executado de total acordo com o planejamento, podendo haver discrepâncias quanto ao pessoal alocado para a realização de determinada tarefa ou quanto à data em que um artefato foi concluído.
 
@@ -8,7 +8,7 @@ Este artefato detalha os cronogramas executados de cada etapa do projeto, detalh
 
 Visto que estes cronogramas estão sujeitos a alterações de padrão ou outras alterações, suas versõesanteriores estão compiladas em um artefato de [cronogramas anteriores](./cronogramas_anteriores.md).
 
-## Cronograma executado da etapa 1
+## 2. Cronograma executado da etapa 1
 
 A tabela 1 descreve o cronograma executado da etapa 1 do projeto. A etapa se passou no espaço entre os dias 28/03/2023 e 24/04/2023.
 
@@ -31,7 +31,7 @@ Tabela 1: Cronograma executado da etapa 1 (Fonte: Do autor, 2023).
 
 </center>
 
-## Cronograma executado da etapa 2
+## 3. Cronograma executado da etapa 2
 
 A tabela 2 descreve o cronograma executado da etapa 2 do projeto. A etapa se passou no espaço entre os dias 25/04/2023 e 08/05/2023.
 
@@ -42,12 +42,12 @@ A tabela 2 descreve o cronograma executado da etapa 2 do projeto. A etapa se pas
 | Detalhamento de personas | 08/05 | 08/05 | [Personas](./../analise_requisitos/personas.md) | Felipe M., João M.| Carlos E. |
 | Cenários | 07/05 | 08/05 | [Cenários](./../analise_requisitos/cenarios.md) | Pedro F. | Felipe M. |
 | Análise de tarefas | 07/05 | 08/05 | [Análise de tarefas](./../analise_requisitos/analise_de_tarefas.md) | Pedro H., João M. | Carlos E. |
-| Gravar a apresentação | 08/05 | 08/05 | [Apresentação da segunda etapa]() | Felipe M. | Amanda N. |
-| Editar a apresentação | 08/05 | 08/05 | [Apresentação da segunda etapa]() | João M. | Amanda N. |
+| Gravar a apresentação | 08/05 | 08/05 | [Apresentação da segunda etapa](../apresentacoes/2a_apresentacao.md) | Felipe M. | Amanda N. |
+| Editar a apresentação | 08/05 | 08/05 | [Apresentação da segunda etapa](../apresentacoes/2a_apresentacao.md) | João M. | Amanda N. |
 
 Tabela 2: Cronograma executado da etapa 2 (Fonte: Do autor, 2023).
 
-## Cronograma executado da etapa 3
+## 4. Cronograma executado da etapa 3
 
 A tabela 3 descreve o cronograma executado da etapa 3 do projeto. A etapa se passou no espaço entre os dias 08/05/2023 e 15/05/2023.
 
@@ -63,7 +63,7 @@ A tabela 3 descreve o cronograma executado da etapa 3 do projeto. A etapa se pas
 
 Tabela 3: Cronograma executado da etapa 3 (Fonte: Do autor, 2023).
 
-## Cronograma executado da etapa 4
+## 5. Cronograma executado da etapa 4
 
 A tabela 4 descreve o cronograma executado da etapa 4 do projeto. A etapa se passou no espaço entre os dias 16/05/2023 e 22/05/2023.
 
@@ -78,7 +78,7 @@ A tabela 4 descreve o cronograma executado da etapa 4 do projeto. A etapa se pas
 
 Tabela 4: Cronograma executado da etapa 4 (Fonte: Do autor, 2023).
 
-## Cronograma executado da etapa 5
+## 6. Cronograma executado da etapa 5
 
 A tabela 5 descreve o cronograma executado da etapa 5 do projeto. A etapa se passou no espaço entre os dias 23/05/2023 e 29/05/2023.
 
@@ -93,11 +93,11 @@ A tabela 5 descreve o cronograma executado da etapa 5 do projeto. A etapa se pas
 
 Tabela 5: Cronograma executado da etapa 5 (Fonte: Do autor, 2023).
 
-## Bibliografia
+## 7. Referências bibliográficas
 
 > [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: [https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf](https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf). Acesso em: 8 de abril de 2023;
 
-## Histórico de Versão
+## 8. Histórico de Versão
 
 |  Versão  |   Data   |                      Descrição          |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------- | -------------- | ------------- |
@@ -108,3 +108,4 @@ Tabela 5: Cronograma executado da etapa 5 (Fonte: Do autor, 2023).
 |  `1.4`   | 22/05/23 | Adição do cronograma executado da etapa 4 | Felipe M. | Carlos E. |
 |  `1.5`   | 29/05/23 | Adição do cronograma executado da etapa 5 | Felipe M. | Carlos E. |
 |  `1.6`   | 29/05/23 | Correção de links de algumas páginas | Carlos E. | Felipe M. |
+|  `1.7`   | 16/06/23 | Correção de links e enumeração | Carlos E. | Pedro H. |

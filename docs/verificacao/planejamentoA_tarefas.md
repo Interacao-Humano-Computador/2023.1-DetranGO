@@ -2,7 +2,7 @@
 
 ## 1. Introdução
 
-Este documento possui a função de verificar o artefato de “Planejamento da Avaliação da Análise de Tarefas” do projeto do grupo 6 - DetranGO. O planejamento da avaliação da análise de tarefas visa estabelecer as características da avaliação como: objetivos, metodologia, atividades e materiais.
+Este documento possui a função de verificar o artefato de [Planejamento da Avaliação da Análise de Tarefas](../design_avaliacao/nivel1/analise_tarefas/planejamento_analise_tarefas.md) do projeto do grupo 6 - DetranGO. O planejamento da avaliação da análise de tarefas visa estabelecer as características da avaliação como: objetivos, metodologia, atividades e materiais.
 
 A verificação teve como objeto a versão 1.1 do artefato e "Planejamento da Avaliação da Análise de Tarefas” e foi realizada em 15 de junho de 2023.
 

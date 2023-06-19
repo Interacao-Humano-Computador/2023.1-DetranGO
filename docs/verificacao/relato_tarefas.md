@@ -2,7 +2,7 @@
 
 ## 1. Introdução
 
-Este documento possui a função de verificar o artefato de “Relato de Resultados da Análise de Tarefas” do projeto do grupo 6 - DetranGO. O relato da análise de tarefas demonstra de forma clara como ocorreu a execução das tarefas planejadas previamente no projeto.
+Este documento possui a função de verificar o artefato de [Relato de Resultados da Análise de Tarefas](../design_avaliacao/nivel1/analise_tarefas/relato_resultados_tarefas.md) do projeto do grupo 6 - DetranGO. O relato da análise de tarefas demonstra de forma clara como ocorreu a execução das tarefas planejadas previamente no projeto.
 
 A verificação teve como objeto a versão 1.1 do artefato e "Relato de Resultados da Análise de Tarefas” e foi realizada em 16 de junho de 2023.
 

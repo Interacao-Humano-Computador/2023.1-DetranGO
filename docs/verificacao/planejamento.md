@@ -150,6 +150,8 @@ Tabela 3: Representações gráficas dos resultados da verificação (Fonte: Aut
 
 ## 6. Acompanhamento
 
+- Foram realizadas todas as correções necessárias para os problemas relatados na seção 5 deste artefato, como os gráficos de satisfação e ocorrência de erros só leva em consideração as verificações com relação à conteúdo, não foi alterado pois as modificações foram em relação à padronização.
+
 
 ## 7. Referências bibliográficas
 

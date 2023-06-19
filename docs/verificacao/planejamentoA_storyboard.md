@@ -2,7 +2,7 @@
 
 ## 1. Introdução
 
-Este documento possui a função de verificar o artefato de “Planejamento da Avaliação - Storyboards” do projeto do grupo 6 - DetranGO. O planejamento da avaliação dos storyboards visa estabelecer as características da avaliação como: objetivos, metodologia, atividades e materiais.
+Este documento possui a função de verificar o artefato de [Planejamento da Avaliação - Storyboards](../design_avaliacao/nivel1/storyboards/planejamento_avaliacao.md) do projeto do grupo 6 - DetranGO. O planejamento da avaliação dos storyboards visa estabelecer as características da avaliação como: objetivos, metodologia, atividades e materiais.
 
 A verificação teve como objeto a versão 1.1 do artefato e "Planejamento da Avaliação - Storyboards” e foi realizada em 16 de junho de 2023.
 
@@ -70,7 +70,7 @@ Na tabela 1, se encontra o _[checklist]_ de padronização preenchido após a re
 | 1 | Possui ortografia correta e formal ? | Sim |
 | 2 | Possui introdução ? | Sim |
 | 3 | Possui links necessários ? | Sim |
-| 4 | As tabelas e imagens possuem legenda padronizada e chamada no texto ? | Parcialmente |
+| 4 | As tabelas e imagens possuem legenda padronizada e chamada no texto ? | Sim |
 | 5 | As tabelas e imagens estão totalmente em português ? | Sim |
 | 6 | Possui bibliografia ? | Sim |
 | 7 | A bibliografia está em ordem alfabética ? | Sim |
