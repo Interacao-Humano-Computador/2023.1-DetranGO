@@ -157,7 +157,7 @@ Esta seção do artefato dedica-se às correções que forem realizadas no artef
 
 ### 6.1 Versão 1.1 
 
-Esta versão realizou correções relacionadas ao checklist de padronização, não afetando assim os gráficos. 
+Esta versão realizou correções relacionadas ao checklist de padronização, não afetando assim os gráficos definidos no planejamento.
 
 ## 7. Referências bibliográficas
 
