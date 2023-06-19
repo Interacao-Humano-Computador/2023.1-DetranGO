@@ -1,6 +1,6 @@
 # Reuniões 
 
-## Introdução
+## 1. Introdução
 Realizamos um estudo dos horários da equipe por meio de um mapa de calor, que nos ajudou a identificar os melhores momentos para agendar atividades e reuniões. A figura 1 apresenta os resultados obtidos, que foram usados para otimizar nosso cronograma e garantir a participação de todos os membros da equipe, resultando em maior eficiência e produtividade no trabalho conjunto.
 <center>
 
@@ -14,4 +14,4 @@ Dessa forma, como podemos observar no mapa de calor, nossa reunião foi marcada 
 
 |  Versão  |   Data   |                      Descrição                      |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
-|  `1.0`   | 13/04/23 | Criação do documento                                | Carlos Eduardo | Amanda Noda |
+|  `1.0`   | 13/04/23 | Criação do documento                                | Carlos E. | Amanda N. |

@@ -26,6 +26,6 @@ Para definir as metas que queremos alcançar foram discutidas as seguintes quest
 ## 6. Histórico de versão
 | Versão | Data       | Descrição            | Autor(es)   | Revisor(es)    |
 |--------|------------|----------------------|-------------|----------------|
-| '1.0'  | 10/05/2023 | Criação do documento | Amanda Noda | Felipe MastroMauro |
-| '1.1'  | 11/05/2023 | Adição de Metas do projeto | Amanda Noda | Felipe MastroMauro e Pedro Henrique |
+| '1.0'  | 10/05/2023 | Criação do documento | Amanda N. | Felipe M. |
+| '1.1'  | 11/05/2023 | Adição de Metas do projeto | Amanda N. | Felipe M. e Pedro H. |
 

@@ -1,14 +1,15 @@
 # Perfil de Usuário
 
-## Introdução
+## 1. Introdução
 
 O Perfil de usuário é uma descrição detalhada dos usuários cujos os objetivos devem ser apoiado pelo sistema projetado. Portanto, através de uma análise dos perfis de usuário, visamos descobrir e definir quais características principais dos usuários que utilizam o sistema que está sendo desenvolvido. Esta etapa é de extrema importância, pois tem como objetivo melhorar a expêriencia dos usuários que utilizam-se dos serviços oferecidos pelo site do Detran GO. 
 
-## Metodologia
+## 2. Metodologia
 
 Para conseguirmos coletar as informações necessárias para a definição de um perfil de usuário, criamos um questionário especificando cada área de importância em nossa análise.
 
-### Vantagens
+### 2.1 Vantagens
+
 
 - Técnica relativamente rápida e barata de ser aplicada;
 - Obtém de maneira mais fácil informações de um público numeroso;
@@ -17,13 +18,13 @@ Para conseguirmos coletar as informações necessárias para a definição de um
 - Quando aplicado a uma amostra representativa das partes interessadas, permite representar as opiniões de toda a população;
 - As questões com respostas limitadas são muito efetivas para a geração de dados quantitativos para análise estatística.
 
-### Desvantagens
+### 2.2 Desvantagens
 
 - Se a taxa de resposta for baixa, o resultado pode não ser estatisticamente significativo;
 - Uma falha na elaboração do questionário pode levar a respostas em branco ou incorretas, ou também gerar interpretações distintas da mesma Questão, o que pode levar a erros nos requisitos;
 - O uso de questões com respostas ilimitadas demanda mais esforço de análise das respostas, se o público for numeroso.
 
-## Resultados coletados
+## 3. Resultados coletados
 
 A seguir iremos mostrar os resultados coletados para cada questão do formulário. O formulário conta com 55 respostas.
 
@@ -31,7 +32,7 @@ A seguir iremos mostrar os resultados coletados para cada questão do formulári
 
 Respostas foram coletadas entre as datas **29/04/2023** e **02/05/2023**.
 
-### Questão 1
+### 3.1 Questão 1
 
 A figura 1 mostra os resultados da questão 1 do questionário.
 
@@ -45,7 +46,7 @@ A figura 1 mostra os resultados da questão 1 do questionário.
 <p> Figura 1: Questão 1. (Fonte: Autor, 2023).</p>
 </div>
 
-### Questão 2
+### 3.2 Questão 2
 
 A figura 2 mostra os resultados da questão 2 do questionário.
 
@@ -59,9 +60,9 @@ A figura 2 mostra os resultados da questão 2 do questionário.
 <p> Figura 2: Questão 2. (Fonte: Autor, 2023).</p>
 </div>
 
-### Questão 3
-A tabela 1 mostra respostas à questão 3, coletadas como mostra o [formulário](https://docs.google.com/forms/d/e/1FAIpQLSfy3ZQlIrlzoUkwZYM3xvTtEihPXdh84Fqrb85O0pCb8KKpVQ/viewform) sem nenhuma formatação.
+### 3.3 Questão 3
 
+A tabela 1 mostra respostas à questão 3, coletadas como mostra o [formulário](https://docs.google.com/forms/d/e/1FAIpQLSfy3ZQlIrlzoUkwZYM3xvTtEihPXdh84Fqrb85O0pCb8KKpVQ/viewform) sem nenhuma formatação.
 
 | Quais sites de mobilidade vc tem costume de usar? |
 |---------------------------------------------------|
@@ -113,7 +114,7 @@ Tabela 1: Respostas Questão 3 (Fonte: Autor,2023).
 
 </center>
 
-### Questão 4
+### 3.4 Questão 4
 
 A figura 3 mostra os resultados da questão 4 do questionário.
 
@@ -128,7 +129,7 @@ A figura 3 mostra os resultados da questão 4 do questionário.
 <p> Figura 3: Questão 4. (Fonte: Autor, 2023).</p>
 </div>
 
-### Questão 5
+### 3.5 Questão 5
 
 A figura 4 mostra os resultados da questão 5 do questionário.
 
@@ -142,7 +143,7 @@ A figura 4 mostra os resultados da questão 5 do questionário.
 <p> Figura 4: Questão 5. (Fonte: Autor, 2023).</p>
 </div>
 
-### Questão 6
+### 3.6 Questão 6
 
 A figura 5 mostra os resultados da questão 6 do questionário.
 
@@ -156,7 +157,7 @@ A figura 5 mostra os resultados da questão 6 do questionário.
 <p> Figura 5: Questão 6. (Fonte: Autor, 2023).</p>
 </div>
 
-### Questão 7
+### 3.7 Questão 7
 
 A figura 6 mostra os resultados da questão 7 do questionário.
 
@@ -170,7 +171,7 @@ A figura 6 mostra os resultados da questão 7 do questionário.
 <p> Figura 6: Questão 7. (Fonte: Autor, 2023).</p>
 </div>
 
-### Questão 8
+### 3.8 Questão 8
 
 A figura 7 mostra os resultados da questão 8 do questionário.
 
@@ -184,7 +185,7 @@ A figura 7 mostra os resultados da questão 8 do questionário.
 <p> Figura 7: Questão 8. (Fonte: Autor, 2023).</p>
 </div>
 
-### Questão 9
+### 3.9 Questão 9
 
 A figura 8 mostra os resultados da questão 9 do questionário.
 
@@ -198,7 +199,7 @@ A figura 8 mostra os resultados da questão 9 do questionário.
 <p> Figura 8: Questão 9. (Fonte: Autor, 2023).</p>
 </div>
 
-### Questão 10
+### 3.10 Questão 10
 
 As figuras 9 e 10 mostra os resultados da questão 10 do questionário.
 
@@ -210,9 +211,10 @@ As figuras 9 e 10 mostra os resultados da questão 10 do questionário.
    Figura 109: Questão 10. (Fonte: Autor, 2023).</p>
 </div>
 
+### 3.11 Questão 11
 
-### Questão 11
 A tabela 2 mostra respostas à questão 11, coletadas como mostra o [formulário](https://docs.google.com/forms/d/e/1FAIpQLSfy3ZQlIrlzoUkwZYM3xvTtEihPXdh84Fqrb85O0pCb8KKpVQ/viewform) sem nenhuma formatação.
+
 
 | Você tem algum feedback sobre como o site Detran pode dar uma experiência melhor para o usuário? |
 |:-:|
@@ -260,16 +262,17 @@ Tabela 2: Respostas Questão 11 (Fonte: Autor,2023).
 
 </center>
 
-## Bibliografia
+## 4. Bibliografia
 
   > [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: [https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf](https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf). Acesso em: 2 de maio de 2023;
 
   >  https://docs.google.com/forms/d/1tDkLWOFgCxfdQC3KglediV4bSTw-QOXMBVE3MfLx-9U/edit#responses [Detran GO - IHC.pdf](https://github.com/Interacao-Humano-Computador/2023.1-DetranGO/files/11379117/Detran.GO.-.IHC.pdf)
 
 
-## Histórico de Versão
+## 5. Histórico de Versão
 
 |  Versão  |   Data   |                      Descrição                      |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
 |  `1.0`   | 02/05/23 | Versão inicial do Perfil de usuário | Amanda Noda | Pedro Henrique |
 |  `1.1`   | 19/06/23 | Correções ortográficas e de padrão | Felipe M. | Pedro M. |
+

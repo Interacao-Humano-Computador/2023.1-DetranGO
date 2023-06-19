@@ -1,6 +1,6 @@
 # Avaliação de IHC - Prefeitura de São Sebastião do Alto (SSALTO)
 
-## Introdução
+## 1. Introdução
 
 Neste documento temos como objetivo avaliar quesitos de usabilidade do sítio pertencente ao [SSALTO](http://
 ssalto.rj.gov.br/), um ambiente responsável pelo acesso a informação do município de São Sebastião do Alto-RJ.
@@ -16,7 +16,7 @@ Sítios na Web".
 
 </center>
 
-## Objetivos
+## 2. Objetivos
 
 Como descrito no planejamento (disponível [aqui](../../assets/SSALTO/avaliacaoSSALTO.pdf)), os questionamentos são as seguintes:
 
@@ -27,11 +27,11 @@ Como descrito no planejamento (disponível [aqui](../../assets/SSALTO/avaliacaoS
 * O usuário consegue atingir seu objetivo de forma mais eficiente?
 * Por meio da apropriação da tecnologia é possível oferecer um sistema de forma mais interessante aos usuários?
 
-## Métodos de Avaliação
+## 3. Métodos de Avaliação
 
 A avaliação a ser executada usará do modelo descrito no artigo “Avaliação Heurística de Sítios na Web” (MACIEL et al., 2004), modelo que, baseado nas heurísticas de Nielsen, amplia suas definições e cria caminhos específicos para a avaliação de IHC de sítios. O método, por ser de baixo custo comparado a outros métodos de inspeção e não necessitar da presença do usuário como os métodos de observação, é interessante para o contexto da disciplina.
 
-### Visibilidade do estado do sistema
+### 3.1 Visibilidade do estado do sistema
 
 | 1. Visibilidade do estado do sistema                                                                                                                                                                 |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -50,27 +50,27 @@ A avaliação a ser executada usará do modelo descrito no artigo “Avaliação
 
 </center>
 
-### Correspondência do sistema com o mundo real 
+### 3.2 Correspondência do sistema com o mundo real 
 
 *2*. Correspondência do sistema com o mundo real
 O site possui uma boa relação entre o sistema e o mundo real, trata de assuntos de forma geral com abrangência com alguns termos fora do entendimento geral, mas não foge de seu objetivo de entregar tais informações.Portanto, podemos afirmar que o site condiz com o mundo real. 
 
-### Controle do usuário e liberdade
+### 3.3 Controle do usuário e liberdade
 
 *3* Controle do usuário e liberdade
 O site possui várias abas de redirecionamento para outras páginas de solicitações de serviços por exemplo, Porém foi percebido que algumas problemáticas relacionadas ao controle de usuário e sua liberdade no uso do sistema.
 
-### Correspondência do sistema com o mundo real 
+### 3.4 Correspondência do sistema com o mundo real 
 
 *2*. Correspondência do sistema com o mundo real
 O site possui uma boa relação entre o sistema e o mundo real, trata de assuntos de forma geral com abrangência com alguns termos fora do entendimento geral, mas não foge de seu objetivo de entregar tais informações.Portanto, podemos afirmar que o site condiz com o mundo real. 
 
-### Controle do usuário e liberdade
+### 3.5 Controle do usuário e liberdade
 
 *3* Controle do usuário e liberdade
 O site possui várias abas de redirecionamento para outras páginas de solicitações de serviços por exemplo, Porém foi percebido que algumas problemáticas relacionadas ao controle de usuário e sua liberdade no uso do sistema.
 
-### Consistência e padrões
+### 3.6 Consistência e padrões
 
 | *4*. Consistência e padrões                                                                                                                                                                                                                                                                                                                                                                             |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -83,7 +83,7 @@ O site possui várias abas de redirecionamento para outras páginas de solicita�
   |
 
 
-### Reconhecimento em vez de memorização
+### 3.7 Reconhecimento em vez de memorização
 
 *5*. Reconhecimento em vez de momorização
 
@@ -125,12 +125,12 @@ segundaViaIptu.jpeg)
 | **Descrição do Problema:**<br><br><br>**Contexto:** O usuário acessou a página principal do sítio (Figura1). O usuário não sabe onde procurar para realizar tarefas.<br><br>**Causa:**  A interface não provê meios satisfatórios de indicar onde devem ser realizadas certas tarefas.<br><br>**Efeitos sobre o usuário:**Desorientação, frustração, insatisfação.<br><br>**Efeitos sobre a tarefa:** Nenhum. <br><br>**Correção possível:** Melhor organização da interface do sítio para mais fácil reconhecimento de tarefas e maior satisfação do usuário. |
 
 
-### Projeto estético e minimalista
+### 3.8 Projeto estético e minimalista
 
 *7*. Projeto estético e milimalista
 O sítio possui uma estética poluída e sobrecarregada de informações contrastantes que deixam um desconforto visualmente que acaba deixando a desejar enquanto utilizamos o sítio. Podendo refletir nas resoluções de tarefas desntro o mesmo, causando desconforto e insatisfação pelo usuário.
 
-### Estética e design minimalista
+### 3.9 Estética e design minimalista
 
 |  **8. Estética e design minimalista**                                                                                                                                                                                                                                                                                                                                                                                                                  |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -142,19 +142,19 @@ O sítio possui uma estética poluída e sobrecarregada de informações contras
 | **Descrição do Problema:**<br><br><br>**Contexto:** O usuário acessou o sítio e clicou no botão “Atendimento ao Cliente"<br><br>**Causa:** A interface da página da figura 2 não tem atributos que guiem o usuário por seu uso.<br><br>**Efeitos sobre o usuário:** Desconforto, frustração.<br><br>**Efeitos sobre a tarefa:** Nenhum.<br><br>**Correção possível:** Criação de nova interface para a página de “Atendimento ao cidadão”, mantendo os |
 
 
-## Conclusão
+## 4. Conclusão
 
 Concluímos que ao analisar o sítio, os problemas não são impecílios para a realização de tarefas dentro do mesmo. No entanto, algumas distrações foram encontradas nesta avaliação que acabam criando obstáculos para a finalização das tarefas no sítio, como desfalques cosméticos; como a irregularidade de elementos na tela inicial, determinando uma página sobrecarregada. A falta de atributos que guiem o usuário em determinadas páginas, faz que o sítio se torne pouco intuitivo e com baixa memorização. Estas falhas, no geral, afetam o usuário diretamente pela insatisfação em achar as ferramentas do sítio causando ruídos dentro de determinadas ações na página.
 
-## Referências bibliográficas
+## 5. Referências bibliográficas
 > [1] MACIEL, C. et al. Avaliação Heurística de Sítios na Web. [s.d.].
 
 > [2] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
 > [3]  W3C. CARTILHA DE ACESSIBILIDADE NA WEB: Cartilha de Acessibilidade na Web. Brasil: Creative Commons, 2009. Disponível em: <https://www.w3c.br/pub/Materiais/PublicacoesW3C/cartilha-w3cbr-acessibilidade-web-fasciculo-I.html>. Acesso em: 09 abr. 2023.
 
-## Histórico de versão
+## 6. Histórico de versão
 
 |  Versão  |   Data   |                      Descrição                      |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
-|  `1.0`   | 12/04/23 | Criação do documento e adição do conteúdo           | Amanda Noda    |     João Morbeck          |
+|  `1.0`   | 12/04/23 | Criação do documento e adição do conteúdo           | Amanda N.    |     João M.         |
