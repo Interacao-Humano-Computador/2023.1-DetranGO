@@ -147,4 +147,4 @@ A partir dos dados coletados, é possível concluir que os objetivos iniciais da
 | ------ | -------- | ----------------------------------------- | --------- | ----------- |
 | `1.0`  | 28/05/23 | Criação do documento e adição do conteúdo | Amanda N. e João M. | Pedro H.   |
 | `1.1`  | 29/05/23 | Adição da gravação da entrevista e das respostas | Amanda N. e João M. | Pedro H.   |
-| `1.2`  | 19/06/23 | Alterações de padronização | Pedro Muniz | Amanda Noda |
+| `1.2`  | 19/06/23 | Alterações de padronização | Pedro M. | Amanda N. |

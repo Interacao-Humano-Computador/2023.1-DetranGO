@@ -1,10 +1,10 @@
 # Apresentação da quinta etapa - 29/05/2023
 
-## Introdução
+## 1. Introdução
 
 Este artefato consiste na gravação em vídeo da apresentação disponível pelo YouTube da quinta etapa do projeto.
 
-## Gravação da apresentação
+## 2. Gravação da apresentação
 
 O vídeo 1 consiste na gravação da apresentação da quinta etapa. A gravação foi feita em 29 de maio de 2023 com todos os membros exceto Carlos Eduardo e disponibilizada no YouTube como vídeo não listado.
 
@@ -16,7 +16,7 @@ Vídeo 1 - Apresentação da quinta etapa do projeto (Fonte: Membros do grupo).
 
 </center>
 
-## Histórico de Versão
+## 3. Histórico de Versão
 
 |  Versão  |   Data   |                      Descrição          |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------- | -------------- | ------------- |

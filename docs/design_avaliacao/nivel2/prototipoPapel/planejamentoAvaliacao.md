@@ -16,7 +16,7 @@ Para o planejamento da avaliação do protótipo de papel elaborado, será utili
 ## 3. DECIDE
 
 ### 3.1 D - Determinar os objetivos gerais da avaliação
-A avaliação tem como meta principal a confirmação por parte dos usuários do sistema acerca da prototipagem realizada pela equipe de desenvolvimento, buscando entrar problemas relacionados à usabilidade do sistema, como:
+A avaliação tem como meta principal a confirmação por parte dos usuários do sistema acerca da prototipagem realizada pela equipe de desenvolvimento, buscando encontrar problemas relacionados à usabilidade do sistema, como:
 
 - Problemas de interação e design
 - Conformidade com um padrão
@@ -120,7 +120,7 @@ Na tabela 5 abaixo se encontram descritos os participantes da entrevista 1.
 | ------------ | ------------------ | ------------------------- | ------------- |
 | Entrevista 1 | Felipe Mastromauro | Equipe de desenvolvimento | Entrevistador |
 | Entrevista 1 | Pedro Muniz        | Equipe de desenvolvimento | Relator       |
-| Entrevista 1 | -     | Usuário do sistema        | Entrevistado  |
+| Entrevista 1 | Douglas Langkammer | Usuário do sistema        | Entrevistado  |
 
 Tabela 5: Participantes da entrevista 1(Fonte: Autor, 2023)
 
@@ -132,9 +132,9 @@ Na tabela 6 abaixo se encontram descritos os participantes da entrevista 2.
 
 | Atividade    | Participante       | Função                    | Papel         |
 | ------------ | ------------------ | ------------------------- | ------------- |
-| Entrevista 2 | Pedro Muniz | Equipe de desenvolvimento | Entrevistador |
-| Entrevista 2 | Felipe Mastromauro | Equipe de desenvolvimento | Relator       |
-| Entrevista 2 | Welder Fernades     | Usuário do sistema        | Entrevistado  |
+| Entrevista 2 | Felipe Mastromauro | Equipe de desenvolvimento | Entrevistador |
+| Entrevista 2 | Pedro Muniz        | Equipe de desenvolvimento | Relator       |
+| Entrevista 2 | João Camillo       | Usuário do sistema        | Entrevistado  |
 
 Tabela 6: Participantes da entrevista 2(Fonte: Autor, 2023)
 
@@ -146,9 +146,9 @@ Na tabela 7 abaixo se encontram descritos os participantes da entrevista 3.
 
 | Atividade    | Participante       | Função                    | Papel         |
 | ------------ | ------------------ | ------------------------- | ------------- |
-| Entrevista 3 | Felipe Mastromauro | Equipe de desenvolvimento | Entrevistador |
-| Entrevista 3 | Pedro Muniz        | Equipe de desenvolvimento | Relator       |
-| Entrevista 3 | -     | Usuário do sistema        | Entrevistado  |
+| Entrevista 3 | Pedro Muniz | Equipe de desenvolvimento | Entrevistador |
+| Entrevista 3 | Felipe Mastromauro | Equipe de desenvolvimento | Relator       |
+| Entrevista 3 | Welder Fernandes     | Usuário do sistema        | Entrevistado  |
 
 Tabela 7: Participantes da entrevista 3(Fonte: Autor, 2023)
 
@@ -174,9 +174,9 @@ Na tabela 9 abaixo, estão descritos local, data e horário para as entrevistas.
 
 | Atividade    | Local                | Data       | Horário |
 | ------------ | -------------------- | ---------- | ------- |
-| Entrevista 1 | Remoto (Google Meet) | - | -   |
-| Entrevista 2 | Remoto (Google Meet) | - | -   |
-| Entrevista 3 | Remoto (Google Meet) | - | -   |
+| Entrevista 1 | Remoto (Google Meet) | 18/06/2023 | 16:30   |
+| Entrevista 2 | Remoto (Google Meet) | 18/06/2023 | 17:30   |
+| Entrevista 3 | Remoto (Google Meet) | 19/06/2023 | 14:00   |
 
 Tabela 9: Cronograma para as entrevistas(Fonte: Autor, 2023)
 
@@ -231,4 +231,4 @@ Após a execução da avaliação, os dados recolhidos deverão ser tratados e r
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |--|--|--|--|--|
 | [`1.0`](./planejamentoAvaliacaov1.md) | 28/05/23 | Criação do documento e adição do conteúdo | Pedro M. | Felipe M. |
-| `2.0` | 16/06/23 | Refeitura do planejamento | Pedro Muniz | Amanda Noda |
+| `2.0` | 16/06/23 | Refeitura do planejamento | Pedro M. | Amanda N. |

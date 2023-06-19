@@ -1,10 +1,10 @@
 # Princípios e diretrizes do projeto
 
-## Introdução
+## 1. Introdução
 
 Por definição, princípios representam objetivos gerais e de alto nível, enquanto diretrizes são regras seguidas e observadas no desenvolvimento de um projeto. Segundo Simone (2021), por mais que existam diversos princípios e diretrizes consolidados na literatura de IHC, estas devem ser utilizadas como uma ferramenta auxiliar ao processo de design, não o substituindo[1].
 
-## Metodologia
+## 2. Metodologia
 
 Para determinar quais princípios e diretrizes seriam utilizadas no projeto, foram analisadas quais destas são utilizadas comumente em IHC e apresentados por Simone Barbosa[1]. Sendo estas:
 
@@ -18,11 +18,11 @@ Para determinar quais princípios e diretrizes seriam utilizadas no projeto, for
 - Contéudo relevante e expressão adequada.
 - Projeto para erros.
 
-## Princípios e diretrizes gerais
+## 3. Princípios e diretrizes gerais
 
 Segundo Norman (1988) um sistema deve ser projetado a partir de um modelo conceitual que o usuário possa compreender e aprender seu uso sem dificuldades. Este modelo deve ser capaz de interpretar as relações entre o sistema e o mundo real[1]. A partir disso os 9 princípios e diretrizes apresentados acima são comumente utilizados nos projetos de IHC, abaixo estão descritos cada um deles. Cada descrição foi retirada e adaptada do livro de Simone Barbosa[1].
 
-### Correspondência com as expectativas dos usuários
+### 3.1 Correspondência com as expectativas dos usuários
 
 O sistema deve ser projetado de forma a remeter suas funcionalidades a ações anteriores do usuário, fazendo com que o sistema atenda uma expectativa do usuário acerca de como cada função será executada. Para alcançar esse objetivo Norman (1988) sugere que o sistema se espelhe no mundo real, se baseando em como seu usuário realiza suas funções no mundo real, criando assim uma relação entre as intenções do usuário e as ações do sistema.
 
@@ -30,7 +30,7 @@ Além disso, Shneiderman (1998) recomenda que o sistema siga uma linha de racioc
 
 Por fim, Tognazzini (2014) alerta acerca do uso de metáforas e jargões nos conteúdos do sistema, pois podem confundir o usuário. Contudo, uma metáfora bem colocada pode acabar por auxiliar no entendimento do sistema, para isso as mesmas devem remeter a conceitos familiares ao usuário.
 
-### Simplicidade nas estruturas das tarefas
+### 3.2 Simplicidade nas estruturas das tarefas
 
 Segundo Norman (1988) as tarefas devem ser simplificadas, reduzindo o planejamento e resolução de problemas relativos à mesma. Seguindo isso, tarefas complexas devem ser reestruturadas, para isso podem-se utilizar 4 técnicas:
 
@@ -41,7 +41,7 @@ Segundo Norman (1988) as tarefas devem ser simplificadas, reduzindo o planejamen
 
 Deve-se tomar cuidado ao se utilizar demais da automatização, pois esta prática acaba por reduzir o controle e autonomia do usuário em relação ao sistema e a tarefa.
 
-### Equilíbrio entre controle e liberdade do usuário
+### 3.3 Equilíbrio entre controle e liberdade do usuário
 
 O sistema deve sempre buscar se adaptar de forma a permitir o controle do usuário sobre o mesmo, ao mesmo tempo que impõe restrições de forma a evitar erros do utilizador. Para isto, Norman (1988) sugere se utilizar das restrições para induzir o usuário a realizar apenas as ações "corretas", Tognazzini (2014) sugere porém, que o usuário possua um caminho principal com menos restrições mas que possa explorar o sistema como bem entender.
 
@@ -51,7 +51,7 @@ Além disso, o sistema deve ser capaz de permitir que o usuário inicie e desfa�
 
 Por fim, o sistema também deve permitir que o usuário personalize sua experiência através de parâmetros configuráveis, o sistema deve porém, ser projetado de forma a ser totalmente utilizável com seus parâmetros padrão.
 
-### Consistência e padronização
+### 3.4 Consistência e padronização
 
 O sistema deve manter um padrão de conteúdo no decorrer de seu uso assim como com sua documentação, desta forma pode-se melhorar o aprendizado do usuário, assim como corresponder às suas expectativas. Segundo diversos autores, o sistema deve ter suas funções, resultados, layout e visualização de informação padronizados e consistentes.
 
@@ -59,7 +59,7 @@ Para alcançar esta padronização, as funções com resultados semelhantes deve
 
 Tognazzini (2014) recomenda que ações inertes do usuário possuam maior importância de padronização, evitando assim erros inconscientes. Seguindo esta lógica, funções com resultados diferentes devem ter layouts obviamente diferentes, da mesma forma, ações que necessitam de maior atenção do usuário podem ser discrepantes do restante para que evitem ações inertes a partir do usuário.
 
-### Promoção da eficiência do usuário
+### 3.5 Promoção da eficiência do usuário
 
 Segundo Tognazzini (2014), o sistema deve priorizar a eficiência do usuário acima de performance computacional, já que pessoas são mais custosas do que máquinas. Para isso, recomenda que o sistema mantenha o usuário ocupado a todo momento ao deslocar processos demorados para executar em segundo plano, permitindo que o usuário se ocupe com outra tarefa. Já segundo Cooper (1999), o sistema não deve interromper o usuário durante a realização de uma tarefa, evitando perda de tempo.
 
@@ -67,13 +67,13 @@ Além de manter o usuário ocupado, outra estratégia para aumentar a eficiênci
 
 Nielsen (1994c) e Shneiderman (1998) recomendam a implementação de atalhos e aceleradores ocultos, estas ferramentas auxiliam e melhoram a eficiência de usuários experientes ao mesmo passo que não interfere na utilização do sistema por usuários iniciantes.
 
-### Antecipação das necessidades do usuário
+### 3.6 Antecipação das necessidades do usuário
 
 Segundo Tognazzini (2014) o sistema deve ser capaz de prever as intenções e desejos do usuário, se prontificando a atendê-los antes que o mesmo solicite. Uma forma de realizar esta antecipação proposta por Cooper (1999) é fornecer informações adicionais úteis ao usuário, evitando buscas repetitivas por exemplo, além disso o sistema deve ser capaz de se preparar para prováveis situações futuras.
 
 Tognazzini (2014) também recomenda a atenção na criação de valores padrão bem definidos, além disso estes valores também podem ser pré-preenchidos em formulários, porém sempre permitindo a edição e alteração pelo usuário.
 
-### Visibilidade e reconhecimento
+### 3.7 Visibilidade e reconhecimento
 
 Segundo diversos autores, o sistema deve ser visível, ou seja o usuário deve possuir as informações necessárias para a operação do sistema a todo momento e para isso o estado, objetos, funções e opções do sistema devem estar constantemente atualizados e perceptíveis pelo usuário. Além disso, o usuário nunca deve ser responsável por lembrar informações passadas para ou por ele anteriormente, sendo uma tarefa do sistema.
 
@@ -86,7 +86,7 @@ Quanto aos feedbacks do sistema, diversos autores recomendam que ações frequen
 - Apresentar informações sobre o tempo de execução assim como uma barra de progresso para ações que demorem mais do que 2 segundos.
 - Quando uma operação necessitar mais de 10 segundos, o sistema deve alertar de forma sonora e visual seu término, para recuperar a atenção do usuário.
 
-### Contéudo relevante e expressão adequada
+### 3.8 Contéudo relevante e expressão adequada
 
 Segundo Reeves e Nass (1996) e se baseando no princípio de conversa cooperativa de Grice (1975), uma interação polida entre usuário e sistema deve seguir quatro máximas:
 
@@ -99,7 +99,7 @@ Além das quatro máximas, é recomendavel seguir algumas orientações para cri
 
 Além das informações, as cores são de grande importância na expressão do sistema, guiando o uso do sistema e criando uma interface agradável, contudo deve-se tomar cuidado para a questão da acessibilidade, permitindo que o sistema seja operado por usuários com dificuldades.
 
-### Projeto para erros
+### 3.9 Projeto para erros
 
 Segundo Norman (1988), o sistema deve ser projetado ao erro, ou seja, deve ser preparado pensando que qualquer erro potencial será cometido pelo usuário, e se prontificando para ajudá-lo a se recuperar do erro, além de permitir a reversão de qualquer ação do usuário e dificultar a realização de ações irreversíveis.
 
@@ -107,9 +107,9 @@ Cooper (1999) recomenda que controles perigosos, ou seja, que realizem ações i
 
 Nielsen (1994c) e Shneiderman(1998) recomendam que o sistema evite que o usuário cometa erros durante sua operação, contudo caso um erro ocorra, o sistema deve ser capaz de fornecer um feedback preciso e inteligível para o usuário, de forma que o mesmo possa reconhecer e se recuperar do erro cometido. Além disso, recomendam que o sistema possua uma documentação eficiente para auxiliar o usuário durante a operação do sistema.
 
-## Aplicação dos princípos no projeto
+## 4. Aplicação dos princípos no projeto
 
-### Correspondência com as expectativas dos usuários
+### 4.1 Correspondência com as expectativas dos usuários
 
 O site do Detran GO atende às expectativas dos usuários no quesito funcional. As funções possuem comandos simples e que remetem à experiências reais como informar nome e documentação necessária para um atendente. 
 
@@ -126,7 +126,7 @@ Detalhe 1: botão com funcionalidade em local desconexo.
  </center>
 
 
-### Simplicidade nas estruturas das tarefas
+### 4.2 Simplicidade nas estruturas das tarefas
 
 As tarefas são estuturadas, em maior parte, obedecendo às 4 regras detalhadas por Norman (1988) e explicitadas na [seção anterior](#simplicidade-nas-estruturas-das-tarefas) sobre este tópico. Contudo, há tarefas que fogem à regra, a exemplo do serviço de agendamento de vistorias, que lista diversos estabelecimentos que realizam este serviço e seus telefones, muitas vezes em cidades que não a solicitada pelo usuário, dificultando e complicando a utilização deste serviço, como mostrado na figura 2, em que a tela por ela representada foi mostrada após selecionada a cidade de Aloândia - GO.
 
@@ -139,7 +139,7 @@ Figura 2: Página de agendamento de vistoria veicular (Fonte: Detran GO, 2023[2]
 
 </center>
 
-### Equilíbrio entre controle e liberdade do usuário
+### 4.3 Equilíbrio entre controle e liberdade do usuário
 
 O sistema do site Detran GO permite que o usuário desfaça suas açoes na maior parte dos módulos. No entanto, o princípio de maleabilidade de Cooper (1999) não é respeitado, não sendo assim permitido que se obtenha resultados iguais de forma diferente em uma mesma função, como a de solicitar a primeira via da CNH (a ordem das ações não pode ser mudada de nenhuma maneira neste módulo). Estes aspectos são ilustrados pela figura 3, onde o detalhe 1 marca o estádo do módulo mas não permite maleabilidade entre estes passos.
 
@@ -153,7 +153,7 @@ Detalhe 2: Registro de estado da tarefa.
 
 </center>
 
-### Consistência e padronização
+### 4.4 Consistência e padronização
 
 O site mantém o layout consistente durante todo o uso, sem mudanças radicais, o que permite um aprendizado mais facilitado por parte do usuário. Também deve-se notar que a utilização de funções de consulta de diferentes tipos possuem similaridades notáveis ente si. No entanto, essas similaridades são mantidas para funções diferentes, como a de agendamento de atendimento, como mostrado pelas figuras 4 e 5.
 
@@ -169,7 +169,7 @@ Figura 5: Seção de agendamento de atendimento (Fonte: Detran GO, 2023[2]).
 
 </center>
 
-### Promoção da eficiência do usuário
+### 4.5 Promoção da eficiência do usuário
 
 O sistema promove a eficiência do usuário de acordo com Tognazzini (2014), em que o sistema deve deixar o usuário encarregado de outras tarefas sempre que uma é terminada em algum módulo. Ao solicitar a CNH, por exemplo, em nenhum momento (exceto entre seções) o usuário deve esperar por resultados por longos tempos. O sistema também tem a vantagem de não utilizar-se de muitas tarefas dispendiosas que necessitariam de operação em segundo plano, indo de encontro às ideias de Tognazzini (2014).
 
@@ -193,7 +193,7 @@ Figura 7: Seção de acessibilidade do site (Fonte: Detran GO, 2023[2]).
 
 </center>
 
-### Antecipação das necessidades do usuário
+### 4.6 Antecipação das necessidades do usuário
 
 O sistema antecipa o uso de alguns serviços, como consulta de veículos e de CNH. Esta antecipação está de acordo com as ideias de Tognazzini (2014) e de Cooper (1999) estando o sistema pronto para atender o usuário e oferecendo informações relevantes para o usuário, prevenindo-se para eventuais usos futuros. Estas antecipações estão na página principal, e uma delas está ilustrada na figura 8 como mostra o detalhe 3 na imagem.
 
@@ -207,7 +207,7 @@ Detalhe 3: Antecipação da consulta de CNH na página principal.
 
 </center>
 
-### Visibilidade e reconhecimento
+### 4.7 Visibilidade e reconhecimento
 
 O sistema possui problemas de visibilidade claros na organização de suas funções. O botão de login e a barra de pesquisa estão ocultos pela organização da tela, e há funções que ficam ocultas devido à maneira que estão organizadas, como visível nos detalhes 4 e 5 da figura 9, respectivamente.
 
@@ -237,7 +237,7 @@ Detalhe 6: Mostrador do estado do sistema.
 
 Como o sistema é dependente de resposta de um servidor, os tempos de execução de certas tarefas podem varias. Com base nisso, pode-se destacar que feedbacks visuais são mostrados para quando um botão é clicado ou quando uma operação está sendo caregada de acordo com o estipulado por Tognazzini (2014).
 
-### Contéudo relevante e expressão adequada
+### 4.8 Contéudo relevante e expressão adequada
 
 Se consideradas as máximas de Reeves e Nass (1996) baseadas em Grice (1975), é possível dizer que o sistema do Detran GO obedece às máximas de qualidade, relação e modo em seus módulos. No entanto, nota-se que há módulos que apresentam infomação desnecessária para o entendimento ou realização da tarefa que descreve, desrespeitando assim a máxima da quantidade.
 
@@ -253,7 +253,7 @@ Figura 11: Página principal após dois usos da função de aumento de fonte (Fo
 
 No entanto, o sistema possui design minimalista e conciso que, na maior parte do tempo, prioriza o usuário, estando de acordo com as ideias de Nielsen (1994c) e Tognazzini (2014).
 
-### Projeto para erros
+### 4.9 Projeto para erros
 
 O sistema está de acordo com as recomendações de Nielsen (1994c) e Shneiderman(1998) quanto a retornar feedback inteligível para o usuário no caso de erros (como já mostrado na seção de [promoção da eficiência do usuário](#promocao-da-eficiencia-do-usuario_1) pela figura 6). 
 
@@ -270,13 +270,13 @@ Detalhe 7: Botões de avançar e voltar próximos.
 </center>
 
 
-## Referências Bibliográficas
+## 5. Referências Bibliográficas
 
 > [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Acesso em; 09 mai. 2023.
 
 > [2]  Detran GO, acesso em: 12 de maio de 2023. Para mais informações acesse: <https://www.detran.go.gov.br>
 
-## Histórico de Versão
+## 6. Histórico de Versão
 
 | Versão | Data     | Descrição                                                        | Autor(es) | Revisor(es) |
 | ------ | -------- | ---------------------------------------------------------------- | --------- | ----------- |

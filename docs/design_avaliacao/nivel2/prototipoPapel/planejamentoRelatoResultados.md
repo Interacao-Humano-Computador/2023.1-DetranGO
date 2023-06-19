@@ -53,5 +53,5 @@ Esta seção do artefato deverá registrar se os objetivos da avaliação foram 
 ## 4. Histórico de versão
 | Versão | Data       | Descrição            | Autor(es)   | Revisor(es)    |
 |--------|------------|----------------------|-------------|----------------|
-| `1.0`  | 19/05/2023 | Criação do documento | Pedro Henrique e Pedro Muniz | João Morbeck |
-| `1.1`  | 19/06/2023 | Alterações de padronização | Pedro Muniz | Amanda Noda |
+| `1.0`  | 19/05/2023 | Criação do documento | Pedro H. e Pedro M. | João M. |
+| `1.1`  | 19/06/2023 | Alterações de padronização | Pedro M. | Amanda N. |

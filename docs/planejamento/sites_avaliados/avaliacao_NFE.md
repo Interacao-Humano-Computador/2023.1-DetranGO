@@ -1,20 +1,20 @@
 # Avaliação de IHC - Portal da Nota Fiscal Eletrônica
 
-## Introdução
+## 1. Introdução
 
 O sítio [NFE(Nota Fiscal Eletrônica)](https://www.nfe.fazenda.gov.br/portal/principal.aspx), tem como objetivo a divulgação de informações sobre a Nota Fiscal Eletrônica, tendo como finalidade a mudança do sistema atual de emissão da nota fiscal em papel por nota fiscal eletrônica. O sítio destina-se a todas as pessoas que realizam compras, principalmente na internet, onde a emissão da nota fiscal precisa ser feita de forma online/eletrônica. O planejamento da avaliação pode ser encontrado nesse [link](../../assets/NFE/planejamentoNFE.pdf).
 
 
-## Avaliação Heurística
+## 2. Avaliação Heurística
 
 A avaliação heurística, método escolhido para avaliar o sítio NFE, consiste na inspeção sistêmica, onde o avaliador coloca-se no lugar do usuário, para encontrar problemas de usabilidade em uma interface, levando em consideração os aspectos que podem impedir que o usuário realize o seu objetivo ou que apresente lentidão na realização da sua tarefa até mesmo uma reação negativa para o usuário.
 
 
-## Dados Coletados
+## 3. Dados Coletados
 
 A avaliação revelou problemas de usabilidade, que estão descritos a seguir.
 
-### Compatibilidade do Sistema com o Mundo Real
+### 3.1 Compatibilidade do Sistema com o Mundo Real
 
 | ![Menu de navegação](../../assets/NFE/menuNFE.png){align=left, width=250} | ![Área de avisos](../../assets/NFE/avisosNFE.png){align=right, width=300} |
 | --------------------- | --------------------- |
@@ -36,7 +36,7 @@ As figuras 1 e 2 ilustram o problema de compatibilidade com a realidade dos usua
 </div>
 
 
-### Consistência e Padrões
+### 3.2 Consistência e Padrões
 
 ![Formulário Nota](../../assets/NFE/formNFE.png){align=left, width=360}  ![Área de avisos](../../assets/NFE/formIniNFE.png){align=right, width=320} 
 
@@ -64,7 +64,7 @@ Nas images acima vemos que, os padrões de disposição e apresentação, das in
 </div>
 
 
-### Prevenção de Erros
+### 3.3 Prevenção de Erros
 
 Utilizando-se das imagens na seção de consistência e padrões, também notamos a falta de mensagens e mecanismos para a prevenção de erros do usuário como: preenchimento do CPF e CNPJ deve conter pontuação ou somente números, regras para criação de senha e formato da chave de acesso NF-e.
 
@@ -82,7 +82,7 @@ Utilizando-se das imagens na seção de consistência e padrões, também notamo
 </div>
 
 
-### Estética e Design Minimalista
+### 3.4 Estética e Design Minimalista
 
 ![Página Inicial](../../assets/NFE/allPageNFE.png){width="100%"}
 
@@ -104,17 +104,17 @@ Primeiramente percebemos a quantidade de informações disponíveis que podem ac
 </div>
 
 
-## Conclusão
+## 4. Conclusão
 Após a análise dos dados coletados na avaliação do sítio do portal da nota fiscal eletrônica, observamos que apesar de atender as necessidades do usuário que o utiliza, o sítio possui muitos ruídos e obstáculos que dificultam sua utilização tornando a experiência do usuário difícil e desagradavel. Além disso, não fornece ferramentas e informações necessárias para usabilidade e acessibilidade plena.
 
 
-## Bibliografia
+## 5. Bibliografia
 
 > [1] MACIEL, C. _et al_. Avaliação Heurística de Sítios na Web. Niterói, RJ: UFF, 2004.
 
 
-## Histórico de Versão
+## 6. Histórico de Versão
 
 |  Versão  |   Data   |                      Descrição                      |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
-|  `1.0`   | 07/04/23 | Criação do documento e adição do conteudo           | Carlos Eduardo | Pedro Henrique |
+|  `1.0`   | 07/04/23 | Criação do documento e adição do conteudo           | Carlos E. | Pedro H. |

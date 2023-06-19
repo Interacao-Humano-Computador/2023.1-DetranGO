@@ -209,6 +209,6 @@ Após a execução da avaliação, os dados recolhidos deverão ser tratados e r
 
 | Versão | Data     | Descrição                                 | Autor(es)    | Revisor(es) |
 | ------ | -------- | ----------------------------------------- | ------------ | ----------- |
-| `1.0`  | 19/05/23 | Criação do documento e adição do conteúdo | João Morbeck | Amanda Noda |
-| `1.1`  | 21/05/23 | Adição do framework DECIDE e storyboards  | João Morbeck | Amanda Noda |
-| `1.2`  | 16/06/23 | Alterações de padronização                | Pedro Muniz  | Amanda Noda |
+| `1.0`  | 19/05/23 | Criação do documento e adição do conteúdo | João M. | Amanda N. |
+| `1.1`  | 21/05/23 | Adição do framework DECIDE e storyboards  | João M. | Amanda N. |
+| `1.2`  | 16/06/23 | Alterações de padronização                | Pedro M.  | Amanda N. |

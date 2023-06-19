@@ -208,4 +208,4 @@ Após a execução da avaliação, os dados recolhidos deverão ser tratados e r
 | ------ | -------- | ----------------------------------------- | --------- | ----------- |
 | `1.0`  | 20/05/23 | Criação do documento e adição do conteúdo | Felipe M. | Carlos E.   |
 | `1.1`  | 21/05/23 | Mudanças no planejamento e organização    | Felipe M. | Carlos E.   |
-| `1.2`  | 16/06/23 | Alterações de padronização                | Pedro M.  | Amanda Noda |
+| `1.2`  | 16/06/23 | Alterações de padronização                | Pedro M.  | Amanda N. |

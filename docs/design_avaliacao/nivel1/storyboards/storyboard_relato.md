@@ -137,7 +137,7 @@ Figura 6 - Storyboard Transferência de Veículo (Fonte: Pedro Henrique, 2023)
 </center>
 
 ## 6. Respostas das perguntas
-Visando sumarizar os dados obtidos através da avaliação, as tabelas a seguir detalham as respostas do entrevistado para as perguntas elaboradas anteriormente, discriminadas por objetivo de avaliação. Para cada sotoryboard desenvolvido, foram feitas todas as perguntas elaboradas anteriormente.
+Visando sumarizar os dados obtidos através da avaliação, as tabelas a seguir detalham as respostas do entrevistado para as perguntas elaboradas anteriormente, discriminadas por objetivo de avaliação. Para cada storyboard desenvolvido, foram feitas todas as perguntas elaboradas anteriormente.
 
 ### 6.1 Consulta de CNH
 
@@ -147,6 +147,13 @@ Abaixo se encontram as respostas do entrevistado para as perguntas acerca do sto
 
 <center>
 
+| Número | Pergunta                                                                      | Resposta |
+|--------|-------------------------------------------------------------------------------|----------|
+| 1      | Quanto aos storyboards, você acha que eles estão condizentes com a realidade? | Sim      |
+| 2      | Por que este storyboard não condiz com a realidade?                           | -        |
+| 3      | Ficou clara a motivação do usuário para usar a aplicação do Detran GO?        | Sim      |
+
+
 Tabela 4: Respostas para as perguntas elaboradas para o objetivo 1 do storyboard de consulta de CNH(Fonte: Autor, 2023).
 
 </center>
@@ -155,6 +162,12 @@ Tabela 4: Respostas para as perguntas elaboradas para o objetivo 1 do storyboard
 
 <center>
 
+| Número | Pergunta                                                                       | Resposta |
+|--------|--------------------------------------------------------------------------------|----------|
+| 1      | A sequência de ações do storyboard fez sentido para você?                      | Sim      |
+| 2      | Você considera que o ator principal concluiu seu objetivo na história contada? | Sim      |
+
+
 Tabela 5: Respostas para as perguntas elaboradas para o objetivo 2 do storyboard de consulta de CNH(Fonte: Autor, 2023).
 
 </center>
@@ -162,6 +175,11 @@ Tabela 5: Respostas para as perguntas elaboradas para o objetivo 2 do storyboard
 #### 6.1.3 Necessidade de alteração
 
 <center>
+
+| Número | Pergunta                                                                | Resposta                                                          |
+|--------|-------------------------------------------------------------------------|-------------------------------------------------------------------|
+| 1      | Você tem algum ponto que acha que deveria ser alterado nas storyboards? | Hoje em dia, é muito difícil que se receba uma multa pelo correio |
+
 
 Tabela 6: Respostas para as perguntas elaboradas para o objetivo 3 do storyboard de consulta de CNH(Fonte: Autor, 2023).
 
@@ -174,6 +192,13 @@ Abaixo se encontram as respostas do entrevistado para as perguntas acerca do sto
 
 <center>
 
+| Número | Pergunta                                                                      | Resposta                                                                        |
+|--------|-------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| 1      | Quanto aos storyboards, você acha que eles estão condizentes com a realidade? | Não                                                                             |
+| 2      | Por que este storyboard não condiz com a realidade?                           | Parcelas do carro não se consulta no detran, e sim com o financiamento bancário |
+| 3      | Ficou clara a motivação do usuário para usar a aplicação do Detran GO?        | Não                                                                             |
+
+
 Tabela 7: Respostas para as perguntas elaboradas para o objetivo 1 do storyboard de consulta de veículo(Fonte: Autor, 2023).
 
 </center>
@@ -182,6 +207,12 @@ Tabela 7: Respostas para as perguntas elaboradas para o objetivo 1 do storyboard
 
 <center>
 
+| Número | Pergunta                                                                       | Resposta |
+|--------|--------------------------------------------------------------------------------|----------|
+| 1      | A sequência de ações do storyboard fez sentido para você?                      | Não      |
+| 2      | Você considera que o ator principal concluiu seu objetivo na história contada? | Não      |
+
+
 Tabela 8: Respostas para as perguntas elaboradas para o objetivo 2 do storyboard de consulta de veículo(Fonte: Autor, 2023).
 
 </center>
@@ -189,6 +220,11 @@ Tabela 8: Respostas para as perguntas elaboradas para o objetivo 2 do storyboard
 #### 6.2.3 Necessidade de alteração
 
 <center>
+
+| Número | Pergunta                                                                | Resposta                                                                                                                               |
+|--------|-------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+| 1      | Você tem algum ponto que acha que deveria ser alterado nas storyboards? | O site do detran não possui as funções para consulta de dívidas, financiamento, etc... Apenas restrições, multas e impostos do veículo |
+
 
 Tabela 9: Respostas para as perguntas elaboradas para o objetivo 3 do storyboard de consulta de veículo(Fonte: Autor, 2023).
 
@@ -201,7 +237,12 @@ Abaixo se encontram as respostas do entrevistado para as perguntas acerca do sto
 
 <center>
 
-Tabela 10: Respostas para as perguntas elaboradas para o objetivo 1 do storyboard de agendamento de atendimento(Fonte: Autor, 2023).
+| Número | Pergunta                                                                      | Resposta |
+|--------|-------------------------------------------------------------------------------|----------|
+| 1      | Quanto aos storyboards, você acha que eles estão condizentes com a realidade? | Sim      |
+| 2      | Por que este storyboard não condiz com a realidade?                           | -        |
+| 3      | Ficou clara a motivação do usuário para usar a aplicação do Detran GO?        | Sim      |
+
 
 </center>
 
@@ -209,13 +250,24 @@ Tabela 10: Respostas para as perguntas elaboradas para o objetivo 1 do storyboar
 
 <center>
 
+| Número | Pergunta                                                                       | Resposta |
+|--------|--------------------------------------------------------------------------------|----------|
+| 1      | A sequência de ações do storyboard fez sentido para você?                      | Sim      |
+| 2      | Você considera que o ator principal concluiu seu objetivo na história contada? | Sim      |
+
+
 Tabela 11: Respostas para as perguntas elaboradas para o objetivo 2 do storyboard de agendamento de atendimento(Fonte: Autor, 2023).
 
 </center>
 
-#### 6.1.3 Necessidade de alteração
+#### 6.3.3 Necessidade de alteração
 
 <center>
+
+| Número | Pergunta                                                                | Resposta |
+|--------|-------------------------------------------------------------------------|----------|
+| 1      | Você tem algum ponto que acha que deveria ser alterado nas storyboards? | Não      |
+
 
 Tabela 10: Respostas para as perguntas elaboradas para o objetivo 3 do storyboard de agendamento de atendimento(Fonte: Autor, 2023).
 
@@ -228,6 +280,13 @@ Abaixo se encontram as respostas do entrevistado para as perguntas acerca do sto
 
 <center>
 
+| Número | Pergunta                                                                      | Resposta |
+|--------|-------------------------------------------------------------------------------|----------|
+| 1      | Quanto aos storyboards, você acha que eles estão condizentes com a realidade? | Sim      |
+| 2      | Por que este storyboard não condiz com a realidade?                           | -        |
+| 3      | Ficou clara a motivação do usuário para usar a aplicação do Detran GO?        | Sim      |
+
+
 Tabela 13: Respostas para as perguntas elaboradas para o objetivo 1 do storyboard de solicitação de CNH(Fonte: Autor, 2023).
 
 </center>
@@ -236,6 +295,12 @@ Tabela 13: Respostas para as perguntas elaboradas para o objetivo 1 do storyboar
 
 <center>
 
+| Número | Pergunta                                                                       | Resposta |
+|--------|--------------------------------------------------------------------------------|----------|
+| 1      | A sequência de ações do storyboard fez sentido para você?                      | Sim      |
+| 2      | Você considera que o ator principal concluiu seu objetivo na história contada? | Sim      |
+
+
 Tabela 14: Respostas para as perguntas elaboradas para o objetivo 2 do storyboard de solicitação de CNH(Fonte: Autor, 2023).
 
 </center>
@@ -243,6 +308,11 @@ Tabela 14: Respostas para as perguntas elaboradas para o objetivo 2 do storyboar
 #### 6.4.3 Necessidade de alteração
 
 <center>
+
+| Número | Pergunta                                                                | Resposta                             |
+|--------|-------------------------------------------------------------------------|--------------------------------------|
+| 1      | Você tem algum ponto que acha que deveria ser alterado nas storyboards? | Ambiguidade no ato de "perder a CNH" |
+
 
 Tabela 15: Respostas para as perguntas elaboradas para o objetivo 3 do storyboard de solicitação de CNH(Fonte: Autor, 2023).
 
@@ -255,6 +325,13 @@ Abaixo se encontram as respostas do entrevistado para as perguntas acerca do sto
 
 <center>
 
+| Número | Pergunta                                                                      | Resposta |
+|--------|-------------------------------------------------------------------------------|----------|
+| 1      | Quanto aos storyboards, você acha que eles estão condizentes com a realidade? | Sim      |
+| 2      | Por que este storyboard não condiz com a realidade?                           | -        |
+| 3      | Ficou clara a motivação do usuário para usar a aplicação do Detran GO?        | Sim      |
+
+
 Tabela 16: Respostas para as perguntas elaboradas para o objetivo 1 do storyboard de emissão de CRLV(Fonte: Autor, 2023).
 
 </center>
@@ -263,6 +340,12 @@ Tabela 16: Respostas para as perguntas elaboradas para o objetivo 1 do storyboar
 
 <center>
 
+| Número | Pergunta                                                                       | Resposta |
+|--------|--------------------------------------------------------------------------------|----------|
+| 1      | A sequência de ações do storyboard fez sentido para você?                      | Sim      |
+| 2      | Você considera que o ator principal concluiu seu objetivo na história contada? | Sim      |
+
+
 Tabela 17: Respostas para as perguntas elaboradas para o objetivo 2 do storyboard de emissão de CRLV(Fonte: Autor, 2023).
 
 </center>
@@ -270,6 +353,11 @@ Tabela 17: Respostas para as perguntas elaboradas para o objetivo 2 do storyboar
 #### 6.5.3 Necessidade de alteração
 
 <center>
+
+| Número | Pergunta                                                                | Resposta |
+|--------|-------------------------------------------------------------------------|----------|
+| 1      | Você tem algum ponto que acha que deveria ser alterado nas storyboards? | Não      |
+
 
 Tabela 18: Respostas para as perguntas elaboradas para o objetivo 3 do storyboard de emissão de CRLV(Fonte: Autor, 2023).
 
@@ -282,6 +370,13 @@ Abaixo se encontram as respostas do entrevistado para as perguntas acerca do sto
 
 <center>
 
+| Número | Pergunta                                                                      | Resposta |
+|--------|-------------------------------------------------------------------------------|----------|
+| 1      | Quanto aos storyboards, você acha que eles estão condizentes com a realidade? | Sim      |
+| 2      | Por que este storyboard não condiz com a realidade?                           | -        |
+| 3      | Ficou clara a motivação do usuário para usar a aplicação do Detran GO?        | Sim      |
+
+
 Tabela 19: Respostas para as perguntas elaboradas para o objetivo 1 do storyboard de transferência de veículo(Fonte: Autor, 2023).
 
 </center>
@@ -290,6 +385,12 @@ Tabela 19: Respostas para as perguntas elaboradas para o objetivo 1 do storyboar
 
 <center>
 
+| Número | Pergunta                                                                       | Resposta |
+|--------|--------------------------------------------------------------------------------|----------|
+| 1      | A sequência de ações do storyboard fez sentido para você?                      | Sim      |
+| 2      | Você considera que o ator principal concluiu seu objetivo na história contada? | Sim      |
+
+
 Tabela 20: Respostas para as perguntas elaboradas para o objetivo 2 do storyboard de transferência de veículo(Fonte: Autor, 2023).
 
 </center>
@@ -297,6 +398,11 @@ Tabela 20: Respostas para as perguntas elaboradas para o objetivo 2 do storyboar
 #### 6.6.3 Necessidade de alteração
 
 <center>
+
+| Número | Pergunta                                                                | Resposta |
+|--------|-------------------------------------------------------------------------|----------|
+| 1      | Você tem algum ponto que acha que deveria ser alterado nas storyboards? | Não      |
+
 
 Tabela 21: Respostas para as perguntas elaboradas para o objetivo 3 do storyboard de transferência de veículo(Fonte: Autor, 2023).
 
@@ -315,23 +421,23 @@ No vídeo abaixo se encontra a gravação em vídeo da entrevista realizada.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_jQ1AbOWpC4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 8. Análise dos dados coletados
-
-## 9. Correções possíveis
-
-## 10. Conclusão
-
-## 8. Sugestões e problemas encontrados
 Foram encontrados alguns pontos que deveriam ser mudados nos *storyboards*. Em geral temos que no *storyboard* de consultar CNH a indicação de que é díficil receber multas pelo correio. Já no de consultar veículo, foi passado que o site do Detran GO não apresenta certas funcionalidades que contribuem para a questão financeira do veículo. Por fim, na tarefa de solicitar CNH foi apontado a existência de ambiguidade no ato de "perder a CNH".
 
-## 9. Bibliografia
+## 9. Correções possíveis
+São necessárias correções quanto a funcionalidades erroneamente representadas, como no storyboard que representa a consulta de veículo, onde o usuário reclamou do fato de que a tarefa representada não é realizada no site do Detran, mas sim em outras páginas da web.
+
+## 10. Conclusão
+Após a análise dos dados, pode-se concluir que os objetivos da avaliação foram cumpridos, contudo os storyboards cumpriram parcialmente seus objetivos, falhando parcialmente em representar corretamente a realidade.
+
+## 11. Bibliografia
 
 > [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
 
-## Histórico de Versão
+## 12. Histórico de Versão
 
 | Versão | Data     | Descrição                                                        | Autor(es) | Revisor(es) |
 | ------ | -------- | --------------------------------------------------------------- | --------- | ----------- |
-| `1.0`  | 25/05/23 | Criação do documento | Pedro H. e Carlos E. | Amanda Noda |
-| `1.1`  | 29/05/23 | Adição de metodologia, teste piloto, relato e problemas encontrados | Pedro H. e Carlos E. | Amanda Noda |
-|
+| `1.0`  | 25/05/23 | Criação do documento | Pedro H. e Carlos E. | Amanda N. |
+| `1.1`  | 29/05/23 | Adição de metodologia, teste piloto, relato e problemas encontrados | Pedro H. e Carlos E. | Amanda N. |
+| `1.2`  | 19/06/23 | Alterações de padronização | Pedro M. | Amanda N. |
 

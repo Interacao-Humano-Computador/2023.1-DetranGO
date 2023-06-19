@@ -14,7 +14,7 @@ Neste tópico devem ser explicitados os objetivos da avaliação do Storyboard, 
 
 ### 2.2 Metodologia
 
-Os métodos utilizados para a realização desta avaliação devem ser explicitados de maneira clara, estando também de acordo com o que foi planejado em [artefato anterior](./planejamentoAvaliacao.md).
+Os métodos utilizados para a realização desta avaliação devem ser explicitados de maneira clara, estando também de acordo com o que foi planejado em [artefato anterior](./planejamento_avaliacao.md).
 
 #### 2.2.1 Aspectos éticos
 
@@ -53,5 +53,5 @@ Esta seção do artefato deverá registrar se os objetivos da avaliação foram 
 ## 4. Histórico de versão
 | Versão | Data       | Descrição            | Autor(es)   | Revisor(es)    |
 |--------|------------|----------------------|-------------|----------------|
-| `1.0`  | 19/05/2023 | Criação do documento | Pedro Henrique e Pedro Muniz | João Morbeck |
-| `1.1`  | 19/06/2023 | Alterações de padronização | Pedro Muniz | Amanda Noda |
+| `1.0`  | 19/05/2023 | Criação do documento | Pedro H. e Pedro M.| João M. |
+| `1.1`  | 19/06/2023 | Alterações de padronização | Pedro M. | Amanda N. |
