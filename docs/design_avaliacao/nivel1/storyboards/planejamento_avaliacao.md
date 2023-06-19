@@ -1,14 +1,14 @@
 # Storyboard - Planejamento de avaliação
 
-## Introdução
+## 1. Introdução
 
 Este artefato apresenta o planejamento da avaliação do storyboard, o storyboard é uma técnica que consiste em desenhar uma história que trate a realidade de uma pessoa e como uma aplicação ou funcionalidade dessa aplicação pode resolver alguns de suas dificuldades. Com isso, junto com o usuário, é possível fazer a avaliações e validações para alinhar as tomadas de decisões do designer.
 
-## Objetivos
+## 2. Objetivos
 
 O objetivo deste artefato é realizar o planejamento da avaliação dos storyboards, utilizando a metodologia e as tarefas encontradas neste artefato, o intuito das avaliações é analisar se as tarefas estão de acordo com o contexto do usuário, se as necessidades dos usuário em relação às tarefas estão de acordo com o esperado.
 
-## Metodologia
+## 3. Metodologia
 
 A avaliação do storyboard será feita através de entrevistas de usuários do site Detran GO, deve se atentar que a avaliação envolve pessoas, logo é necessário levar em consideração as questões éticas e por isso será apresentado um termo de consentimento para assinatura do entrevistado, para orientar o processo de coleta de dados, será utilizado o framework DECIDE, que serve como um guia para o planejamento de uma avaliação, os pontos abordados pelo framework são:
 
@@ -19,13 +19,13 @@ A avaliação do storyboard será feita através de entrevistas de usuários do 
 - **D** - Decidir como lidar com as questões éticas.
 - **E** - Avaliar (Evaluate), interpretar e apresentar os dados.
 
-## DECIDE
+## 4. DECIDE
 
-### D - Determinar os objetivos gerais da avaliação
+### 4.1. D - Determinar os objetivos gerais da avaliação
 
 Esta avaliação tem como objetivo avaliar se as tarefas estão representadas de acordo com o executado pelo usuário, analisar a fidelidade das storyboards com a realidade e se necessário fazer alterações nas storyboards para torna-las mais alinhados com a realidade.
 
-### E - Explorar perguntas a serem respondidas
+### 4.2. E - Explorar perguntas a serem respondidas
 
 As perguntas elaboradas estão disponibilizadas na tabela 1.
 
@@ -44,15 +44,15 @@ Tabela 1: Roteiro de perguntas (Fonte: Autor, 2023)
 
 </center>
 
-### C - Escolher os métodos de avaliação a serem utilizados
+### 4.3. C - Escolher os métodos de avaliação a serem utilizados
 
 O método escolhido para avaliar é a investigação com entrevistas, neste método iremos fazer uma análise sobre as respostas obtidas através das entrevistas com usuários, este método é ótimo para entender o que e como o usuário se sente ao falar sobre determinada atividade e proverá informações importantes para que o designer possa tomar decisões conscientes quanto ao público que deve atender.
 
-### I - Identificar e administrar as questões práticas da avaliação
+### 4.4. I - Identificar e administrar as questões práticas da avaliação
 
 É preciso se atentar a alguns detalhes na hora de definir quem entrevistar, o primeiro ponto é que deve estar alinhado com o que foi definido no [Perfil de usuário](../../../analise_requisitos/perfilUsuario.md) e que tenha uma carteira de habilitação registrada no estado do Goiás pois é necessário para ter acesso a mais funções no site do Detran GO, porém para a pesquisa pode ser analisado a partir de cadastros em plataformas do Detran de outros estados, e por último deve ter aceito o termo de consentimento. Deverá ser combinado entre o avaliador e o entrevistado, uma data e horário para que possa ser feitas as perguntas.
 
-### D - Decidir como lidar com questões éticas
+### 4.5. D - Decidir como lidar com questões éticas
 
 As questões éticas a respeito da avaliação devem ser tratadas de acordo com o que foi definido no documento de [Aspectos éticos](../../../analise_requisitos/aspectos_eticos.md) sobre pesquisa com pessoas.
 
@@ -77,7 +77,7 @@ Diante das explicações, é necessário que você esteja de acordo com a pesqui
 ( ) Sim, estou de acordo. </br>
 ( ) Não estou de acordo.
 
-### E - Avaliar, interpretar e apresentar dados
+### 4.6. E - Avaliar, interpretar e apresentar dados
 
 Com a execução deste planejamento, é esperado a apresentação dos resultados e da interpretação destes via um relatório final, que deverá abordar os seguintes pontos citados no livro da Simone:
 
@@ -89,7 +89,7 @@ Com a execução deste planejamento, é esperado a apresentação dos resultados
 - Uma lista dos problemas encontrados;
 - Um planejamento para o reprojeto do artefato.
 
-## Storyboards desenvolvidos
+## 5. Storyboards desenvolvidos
 
 Os storyboards desenvolvidos podem ser vistos nas figuras 1 a 6.
 
@@ -141,11 +141,11 @@ Figura 6 - Storyboard Transferência de Veículo (Fonte: Pedro Henrique, 2023)
 
 </center>
 
-## Referências Bibliográficas
+## 6. Referências Bibliográficas
 
 > [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Acesso em; 07 mai. 2023.
 
-## Histórico de Versão
+## 7. Histórico de Versão
 
 |  Versão  |   Data   |                      Descrição                      |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
