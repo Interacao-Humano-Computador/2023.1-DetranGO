@@ -61,7 +61,7 @@ Os problemas encontrados com a avaliação devem ter uma seção própria, com a
 A tabela 1 apresenta o checklist de padronização para o artefato de Perfil de usuário.
 
 | ID | Verificação | Realizado |
-|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|
 | 1 | Possui ortografia correta e formal? | Não | 
 | 2 | Possui introdução? | Sim |
 | 3 | Possui links necessários? | Sim |
@@ -95,6 +95,30 @@ Tabela 2: Checklist de conteúdo do relato dos resultados da avaliaçãodo story
 
 ## 4. Resultados
 
+Seguindo aquilo que foi definido no [planejamento da verificação](./planejamentoVerificacao.md), e utilizando-se unicamente do checklist de conteúdo desenvolvido para este artefato, é possível desenvolver os gráficos mostrados nas figuras 1 e 2, que delineiam o grau de satisfação deste artefato e a porcentagem de erros do mesmo.
+
+<center>
+
+![Grau de satisfação relato resultados storyboard](../assets/analise/storyr/satisfacao%20relato%20storyboard.png)
+
+</center>
+
+<center>
+Figura 1: Grau de satisfação do artefato do relato dos resultados da avaliação do storyboard (Fonte: Autor, 2023).
+</center>
+
+<center>
+
+![Porcentagem erros relato resultados storyboard](../assets/analise/storyr/erros%20relato%20storyboard.png)
+
+</center>
+
+<center>
+Figura 2: Porcentagem de erros do artefato do relato dos resultados da avaliação do storyboard (Fonte: Autor, 2023).
+</center>
+
+Como mostrado nas figuras, o grau de satisfação deste artefato é de **85,7%** e a porcentagem de erros está em **28,6%**.
+
 ## 5. Problemas encontrados
 
 ### 5.1 Verificação 1 - Possui ortografia correta e formal?
@@ -113,8 +137,8 @@ Há divergências quanto a estruturação do artefato de relato dos resultados e
 
 Não é definida uma seção de interpretação de dados no relato dos resultados da avaliação do storyboard, o que impede uma análise mais concreta dos mesmos.
 
-
 ## 6. Acompanhamento
+
 
 ## 7. Referências bibliográficas
 

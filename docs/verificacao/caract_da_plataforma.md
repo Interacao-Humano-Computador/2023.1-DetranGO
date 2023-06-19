@@ -66,17 +66,17 @@ As variações de plataforma são diversas, e portanto, o design deve ser pensad
 
 A tabela 1 apresenta o checklist de padronização para o artefato de Perfil de usuário.
 
-| ID | Verificação | Ocorrências | Acertos | Erros |
-|:-:|:-:|:-:|:-:|:-:|
-| 1 | Possui ortografia correta e formal? | - | - | - |
-| 2 | Possui introdução? | 1 | 1 | 0 |
-| 3 | Possui links necessários? | 1 | 0 | 1 |
-| 4 | As tabelas e imagens possuem legenda padronizada e chamada no texto? | - | - | - |
-| 5 | As tabelas e imagens estão totalmente em português? | - | - | - |
-| 6 | Possui bibliografia? 	| 1 | 1 | 0 |
-| 7 | A bibliografia está em ordem alfabética? | 1 | 1 | 0 |
-| 8 | Possui histórico de versão padronizado? |	1 | 1 | 0 |
-| 9 | O histórico de versão possui autor(es) e revisor(es)? | 1 | 1 | 0 |
+| ID | Verificação | Realizado |
+|:-:|:-:|:-:|
+| 1 | Possui ortografia correta e formal? | Não |
+| 2 | Possui introdução? | Sim |
+| 3 | Possui links necessários? | Não há necessidade |
+| 4 | As tabelas e imagens possuem legenda padronizada e chamada no texto? | Não há tabelas ou imagens |
+| 5 | As tabelas e imagens estão totalmente em português? | Não há tabelas ou imagens |
+| 6 | Possui bibliografia? 	| Sim |
+| 7 | A bibliografia está em ordem alfabética? | Sim |
+| 8 | Possui histórico de versão padronizado? |	Sim |
+| 9 | O histórico de versão possui autor(es) e revisor(es)? | Sim |
 
 <center>
 Tabela 1: Checklist de padronização das características da plataforma (Fonte: Autor, 2023).
@@ -93,7 +93,7 @@ A tabela 2 contém os itens definidos na seção de metodologia para a realizaç
 | 11 | O artefato descreve múltiplas características de software de maneira organizada e clara? | 1 | 0 | 1 |
 | 12 | O artefato deixa clara a existência ou não de documentação? | 1 | 0 | 1 |
 | 13 | Se existe documentação, o artefato marca sua leitura? | 1 | 0 | 1 |
-| 14 | São consideradas limitações e possibilidades específicas da Web no sítio que são mostradas no artefato? | 1 | 0 | 1 |
+| 14 | São consideradas limitações e possibilidades específicas da Web no sítio que são mostradas no artefato? | 1 | 1 | 0 |
 | 15 | As limitações do sítio mostradas no artefato são verificáveis? | 9 | 0 | 9 |
 | 16 | As possiblidades do sítio mostradas no artefato são verificáveis? | 8 | 0 | 8 |
 | 17 | As características do sistema são enumeradas de maneira satisfatória, considerando todas as possibilidades e elementos importantes de um design para a Web? (e.g. versão de HTML, controles do browser em relação ao site, etc.) | 1 | 0 | 1 |
@@ -103,6 +103,29 @@ Tabela 2: Checklist de conteúdo das características da plataforma (Fonte: Auto
 </center>
 
 ## 4. Resultados
+
+Seguindo aquilo que foi definido no [planejamento da verificação](./planejamentoVerificacao.md), e utilizando-se unicamente do checklist de conteúdo desenvolvido para este artefato, é possível desenvolver os gráficos mostrados nas figuras 1 e 2, que delineiam o grau de satisfação deste artefato e a porcentagem de erros do mesmo.
+
+<center>
+
+![Grau de satisfação características plataforma](../assets/analise/plataforma/satisfacao%20caract%20plataforma.png)
+
+</center>
+<center>
+Figura 1: Grau de satisfação do artefato dde características da plataforma (Fonte: Autor, 2023).
+</center>
+
+<center>
+
+![Porcentagem erros características plataforma](../assets/analise/plataforma/erros%20caract%20plataforma.png)
+
+</center>
+
+<center>
+Figura 2: Porcentagem de erros do artefato dde características da plataforma (Fonte: Autor, 2023).
+</center>
+
+Como mostrado nas figuras, o grau de satisfação deste artefato é de **54,4%** e a porcentagem de erros está em **91,3%**.
 
 ## 5. Problemas encontrados
 
@@ -123,10 +146,6 @@ Não é possível encontrar em nenhum momento, no artefato, referências à exis
 ### 5.5 Verificação 13 - Se existe documentação, o artefato marca sua leitura?
 
 Não é possível encontrar em nenhum momento, no artefato, referências à existência de uma documentação a respeito da interface gráfica do site do Detran GO.
-
-### 5.6 Verificação 14 - São consideradas limitações e possibilidades específicas da Web no sítio que são mostradas no artefato?
-
-Não são suficientemente demarcadas limitações e possibilidades relacionadas às especificidades da Web. Por exemplo, não são considerados plugins e seus efeitos no uso do sistema em nenhum momento. Também não são considerados elementos disponíveis em navegadores, a exemplo de regulagem de zoom.
 
 ### 5.7 Verificação 15 - As limitações do sítio mostradas no artefato são verificáveis?
 

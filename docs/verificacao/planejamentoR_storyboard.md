@@ -98,6 +98,30 @@ Tabela 2: Checklist de conteúdo do planejamento do relato dos resultados da ava
 
 ## 4. Resultados
 
+Seguindo aquilo que foi definido no [planejamento da verificação](./planejamentoVerificacao.md), e utilizando-se unicamente do checklist de conteúdo desenvolvido para este artefato, é possível desenvolver os gráficos mostrados nas figuras 1 e 2, que delineiam o grau de satisfação deste artefato e a porcentagem de erros do mesmo.
+
+<center>
+
+![Grau de satisfação planejamento relato resultados storyboard](../assets/analise/storypr/satisfacao%20planejamento%20relato%20storyboard.png)
+
+</center>
+
+<center>
+Figura 1: Grau de satisfação do artefato do planejamento do relato dos resultados da avaliação do storyboard (Fonte: Autor, 2023).
+</center>
+
+<center>
+
+![Porcentagem erros planejamento relato resultados storyboard](../assets/analise/storypr/erros%20planejamento%20relato%20storyboard.png)
+
+</center>
+
+<center>
+Figura 2: Porcentagem de erros do artefato do planejamento do relato dos resultados da avaliação do storyboard (Fonte: Autor, 2023).
+</center>
+
+Como mostrado nas figuras, o grau de satisfação deste artefato é de **85,7%** e a porcentagem de erros está em **28,6%**.
+
 ## 5. Problemas encontrados
 
 Os problemas encontrados a partir da verificação deste artefato estão listados abaixo.
