@@ -87,3 +87,4 @@ De maneira geral, os problemas encontrados foram acerca da quantidade de informa
 | ------ | -------- | ----------------------------------------- | --------- | ----------- |
 | `1.0`  | 28/05/23 | Criação do documento e adição do conteúdo | Amanda N. e João M. | Pedro H.   |
 | `1.1`  | 29/05/23 | Adição da gravação da entrevista e das respostas | Amanda N. e João M. | Pedro H.   |
+| `1.2`  | 17/06/23 | Correções com base na [verificação](../../../verificacao/relato_tarefas.md) | Carlos E. | Pedro H. |

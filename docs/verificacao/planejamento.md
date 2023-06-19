@@ -1,4 +1,4 @@
-# Verificação - Planejamento da Avaliação - Protótipo de Papel
+# Verificação - Planejamento
 
 ## 1. Introdução
 
@@ -134,7 +134,7 @@ Tabela 3: Representações gráficas dos resultados da verificação (Fonte: Aut
 
 </center>
 
-## 5. Problemas encontrados
+## 5. Problemas Encontrados
 
 ### 5.1 Verificação 3 - Possui links necessários ?
 

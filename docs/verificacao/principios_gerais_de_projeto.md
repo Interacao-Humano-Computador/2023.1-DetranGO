@@ -1,4 +1,4 @@
-# Verificação - Planejamento da Avaliação - Protótipo de Papel
+# Verificação - Princípios Gerais do Projeto
 
 ## 1. Introdução
 
@@ -26,47 +26,47 @@ Os princípios precisam ser explicados para que os interessados no artefato poss
 ### 2.3. Verificação 3 - O artefato apresenta os princípios e diretrizes(correspondência, simplicidade, equilíbrio, consistência, padronização, antecipação, visibilidade, conteúdo relevante e projeto para erros) ?
 Estes são os princípios e diretrizes comumente utilizados em IHC.
 
-`BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 8. p. Seção 8.2`
+`BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 8. Seção 8.2`
 
 ### 2.4. Verificação 4 - O artefato possui as expectativas dos usuários ?
 Devemos nos certificar de que o usuário consegue determinar os relacionamentos entre: intenções e ações possíveis; entre ações e seus efeitos no sistema; entre o estado real do sistema e o que é percebido pela visão, audição ou tato; entre o estado percebido do sistema e as necessidades, intenções e expectativas do usuário.
 
-`BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 8. p. Seção 8.2.1`
+`BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 8. Seção 8.2.1`
 
 ### 2.5. Verificação 5 - O artefato possui simplicidade nas estruturas das tarefas ?
 Norman (1988) recomenda simplificar a estrutura das tarefas, reduzindo a quantidade de planejamento e resolução de problemas que elas requerem.
 
-`BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 8. p. Seção 8.2.2`
+`BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 8. Seção 8.2.2`
 
 ### 2.6. Verificação 6 - O artefato possui equilíbrio entre controle e liberdade do usuário ?
 Quando deixamos o usuário “no comando”, ele aprende rapidamente e ganha um sentimento de maestria. Entretanto, há necessidade de buscar um equilíbrio, pois quando não há limites ou restrições os usuários podem se sentir perdidos ou angustiados com o excesso de opções.
 
-`BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 8. p. Seção 8.2.3`
+`BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 8. Seção 8.2.3`
 
 ### 2.7. Verificação 7 - O artefato possui consistência e padronização ?
 Para facilitar o aprendizado e uso de um sistema, Norman (1988) recomenda assegurar a consistência da interface com o modelo conceitual embutido no sistema. Isso requer que tudo sobre o produto (modelo de design e imagem do sistema, incluindo documentação e manuais de instrução) esteja consistente com e exemplifique a operação do modelo conceitual adequado.
 
-`BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 8. p. Seção 8.2.4`
+`BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 8. Seção 8.2.4`
 
 ### 2.8. Verificação 8 - O artefato possui antecipação da necessidades do usuário 
 As aplicações devem tentar prever o que o usuário quer e precisa, em vez de esperar que os usuários busquem ou coletem informações ou invoquem ferramentas. O designer deve fornecer ao usuário todas as informações e ferramentas necessárias para cada passo do processo.
 
-`BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 8. p. Seção 8.2.5`
+`BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 8. Seção 8.2.5`
 
 ### 2.9. Verificação 9 - O artefato possui visibilidade e reconhecimento?
 Antes de executar uma ação, é necessário tornar visível para os usuários o que é possível realizar e como as ações devem ser feitas. Para isso, a interface deve oferecer ações que correspondam a intenções do usuário.
 
-`BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 8. p. Seção 8.2.6`
+`BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 8. Seção 8.2.6`
 
 ### 2.10. Verificação 10 - O artefato possui conteúdo relevante e expressão adequada?
 Para que os usuários gostem do software e tenham uma experiência agradável, Copper(1999) sugere projetar uma interação respeitosa, generosa e prestativa. 
 
-`BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 8. p. Seção 8.2.8`
+`BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 8. Seção 8.2.8`
 
 ### 2.11. Verificação 11 - O artefato possui projeto para erros?
 O designer deve ajudar o usuário a se recuperar de um erro, informando-lhe sobre o que ocorreu, as consequências disso e como reverter os resultados indesejados.
 
-`BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 8. p. Seção 8.2.9`
+`BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 8. Seção 8.2.9`
 
 
 ## 3. Desenvolvimento
@@ -132,7 +132,7 @@ Tabela 3: Representações gráficas dos resultados da verificação (Fonte: Aut
 
 </center>
 
-## 5. Problemas encontrados
+## 5. Problemas Encontrados
 
 - Não foram identificados quaisquer problemas ou irregularidades durante todo o processo de verificação do artefato "Princípios e Diretrizes Gerais do Projeto".
 

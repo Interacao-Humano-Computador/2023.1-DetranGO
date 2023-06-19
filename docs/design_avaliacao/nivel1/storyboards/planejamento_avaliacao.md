@@ -52,6 +52,32 @@ O método escolhido para avaliar é a investigação com entrevistas, neste mét
 
 É preciso se atentar a alguns detalhes na hora de definir quem entrevistar, o primeiro ponto é que deve estar alinhado com o que foi definido no [Perfil de usuário](../../../analise_requisitos/perfilUsuario.md) e que tenha uma carteira de habilitação registrada no estado do Goiás pois é necessário para ter acesso a mais funções no site do Detran GO, porém para a pesquisa pode ser analisado a partir de cadastros em plataformas do Detran de outros estados, e por último deve ter aceito o termo de consentimento. Deverá ser combinado entre o avaliador e o entrevistado, uma data e horário para que possa ser feitas as perguntas.
 
+O espaço destas entrevistas será a plataforma Google Meet. A princípio, será definida uma entrevista. A tabela 3 define o cronograma do teste piloto enquanto a tabela 4 contém o cronograma da entrevista com o usuário.
+
+#### Teste Piloto
+
+<center>
+
+|**Entrevistador**|**Data**|**Horário**|**Entrevistado**|
+|:-:|:-:|:-:|:-:|
+| Felipe M. | 26/05/2023| 16:00 | Pedro Muniz |
+
+Tabela 3: Cronograma do teste piloto (Fonte: autor, 2023).
+
+</center>
+
+#### Entrevista 1
+
+<center>
+
+|**Entrevistador**|**Data**|**Horário**|**Entrevistado**|
+|:-:|:-:|:-:|:-:|
+| Felipe M. e Pedro M. | 27/05/2023 | 15:20 | Leonardo Jesus |
+
+Tabela 4: Cronograma da entrevista 1 (Fonte: autor, 2023).
+
+</center>
+
 ### 4.5. D - Decidir como lidar com questões éticas
 
 As questões éticas a respeito da avaliação devem ser tratadas de acordo com o que foi definido no documento de [Aspectos éticos](../../../analise_requisitos/aspectos_eticos.md) sobre pesquisa com pessoas.
@@ -151,3 +177,4 @@ Figura 6 - Storyboard Transferência de Veículo (Fonte: Pedro Henrique, 2023)
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
 |  `1.0`   | 19/05/23 | Criação do documento e adição do conteúdo           |  João Morbeck  |  Amanda Noda  |
 |  `1.1`   | 21/05/23 | Adição do framework DECIDE e storyboards            |  João Morbeck  |  Amanda Noda  |
+|  `1.2`   | 17/06/23 | Correções com base na [verificação](../../../verificacao/planejamentoA_storyboard.md) | Carlos E. | Pedro H. |

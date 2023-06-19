@@ -1,12 +1,12 @@
 # Análise de Tarefas - Planejamento da avaliação
 
-## Introdução
+## 1. Introdução
 
 Na etapa de análise de requisitos foi realizada uma [análise de tarefas](./../../../analise_requisitos/analise_de_tarefas.md) a fim de compreender como certas tarefas são realizadas e por quê. Essa análise primeiramente definiu os objetivos das pessoas para depois listar os passos para a realização de uma determinada tarefa. 
 
 Para o escopo da disciplina, foi utilizado o HTA (Análise Hierárquica de Tarefas) para analisar o desempenho dos usuários no sistema proposto. Para solidificar as conclusões e informações obtidas a partir dessa análise, bem como corrigi-las, há de se realizar uma avaliação com usuários acerca desta análise. Para tanto, faz-se necessário o planejamento desta avaliação a fim de roteirizá-la, registrar datas e demarcar métodos. Descrito neste artefato está o planejamento da avaliação da análise de tarefas. 
 
-## Metodologia
+## 2. Metodologia
 
 Para o planejamento, execução e análise desta avaliação, será utilizado o framework DECIDE, proposto por Preece et al. (2002) e descrito por Simone Barbosa et al. (2021) em seu livro [1]. O framework descreve atividades iterativas e interdependentes, descritas por sua sigla. A tabela 1 descreve, adaptando do livro de Simone Barbosa et al. (2021), as atividades do framework DECIDE de acordo com sua sigla.
 
@@ -25,9 +25,9 @@ Tabela 1: Descrição do framework DECIDE (Fonte: adaptado de Simone Barbosa et 
 
 </center>
 
-## Atividades do framework DECIDE
+## 3. Atividades do framework DECIDE
 
-### D: Determinar os objetivos da avaliação de IHC
+### 3.1. D: Determinar os objetivos da avaliação de IHC
 
 Dentre os objetivos da avaliação da [análise de tarefas](./../analise_tarefas/planejamento_analise_tarefas.md) produzida em etapa anterior do projeto, pode-se destacar a necessidade de verificar se o artefato produzido atende os critérios de qualidade necessários, a verificação de problemas na descrição de tarefas a fim de melhorar este artefato e obter o ponto de vista dos utilizadores do Detran GO sobre as tarefas implementadas atualmente no sítio, observando a existência ou ausência de problemas de IHC em tarefas especificadas a fim de garantir uma análise mais detalhada e robusta [1].
 
@@ -36,8 +36,12 @@ Em suma, os objetivos desta avaliação podem ser listados desta forma:
 * Garantia da qualidade e precisão da análise;
 * Obtenção do ponto de vista do usuário sobre problemas de IHC;
 * Verificação do fluxo de tarefas.
+* Avaliar as tarefas a seguir:
+    - Solicitar CNH
+    - Transferência de veículo
+    - Consultar infrações
 
-### E: Explorar perguntas a serem respondidas com a avaliação
+### 3.2. E: Explorar perguntas a serem respondidas com a avaliação
 
 A avaliação da análise de tarefas será balizada pelas perguntas a serem respondidas a partir da execução da avaliação. A tabela 2 descreve as principais perguntas a serem respondidas pela avaliação a partir da tabela 11.1 do livro de Simone Barbosa et al. (2021)[1].
 
@@ -71,19 +75,19 @@ Na tabela 2, são definidas `perguntas especiais`. Essas perguntas são aquelas 
 * **Pergunta 11**: Em caso de resposta negativa, é impossível obter uma resposta à pergunta 12.
 * **Pergunta 13**: Em caso de resposta negativa, é impossível obter uma resposta à pergunta 14.
 
-### C: Escolher (Choose) os métodos de avaliação a serem utilizados
+### 3.3. C: Escolher (Choose) os métodos de avaliação a serem utilizados
 
 A fim de cumprir com a obtenção do ponto de vista do usuário sobre problemas de IHC no site do Detran GO (como requisitado em [seção anterior](#d-determinar-os-objetivos-da-avaliacao-de-ihc)), é necessário que ao menos um método de avaliação de investigação seja utilizado. Com isso em mente, e observando também as principais perguntas organizadas em [seção anterior](#e-explorar-perguntas-a-serem-respondidas-com-a-avaliacao), optou-se por escolher o método de **entrevista semiestruturada**. 
 
 A entrevista é um método de coleta de dados em formato de conversa guiada, com o objetivo de extrair informações de um entrevistado [1]. Pensando nisso, optar por uma entrevista semiestruturada significa ater-se a um roteiro de tópicos, mas desviar-se dele quando necessário a fim de obter informações mais específicas e detalhadas [1]. Dessa forma, haverá a possibilidade de exceder às expectativas delineadas por este artefato sem deixar de cumpri-las.
 
-### I: Identificar e administrar as questões práticas da avaliação
+### 3.4. I: Identificar e administrar as questões práticas da avaliação
 
 Para a realização de entrevistas semiestruturadas, surge a necessidade de definir um espaço para estas entrevistas, bem como recrutar usuários com base nas informações extraídas pelo artefato de [perfil do usuário](./../../../analise_requisitos/perfilUsuario.md). Em caso de falha neste recrutamento, surge a necessidade de interpretação de personas definidas em [artefato dedicado](./../../../analise_requisitos/personas.md).
 
 O espaço destas entrevistas será a plataforma Google Meet. A princípio, será definida uma entrevista. A tabelas 3 define o cronograma da entrevista com o usuário.
 
-#### Entrevista 1
+#### 3.4.1. Entrevista 1
 
 <center>
 
@@ -96,7 +100,7 @@ Tabela 3: Cronograma da entrevista 1 (Fonte: do autor).
 </center>
 
 
-### D: Decidir como lidar com as questões éticas
+### 3.5. D: Decidir como lidar com as questões éticas
 
 Como já definido na seção de análise de requisitos do projeto, a coleta de informação deve seguir determinados [aspectos éticos](./../../../analise_requisitos/aspectos_eticos.md) a fim de garantir aos envolvidos a ciência de como seus dados serão utilizados.
 
@@ -104,7 +108,7 @@ Portanto, faz-se necessária a elaboração de um termo de consentimento para as
 
 Abaixo, está delineado o termo de consentimento para essa entrevista.
 
-###  <center> Termo de consentimento Livre e esclarecido </center>
+####  <center> Termo de consentimento Livre e esclarecido </center>
 
 Somos estudantes de Engenharia de software da Universidade de Brasília e deejamos conduzir, com sua participação, uma **entrevista semiestruturada** (isto é, uma entrevista com tópicos definidos porém sem roteiro fixo) sobre documentos já produzidos em um projeto para a disciplina de Interação Humano Computador que discorre sobre o Detran GO, sítio da internet que busca oferecer serviços para a população do Goiás mas possui as mesmas funcionalidades de sítios do Detran de outros estados. Sua participação nesta entrevista é de caráter voluntário e pode ser interrompida a qualquer momento e por qualquer motivação.
 
@@ -123,11 +127,11 @@ Diante das explicações dadas neste documento, você acredita estar suficientem
 ( ) Não estou de acordo.
 
 
-### E: Avaliar (Evaluate), interpretar e apresentar os dados
+### 3.6. E: Avaliar (Evaluate), interpretar e apresentar os dados
 
 Para finalizar a avaliação da análise de tarefas, os integrantes do grupo deverão avaliar os dados obtidos e, após esta avaliação, apresentá-los em outro artefato.
 
-## Teste piloto
+## 4. Teste piloto
 
 A fim de garantir que os objetivos da avaliação sejam atingidos durante as entrevistas planejadas (isto é, para avaliar este planejamento), os integrantes do grupo devem realizar um teste piloto a fim de garantir que a linguagem da entrevista é clara e objetiva, bem como registrar se as ferramentas a serem utilizadas realizam sua função corretamente e permitir a correção deste planejamento anteriormente aos testes reais.
 
@@ -143,15 +147,16 @@ Tabela 4: Cronograma do teste piloto (Fonte: do autor).
 
 </center>
 
-## Bibliografia
+## 5. Referências bibliográficas
 
 > [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
 > [2] Lichess. Planejamento da avaliação da Análise de tarefas. Disponível em https://interacao-humano-computador.github.io/2022.2-Lichess. Acesso em 19 mai. 2023.
 
-## Histórico de versão
+## 6. Histórico de versão
 
 | Versão | Data     | Descrição                                 | Autor(es) | Revisor(es) |
 | ------ | -------- | ----------------------------------------- | --------- | ----------- |
 | `1.0`  | 20/05/23 | Criação do documento e adição do conteúdo | Felipe M. | Carlos E.   |
 | `1.1`  | 21/05/23 | Mudanças no planejamento e organização    | Felipe M. | Carlos E.   |
+| `1.2`  | 17/06/23 | Correções com base na [verificação](../../../verificacao/planejamentoA_tarefas.md) | Carlos E. | Pedro H. |
