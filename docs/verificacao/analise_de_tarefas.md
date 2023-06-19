@@ -19,37 +19,25 @@ A verificação foi feita com base nos checklists pré-definidos em nosso [Plane
 
 É importante que o artefato deixe explícito as técnicas utilizadas na realização das tarefas escolhidas.
 
-` BARBOSA, Simone; DINIZ, Bruno. Interação 
-Humano-Computador. Editora Elsevier, Rio de Janeiro, 
-2010. `
-
+` BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010. `
 
 ### 2.3 Verificação 3 - As tarefas foram escolhidas de acordo com o perfil de usuário? 
 
 É importante que o artefato possua ligações entre as tarefas realizadas com os perfis listados dentro do projeto, para que contruímos resultados coerentes com nossa premissa dentro do projeto.
 
-` BARBOSA, Simone; DINIZ, Bruno. Interação 
-Humano-Computador. Editora Elsevier, Rio de Janeiro, 
-2010. `
-
+` BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010. `
 
 ### 2.4 Verificação 4 - O fluxo das tarefas está de acordo com o fluxo orgânico realizado pelos usuários na vida real? 
 
 É de extrema importância que o fluxo de tarefas possua correlação com a vida real para que o usuário sinta-se confortável e habituado ao realizar o fluxo apresentado.
 
-` BARBOSA, Simone; DINIZ, Bruno. Interação 
-Humano-Computador. Editora Elsevier, Rio de Janeiro, 
-2010. `
-
+` BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010. `
 
 ### 2.5 Verificação 5 - A análise de tarefas está voltada para a análise conceitual do problema em detrimento do funcionamento de telas e menus?
 
 É importante ressaltar a análise conceitual ao relatar problemas no funcionamento das telas e menus.
 
-` BARBOSA, Simone; DINIZ, Bruno. Interação 
-Humano-Computador. Editora Elsevier, Rio de Janeiro, 
-2010. `
-
+` BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010. `
 
 ## 3. Desenvolvimento
 
@@ -94,8 +82,7 @@ Tabela 3: Modelo de checklist para conteúdo (Fonte: Autor, 2023).
 
 
 ## 4. Resultados
-
-
+Os resultados da verificação da Análise de tarefas podem ser encontrados na tabela 3 abaixo, por maio das figuras 1 e 2, onde foi verificado o grau de satisfação e a ocorrência de erros no artefato verificado. Os resultados em questão só levam em consideração as verificações do conteúdo.
 
 ## 5. Problemas encontrados
 ### 5.1 Problemas Encontrados - Padronização
@@ -127,16 +114,12 @@ Foi realizado as correções necessárias dentro do artefato de análise de tare
 #### 6.2.1  Acompanhemento 2 - Pelo menos 2 técnicas 
 foram utilizadas para especificar as tarefas? 
 
-Não foi utilizado duas técnicas na resolução do 
-artefado de análise de tarefas como foi proposto na 
-matéria de IHC.
+Não foi utilizado duas técnicas na resolução do artefado de análise de tarefas como foi proposto na matéria de IHC.
 
 #### 6.2.2  Acompanhemento 3 - As tarefas foram 
 escolhidas de acordo com o perfil de usuário? 
 
-Não houve junção de informações coletadas informadas 
-no perfil de usuário com as informações fornecidas 
-na análise de tarefas
+Não houve junção de informações coletadas informadas no perfil de usuário com as informações fornecidas na análise de tarefas
 
 ## 7. Referências Bibliográficas
 
