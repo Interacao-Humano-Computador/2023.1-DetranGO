@@ -23,7 +23,7 @@ Figura 1: Scrum fluxo (Fonte: [link](https://www.wrike.com/project-management-gu
 
 Para maior controle sobre criação e mudanças de artefatos, definimos que os commit's devem seguir as regras:
 
-### 3.1 Branch
+### 3.1. Branch
 
 Definimos a utilização de branches para realização de cada issue, ou mais de uma issue relacionadas, com isso temos maior liberdade para realização de tarefas em paralelo sem que haja conflito em uma mesma branch, além disso, temos maior controle do que está sendo realizado em cada atividade. Esse fluxo está representado na figura 2 fluxo branches.
 
@@ -34,7 +34,7 @@ Figura 2: Fluxo de branches (Fonte: [link](https://build5nines.com/introduction-
 
 </center>
 
-### 3.2 Commit
+### 3.2. Commit
 
 Utilizamos quatro nomes reservados para identificar o tipo de alteração que foi feita:
 
@@ -49,7 +49,7 @@ Utilizamos quatro nomes reservados para identificar o tipo de alteração que fo
 >
 > `Update: política de commit no documento de metodologias`
 
-### 3.3 Pull Request
+### 3.3. Pull Request
 
 Para o projeto, implementamos uma política que simplifica o controle das atividades e oferece uma abordagem prática para a revisão dos artefatos. Quando um pull request é aberto, o revisor designado anteriormente é solicitado a avaliar as alterações feitas, permitindo o merge caso estejam corretas ou fornecendo feedback caso haja erros, juntamente com uma mensagem solicitando que o autor do pull request os corrija.
 

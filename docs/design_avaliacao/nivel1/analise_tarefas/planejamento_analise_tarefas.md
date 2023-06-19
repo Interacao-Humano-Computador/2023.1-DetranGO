@@ -27,6 +27,10 @@ Em suma, os objetivos desta avaliação podem ser listados desta forma:
 
 * Obtenção do ponto de vista do usuário sobre problemas de IHC;
 * Verificação do fluxo de tarefas.
+* Avaliar as tarefas a seguir:
+    - Solicitar CNH
+    - Transferência de veículo
+    - Consultar infrações
 
 ### 3.2 E: Explorar perguntas a serem respondidas com a avaliação
 
@@ -209,3 +213,4 @@ Após a execução da avaliação, os dados recolhidos deverão ser tratados e r
 | `1.0`  | 20/05/23 | Criação do documento e adição do conteúdo | Felipe M. | Carlos E.   |
 | `1.1`  | 21/05/23 | Mudanças no planejamento e organização    | Felipe M. | Carlos E.   |
 | `1.2`  | 16/06/23 | Alterações de padronização                | Pedro M.  | Amanda N. |
+| `1.3`  | 17/06/23 | Correções com base na [verificação](../../../verificacao/planejamentoA_tarefas.md) | Carlos E. | Pedro H. |
