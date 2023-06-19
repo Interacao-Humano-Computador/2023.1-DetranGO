@@ -268,6 +268,15 @@ Foi observado que o modelo para consulta de CNH utilizado está adequado, pois o
 #### 8.1.4 Entrevista 3 - Emissão de CRLV
 Foi observado que o modelo para consulta de CNH utilizado está adequado, pois o usuário conseguiu realizar a tarefa sem nenhuma dificuldadeou confusão durante a realização dos passos apresentados.
 
+### 8.2 Problemas Encontrados
+A partir dos dados coletados através das entrevistas realizadas em nosso projeto, foi identificado alguns problemas na realização de tarefas dentro do protótipo de papel, onde o usuário apontou informações para a melhoria do sistema.
+
+#### 8.2.1 Entrevista 1 - Consulta de CNH
+Foi apontado pelo usuário que ao realizar a tarefa listada, seria interessante apresenta o caminho que o usuário percorre para realizar a tarefa de consulta de CNH.
+
+#### 8.2.2 Entrevista 2 - Emissão de CNH
+Foi apontado pelo usuário que ao realizar a tarefa solicitada pelo protótipo de papel, seria interessante mostrar o caminho a ser realizado para a solicitação da CNH, deixando mais claro onde o usuário precisa ir para realizar a tarefa.
+
 ## 9. Referências Biliográficas
 
 > [1] Artefato Aspectos éticos, acesso em 11 de junho de 2023. Para mais informações acesse: [link](../../../analise_requisitos/aspectos_eticos.md).
@@ -284,3 +293,4 @@ Foi observado que o modelo para consulta de CNH utilizado está adequado, pois o
 |--------|------------|----------------------|-------------|----------------|
 | `1.0`  | 11/06/2023 | Estruturação e adição do conteúdo até seção 6 | Pedro M. | Carlos E. |
 | `1.1`  | 11/06/2023 | Adição de dados obtidos através da entrevista realizada | Amanda N. | Carlos E. |
+| `1.2`  | 11/06/2023 | Adição de problemas obtidos e conslusão de dados  | Amanda N. | Carlos E. |

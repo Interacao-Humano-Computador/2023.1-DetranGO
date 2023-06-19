@@ -84,6 +84,16 @@ Tabela 3: Modelo de checklist para conteúdo (Fonte: Autor, 2023).
 ## 4. Resultados
 Os resultados da verificação da Análise de tarefas podem ser encontrados na tabela 3 abaixo, por maio das figuras 1 e 2, onde foi verificado o grau de satisfação e a ocorrência de erros no artefato verificado. Os resultados em questão só levam em consideração as verificações do conteúdo.
 
+<center>
+
+|  ![Alt text](../assets/analise_tarefas_verif/3.png)   |        ![Alt text](../assets/analise_tarefas_verif/4.png)           |
+| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------- |
+| Figura 1: Representação do grau de satisfação do artefato (Fonte: Autor, 2023). | Figura 2: Gráfico de ocorrência de erros no artefato (Fonte: Autor, 2023). |
+
+Tabela 3: Representações gráficas dos resultados da verificação (Fonte: Autor, 2023).
+
+</center>
+
 ## 5. Problemas encontrados
 ### 5.1 Problemas Encontrados - Padronização
 

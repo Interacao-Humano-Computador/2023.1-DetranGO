@@ -133,8 +133,8 @@ Tabela 2: Modelo de checklist para padronização (Fonte: Autor, 2023).
 | ID | Verificação | Ocorrências | Acertos | Erros |
 | :-: | ------- | -------- | -------- | ------ |
 | 1 | O artefato menciona a apresentação do cronograma realizado das Avaliações do Protótipo de Alta Fidelidade ? | 1 | 1 | 0 |
-| 2 | O artefato menciona a apresentação do ambiente onde ocorreram as Avaliações do Protótipo de Alta Fidelidade ?	 | 1 | 0 | 1 |
-| 3 | O artefato menciona a apresentação da quantidade de entrevistados e sua justificativa ? | 1 | 0 | 1 |
+| 2 | O artefato menciona a apresentação do ambiente onde ocorreram as Avaliações do Protótipo de Alta Fidelidade ?	 | 1 | 1 | 0 |
+| 3 | O artefato menciona a apresentação da quantidade de entrevistados e sua justificativa ? | 1 | 1 | 0 |
 | 4 | O artefato menciona a apresentação dos participantes da Avaliação do Protótipo de Alta Fidelidade e como seu perfil está associado ao perfil do usuário ? | 1 | 1 | 0 |
 | 5 | O artefato menciona a apresentação da quantidade de avaliadores e sua justificativa ? | 1 | 1 | 0 |
 | 6 | O artefato menciona a apresentação do perfil dos avaliadores ? | 1 | 1 | 0 |
@@ -157,6 +157,18 @@ Tabela 3: Modelo de checklist para conteúdo (Fonte: Autor, 2023).
 ## 4. Resultados
 Os resultados da verificação do Planejamento do Relato dos Resultados do Protótipo de Alta Fidelidade podem ser encontrados na tabela 3 abaixo, por maio das figuras 1 e 2, onde foi verificado o grau de satisfação e a ocorrência de erros no artefato verificado. Os resultados em questão só levam em consideração as verificações do conteúdo.
 
+<center>
+
+|  ![Alt text](../assets/plan_R_alta_verif/3.png) |    ![Alt text](../assets/plan_R_alta_verif/4.png)  
+| ------------------------------------------------------------------------------ | -------------------------------------------------------------------------- |
+|Figura 1: Representação do grau de satisfação do artefato (Fonte: Autor,2023). | Figura 2: Gráfico de ocorrência de erros no artefato (Fonte: Autor, 2023). |
+
+Tabela 3: Representações gráficas dos resultados da 
+verificação (Fonte: Autor, 2023).
+
+</center>
+
+
 ## 5. Problemas encontrados
 ### 5.1 Problemas Encontrados - Padronização
 
@@ -164,39 +176,14 @@ Os resultados da verificação do Planejamento do Relato dos Resultados do Prot�
 
 O artefato possui alguns erros de ortografia, como palavras com acentuação incorreta e frases incompletas.
 
-### 5.2 Problemas Encontrados - Conteúdo
-
-#### 5.2.1  Verificação 2 - Pelo menos 2 técnicas foram utilizadas para especificar as tarefas? 
-
-Não foi utilizado duas técnicas na resolução do artefado de análise de tarefas como foi proposto na matéria de IHC.
-
-#### 5.2.2  Verificação 3 - As tarefas foram escolhidas de acordo com o perfil de usuário? 
-
-Não houve junção de informações coletadas informadas no perfil de usuário com as informações fornecidas na análise de tarefas
-
 ## 6. Acompanhamento
 ### 6.1 Acompanhemento - Padronização
 
 #### 6.1.1 Acompanhemento 1 - Possui ortografia correta 
 e formal?
 
-Foi realizado as correções necessárias dentro do artefato de análise de tarefas
+Foi realizado as correções necessárias dentro do artefato do planejamento do prototipo de alta fidelidade.
 
-### 6.2 Acompanhemento - Conteúdo
-
-#### 6.2.1  Acompanhemento 2 - Pelo menos 2 técnicas 
-foram utilizadas para especificar as tarefas? 
-
-Não foi utilizado duas técnicas na resolução do 
-artefado de análise de tarefas como foi proposto na 
-matéria de IHC.
-
-#### 6.2.2  Acompanhemento 3 - As tarefas foram 
-escolhidas de acordo com o perfil de usuário? 
-
-Não houve junção de informações coletadas informadas 
-no perfil de usuário com as informações fornecidas 
-na análise de tarefas
 
 ## 7. Referências Bibliográficas
 

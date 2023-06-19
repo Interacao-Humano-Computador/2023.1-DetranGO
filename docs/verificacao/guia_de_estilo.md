@@ -101,8 +101,15 @@ Autor, 2023).
 ## 4. Resultados
 Os resultados da verificação do Guia de estilo podem ser encontrados na tabela 3 abaixo, por maio das figuras 1 e 2, onde foi verificado o grau de satisfação e a ocorrência de erros no artefato verificado. Os resultados em questão só levam em consideração as verificações do conteúdo.
 
+<center>
 
+|       ![Alt text](../assets/guia_estilo_verif/3-1.png)        |        ![Alt text](../assets/guia_estilo_verif/4-1.png)                         |
+| ------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| Figura 1: Representação do grau de satisfação do artefato (Fonte: Autor, 2023). | Figura 2: Gráfico de ocorrência de erros no artefato (Fonte: Autor, 2023). |
 
+Tabela 3: Representações gráficas dos resultados da verificação (Fonte: Autor, 2023).
+
+</center>
 
 ## 5. Problemas encontrados
 ### 5.1 Problemas Encontrados - Padronização

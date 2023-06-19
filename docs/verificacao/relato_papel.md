@@ -145,7 +145,7 @@ Tabela 2: Modelo de checklist para padronização (Fonte: Autor, 2023).
 | ID | Verificação | Ocorrências | Acertos | Erros |
 | :-: | ------- | -------- | -------- | ------ |
 | 1 | O artefato apresenta a metodologia utilizada na Avaliação do Protótipo de Papel ? | 1 | 1 | 0 |
-| 2 | O artefato apresenta os objetivos da Avaliação do Protótipo de Papel ? | 1 | 0 | 1 |
+| 2 | O artefato apresenta os objetivos da Avaliação do Protótipo de Papel ? | 1 | 1 | 0 |
 | 3 | O artefato apresenta a quantidade de entrevistados e sua justificativa ? | 1 | 0 | 1 |
 | 4 | O artefato apresenta como o perfil dos participantes da Avaliação do Protótipo de Papel está associado ao perfil do usuário ? | 1 | 1 | 0 |
 | 5 | O artefato apresenta a quantidade de avaliadores e sua justificativa ? | 1 | 1 | 0 |
@@ -154,14 +154,13 @@ Tabela 2: Modelo de checklist para padronização (Fonte: Autor, 2023).
 | 8 | O artefato apresenta o termo de consentimento utilizado na Avaliação do Protótipo de Papel ? | 1 | 1 | 0 |
 | 9 | O artefato apresenta as perguntas e/ou tarefas exploradas durante a Avaliação do Protótipo de Papel ? | 1 | 1 | 0 |
 | 10 | O artefato apresenta um sumário dos dados coletados, incluindo tabelas e gráficos ? | 1 | 1 | 0 |
-| 11 | O artefato apresenta uma listagem dos problemas encontrados ? | 1 | 1 | 0 |
-| 12 | O artefato apresenta as conclusões da avaliação dos resultados da Avaliação do Protótipo de Papel ? | 1 | 1 | 0 |
+| 11 | O artefato apresenta uma listagem dos problemas encontrados ? | 1 | 0 | 1 |
+| 12 | O artefato apresenta as conclusões da avaliação dos resultados da Avaliação do Protótipo de Papel ? | 1 | 0 | 1 |
 | 13 | O artefato apresenta sugestões de reprojeto para o sistema ? | 1 | 1 | 0 |
 | 14 | O artefato apresenta o cronograma realizado do teste piloto da Avaliação do Protótipo de Papel com data, hora e local ? | 1 | 1 | 0 |
 | 15 | O artefato apresenta os cronogramas das Avaliações do Protótipo de Papel realizadas com data, hora e local ? | 1 | 1 | 0 |
 | 16 | O artefato apresenta a gravação do teste piloto da Avaliação do Protótipo de Papel ? | 1 | 1 | 0 |
-| 17 | O artefato apresenta a gravação das Avaliações do Protótipo de Papel ?	Sim	 | 1 | 1 | 0 |
-
+| 17 | O artefato apresenta a gravação das Avaliações do Protótipo de Papel ? | 1 | 1 | 0 |
 
 
 Tabela 3: Modelo de checklist para conteúdo (Fonte: Autor, 2023).
@@ -172,6 +171,16 @@ Tabela 3: Modelo de checklist para conteúdo (Fonte: Autor, 2023).
 ## 4. Resultados
 Os resultados da verificação do Relato dos Resultados do Protótipo de Papel podem ser encontrados na tabela 3 abaixo, por maio das figuras 1 e 2, onde foi verificado o grau de satisfação e a ocorrência de erros no artefato verificado. Os resultados em questão só levam em consideração as verificações do conteúdo.
 
+<center>
+
+|     ![Alt text](../assets/relato_resul_verif/1.png)       |       ![Alt text](../assets/relato_resul_verif/2.png)          |
+| ------------------------------------------------------------------------------ | -------------------------------------------------------------------------- |
+| Figura 1: Representação do grau de satisfação do artefato (Fonte: Autor, 2023). | Figura 2: Gráfico de ocorrência de erros no artefato (Fonte: Autor, 2023). |
+
+Tabela 3: Representações gráficas dos resultados da verificação (Fonte: Autor, 2023).
+
+</center>
+
 ## 5. Problemas encontrados
 ### 5.1 Problemas Encontrados - Padronização
 
@@ -181,37 +190,33 @@ O artefato possui alguns erros de ortografia, como palavras com acentuação inc
 
 ### 5.2 Problemas Encontrados - Conteúdo
 
-#### 5.2.1  Verificação 2 - Pelo menos 2 técnicas foram utilizadas para especificar as tarefas? 
+#### 5.2.3  Verificação 3 -  O artefato apresenta a quantidade de entrevistados e sua justificativa ?
 
-Não foi utilizado duas técnicas na resolução do artefado de análise de tarefas como foi proposto na matéria de IHC.
+O artefato não possui a justificativa da quantidade dos entrevistados e entrevistadores.
 
-#### 5.2.2  Verificação 3 - As tarefas foram escolhidas de acordo com o perfil de usuário? 
+#### 5.2.11  Verificação 11 - O artefato apresenta uma listagem dos problemas encontrados ?
 
-Não houve junção de informações coletadas informadas no perfil de usuário com as informações fornecidas na análise de tarefas
+Não houve listagem dos problemas encontrados no artefato.
+
+#### 5.2.12  Verificação 12 - O artefato apresenta as conclusões da avaliação dos resultados da Avaliação do Protótipo de Papel ?
+
+O artefato não possui a conclusão da avaliação dos resultados obtidos.
 
 ## 6. Acompanhamento
-### 6.1 Acompanhemento - Padronização
-
-#### 6.1.1 Acompanhemento 1 - Possui ortografia correta 
-e formal?
-
-Foi realizado as correções necessárias dentro do artefato de análise de tarefas
 
 ### 6.2 Acompanhemento - Conteúdo
 
-#### 6.2.1  Acompanhemento 2 - Pelo menos 2 técnicas 
-foram utilizadas para especificar as tarefas? 
+#### 6.2.3  Acompanhamento 3 -  O artefato apresenta a quantidade de entrevistados e sua justificativa ?
 
-Não foi utilizado duas técnicas na resolução do 
-artefado de análise de tarefas como foi proposto na 
-matéria de IHC.
+Não houve alteração na justificativa.
 
-#### 6.2.2  Acompanhemento 3 - As tarefas foram 
-escolhidas de acordo com o perfil de usuário? 
+#### 6.2.11  Acompanhamento 11 - O artefato apresenta uma listagem dos problemas encontrados ?
 
-Não houve junção de informações coletadas informadas 
-no perfil de usuário com as informações fornecidas 
-na análise de tarefas
+Foi adicionado os problemas encontrados.
+
+#### 6.2.12  Acompanhemento 12 - O artefato apresenta as conclusões da avaliação dos resultados da Avaliação do Protótipo de Papel ?
+
+Foi adicionado conclusão no artefato listado.
 
 ## 7. Referências Bibliográficas
 

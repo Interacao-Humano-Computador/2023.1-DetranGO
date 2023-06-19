@@ -1,23 +1,12 @@
 # Planejamento da Avaliação da Análise de Tarefas
 
 ## 1. Introdução
-O presente artefato tem o intuito relatar os 
-resultados da verificação dos artefatos produzidos 
-durante a realização dos pontos de controle 
-anteriores. Neste artefato, avaliaremos o [Planevamento da Avaliação da Análise de Tarefas](../design_avaliacao/nivel1/analise_tarefas/planejamento_analise_tarefas.md)
+O presente artefato tem o intuito relatar os resultados da verificação dos artefatos produzidos durante a realizaçãodos pontos de controle anteriores. Neste artefato, avaliaremos o [Planevamento da Avaliação da Análise de Tarefas](../design_avaliacao/nivel1/analise_tarefas/planejamento_analise_tarefas.md)
 
-A verificação teve como objeto a versão 1.1 do 
-documento e foi realizada no dia 21 de maio de 2023.
+A verificação teve como objeto a versão 1.1 do documento e foi realizada no dia 21 de maio de 2023.
 
 ## 2. Metodologia
-A verificação foi feita com base nos checklists 
-pré-definidos em nosso [Planejamento da Verificação]
-(./teste/planejamentoVerificacao.md) e também na 
-verificação realizada pelo [Grupo 5](https://
-interacao-humano-computador.github.io/2023.
-1-Alistamento/) [6]. Abaixo seguem as verificações 
-de conteúdo que foram elaboradas, contendo 
-justificativas para cada uma e também a fonte:
+A verificação foi feita com base nos checklists pré-definidos em nosso [Planejamento da Verificação](./teste/planejamentoVerificacao.md) e também na verificação realizada pelo [Grupo 5](https://interacao-humano-computador.github.io/2023.1-Alistamento/) [6]. Abaixo seguem as verificações de conteúdo que foram elaboradas, contendo justificativas para cada uma e também a fonte:
 
 
 ### 2.1 Verificação 1 - O planejamento da avaliação seguiu o Framework DECIDE?
@@ -121,6 +110,16 @@ Autor, 2023).
 ## 4. Resultados
 Os resultados da verificação do Planejamento da Avaliação da Análise de tarefas podem ser encontrados na tabela 3 abaixo, por maio das figuras 1 e 2, onde foi verificado o grau de satisfação e a ocorrência de erros no artefato verificado. Os resultados em questão só levam em consideração as verificações do conteúdo.
 
+<center>
+
+|   ![Alt text](../assets/plan_analiT_verif/1.png)    |          ![Alt text](../assets/plan_analiT_verif/2.png)                  |
+| ------------------------------------------------------------------------------ | -------------------------------------------------------------------------- |
+|Figura 1: Representação do grau de satisfação do artefato (Fonte: Autor,2023). | Figura 2: Gráfico de ocorrência de erros no artefato (Fonte: Autor, 2023). |
+
+Tabela 3: Representações gráficas dos resultados da verificação (Fonte: Autor, 2023).
+
+</center>
+
 ## 5. Problemas encontrados
 ### 5.1 Problemas Encontrados - Padronização
 
@@ -133,7 +132,7 @@ O artefato possui alguns erros de ortografia, como palavras com acentuação inc
 
 #### 6.1.1 Acompanhemento 1 - Possui ortografia correta e formal?
 
-Foi realizado as correções necessárias dentro do artefato de análise de tarefas. 
+Foi realizado as correções necessárias dentro do artefato do planejamento da avaliação da análise de tarefas.
 
 ## 7. Referências Bibliográficas
 
