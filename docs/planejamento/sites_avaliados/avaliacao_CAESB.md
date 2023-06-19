@@ -1,6 +1,6 @@
 # Avaliação de IHC - CAESB
 
-## Introdução
+## 1. Introdução
 
 Este documento detalha a avaliação heurística do sítio da [CAESB - Companhia de Saneamento Ambiental do Distrito Federal](https://www.caesb.df.gov.br/), companhia responsável pela água e esgoto do Distrito Federal. Esta avaliação heurística segue um modelo adaptado para sítios descrito por Maciel et al. (2004)[1] que usa de formulários para classificar os problemas (marcados como perguntas no [planejamento da avaliação](../../assets/CAESB/avaliacaoCAESB.pdf)) de usabilidade a serem avaliados dentro de uma das 10 heurísticas de Nielsen e direcionar a avaliação de cada aspecto.
 
@@ -12,7 +12,7 @@ Este documento detalha a avaliação heurística do sítio da [CAESB - Companhia
 
 </center>
 
-## Perguntas
+## 2. Perguntas
 
 Como descrito no planejamento da avaliação (disponível [aqui](../../assets/CAESB/avaliacaoCAESB.pdf)), as perguntas escolhidas são:
 
@@ -23,15 +23,15 @@ Como descrito no planejamento da avaliação (disponível [aqui](../../assets/CA
 * O usuário é capaz de atingir seu objetivo de maneira rápida?
 * É possível oferecer esta tecnologia de modo mais interessante aos usuários?
 
-## Formulários de avaliação
+## 3. Formulários de avaliação
 
 Como descrito no planejamento da avaliação e na introdução desta seção, serão utilizados formulários segundo o modelo sugerido por Maciel et el. (2004)[1].
 
-## Avaliação
+## 4. Avaliação
 
 Para esta seção,os formulários preenchidos foram organizados pela ordem das heurísticas sob as quais as perguntas foram classificadas.
 
-### Visibilidade do estado do sistema
+### 4.1 Visibilidade do estado do sistema
 
 | **1. Visibilidade do estado do sistema** |
 | ---------------------------------------- |
@@ -50,7 +50,7 @@ Para esta seção,os formulários preenchidos foram organizados pela ordem das h
 
 </center>
 
-### Consistência e padrões
+### 4.2 Consistência e padrões
 
 | **4. Consistência e padrões** |
 | ---------------------------------------- |
@@ -78,7 +78,7 @@ Para esta seção,os formulários preenchidos foram organizados pela ordem das h
 | **Perspectiva da tarefa:** [X] Problema Principal [ ] Problema Secundário |
 | **Descrição do Problema:**<br><br><br>**Contexto:**O usuário acessou a página principal e utilizou-se de um leitor de tela para navegar pelo sítio. <br><br>**Causa:** O sítio não adere aos padrões de acessibilidade definidos pela W3C.<br><br>**Efeitos sobre o usuário:** De desorientação a impedimento do uso do sítio. <br><br>**Efeitos sobre a tarefa:** Grande dificuldade ou impossibilidade de realizá-la. <br><br>**Correção possível:**  Melhor uso de textos alternativos no sítio, implementação de opções de acessibilidade por todo o sítio. |
 
-### Reconhecimento ao invés de lembrança
+### 4.3 Reconhecimento ao invés de lembrança
 
 
 | **6. Reconhecimento ao invés de lembrança** |
@@ -109,7 +109,7 @@ Para esta seção,os formulários preenchidos foram organizados pela ordem das h
 | **Perspectiva da tarefa:** [ ] Problema Principal [X] Problema Secundário |
 | **Descrição do Problema:**<br><br><br>**Contexto:** O usuário acessou a página principal do sítio (Figura 1). O usuário não sabe onde procurar para realizar tarefas.<br><br>**Causa:**  A interface não provê meios satisfatórios de indicar onde devem ser realizadas certas tarefas.<br><br>**Efeitos sobre o usuário:** Desorientação, frustração, insatisfação.<br><br>**Efeitos sobre a tarefa:** Nenhum. <br><br>**Correção possível:** Melhor organização da interface do sítio para mais fácil reconhecimento de tarefas e maior satisfação do usuário. |
 
-### Estética e design minimalista
+### 4.4 Estética e design minimalista
 
 | **8. Estética e design minimalista** |
 | ---------------------------------------- |
@@ -120,18 +120,18 @@ Para esta seção,os formulários preenchidos foram organizados pela ordem das h
 | **Perspectiva da tarefa:** [ ] Problema Principal [X] Problema Secundário |
 | **Descrição do Problema:**<br><br><br>**Contexto:** O usuário acessou o sítio e clicou no botão “Agência Virtual”, localizado no canto inferior direito da página. A página da figura 2 foi mostrada ao usuário.<br><br>**Causa:** A interface da página da figura 2 não tem atributos que guiem o usuário por seu uso.<br><br>**Efeitos sobre o usuário:** Desconforto, frustração.<br><br>**Efeitos sobre a tarefa:** Nenhum. <br><br>**Correção possível:** Criação de nova interface para a página de “Agência Virtual”, mantendo os padrões do sítio. |
 
-## Conclusão
+## 5. Conclusão
 
 O sítio não apresenta problemas quanto à realização das tarefas em si. No entanto, diversos impedimentos e distrações foram encontrados nesta avaliação, indo de cosméticos; como a falta de atributos que guiem o uso do usuário em determinadas páginas, a catastróficos; como a falta de acessibilidade em diversas páginas do sítio que não a principal. Estas falhas, no geral, dificultam o uso eficiente e satisfatório das ferramentas do sítio pelo usuário.
 
-## Referências bibliográficas
+## 6. Referências bibliográficas
    > [1] MACIEL, C. et al. Avaliação Heurística de Sítios na Web. [s.d.].
 
    > [2] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
    > [3]  W3C. CARTILHA DE ACESSIBILIDADE NA WEB: Cartilha de Acessibilidade na Web. Brasil: Creative Commons, 2009. Disponível em: https://www.w3c.br/pub/Materiais/PublicacoesW3C/cartilha-w3cbr-acessibilidade-web-fasciculo-I.html. Acesso em: 09 abr. 2023.
 
-## Histórico de versão
+## 7. Histórico de versão
 
 |  Versão  |   Data   |                      Descrição                      |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
-|  `1.0`   | 10/04/23 | Criação do documento e adição do conteúdo           | Felipe Mastromauro | Pedro Ferreira |
+|  `1.0`   | 10/04/23 | Criação do documento e adição do conteúdo           | Felipe M. | Pedro F. |

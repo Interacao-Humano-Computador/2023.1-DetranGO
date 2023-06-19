@@ -1,10 +1,10 @@
 # Apresentação da primeira etapa - 20/04/2023
 
-## Introdução
+## 1. Introdução
 
 Este artefato consiste nos materiais desenvolvidos para apoiar a apresentação da primeira etapa do projeto, bem como a gravação em vídeo da apresentação disponível pelo YouTube e um checklist dos itens da primeira etapa que condizem com os possíveis critérios de avaliação apresentados pelo professor.
 
-## Apresentação de slides
+## 2. Apresentação de slides
 
 A apresentação 1 consiste na apresentação de slides desenvolvida por Pedro Muniz para auxiliar na apresentação em grupo da primeira etapa do projeto. 
 
@@ -21,7 +21,7 @@ A apresentação 1 consiste na apresentação de slides desenvolvida por Pedro M
 
 </center>
 
-## Gravação da apresentação
+## 3. Gravação da apresentação
 
 O vídeo 1 consiste na gravação da apresentação da primeira etapa. A gravação foi feita em 20 de abril de 2023 com todos os membros presentes e disponibilizada no YouTube como vídeo não listado.
 
@@ -33,7 +33,7 @@ O vídeo 1 consiste na gravação da apresentação da primeira etapa. A gravaç
 Vídeo 1 - Apresentação da primeira etapa do projeto (Fonte: Membros do grupo).
 </center>
 
-## Checklist da entrega
+## 4. Checklist da entrega
 
 A tabela 1 consiste na tabela de exemplos de critérios de avaliação para a etapa 1 apresentada no plano de ensino da disciplina, com marcações de "Sim", "Não" ou "Incompleto" para verificar o que é presente ou ausente na entrega.
 
@@ -62,11 +62,11 @@ Tabela 1 - Checklist da pimeira entrega (Adaptado de SALES, 2023).
 
 </center>
 
-## Bibliografia
+## 5. Bibliografia
 
 > [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: [https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf](https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf). Acesso em: 8 de abril de 2023;
 
-## Histórico de Versão
+## 6. Histórico de Versão
 
 |  Versão  |   Data   |                      Descrição          |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------- | -------------- | ------------- |

@@ -1,14 +1,14 @@
 # Avaliação de IHC - Caixa Econômica Federal
 
-## Introdução
+## 1. Introdução
 
 Este documento tem o objetivo de avaliar o site da [Caixa Econômica Federal](https://www.caixa.gov.br/Paginas/home-caixa.aspx) por meio do planejamento realizado com o framework DECIDE e a utilização da Avaliação Heurística de Nielsen. O site da Caixa Econômica Federal apresenta como finalidade fornecer informações e serviços relacionados a produtos e serviços bancários oferecidos pela instituição financeira CAIXA. Além disso, o site também oferece informações sobre programas sociais do governo brasileiro, como o Bolsa Família e o Minha Casa Minha Vida. Para informações detalhadas do planejamento para o sítio em questão, segue-se o [planejamento disponível](../../assets/CAIXA/PlojetoParteIndividualMetodoeAvali%C3%A7%C3%A3oPedroHenriqueDaSilvaMelo.pdf) para acesso.
 
-## Uso da Avaliação Heurística
+## 2. Uso da Avaliação Heurística
 
 Este é o método utilizado e planejado para a avaliação do sítio em questão. Dessa forma, as 10 heurísticas propostas por Nielsen vão ser utilizadas para o contexto da avaliação.
 
-## 1. Status do Sistema
+## 3. Status do Sistema
 
 O usuário deve manter-se informado sobre o que está ocorrendo no sítio e suas ações que são realizadas. A princípio, a página inicial do sítio da Figura 1 não apresenta nenhum mecanismo que contribui diretamente para passar feedbacks ao usuário a respeito do status e ações no sistema.
 
@@ -37,11 +37,11 @@ O usuário deve manter-se informado sobre o que está ocorrendo no sítio e suas
 
 </center>
 
-## 2. Compatibilidade entre o sistema e o mundo real
+## 4. Compatibilidade entre o sistema e o mundo real
 Em geral, o sítio apresenta uma linguagem compatível com o seu público-alvo, sendo fruto do trabalho que a marca CAIXA fornece para se comunicar com os seus stakeholders. O que significa que o sítio consegue exercer sua compatibilidade entre o sistema e o mundo real.
 
 
-## 3. Controle do usuário e liberdade
+## 5. Controle do usuário e liberdade
 O sítio apresenta muitas abas e possibilidades para o usuário navegar, porém foi percebido algumas ações que contribuem para problemáticas relacionadas ao controle do usuário e sua liberdade no uso do sistema.
 
 <center>
@@ -64,7 +64,7 @@ O sítio apresenta muitas abas e possibilidades para o usuário navegar, porém 
 
 </center>
 
-## 4. Prevenção de Erros
+## 6. Prevenção de Erros
 Em certas páginas do sítio, o usuário não é informado e nem evitado de cometer erros em relação a suas ações durante a navegação.
 
 <center>
@@ -93,7 +93,7 @@ Em certas páginas do sítio, o usuário não é informado e nem evitado de come
 
 </center>
 
-## 5.  Estética e design minimalista
+## 7.  Estética e design minimalista
 Apesar do sítio apresentar informações e um design bem detalhado em certas partes da sua navegação e site, existe a utilização de elementos que possam confundir o usuário por não estarem coerentes com o restante da página e terem pouco destaque.
 
 <center>
@@ -117,7 +117,7 @@ Apesar do sítio apresentar informações e um design bem detalhado em certas pa
 </center>
 
 
-## 6. Ajuda e documentação
+## 8. Ajuda e documentação
 Na página de login do Internet Banking Caixa as abas de ajuda sobre como usar a aplicação são muito mal formatadas. Isso fica visível por meio da Figura 7.
 
 <center>
@@ -145,14 +145,14 @@ Na página de login do Internet Banking Caixa as abas de ajuda sobre como usar a
 
 </center>
 
-## Conclusão
+## 9. Conclusão
 Portanto, é perceptível que o sítio da Caixa Econômica Federal atende o seu propósito, mas que apresenta aspectos que podem melhorar a interação e a experiência do usuário no uso da interface do sítio como um todo. As falhas observadas durante a avaliação são de grande impacto e causam diferença na navegação e usabilidade do site em questão.
 
-## Referências bibliográficas
+## 10. Referências bibliográficas
   > [1] MACIEL, C. _et al_. Avaliação Heurística de Sítios na Web. Niterói, RJ: UFF, 2004.
 
-## Histórico de Versão
+## 11. Histórico de Versão
 
 |  Versão  |   Data   |                      Descrição                      |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
-|  `1.0`   | 12/04/23 | Criação do documento e adição do conteudo           | Pedro Henrique | Carlos Eduardo |
+|  `1.0`   | 12/04/23 | Criação do documento e adição do conteudo           | Pedro H. | Carlos E. |

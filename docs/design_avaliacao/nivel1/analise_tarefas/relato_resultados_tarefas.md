@@ -1,83 +1,150 @@
 # Análise de Tarefas - Relato dos Resultados
 
-## Introdução
+## 1. Introdução
 
-A avaliação da análise de tarefas foi feita a partir de uma entrevista online na plataforma do Google Meet, a qual foi colocado um roteiro de perguntas para o entrevistado acerca do projeto para a coleta de dados e levantamento de requisitos. Desse modo, possibilitando melhoria no sistema.
+A análise de tarefas é uma etapa importante no projeto de IHC, pois é uma representação que auxilia no entendimento do trabalho dos usuários do sistema, o que auxilia a equipe de desenvolvimento na avaliação e reprojeto do sistema atual.[3]
 
-## Objetivo 
+## 2. Objetivo 
 
-Esse documento tem como objetivo principal relatar o progresso da pesquisa realizada através de uma entrevista feita com intuito de esclarecer os resultados acerca do mesmo.
+Este documento possui a função de relatar os resultados obtidos a partir da avaliação da análise de tarefas elaborado realizada em conjunto com usuários reais do sistema do [Detran de Goiás](https://www.detran.go.gov.br/psw/#/pages/pagina-inicial)[4], buscando uma validação dos mesmos e verificar se os seguintes objetivos foram atendidos:
 
-## Metodologia
+* Obtenção do ponto de vista do usuário sobre problemas de IHC;
+* Verificação do fluxo de tarefas.
+
+## 3. Metodologia
 
 A metodologia utilizada para a avaliação foi a entrevista. Onde um entrevistador integrante do grupo Detran-GO participou, e se responsabilizou pela coleta de informações através da gravação.
-A entrevista foi conduzida com base em um roteito disponibilizado no planejameento da análise de tarefas propostas anteriormente em nosso projeto. Foram apresentados questões acerca das políticas de termo de consentimento, uma pequena introdução acerca do nosso projeto, onde o entrevistado teria total liberdade de não responder caso fosse solicitado.
+A entrevista foi conduzida com base em um roteito disponibilizado no planejamento da análise de tarefas propostas anteriormente em nosso projeto.
 
-## Cronograma executado
+### 3.1 Aspectos éticos
+Sendo uma pesquisa com a participação de pessoas, a avaliação utilizou um termo de consentimento elaborado anteriormente e presente no [artefato](../../../analise_requisitos/aspectos_eticos.md)[1] correspondente, abaixo se encontra o mesmo.
 
-A fim de padronizar e apresentar os dados, foi criada a tabela 1
+#### <center>Termo de Consentimento Livre e Esclarecido</center>
 
-|  **Data**  | **Entrevistador** |  **Entrevistado**  |       **Local**        | **Horário** |
-|:----------:|:-----------------:|:------------------:|:----------------------:|:-----------:|
-| 27/05/2023 | Amanda Noda       | Jhoane Alexssandra | Plataforma Google Meet |15:20 - 15:32|
+---
+
+Somos estudantes de Engenharia de software da Universidade de Brasília e estamos conduzindo uma pesquisa sobre o DetranGO, sitio da internet que busca oferecer serviços para a população do Goiás mas possui as mesmas funcionalidades do Detran de outros estados, como parte de nosso projeto na disciplina de Interação Humano Computador. Sua participação neste formulário é de caráter voluntário e todas as perguntas serão mantidas para fins acadêmicos e não serão compartilhados para terceiros.
+
+Para decidir sobre o seu consentimento, é importante que você conheça as seguintes informações sobre a pesquisa:
+
+-   Nossa equipe tem o compromisso de divulgar os resultados de nossas pesquisas para o cliente.
+-   O consentimento para a participação na atividade é uma escolha livre, feita mediante a prestação de todos os esclarecimentos necessários sobre a pesquisa.
+-   A atividade pode ser interrompida a qualquer momento, segundo a sua disponibilidade e vontade.
+-   Será necessário gravar a atividade, e as gravações efetuadas serão divulgadas nos resultados do projeto.
+-   Os dados coletados durante a atividade destinam-se estritamente a atividades de análise e elaboração de melhorias para o sistema do DetranGO.
+
+Diante das explicações, é necessário que você esteja de acordo com a pesquisa que será realizada e concorda de livre e espontânea vontade em participar, como colaborador? Caso o participante seja menor de idade é necessária a permissão do responsável legal.
+
+( ) Sim, estou de acordo. </br>
+( ) Não estou de acordo.
+
+---
+
+## 4. Cronograma e participantes
+
+### 4.1 Participantes
+
+Na tabela 1 se encontram os participantes da entrevista realizada.
 
 <center>
 
-Tabela 1: Cronograma executado (Fonte: Autores)
+| Atividade | Participante | Papel |
+|-|-|-|
+| Entrevista | Amanda Noda | Entrevistador |
+| Entrevista | Jhoane Alexssandra | Entrevistado |
+
+Tabela 1: Participantes da entrevista realizada (Fonte: Autores)
 
 </center>
 
-## Participantes
+### 4.2 Cronograma
 
-Devido às limitações de horários e agenda, a entrevista doi realizada com apenas 1 participante e cada reunião contou com 2 participantes, o entrevistador e o entrevistado.
-
-### Sumário - Participantes
-
-A entrevistada foi a Autônoma, Jhoane Alexssandra Veloso do Santos Alves de 25 anos de idade. Com o Ensino Superior Completo, Jhoane tem contato com a Tecnologia desde os 5 anos de idade devido sua familiaridade com jogos eletrônicos. A mesma afirma ter conhecimento do sistema do sítio do Detran-GO, onde já realizou várias tarefas dentro do mesmo, onde exemplificou, transferência de veículo assim como agendamento para o mesmo.
-
-## Sumário de Dados
-
-Foram coletados dados acerca da funcionalidade do sistema focando em questões gerais, porém pontos importantes acerca da visibilidade e funcionalidade do sistema foram abordados com maior frequência. Diante disso, foram avaliadas questões relativas aos seguintes tópicos.
-
-- Apropriação da tecnologia pelo usuário;
-- Ideia alternativas de design;
-- Problemas na interação com a interface;
-
-## Dados Obtidos
-
-Entrevista 01 - Jhoane
-
-| **Ordem das perguntas** | **Objetivo da pergunta**                                     | **Pergunta**                                                                                                   | **Tipo de pergunta** | **Resposta**                                                              |
-|:-----------------------:|:------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------:|:--------------------:|:-------------------------------------------------------------------------:|
-| 1                       | Identificação                                                | Qual o nome completo do entrevistado?                                                                          | Fechada              | Jhoane Alexssandra dos Santos Veloso Alves                                |
-| 2                       | Identificação                                                | Qual a idade do entrevistado?                                                                                  | Fechada              | 25 anos                                                                   |
-| 3                       | Identificação                                                | Qual a ocupação do entrevistado?                                                                               | Fechada              | Autônoma                                                                  |
-| 4                       | Identificação                                                | Qual o grau de escolaridade do entrevistado?                                                                   | Fechada              | Ensino Superior completo                                                  |
-| 5                       | Identificação                                                | Qual o grau de experiência tecnológica do entrevistado? (tecnófilo/tecnófobo)                                  | Fechada              | Alto grau de experiência (tecnófilo)                                      |
-| 6 (Pergunta especial)   | Verificação do fluxo de tarefas                              | O entrevistado já utilizou o Detran GO?                                                                        | Fechada              | Sim                                                                       |
-| 7                       | Obtenção do ponto de vista do usuário sobre problemas de IHC | O entrevistado acha que a interface do Detran GO é satisfatória para a realização de suas tarefas?             | Fechada              | Não |
-| 8                       | Obtenção do ponto de vista do usuário sobre problemas de IHC | O entrevistado já teve problemas ou confundiu-se durante o uso do site do Detran GO?                           | Fechada              | Não teve problemas ao utilizar, mas o site é confuso                                  |
-| 9 (Pergunta especial)   | Verificação do fluxo de tarefas                              | O entrevistado já realizou tarefas relacionadas à CNH no site do Detran GO?                                    | Fechada              | Apenas no do Detran DF                                                    |
-| 10                      | Verificação do fluxo de tarefas                              | O entrevistado acredita que os diagramas relacionados às tarefas de CNH são condizentes com a realidade?       | Fechada              | Sim                                                                       |
-| 11 (Pergunta especial)  | Verificação do fluxo de tarefas                              | O entrevistado já realizou tarefas relacionadas à veículos no site do Detran GO?                               | Fechada              | Sim                                                                       |
-| 12                      | Verificação do fluxo de tarefas                              | O entrevistado acredita que os diagramas relacionados às tarefas de veículos são condizentes com a realidade?  | Fechada              | Sim                                                                       |
-| 13 (Pergunta especial)  | Verificação do fluxo de tarefas                              | O entrevistado já realizou tarefas relacionadas à infrações no site do Detran GO?                              | Fechada              | Sim                                                                       |
-| 14                      | Verificação do fluxo de tarefas                              | O entrevistado acredita que os diagramas relacionados às tarefas de infrações são condizentes com a realidade? | Fechada              | Sim                                                                       |
+Na tabela 2 se encontra o cronograma executado da entrevista realizada.
 
 <center>
-Tabela 2: Respostas da entrevista 01 (Fonte: Autores)
+
+| Atividade | Local | Data | Horário |
+|-|-|-|-|
+| Entrevista | Remoto (Google Meet) | 27/05/2023 | 15:20 |
+
+Tabela 2: Cronograma da entrevista realizada (Fonte: Autores)
+
 </center>
 
-## Gravação da Entrevista
+## 5. Respostas das perguntas
+Visando sumarizar os dados obtidos através da avaliação, as tabelas a seguir detalham as respostas do entrevistados para as perguntas elaboradas anteriormente, discriminadas por objetivo de avaliação.
+
+### 5.1 Identificação do usuário
+
+As respostas para as perguntas elaboradas para obter a identificação do usuário estão presentes na tabela 3 abaixo.
+
+<center>
+
+| **Número** | **Pergunta** | **Resposta** |
+|:-:|:-:|:-:|
+| 1 | Qual o nome completo do entrevistado? | Jhoane Alexssandra dos Santos Veloso Alves |
+| 2 | Qual a idade do entrevistado? | 25 anos |
+| 3 | Qual a ocupação do entrevistado? | Autônoma |
+| 4 | Qual o grau de escolaridade do entrevistado? | Ensino Superior completo |
+| 5 | Qual o grau de experiência tecnológica do entrevistado? (tecnófilo/tecnófobo) | Alto grau de experiência (tecnófilo) |
+
+Tabela 3: Respostas para o objetivo 1(Fonte: Autor).
+
+</center>
+
+### 5.2 Obtenção do ponto de vista do usuário sobre problemas de IHC
+
+As respostas para as perguntas elaboradas para obter o ponto de vista do usuário sobre problemas de IHC estão presentes na tabela 4 abaixo.
+
+<center>
+
+| **Número** | **Pergunta** | **Resposta** |
+|:-:|:-:|:-:|
+| 1 | O entrevistado acha que a interface do Detran GO é satisfatória para a realização de suas tarefas? | Não |
+| 2 | O entrevistado já teve problemas ou confundiu-se durante o uso do site do Detran GO? | Não teve problemas ao utilizar, mas o site é confuso |
+
+Tabela 4: Respostas para o objetivo 2(Fonte: Autor).
+
+</center>
+
+### 5.3 Verificação do fluxo de tarefas
+
+As respostas para as perguntas elaboradas para verificar os fluxos desenvolvidos estão presentes na tabela 5 abaixo.
+
+<center>
+
+| **Número** | **Pergunta** | **Resposta** |
+|:-:|:-:|:-:|
+| 1 | O entrevistado já utilizou o Detran GO? | Sim |
+| 2 | O entrevistado já realizou tarefas relacionadas à CNH no site do Detran GO? | Apenas no do Detran DF |
+| 3 | O entrevistado acredita que os diagramas relacionados às tarefas de CNH são condizentes com a realidade? | Sim |
+| 4 | O entrevistado já realizou tarefas relacionadas à veículos no site do Detran GO? | Sim |
+| 5 | O entrevistado acredita que os diagramas relacionados às tarefas de veículos são condizentes com a realidade? | Sim |
+| 6 | O entrevistado já realizou tarefas relacionadas à infrações no site do Detran GO? | Sim |
+| 7 | O entrevistado acredita que os diagramas relacionados às tarefas de infrações são condizentes com a realidade? | Sim |
+
+Tabela 5: Respostas para o objetivo 3(Fonte: Autor).
+
+</center>
+
+## 6. Gravação da Entrevista
+
+No vídeo abaixo se encontra a gravação em vídeo da entrevista realizada.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cFUjfqpNLGQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Problemas Encontrados
-
+## 7. Análise dos dados coletados
 De maneira geral, os problemas encontrados foram acerca da quantidade de informação das páginas iniciais, onde nossa entervistada, prefere utilizar o aplicativo móvel à o sítio do Detran-GO. Desse modo, podemos acrescentar a dificuldade se visualizar e encontrar tarefas no sistema em questão.
 
-## Histórico da versão
+## 8. Correções possíveis
+A partir dos dados coletados através da entrevista, não foram encontrados problemas na análise tarefas elaborada, portanto não há necessidade de correções.
+
+## 9. Conclusão
+A partir dos dados coletados, é possível concluir que os objetivos iniciais da avaliação foram cumpridos, já que se obteve o ponto de vista do usuário quanto aos problemas de usabilidade do sistema atual, além da verificação dos fluxos elaborados.
+
+## 10. Histórico da versão
 | Versão | Data     | Descrição                                 | Autor(es) | Revisor(es) |
 | ------ | -------- | ----------------------------------------- | --------- | ----------- |
 | `1.0`  | 28/05/23 | Criação do documento e adição do conteúdo | Amanda N. e João M. | Pedro H.   |
 | `1.1`  | 29/05/23 | Adição da gravação da entrevista e das respostas | Amanda N. e João M. | Pedro H.   |
+| `1.2`  | 19/06/23 | Alterações de padronização | Pedro M. | Amanda N. |

@@ -1,12 +1,12 @@
 # Perfil de Usuário
 
-## Introdução
+## 1. Introdução
 
 O Perfil de usuário é uma descrição detalhada dos usuários cujos os objetivos devem ser apoiado pelo sistema projetado. Portanto, através de uma análise dos perfis de usuário visamos descobrir e definir quais características principais dos usuários que utilizam o sistema que está sendo desenvolvido. Essa etapa é de extrema importância, pois tem como objetivo melhorar a expêriencia dos usuários que a acessam. Para conseguirmos coletar as informações necessárias para a definição de um perfil de usuário, criamos um formulário especificando cada área de importância em nossa análise.
 
-## Metodologia
+## 2. Metodologia
 
-### Vantagens
+### 2.1 Vantagens
 
 - Técnica relativamente rápida e barata de ser aplicada.
 - Obtém de maneira mais fácil informações de um público numeroso.
@@ -15,18 +15,18 @@ O Perfil de usuário é uma descrição detalhada dos usuários cujos os objetiv
 - Quando aplicado a uma amostra representativa das partes interessadas, permite representar as opiniões de toda a população.
 - As questões com respostas limitadas são muito efetivas para a geração de dados quantitativos para análise estatística.
 
-### Desvantagens
+### 2.2 Desvantagens
 
 - Se a taxa de resposta for baixa, o resultado pode não ser estatisticamente significativo.
 - Uma falha na elaboração do questionário pode levar a respostas em branco ou incorretas, ou também gerar interpretações distintas da mesma pergunta, o que pode levar a erros nos requisitos.
 - O uso de questões com respostas ilimitadas demanda mais esforço de análise das respostas, se o público for numeroso.
 
-## Resultados coletados
+## 3. Resultados coletados
 
 A seguir iremos mostrar os resultados coletados para cada questão do formulário. O formulário conta com 55 respostas, antes da coleta os usuários aceitaram o nosso [termo consentimento](https://docs.google.com/forms/d/e/1FAIpQLSfy3ZQlIrlzoUkwZYM3xvTtEihPXdh84Fqrb85O0pCb8KKpVQ/viewform)
 Respostas foram coletadas entre as datas **29/04/2023** e **02/05/2023**.
 
-### Questão 1
+### 3.1 Questão 1
 
 ![Questao1](https://user-images.githubusercontent.com/58089751/235820158-d5f9b400-078c-456a-ad06-1a5573b58368.png)
 
@@ -35,14 +35,14 @@ Respostas foram coletadas entre as datas **29/04/2023** e **02/05/2023**.
 <p> Figura 1: Pergunta 1. (Fonte: autor, 2023).</p>
 </div>
 
-### Questão 2
+### 3.2 Questão 2
 ![Questao2](https://user-images.githubusercontent.com/58089751/235820223-2b779c4d-9901-410a-90a8-e8292f687aa1.png)
 
 <div style="text-align: center">
 <p> Figura 2: Pergunta 2. (Fonte: autor, 2023).</p>
 </div>
 
-### Questão 3
+### 3.3 Questão 3
 Respostas coletadas como mostra o [formulário](https://docs.google.com/forms/d/e/1FAIpQLSfy3ZQlIrlzoUkwZYM3xvTtEihPXdh84Fqrb85O0pCb8KKpVQ/viewform) sem nenhuma formatação, respostas coletadas pela pesquisa relatas acima.
 
 | Quais sites de mobilidade vc tem costume de usar? |
@@ -91,7 +91,7 @@ Respostas coletadas como mostra o [formulário](https://docs.google.com/forms/d/
 
 Tabela 1: Respostas pergunta 3 (Fonte: autor,2023).
 
-### Questão 4
+### 3.4 Questão 4
 
 ![Questao3](https://user-images.githubusercontent.com/58089751/235820266-10ac7583-6e2c-40d0-a6fa-7e269ae5bb72.png)
 
@@ -99,7 +99,7 @@ Tabela 1: Respostas pergunta 3 (Fonte: autor,2023).
 <p> Figura 4: Pergunta 4. (Fonte: autor, 2023).</p>
 </div>
 
-### Questão 5
+### 3.5 Questão 5
 
 ![Questao4](https://user-images.githubusercontent.com/58089751/235820326-2bd90daa-d4dd-47fc-b389-3e0297b57442.png)
 
@@ -107,7 +107,7 @@ Tabela 1: Respostas pergunta 3 (Fonte: autor,2023).
 <p> Figura 5: Pergunta 5. (Fonte: autor, 2023).</p>
 </div>
 
-### Questão 6
+### 3.6 Questão 6
 
 ![Questao5](https://user-images.githubusercontent.com/58089751/235820365-2fa1cb52-a6b3-41b8-8606-7303532d32b9.png)
 
@@ -115,7 +115,7 @@ Tabela 1: Respostas pergunta 3 (Fonte: autor,2023).
 <p> Figura 6: Pergunta 6. (Fonte: autor, 2023).</p>
 </div>
 
-### Questão 7
+### 3.7 Questão 7
 
 ![Questao6](https://user-images.githubusercontent.com/58089751/235820396-afd3bec7-aa67-4f94-b017-1e709f4e4011.png)
 
@@ -124,7 +124,7 @@ Tabela 1: Respostas pergunta 3 (Fonte: autor,2023).
 <p> Figura 7: Pergunta 7. (Fonte: autor, 2023).</p>
 </div>
 
-### Questão 8
+### 3.8 Questão 8
 
 ![Questao7](https://user-images.githubusercontent.com/58089751/235820438-85a06bd9-7378-4a05-a8cc-27019254d8a9.png)
 
@@ -132,7 +132,7 @@ Tabela 1: Respostas pergunta 3 (Fonte: autor,2023).
 <p> Figura 8: Pergunta 8. (Fonte: autor, 2023).</p>
 </div>
 
-### Questão 9
+### 3.9 Questão 9
 
 ![Questao8](https://user-images.githubusercontent.com/58089751/235820488-08784665-921b-43eb-b4d0-09663ed57387.png)
 
@@ -140,7 +140,7 @@ Tabela 1: Respostas pergunta 3 (Fonte: autor,2023).
 <p> Figura 9: Pergunta 9. (Fonte: autor, 2023).</p>
 </div>
 
-### Questão 10
+### 3.10 Questão 10
 
 ![Questao9](https://user-images.githubusercontent.com/58089751/235820509-916f2902-c1cd-4d90-a0f1-1c97d9c8e92e.png)
 ![Questao9-2](https://user-images.githubusercontent.com/58089751/235820514-c57f5a67-f39d-4b4f-a0e9-4a93d905a003.png)
@@ -151,7 +151,7 @@ Tabela 1: Respostas pergunta 3 (Fonte: autor,2023).
 </div>
 
 
-### Questão 11
+### 3.11 Questão 11
 As respostas coletadas como mostra o [formulário](https://docs.google.com/forms/d/e/1FAIpQLSfy3ZQlIrlzoUkwZYM3xvTtEihPXdh84Fqrb85O0pCb8KKpVQ/viewform) sem nenhuma formatação, respostas coletadas pela pesquisa relatas acima.
 
 | Você tem algum feedback sobre como o site Detran pode dar uma experiência melhor para o usuário? |
@@ -196,15 +196,15 @@ As respostas coletadas como mostra o [formulário](https://docs.google.com/forms
 
 Tabela 2: Respostas pergunta 11 (Fonte: autor,2023).
 
-## Bibliografia
+## 4. Bibliografia
 
   > [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: [https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf](https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf). Acesso em: 2 de maio de 2023;
   >
   >  https://docs.google.com/forms/d/1tDkLWOFgCxfdQC3KglediV4bSTw-QOXMBVE3MfLx-9U/edit#responses [Detran GO - IHC.pdf](https://github.com/Interacao-Humano-Computador/2023.1-DetranGO/files/11379117/Detran.GO.-.IHC.pdf)
 
 
-## Histórico de Versão
+## 5. Histórico de Versão
 
 |  Versão  |   Data   |                      Descrição                      |    Autor(es)   |  Revisor(es)  |
 | -------- | -------- | --------------------------------------------------- | -------------- | ------------- |
-|  `1.0`   | 02/05/23 | Versão inicial do Perfil de usuário | Amanda Noda | Pedro Henrique |
+|  `1.0`   | 02/05/23 | Versão inicial do Perfil de usuário | Amanda N. | Pedro H. |
