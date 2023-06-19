@@ -42,13 +42,21 @@ Os aspectos éticos de uma pesquisa devem ser sempre observados a fim de não le
 
 ### 2.4 Verificação 4 - São utilizadas ao menos duas técnicas para a definição de um perfil de usuário?
 
+É interessante o uso de mais de uma técnica para a definição de um perfil de usuário, visto que estas técnicas não necessariamente envolvem a elicitação. É possível realizar uma priorização das características do perfil de usuário para melhor investimento de tempo.
+
+`Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. Página 166.`
+
 ### 2.5 Verificação 5 - Os usuários foram categorizados em grupos com base em suas semelhanças (grupos de idade, tarefas principais no sistema, etc.)
 
-### 2.6 Verificação 6 - São utilizadas ao menos duas técnicas para a definição de um perfil de usuário?
+A categorização com base em semelhanças quanto a características específicas permite uma melhor definição do perfil de usuário.
 
-### 2.7 Verificação 7 - Se utilizado um questionário, o ambiente de uso do software aparece nas questões? (e.g. uso via celular, no trabalho ou em casa, via computador, etc.)
+`Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. Página 166.`
 
-### 2.8 Verificação 8 - Se usado um questionário, é possível definir objetivos dos usuários a partir das questões realizadas?
+### 2.7 Verificação 6 - Se utilizado um questionário, o ambiente de uso do software aparece nas questões? (e.g. uso via celular, no trabalho ou em casa, via computador, etc.)
+
+O ambiente do usuário é de importante nota visto que permite demarcar melhor a maneira com a qual o usuário interage com o sistema e permite manter o usuário à frente no design.
+
+`HACKOS, Joann T.; REDISH, Janice C.. User and task analysis for interface design. Nova York: John Wiley & Sons Inc., 1998. Página 249.`
 
 ## 3. Desenvolvimento
 
