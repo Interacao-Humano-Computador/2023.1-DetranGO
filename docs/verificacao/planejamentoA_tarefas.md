@@ -23,7 +23,7 @@ Além de servir para guiar nossa avaliação, a definição de objetivos é part
 
 `BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 9. Seção 9.2`
 
-### 2.3. Foi definido pelo menos uma pergunta para cada objetivo definido ?
+### 2.3. Verificação 3 - Foi definido pelo menos uma pergunta para cada objetivo definido ?
 Devem ser elaboradas perguntas a serem respondidas tanto para elaborar melhor os objetivos quanto para que os objetivos sejam atingidos.
 
 `BARBOSA, Simone et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 9. Seção 9.2`
