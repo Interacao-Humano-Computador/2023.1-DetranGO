@@ -79,8 +79,7 @@ verificação do artefato anteriores. Neste artefato, avaliaremos o [Planejament
 | 8 | Possui histórico de versão padronizado? | Sim |
 | 9 | O histórico de versão possui autor(es) e revisor(es)? | Sim |
 
-Tabela 2: Modelo de checklist para padronização 
-(Fonte: Autor, 2023).
+Tabela 1: Modelo de checklist para padronização (Fonte: Autor, 2023).
 
 </center>
 
@@ -100,8 +99,7 @@ Tabela 2: Modelo de checklist para padronização
 | 8 | O grupo planeja relatar os problemas enfrentados durante a avaliação e suas possíveis soluções? | 1 | 1 | 0 |
 
 
-Tabela 3: Modelo de checklist para conteúdo (Fonte: 
-Autor, 2023).
+Tabela 2: Modelo de checklist para conteúdo (Fonte: Autor, 2023).
 
 </center>
 
@@ -175,6 +173,6 @@ Foi corrigido o problema listado.
 
 | Versão | Data     | Descrição                                        | Autor(es)   | Revisor(es)   |
 | ------ | -------- | ------------------------------------------------ | ----------- | ------------- |
-| `1.0`  | 16/06/23 | Criação do documento | Amanda Noda | Carlos Eduardo |
+| `1.0`  | 16/06/23 | Criação do documento | Amanda N. | Carlos E. |
 
 

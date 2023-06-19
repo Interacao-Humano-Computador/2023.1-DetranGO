@@ -122,7 +122,7 @@ As tabelas 1 e 2 apresentam os resultados da verificação do artefato [Relato d
 | 8 | Possui histórico de versão padronizado? | Sim |
 | 9 | O histórico de versão possui autor(es) e revisor(es)? | Sim |
 
-Tabela 2: Modelo de checklist para padronização (Fonte: Autor, 2023).
+Tabela 1: Modelo de checklist para padronização (Fonte: Autor, 2023).
 
 </center>
 
@@ -149,7 +149,7 @@ Tabela 2: Modelo de checklist para padronização (Fonte: Autor, 2023).
 | 15 | O artefato menciona a sugestão de reprojeto para o sistema ?	 | 1 | 1 | 0 |
 
 
-Tabela 3: Modelo de checklist para conteúdo (Fonte: Autor, 2023).
+Tabela 2: Modelo de checklist para conteúdo (Fonte: Autor, 2023).
 
 </center>
 
@@ -179,11 +179,9 @@ O artefato possui alguns erros de ortografia, como palavras com acentuação inc
 ## 6. Acompanhamento
 ### 6.1 Acompanhemento - Padronização
 
-#### 6.1.1 Acompanhemento 1 - Possui ortografia correta 
-e formal?
+#### 6.1.1 Acompanhemento 1 - Possui ortografia correta e formal?
 
 Foi realizado as correções necessárias dentro do artefato do planejamento do prototipo de alta fidelidade.
-
 
 ## 7. Referências Bibliográficas
 
@@ -207,7 +205,7 @@ Foi realizado as correções necessárias dentro do artefato do planejamento do 
 
 | Versão | Data     | Descrição                                        | Autor(es)   | Revisor(es)   |
 | ------ | -------- | ------------------------------------------------ | ----------- | ------------- |
-| `1.0`  | 19/06/23 | Criação do documento | Amanda Noda | Carlos Eduardo |
+| `1.0`  | 19/06/23 | Criação do documento | Amanda N. | Carlos E. |
 
 
 

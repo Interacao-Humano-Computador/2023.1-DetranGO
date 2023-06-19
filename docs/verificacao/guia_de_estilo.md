@@ -71,7 +71,7 @@ As tabelas 1 e 2 apresentam os resultados da verificação do artefato [Guia de 
 | 8 | Possui histórico de versão padronizado? | Sim |
 | 9 | O histórico de versão possui autor(es) e revisor(es)? | Sim |
 
-Tabela 2: Modelo de checklist para padronização 
+Tabela 1: Modelo de checklist para padronização 
 (Fonte: Autor, 2023).
 
 </center>
@@ -92,7 +92,7 @@ Tabela 2: Modelo de checklist para padronização
 
 
 
-Tabela 3: Modelo de checklist para conteúdo (Fonte: 
+Tabela 2: Modelo de checklist para conteúdo (Fonte: 
 Autor, 2023).
 
 </center>
@@ -148,4 +148,4 @@ Foi realizado as correções necessárias dentro do artefato de análise de tare
 
 | Versão | Data     | Descrição                                        | Autor(es)   | Revisor(es)   |
 | ------ | -------- | ------------------------------------------------ |----------- | ------------- |
-| `1.0`  | 16/06/23 | Criação do documento | Amanda Noda | Carlos Eduardo |
+| `1.0`  | 16/06/23 | Criação do documento | Amanda N. | Carlos E. |

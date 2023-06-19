@@ -134,7 +134,7 @@ As tabelas 1 e 2 apresentam os resultados da verificação do artefato [Relato d
 | 8 | Possui histórico de versão padronizado? | Sim |
 | 9 | O histórico de versão possui autor(es) e revisor(es)? | Sim |
 
-Tabela 2: Modelo de checklist para padronização (Fonte: Autor, 2023).
+Tabela 1:Modelo de checklist para padronização (Fonte: Autor, 2023).
 
 </center>
 
@@ -163,7 +163,7 @@ Tabela 2: Modelo de checklist para padronização (Fonte: Autor, 2023).
 | 17 | O artefato apresenta a gravação das Avaliações do Protótipo de Papel ? | 1 | 1 | 0 |
 
 
-Tabela 3: Modelo de checklist para conteúdo (Fonte: Autor, 2023).
+Tabela 2: Modelo de checklist para conteúdo (Fonte: Autor, 2023).
 
 </center>
 
@@ -240,6 +240,6 @@ Foi adicionado conclusão no artefato listado.
 
 | Versão | Data     | Descrição                                        | Autor(es)   | Revisor(es)   |
 | ------ | -------- | ------------------------------------------------ | ----------- | ------------- |
-| `1.0`  | 16/06/23 | Criação do documento | Amanda Noda | Carlos Eduardo |
+| `1.0`  | 16/06/23 | Criação do documento | Amanda N. | Carlos E. |
 
 

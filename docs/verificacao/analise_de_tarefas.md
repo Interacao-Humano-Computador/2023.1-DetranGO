@@ -59,7 +59,7 @@ As tabelas 1 e 2 apresentam os resultados da verificação do artefato [Análise
 | 8 | Possui histórico de versão padronizado? | Sim |
 | 9 | O histórico de versão possui autor(es) e revisor(es)? | Sim |
 
-Tabela 2: Modelo de checklist para padronização (Fonte: Autor, 2023).
+Tabela 1: Modelo de checklist para padronização (Fonte: Autor, 2023).
 
 </center>
 
@@ -76,7 +76,7 @@ Tabela 2: Modelo de checklist para padronização (Fonte: Autor, 2023).
 | 5 | A análise de tarefas está voltada para a análise conceitual do problema em detrimento do funcionamento de telas e menus? | 1 | 1 | 0 |
 
 
-Tabela 3: Modelo de checklist para conteúdo (Fonte: Autor, 2023).
+Tabela 2: Modelo de checklist para conteúdo (Fonte: Autor, 2023).
 
 </center>
 
@@ -114,20 +114,17 @@ Não houve junção de informações coletadas informadas no perfil de usuário 
 ## 6. Acompanhamento
 ### 6.1 Acompanhemento - Padronização
 
-#### 6.1.1 Acompanhemento 1 - Possui ortografia correta 
-e formal?
+#### 6.1.1 Acompanhemento 1 - Possui ortografia correta é formal?
 
 Foi realizado as correções necessárias dentro do artefato de análise de tarefas
 
 ### 6.2 Acompanhemento - Conteúdo
 
-#### 6.2.1  Acompanhemento 2 - Pelo menos 2 técnicas 
-foram utilizadas para especificar as tarefas? 
+#### 6.2.1  Acompanhemento 2 - Pelo menos 2 técnicas foram utilizadas para especificar as tarefas? 
 
 Não foi utilizado duas técnicas na resolução do artefado de análise de tarefas como foi proposto na matéria de IHC.
 
-#### 6.2.2  Acompanhemento 3 - As tarefas foram 
-escolhidas de acordo com o perfil de usuário? 
+#### 6.2.2  Acompanhemento 3 - As tarefas foram escolhidas de acordo com o perfil de usuário? 
 
 Não houve junção de informações coletadas informadas no perfil de usuário com as informações fornecidas na análise de tarefas
 
@@ -153,5 +150,5 @@ Não houve junção de informações coletadas informadas no perfil de usuário 
 
 | Versão | Data     | Descrição                                        | Autor(es)   | Revisor(es)   |
 | ------ | -------- | ------------------------------------------------ | ----------- | ------------- |
-| `1.0`  | 16/06/23 | Criação do documento | Amanda Noda | Carlos Eduardo |
+| `1.0`  | 16/06/23 | Criação do documento | Amanda N. | Carlos E. |
 
