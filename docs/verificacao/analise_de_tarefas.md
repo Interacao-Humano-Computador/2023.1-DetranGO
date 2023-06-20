@@ -86,7 +86,7 @@ Os resultados da verificação da Análise de tarefas podem ser encontrados na t
 
 <center>
 
-|  ![Alt text](../assets/analise_tarefas_verif/ana_tar.jpg)   |        ![Alt text](../assets/analise_tarefas_verif/ana_tar_erros.jpg)           |
+|  ![Alt text](../assets/analise_tarefas_verif/ana_tar_erros.jpg)   |        ![Alt text](../assets/analise_tarefas_verif/ana_tar.jpg)           |
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------- |
 | Figura 1: Representação do grau de satisfação do artefato (Fonte: Autor, 2023). | Figura 2: Gráfico de ocorrência de erros no artefato (Fonte: Autor, 2023). |
 
