@@ -2,7 +2,7 @@
 
 ## 1. Introdução
 
-
+O relato dos resultados da avaliação do Storyboard complia os resultados extraídos a partir da avaliação dos storyboards, bem como elementos relacionados a essa avaliação definidos em planejamento anterior.
 
 O presente artefato busca marcar a verificação do artefato de relato dos resultados da avaliação do storyboard, que na data da verificação (18/06/2023) tinha como versão mais atual a versão `1.1` de 29/05/2023.
 
