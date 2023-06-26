@@ -98,6 +98,8 @@ Tabela 4: Participantes do teste 3(Fonte: Autor, 2023)
 
 Na tabela 5 estão detalhados os cronogramas das atividades realizadas.
 
+<center>
+
 | Atividade    | Local                | Data       | Horário |
 | ------------ | -------------------- | ---------- | ------- |
 | Teste piloto | Gama - DF | 24/06/2023 | 16:00   |
@@ -106,6 +108,8 @@ Na tabela 5 estão detalhados os cronogramas das atividades realizadas.
 | Teste de usabilidade 3 | Guará - DF | 25/06/2023 | 18:00 |
 
 Tabela 5: Cronograma executado dos testes(Fonte: Autor, 2023)
+
+</center>
 
 ## 5. Protótipos desenvolvido
 
@@ -290,8 +294,17 @@ Abaixo se encontram as respostas recolhidas durante o teste para as perguntas ac
 
 <center>
 
-| Número | Pergunta                                             | Resposta                |
-|--------|------------------------------------------------------|-------------------------|
+| Número | Pergunta | Resposta | Observações |
+|:-:|:-:|:-:|:-:|
+| 1 | O usuário consegue operar o sistema? | Sim  | - |
+| 2 | O usuário conseguiu atingir o objetivo proposto? | Sim  | - |
+| 3 | Por que ele não atingiu o objetivo proposto? | N/A | Feita somente se a resposta da questão 2 for negativa |
+| 4 | Em quanto tempo ele atingiu o objetivo proposto? | em média 2 minutos | - |
+| 5 | Ele cometeu quantos erros até atingir o objetivo proposto? | Não| - |
+| 6 | Quais barreiras o usuário encontrou? | Nenhuma | - |
+| 7 | O usuário encontrou barreiras na utilização do sistema? | Não | - |
+| 8 | Alguma parte da interface deixou o usuário insatisfeito? | Não | - |
+| 9 | Qual parte deixou o usuário insatisfeito? | N/A | -
 
 
 
@@ -303,8 +316,11 @@ Tabela 15: Respostas para as perguntas elaboradas para o objetivo 1 do protótip
 
 <center>
 
-| Número | Pergunta                                                                 | Resposta |
-|--------|--------------------------------------------------------------------------|----------|
+
+| Número | Pergunta | Resposta | Observações |
+|:-:|:-:|:-:|:-:|
+| 1 | As interfaces apresentadas seguem um padrão único? | Sim | - |
+| 2 | O padrão apresentado remete a padrões utilizados em outros sites da Web? | Sim, a maior parte | - |
 
 
 
@@ -316,8 +332,11 @@ Tabela 16: Respostas para as perguntas elaboradas para o objetivo 2 do protótip
 
 <center>
 
-| Número | Pergunta                                                                                        | Resposta                                     |
-|--------|-------------------------------------------------------------------------------------------------|----------------------------------------------|
+| Número | Pergunta | Resposta | Observações |
+|:-:|:-:|:-:|:-:|
+| 1 | Você considera o fluxo realizado eficiente? | Sim, bastante intuitivo   | - | 
+| 2 | Você possui alguma anternativa para a implementação deste fluxo ou das interfaces apresentadas? |  Não | - |
+| 3 | Quais alternativas você propõe? | N/A | - |
 
 
 
@@ -333,9 +352,17 @@ Abaixo se encontram as respostas recolhidas durante o teste para as perguntas ac
 
 <center>
 
-| Número | Pergunta                                             | Resposta |
-|--------|------------------------------------------------------|----------|
-
+| Número | Pergunta | Resposta | Observações |
+|:-:|:-:|:-:|:-:|
+| 1 | O usuário consegue operar o sistema? | Sim  | - |
+| 2 | O usuário conseguiu atingir o objetivo proposto? | Sim  | - |
+| 3 | Por que ele não atingiu o objetivo proposto? | N/A | Feita somente se a resposta da questão 2 for negativa |
+| 4 | Em quanto tempo ele atingiu o objetivo proposto? | em média 1 minuto | - |
+| 5 | Ele cometeu quantos erros até atingir o objetivo proposto? | Não| - |
+| 6 | Quais barreiras o usuário encontrou? | Nenhuma | - |
+| 7 | O usuário encontrou barreiras na utilização do sistema? | Não | - |
+| 8 | Alguma parte da interface deixou o usuário insatisfeito? | Não | - |
+| 9 | Qual parte deixou o usuário insatisfeito? | N/A
 
 
 Tabela 18: Respostas para as perguntas elaboradas para o objetivo 1 do protótipo de solicitação de CNH no teste de usabilidade 2(Fonte: Autor, 2023).
@@ -346,8 +373,11 @@ Tabela 18: Respostas para as perguntas elaboradas para o objetivo 1 do protótip
 
 <center>
 
-| Número | Pergunta                                                                 | Resposta |
-|--------|--------------------------------------------------------------------------|----------|
+| Número | Pergunta | Resposta | Observações |
+|:-:|:-:|:-:|:-:|
+| 1 | As interfaces apresentadas seguem um padrão único? | Sim | - |
+| 2 | O padrão apresentado remete a padrões utilizados em outros sites da Web? | Sim | - |
+
 
 
 
@@ -359,8 +389,11 @@ Tabela 19: Respostas para as perguntas elaboradas para o objetivo 2 do protótip
 
 <center>
 
-| Número | Pergunta                                                                                        | Resposta |
-|--------|-------------------------------------------------------------------------------------------------|----------|
+| Número | Pergunta | Resposta | Observações |
+|:-:|:-:|:-:|:-:|
+| 1 | Você considera o fluxo realizado eficiente? | Sim   | - | 
+| 2 | Você possui alguma anternativa para a implementação deste fluxo ou das interfaces apresentadas? |  Não, está bastante intuitivo | - |
+| 3 | Quais alternativas você propõe? | N/A | - |
 
 
 
@@ -376,8 +409,17 @@ Abaixo se encontram as respostas recolhidas durante o teste para as perguntas ac
 
 <center>
 
-| Número | Pergunta                                             | Resposta |
-|--------|------------------------------------------------------|----------|
+| Número | Pergunta | Resposta | Observações |
+|:-:|:-:|:-:|:-:|
+| 1 | O usuário consegue operar o sistema? | Sim  | - |
+| 2 | O usuário conseguiu atingir o objetivo proposto? | Sim  | - |
+| 3 | Por que ele não atingiu o objetivo proposto? | N/A | Feita somente se a resposta da questão 2 for negativa |
+| 4 | Em quanto tempo ele atingiu o objetivo proposto? | em média 1 minuto | - |
+| 5 | Ele cometeu quantos erros até atingir o objetivo proposto? | Não| - |
+| 6 | Quais barreiras o usuário encontrou? | Nenhuma | - |
+| 7 | O usuário encontrou barreiras na utilização do sistema? | Não | - |
+| 8 | Alguma parte da interface deixou o usuário insatisfeito? | Não | - |
+| 9 | Qual parte deixou o usuário insatisfeito? | N/A
 
 
 
@@ -389,8 +431,10 @@ Tabela 21: Respostas para as perguntas elaboradas para o objetivo 1 do protótip
 
 <center>
 
-| Número | Pergunta                                                                 | Resposta |
-|--------|--------------------------------------------------------------------------|----------|
+| Número | Pergunta | Resposta | Observações |
+|:-:|:-:|:-:|:-:|
+| 1 | As interfaces apresentadas seguem um padrão único? | Sim | - |
+| 2 | O padrão apresentado remete a padrões utilizados em outros sites da Web? | Sim | - |
 
 
 
@@ -402,8 +446,11 @@ Tabela 22: Respostas para as perguntas elaboradas para o objetivo 2 do protótip
 
 <center>
 
-| Número | Pergunta                                                                                        | Resposta |
-|--------|-------------------------------------------------------------------------------------------------|----------|
+| Número | Pergunta | Resposta | Observações |
+|:-:|:-:|:-:|:-:|
+| 1 | Você considera o fluxo realizado eficiente? | Sim   | - | 
+| 2 | Você possui alguma anternativa para a implementação deste fluxo ou das interfaces apresentadas? |  Não | - |
+| 3 | Quais alternativas você propõe? | N/A | - |
 
 
 
