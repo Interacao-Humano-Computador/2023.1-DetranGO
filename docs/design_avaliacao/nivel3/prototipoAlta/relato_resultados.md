@@ -620,6 +620,8 @@ A gravação está disponível abaixo.
 
 ## 8. Análise dos dados coletados
 
+### 8.1 Dados coletados
+Foram coletados dados através de 3 testes de usabilidade distintos, onde foram encontrados poucos problemas de menor importância no âmbito geral da aplicação.
 
 ### 8.2 Problemas Encontrados
 A partir dos dados coletados através das entrevistas realizadas em nosso projeto, foi identificado alguns problemas na realização de tarefas dentro do protótipo de alta fidelidade, onde o usuário apontou informações para a melhoria do sistema. Sendo estes problemas relacionados a pouca familiaridade por conta de um padrão diferente a outros sítios na web e a alguns problemas de interação.
