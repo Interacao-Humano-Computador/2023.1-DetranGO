@@ -648,5 +648,5 @@ Após a análise dos dados, pode-se concluir que os objetivos da avaliação for
 
 | Versão | Data       | Descrição            | Autor(es)   | Revisor(es)    |
 |--------|------------|----------------------|-------------|----------------|
-| `1.0`  | 26/06/2023 | Estruturação e adição do conteúdo | Pedro M. | Carlos E. |
+| `1.0`  | 26/06/2023 | Estruturação e adição do conteúdo | Pedro M. | João M. |
 
