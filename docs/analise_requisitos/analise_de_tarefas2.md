@@ -194,30 +194,31 @@ Com isso, dentre o conjunto de modelos GOMS (*Goals*, *Operators*, *Methods and 
 
 Dessa forma, esse modelo foi utilizado pensando nos seguintes objetivos: 
 
-* Consultar Veículo
+* Emitir CRLV-e
 * Consultar CNH
 * Solicitar CNH
 
 Essas tarefas foram analisadas a seguir:
 
-### 4.1 Consultar Veículo
+### 4.1 Emitir CRLV-e
 
-GOAL 0: Consultar Veículo
-<p style="padding-left: 1vw">GOAL 1: encontrar a seção de veículos da plataforma</p>
+GOAL 0: Emitir CRLV-e
+<p style="padding-left: 1vw">GOAL 1: navegar até a seção de veículos da plataforma</p>
 <p style="padding-left: 3vw">OP. 1.1: posicionar o cursor do mouse em cima do botão "Veículos" no topo da tela</p>
 <p style="padding-left: 3vw">OP. 1.2: clicar no botão "Veículos" </p>
-<p style="padding-left: 1vw">GOAL 2: entrar na aba de consulta de veículos </p>
-<p style="padding-left: 3vw">OP. 2.1: posicionar o cursor do mouse em cima sobre o botão "Consultar" </p>
-<p style="padding-left: 3vw">OP. 2.2: clicar no botão "Consultar" </p>
-<p style="padding-left: 1vw">GOAL 3: inserir informações de placa e renavam para consultar veículo </p>
-<p style="padding-left: 3vw">OP. 3.1: inserir dado da placa do veículo no campo estabelecido</p>
-<p style="padding-left: 3vw">OP. 3.2: inserir dado do renavam do veículo no campo estabelecido </p>
-<p style="padding-left: 3vw">OP. 3.3: clicar no botão "Consultar" </p>
+<p style="padding-left: 1vw">GOAL 2: consultar a Emissão de CRLV </p>
+<p style="padding-left: 3vw">OP. 2.1: inserir dado de placa do veículo no campo obrigatório </p>
+<p style="padding-left: 3vw">OP. 2.2: inserir dado de RENAVAM do veículo no campo obrigatório </p>
+<p style="padding-left: 3vw">OP. 2.3: posicionar o cursor do mouse em cima sobre o botão "Consultar" </p>
+<p style="padding-left: 3vw">OP. 2.4: clicar no botão "Consultar" </p>
+<p style="padding-left: 1vw">GOAL 3: baixar o CRLV-A4  </p>
+<p style="padding-left: 3vw">OP. 3.1: clicar no botão "Emitir CRLV-A4"</p>
+<p style="padding-left: 3vw">OP. 3.2: clicar no botão "Baixar CRLV-A4" </p>
 
 ### 4.2 Consultar CNH
 
 GOAL 0: Consultar CNH
-<p style="padding-left: 1vw">GOAL 1: encontrar a seção de habilitação da plataforma</p>
+<p style="padding-left: 1vw">GOAL 1: navegar até a seção de habilitação da plataforma</p>
 
 <p style="padding-left: 3vw">METHOD 1.A: Scroll(deslizar) do mouse para baixo ou cima</p>
 <p style="padding-left: 3vw">(SEL. RULE: o usuário está na página de veículos e prefere descer para baixo utilizando o scroll do mouse)</p>
@@ -235,7 +236,7 @@ GOAL 0: Consultar CNH
 ### 4.3 Solicitar CNH
 
 GOAL 0: Solicitar CNH
-<p style="padding-left: 1vw">GOAL 1: encontrar a seção de habilitação da plataforma</p>
+<p style="padding-left: 1vw">GOAL 1: navegar até a seção de habilitação da plataforma</p>
 
 <p style="padding-left: 3vw">METHOD 1.A: Scroll(deslizar) do mouse para baixo ou cima</p>
 <p style="padding-left: 3vw">(SEL. RULE: o usuário está na página de veículos e prefere descer para baixo utilizando o scroll do mouse)</p>
@@ -307,3 +308,4 @@ Com isso, pensando nas ações que os usuários definidos pelo [artefato de perf
 | `1.2`  | 05/05/2023 | Adição das imagens e atividades dos funcionários  | Pedro H. e João M. |  Carlos E. |
 | `1.3`  | 08/05/2023 | Descrição das atividades e correção de erros  | Pedro H. e João M. |  Carlos E. |
 | `1.4`  | 25/06/2023 | Adição de outra análise de tarefas  | Pedro H. |  Felipe M. |
+| `2.0`  | 30/06/2023 | Adição de outra análise de tarefas  | Pedro H., João M. e Carlos E. |  Pedro M. |
