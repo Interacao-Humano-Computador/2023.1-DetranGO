@@ -24,6 +24,12 @@ Essa análise foi desenvolvida para compreender as competências e habilidades e
 
 ## 3. Diagrama das Tarefas
 
+Foi escolhido três tarefas principais para se analisar neste artefato e ser o foco durante todo este projeto, as tarefas foram escolhidas por serem a mais comumente utilizadas pelos usuários do site do DETRAN, as tarefas são:
+
+- Consulta de CNH
+- Solicitação de CNH
+- Emissão do CRLV
+
 ### 3.1 Consulta de CNH
 
 Na tabela 1 é apresentado o HTA, e na figura 2 temos o diagrama da tarefa de consulta de CNH.
@@ -134,15 +140,15 @@ Com isso, dentre o conjunto de modelos GOMS (_Goals_, _Operators_, _Methods and 
 
 Dessa forma, esse modelo foi utilizado pensando nos seguintes objetivos:
 
--   Emitir CRLV-e
+-   Emitir CRLV
 -   Consultar CNH
 -   Solicitar CNH
 
 Essas tarefas foram analisadas a seguir:
 
-### 4.1 Emitir CRLV-e
+### 4.1 Emitir CRLV
 
-GOAL 0: Emitir CRLV-e
+GOAL 0: Emitir CRLV
 
 <p style="padding-left: 1vw">GOAL 1: Navegar até a seção de veículos da plataforma</p>
 <p style="padding-left: 3vw">OP. 1.1: Posicionar o cursor do mouse em cima do botão "Veículos" no topo da tela</p>
@@ -253,4 +259,5 @@ Com isso, pensando nas ações que os usuários definidos pelo [artefato de perf
 | `1.3`                            | 08/05/2023 | Descrição das atividades e correção de erros     | Pedro H. e João M.            | Carlos E.   |
 | `1.4`                            | 25/06/2023 | Adição de outra análise de tarefas               | Pedro H.                      | Felipe M.   |
 | `2.0`                            | 30/06/2023 | Adição de outra análise de tarefas               | Pedro H., João M. e Carlos E. | Pedro M.    |
-| `2.1`                            | 02/07/2023 | Correções e padronização do artefato             | Pedro H., João M. e Carlos E. | Pedro M.    |
+| `2.1`                            | 02/07/2023 | Adição dos diagramas e tabelas HTA               | Pedro H., João M. e Carlos E. | Pedro M.    |
+| `2.2`                            | 02/07/2023 | Correções e padronização do artefato             | Pedro H., João M. e Carlos E. | Pedro M.    |
