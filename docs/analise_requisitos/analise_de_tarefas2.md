@@ -17,171 +17,104 @@ Essa análise foi desenvolvida para compreender as competências e habilidades e
 <center>
 
 ![HTA](../assets/Analise_de_tarefas/elementos_HTA.png)
+
 **Figura 1: Análise Hierárquica de Tarefas[1] (Fonte: adaptado de BARBOSA (2021)).**
 
 </center>
 
 ## 3. Diagrama das Tarefas
 
-A análise foi realizada com o uso do site do DETRAN GO [2], sendo que parte das funcionalidades precisam de login para serem acessadas, outras podem ser utilizadas sem realizar essa autenticação As atividades para análise foram divididas em 2 seções principais:
-
-* Atividades de acesso na plataforma logada
-* Atividades fora do escopo de acesso da plataforma logada
-
-O diagrama completo pode ser observado na figura 2 e as seções nas figuras 3 e 4.
+### 3.1 Consulta de CNH
 
 <center>
 
-![Diagrama de tarefas](../assets/Analise_de_tarefas/diagrama-de-tarefas.png)
+| **Objetivos / Operações**      | **Problemas e Recomendações**                                                                                                                                                                                                                                                                                                 |
+|--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 0. Consultar CNH (1+2)         | input: Formulário de consulta de CNH, com o número de registro</br>feedback: Os dados da CNH consultada é exibida para o usuário</br>plano: Realizar a consulta baseado no número de registro e **depois** visualizar e permitir o download dos dados em PDF</br>recomendação: permitir a visualização do PDF antes de baixar |
+| 1. Informar número de Registro |                                                                                                                                                                                                                                                                                                                               |
+| 2. Ler os dados da CNH (1/2)   | plano: Disponibilizar os dados para visualização e permitir o download dos dados em PDF                                                                                                                                                                                                                                       |
+| 2.1 Baixar PDF dos dados       | problema: Não é possível visualizar o PDF antes de realizar o download</br>recomendação: Criar um input para visualização do PDF                                                                                                                                                                                              |
+| 2.2 Visualizar dados em PDF    |                                                                                                                                                                                                                                                                                                                               |
+| 2.3 Visualizar dados no site   | problema: Inconsistência em como os dados são apresentados em relação ao PDF gerado</br>recomendação: Padronizar a apresentação dos dados no PDF e no site                                                                                                                                                                    |
 
-**Figura 2: Diagrama de tarefas[3] (Fonte: Autores).**
-
-</center>
-
-### 3.1 Atividades de acesso na plataforma logada
-
-Na plataforma logada, as principais tarefas que o usuário pode realizar dependem de cada sessão em questão, sendo possível ter uma visão geral delas por meio do diagrama apresentado na figura 3. Assim, dividimos as tarefas em 3 seções, cada uma com objetivos específicos do usuário. Assim, temos 3 seções a serem analisadas: 
-
-* Seção de CNH
-* Seção de veículo 
-* Seção de infrações.
-
-<center> 
-
-![Atividades de acesso na plataforma logada](../assets/Analise_de_tarefas/atividades-logado-na-plataforma.png)
+**Tabela 1: HTA da consulta de CNH em tabela (Fonte: Autor (2023)).**
 
 </center>
-
-**Figura 3: Diagrama para Atividades de acesso na plataforma logada[3] (Fonte: Autores, 2023).**
-
-### 3.1.1 Tarefas da seção de CNH
-
-As tarefas possíveis nesta seção estão relacionadas com os objetivos que são apresentados na tabela e na figura 4 a seguir.
-
-### Representação em Tabela dos objetivos da seção de CNH
-
-| Objetivos/Operações | Descrição |
-|---------------------|---------------------------|
-| 1.2.1.1 Solicitar CNH | pode ser feita com a solicitação da primeira ou segunda via, além de ser possível solicitar a CNH definitiva |
-| 1.2.1.2 Renovar CNH | Pedido de renovação do CNH |
-| 1.2.1.3 Solicitar da PID | Pedido de solicitação da PID |
-| 1.2.1.4 Mudança de categoria |  Mudar categoria da CNH |
-| 1.2.1.5 Mudança de endereço | Mudar endereço do usuário |
 
 <center>
 
-![Seção de CNH](../assets/Analise_de_tarefas/secao_cnh.png)
+![Diagrama de consulta de CNH](../assets/Analise_de_tarefas/consultar-cnh.png)
+
+**Figura 2: Diagrama de consulta de CNH (Fonte: Autor (2023)).**
 
 </center>
 
-
-**Figura 4: Diagrama para atividades na seção de CNH[3] (Fonte: Autores, 2023).**
-
-### 3.1.2 Tarefas da seção de veículo
-
-As tarefas possíveis nesta seção estão relacionadas com os objetivos que são apresentados na tabela e na figura 5 a seguir.
-
-### Representação em Tabela dos objetivos da seção de veículo
-
-| Objetivos/Operações | Descrição |
-|---------------------|---------------------------|
-| 1.2.2.1 Emissão do CRLV-e| Emitir CRLV-e |
-| 1.2.2.2 Transferência de veículo | Pedido para transferência do veículo |
-| 1.2.2.3 Agendar vistoria de veículo | agendamento para a vistoria |
+### 3.2 Solicitação de CNH
 
 <center>
 
-![Seção de veículo](../assets/Analise_de_tarefas/secao_veiculo.png)
+| **Objetivos / Operações**                                  | **Problemas e Recomendações**                                                                                                                                                                                                                                                                                                                                                   |
+|------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 0. Solicitar CNH (1+2)                                     | input: Formulário de solicitação de CNH, com informações pessoais e endereço de moradia</br>feedback: Tela informando a confirmação da solicitação</br>plano: Informar todos os dados necessários e **depois** enviar a mensagem de confirmação da solicitação</br>recomendação: Salvar os dados que foram inseridos para caso haja interrupção do preenchimento do formulário  |
+| 1. Informar dados requisitados (1>2)                       | plano: Informar dados pessoais (Nome completo, CPF, Data de nascimento, Nome da Mãe, Nome do Pai, RG, Sexo, Estado civil, Nacionalidade, Telefone, Email) e endereço residencial (CEP, Logradouro, Bairro, Município, Unidade federativa)                                                                                                                                       |
+| 1.1 Informe os dados pessoais                              | problema: Caso o usuário seja interrompido de alguma maneira, os dados preenchidos anteriormente se perderão</br>recomendação: Realizar o armazenamento local dos dados inseridos antes de efetuar a solicitação                                                                                                                                                                |
+| 1.2 Informe o endereço residencial                         | problema: Caso o usuário seja interrompido de alguma maneira, os dados preenchidos anteriormente se perderão</br>recomendação: Realizar o armazenamento local dos dados inseridos antes de efetuar a solicitação                                                                                                                                                                |
+| 2. Selecionar categoria                                    |                                                                                                                                                                                                                                                                                                                                                                                 |
+| 3. Informar o centro de formação de condutores (CFC) (1>2) | plano: Informar qual centro de formação de condutores (CFC) o usuário realizou suas aulas                                                                                                                                                                                                                                                                                       |
+| 3.1 Informe o CFC técnico                                  | problema: O CFC precisa estar cadastrado no sistema do DETRAN para ser válido</br>recomendação: Fornecer uma lista de CFCs cadastrados e seleciona-los a partir de uma pesquisa                                                                                                                                                                                                 |
+| 3.2 Informe o CFC prático                                  | problema: O CFC precisa estar cadastrado no sistema do DETRAN para ser válido</br>recomendação: Fornecer uma lista de CFCs cadastrados e seleciona-los a partir de uma pesquisa                                                                                                                                                                                                 |
+| 4. Revisar os dados e efetuar o pagamento (1+2)            | plano: Disponibilizar todos os dados informados para revisão e informar como realizar o pagamento                                                                                                                                                                                                                                                                               |
+| 4.1 Revisar os dados informados (1/2)                      | plano: Disponibilizar inputs com os dados inseridos para revisar e a possibilidade de retornar para alterá-los                                                                                                                                                                                                                                                                  |
+| 4.1.1 Realizar alterações e confirmar os dados             | problema: Dependendo do caso, é necessário retornar várias etapas para realizar as alterações</br>recomendação: Permitir que os dados sejam alterados na tela de confirmação                                                                                                                                                                                                    |
+| 4.1.2 Confirmar os dados                                   |                                                                                                                                                                                                                                                                                                                                                                                 |
+| 4.2 Efetuar o pagamento                                    |                                                                                                                                                                                                                                                                                                                                                                                 |
+
+**Tabela 2: HTA da solicitação de CNH em tabela (Fonte: Autor (2023)).**
 
 </center>
 
-**Figura 5: Diagrama para atividades na seção de veículo[3] (Fonte: Autores, 2023).**
-
-### 3.1.3 Tarefas da seção de infrações
-
-As tarefas possíveis nesta seção estão relacionadas com os objetivos que são apresentados na tabela e na figura 6 a seguir.
-
-### Representação em Tabela dos objetivos da seção de infrações
-
-| Objetivos/Operações | Descrição |
-|---------------------|---------------------------|
-| 1.2.3.1 Transformar infração em advertência| Transformação da infração em advertência |
-| 1.2.3.2 Identificar condutor infrator | Identificação do condutor infrator |
-| 1.2.3.3 Consultar infrações | Verificar quais infrações foram feitas |
-
 <center>
 
-![Seção de infrações](../assets/Analise_de_tarefas/secao_infracoes.png)
+![Diagrama de solicitação de CNH](../assets/Analise_de_tarefas/solicitar-cnh.png)
+
+**Figura 3: Diagrama de solicitação de CNH (Fonte: Autor (2023)).**
 
 </center>
 
-**Figura 6: Diagrama para atividades na seção de infrações[3] (Fonte: Autores, 2023).**
-
-
-### 3.2 Atividades fora do escopo de acesso da plataforma logada
-
-As atividades fora do escopo estão descritas a seguir na figura 7, onde o usuário possui 5 ações possíveis:
-
-* Consultar veículo
-* Consultar CNH
-* Agendar atendimento
-* Consultar processos
-* Consultar estatísticas
+### 3.3 Emissão de CRLV
 
 <center>
 
-![Atividades fora do escopo de acesso da plataforma logada](../assets/Analise_de_tarefas/atividades-nao-logado.png)
+| **Objetivos / Operações**          | **Problemas e Recomendações**                                                                                                                                                                                                                                                                                                                       |
+|------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 0. Emissão de CRLV (1+2)           | input: Formulário de busca por veículo, com a placa do veículo e o Renvam</br>feedback: Apresentar os dados do veículo e informar que a emissão foi feita com sucesso</br>plano: Informar dados do veículo e **depois** enviar a mensagem de confirmação de emissão do CRLV</br>recomendação: Permitir que todo o processo seja realizado pelo site |
+| 1. Informar dados do veículo (1/2) | plano: Informar os dados do veículo para realizar a busca                                                                                                                                                                                                                                                                                           |
+| 1.1 Informar a placa do veículo    | problema: A placa deve ser inserida na formatação correta</br> recomendação: Alterar a formatação do texto conforme o usuário digita                                                                                                                                                                                                                |
+| 1.2 Informar o Renavam do veículo  | problema: O Renavam deve ser inserida na formatação correta</br> recomendação: Alterar a formatação do texto conforme o usuário digita                                                                                                                                                                                                              |
+| 2. Ler os dados do veículo         |                                                                                                                                                                                                                                                                                                                                                     |
+| 3. Baixar o CRLV                   |                                                                                                                                                                                                                                                                                                                                                     |
 
-**Figura 7: Diagrama para Atividades fora do escopo de acesso da plataforma logada[3] (Fonte: Autores).**
+**Tabela 3: HTA da emissão de CRLV em tabela (Fonte: Autor (2023)).**
 
 </center>
 
-### 3.2.1 Tarefa para consultar veículo
-
-Essas tarefas dependem do usuário informar a placa do veículo em questão assim como o renavam que o mesmo apresenta. Está representado essa tarefa a seguir na figura 8.
-
 <center>
 
-![Consultar veículo](../assets/Analise_de_tarefas/consultar_veiculo.png)
+![Diagrama de emissão de CRLV](../assets/Analise_de_tarefas/emissao-crlv.png)
+
+**Figura 4: Diagrama de emissão de CRLV (Fonte: Autor (2023)).**
 
 </center>
 
-**Figura 8: Diagrama para tarefa de consultar veículo[3] (Fonte: Autores, 2023).**
+### 3.4 Atividades dos funcionários do Detran
 
-### 3.2.2 Tarefa para consultar CNH
-
-Essas tarefa depende apenas do usuário informar o número de registro do documento, como pode ser visto na figura 9. Com isso, ele vai poder ser direcionado para uma página contendo a CNH na qual deseja consultar.
+Os funcionários do Detran são pessoas importantes para o funcionamento do Detran, pois as informações que o público têm acesso na plataforma precisam ser inseridas de alguma maneira, no caso do Detran, os funcionários possuem uma plataforma exclusiva e não vinculada diretamente ao sítio que estamos analisando, porém ambas plataformas utilizamos o mesmo banco de dados, é importante mencionar quais são as tarefas que estes fazem para manipular os dados, mas como a plataforma que utilizam não faz parte do escopo de análise desta equipe, nos limitaremos a apenas a jornada de usuário que pode ser observada na figura 5.
 
 <center>
 
-![Consultar CNH](../assets/Analise_de_tarefas/consultar_cnh.png)
+![Jornada do usuário - Funcionário do DETRAN](../assets/Analise_de_tarefas/analise-tarefas-funcionario.png)
 
-</center>
-
-**Figura 9: Diagrama para consultar CNH[3] (Fonte: Autores, 2023).**
-
-### 3.2.3 Tarefa para agendar atendimento
-
-Para realizar essa tarefa é preciso realizar ações sequenciais, descritas na figura 10. Vão desde informar o CPF até a ação de confirmar os dados para a geração de comprovante.
-
-<center>
-
-![Agendar atendimento](../assets/Analise_de_tarefas/agendar_atendimento.png)
-
-</center>
-
-**Figura 10: Diagrama para agendar atendimento[3] (Fonte: Autores, 2023).**
-
-
-### 3.3 Atividades dos funcionários do Detran
-
-Os funcionários do Detran são pessoas importantes para o funcionamento do Detran, pois as informações que o público têm acesso na plataforma precisam ser inseridas de alguma maneira, no caso do Detran, os funcionários possuem uma plataforma exclusiva e não vinculada diretamente ao sítio que estamos analisando, porém ambas plataformas utilizamos o mesmo banco de dados, é importante mencionar quais são as tarefas que estes fazem para manipular os dados, mas como a plataforma que utilizam não faz parte do escopo de análise desta equipe, nos limitaremos a apenas a análise de tarefas que pode ser observada na figura 12.
-
-<center>
-
-![Atividades fora do escopo de acesso da plataforma logada](../assets/Analise_de_tarefas/analise-tarefas-funcionario.png)
-
-**Figura 12: Diagrama para Atividades dos funcionários do Detran (Fonte: Autores).**
+**Figura 5: Jornada do usuário - Funcionário do DETRAN (Fonte: Autores).**
 
 </center>
 
@@ -303,7 +236,7 @@ Com isso, pensando nas ações que os usuários definidos pelo [artefato de perf
 
 | Versão | Data       | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ---------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  | 29/04/2023 | Criação do documento.              | Pedro H. |  João M. |
+| [`1.0`](./analise_de_tarefas.md)  | 29/04/2023 | Criação do documento.              | Pedro H. |  João M. |
 | `1.1`  | 05/05/2023 | Adição inicial do Diagrama da HTA  | Pedro H. e João M. |  Carlos E. |
 | `1.2`  | 05/05/2023 | Adição das imagens e atividades dos funcionários  | Pedro H. e João M. |  Carlos E. |
 | `1.3`  | 08/05/2023 | Descrição das atividades e correção de erros  | Pedro H. e João M. |  Carlos E. |
