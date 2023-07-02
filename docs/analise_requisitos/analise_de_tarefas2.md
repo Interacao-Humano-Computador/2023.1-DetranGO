@@ -6,7 +6,7 @@ Uma análise de tarefas é feita com o objetivo de buscar um entendimento sobre 
 
 A análise pode ser utilizada em três atividades habituais, em IHC. A primeira é a análise da situação atual (apoiada ou não por um sistema computacional), a segunda é para o (re)design de um sistema computacional e, por fim, para a avaliação do resultado de uma intervenção que inclua a introdução de um (novo) sistema computacional.
 
-Definir os objetivos das pessoas, em termos psicológicos, é um dos primeiros passos a serem feitos numa análise de tarefas. Ou seja, para cada objetivo, é feito uma listagem das atividades/ações feitas por um agente para alcançar esse objetivo. Segundo Diaper [1], quando há múltiplo agentes, recomenda-se representar as ações de cada agente a parte um do outro, fazendo isso em colunas diferentes. Além disso, Diaper ainda ressalta que, independentemente da forma como os dados para uma análise de tarefas forem coletados, só teremos uma simulação das verdadeiras tarefas de interesse. Já que apenas uma pequena porção do trabalho pode ser observada e também porque existem uma quantidade potencialmente infinita de tarefas realizadas por diferentes pessoas.
+Definir os objetivos das pessoas, em termos psicológicos, é um dos primeiros passos a serem feitos numa análise de tarefas. Ou seja, para cada objetivo, é feito uma listagem das atividades/ações feitas por um agente para alcançar esse objetivo. Segundo Diaper [1], quando há múltiplos agentes, recomenda-se representar as ações de cada agente a parte um do outro, fazendo isso em colunas diferentes. Além disso, Diaper ainda ressalta que, independentemente da forma como os dados para uma análise de tarefas forem coletados, só teremos uma simulação das verdadeiras tarefas de interesse. Já que apenas uma pequena porção do trabalho pode ser observada e também porque existem uma quantidade potencialmente infinita de tarefas realizadas por diferentes pessoas.
 
 Para o escopo do site escolhido pelo grupo, as tarefas foram avaliadas por meio da Análise Hierárquica de Tarefas (HTA - Hierarchical Task Analysis) e Objetivos, Operadores, Métodos e Regras de Seleção (GOMS) para analisar o desempenho de usuários competentes de sistemas computacionais.
 
@@ -26,16 +26,18 @@ Essa análise foi desenvolvida para compreender as competências e habilidades e
 
 ### 3.1 Consulta de CNH
 
+Na tabela 1 é apresentado o HTA, e na figura 2 temos o diagrama da tarefa de consulta de CNH.
+
 <center>
 
-| **Objetivos / Operações**      | **Problemas e Recomendações**                                                                                                                                                                                                                                                                                                 |
-|--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 0. Consultar CNH (1+2)         | input: Formulário de consulta de CNH, com o número de registro</br>feedback: Os dados da CNH consultada é exibida para o usuário</br>plano: Realizar a consulta baseado no número de registro e **depois** visualizar e permitir o download dos dados em PDF</br>recomendação: permitir a visualização do PDF antes de baixar |
-| 1. Informar número de Registro |                                                                                                                                                                                                                                                                                                                               |
-| 2. Ler os dados da CNH (1/2)   | plano: Disponibilizar os dados para visualização e permitir o download dos dados em PDF                                                                                                                                                                                                                                       |
-| 2.1 Baixar PDF dos dados       | problema: Não é possível visualizar o PDF antes de realizar o download</br>recomendação: Criar um input para visualização do PDF                                                                                                                                                                                              |
-| 2.2 Visualizar dados em PDF    |                                                                                                                                                                                                                                                                                                                               |
-| 2.3 Visualizar dados no site   | problema: Inconsistência em como os dados são apresentados em relação ao PDF gerado</br>recomendação: Padronizar a apresentação dos dados no PDF e no site                                                                                                                                                                    |
+| **Objetivos / Operações**      | **Problemas e Recomendações**                                                                                                                                                                                                                                                                                                                   |
+| ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0. Consultar CNH (1+2)         | **entrada:** Formulário de consulta de CNH, com o número de registro</br>**feedback:** Os dados da CNH consultada é exibida para o usuário</br>**plano:** Realizar a consulta baseado no número de registro e **depois** visualizar e permitir o download dos dados em PDF</br>**recomendação:** permitir a visualização do PDF antes de baixar |
+| 1. Informar número de Registro |                                                                                                                                                                                                                                                                                                                                                 |
+| 2. Ler os dados da CNH (1/2)   | **plano:** Disponibilizar os dados para visualização e permitir o download dos dados em PDF                                                                                                                                                                                                                                                     |
+| 2.1 Baixar PDF dos dados       | **problema:** Não é possível visualizar o PDF antes de realizar o download</br>**recomendação:** Criar um input para visualização do PDF                                                                                                                                                                                                        |
+| 2.2 Visualizar dados em PDF    |                                                                                                                                                                                                                                                                                                                                                 |
+| 2.3 Visualizar dados no site   | **problema:** Inconsistência em como os dados são apresentados em relação ao PDF gerado</br>**recomendação:** Padronizar a apresentação dos dados no PDF e no site                                                                                                                                                                              |
 
 **Tabela 1: HTA da consulta de CNH em tabela (Fonte: Autor (2023)).**
 
@@ -51,23 +53,25 @@ Essa análise foi desenvolvida para compreender as competências e habilidades e
 
 ### 3.2 Solicitação de CNH
 
+Na tabela 2 é apresentado o HTA, e na figura 3 temos o diagrama da tarefa de solicitação de CNH.
+
 <center>
 
-| **Objetivos / Operações**                                  | **Problemas e Recomendações**                                                                                                                                                                                                                                                                                                                                                   |
-|------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 0. Solicitar CNH (1+2)                                     | input: Formulário de solicitação de CNH, com informações pessoais e endereço de moradia</br>feedback: Tela informando a confirmação da solicitação</br>plano: Informar todos os dados necessários e **depois** enviar a mensagem de confirmação da solicitação</br>recomendação: Salvar os dados que foram inseridos para caso haja interrupção do preenchimento do formulário  |
-| 1. Informar dados requisitados (1>2)                       | plano: Informar dados pessoais (Nome completo, CPF, Data de nascimento, Nome da Mãe, Nome do Pai, RG, Sexo, Estado civil, Nacionalidade, Telefone, Email) e endereço residencial (CEP, Logradouro, Bairro, Município, Unidade federativa)                                                                                                                                       |
-| 1.1 Informe os dados pessoais                              | problema: Caso o usuário seja interrompido de alguma maneira, os dados preenchidos anteriormente se perderão</br>recomendação: Realizar o armazenamento local dos dados inseridos antes de efetuar a solicitação                                                                                                                                                                |
-| 1.2 Informe o endereço residencial                         | problema: Caso o usuário seja interrompido de alguma maneira, os dados preenchidos anteriormente se perderão</br>recomendação: Realizar o armazenamento local dos dados inseridos antes de efetuar a solicitação                                                                                                                                                                |
-| 2. Selecionar categoria                                    |                                                                                                                                                                                                                                                                                                                                                                                 |
-| 3. Informar o centro de formação de condutores (CFC) (1>2) | plano: Informar qual centro de formação de condutores (CFC) o usuário realizou suas aulas                                                                                                                                                                                                                                                                                       |
-| 3.1 Informe o CFC técnico                                  | problema: O CFC precisa estar cadastrado no sistema do DETRAN para ser válido</br>recomendação: Fornecer uma lista de CFCs cadastrados e seleciona-los a partir de uma pesquisa                                                                                                                                                                                                 |
-| 3.2 Informe o CFC prático                                  | problema: O CFC precisa estar cadastrado no sistema do DETRAN para ser válido</br>recomendação: Fornecer uma lista de CFCs cadastrados e seleciona-los a partir de uma pesquisa                                                                                                                                                                                                 |
-| 4. Revisar os dados e efetuar o pagamento (1+2)            | plano: Disponibilizar todos os dados informados para revisão e informar como realizar o pagamento                                                                                                                                                                                                                                                                               |
-| 4.1 Revisar os dados informados (1/2)                      | plano: Disponibilizar inputs com os dados inseridos para revisar e a possibilidade de retornar para alterá-los                                                                                                                                                                                                                                                                  |
-| 4.1.1 Realizar alterações e confirmar os dados             | problema: Dependendo do caso, é necessário retornar várias etapas para realizar as alterações</br>recomendação: Permitir que os dados sejam alterados na tela de confirmação                                                                                                                                                                                                    |
-| 4.1.2 Confirmar os dados                                   |                                                                                                                                                                                                                                                                                                                                                                                 |
-| 4.2 Efetuar o pagamento                                    |                                                                                                                                                                                                                                                                                                                                                                                 |
+| **Objetivos / Operações**                                  | **Problemas e Recomendações**                                                                                                                                                                                                                                                                                                                                                                |
+| ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0. Solicitar CNH (1+2)                                     | **entrada:** Formulário de solicitação de CNH, com informações pessoais e endereço de moradia</br>feedback: Tela informando a confirmação da solicitação</br>**plano:** Informar todos os dados necessários e **depois** enviar a mensagem de confirmação da solicitação</br>**recomendação:** Salvar os dados que foram inseridos para caso haja interrupção do preenchimento do formulário |
+| 1. Informar dados requisitados (1>2)                       | **plano:** Informar dados pessoais (Nome completo, CPF, Data de nascimento, Nome da Mãe, Nome do Pai, RG, Sexo, Estado civil, Nacionalidade, Telefone, Email) e endereço residencial (CEP, Logradouro, Bairro, Município, Unidade federativa)                                                                                                                                                |
+| 1.1 Informe os dados pessoais                              | **problema:** Caso o usuário seja interrompido de alguma maneira, os dados preenchidos anteriormente se perderão</br>**recomendação:** Realizar o armazenamento local dos dados inseridos antes de efetuar a solicitação                                                                                                                                                                     |
+| 1.2 Informe o endereço residencial                         | **problema:** Caso o usuário seja interrompido de alguma maneira, os dados preenchidos anteriormente se perderão</br>**recomendação:** Realizar o armazenamento local dos dados inseridos antes de efetuar a solicitação                                                                                                                                                                     |
+| 2. Selecionar categoria                                    |                                                                                                                                                                                                                                                                                                                                                                                              |
+| 3. Informar o centro de formação de condutores (CFC) (1>2) | **plano:** Informar qual centro de formação de condutores (CFC) o usuário realizou suas aulas                                                                                                                                                                                                                                                                                                |
+| 3.1 Informe o CFC técnico                                  | **problema:** O CFC precisa estar cadastrado no sistema do DETRAN para ser válido</br>**recomendação:** Fornecer uma lista de CFCs cadastrados e seleciona-los a partir de uma pesquisa                                                                                                                                                                                                      |
+| 3.2 Informe o CFC prático                                  | **problema:** O CFC precisa estar cadastrado no sistema do DETRAN para ser válido</br>**recomendação:** Fornecer uma lista de CFCs cadastrados e seleciona-los a partir de uma pesquisa                                                                                                                                                                                                      |
+| 4. Revisar os dados e efetuar o pagamento (1+2)            | **plano:** Disponibilizar todos os dados informados para revisão e informar como realizar o pagamento                                                                                                                                                                                                                                                                                        |
+| 4.1 Revisar os dados informados (1/2)                      | **plano:** Disponibilizar inputs com os dados inseridos para revisar e a possibilidade de retornar para alterá-los                                                                                                                                                                                                                                                                           |
+| 4.1.1 Realizar alterações e confirmar os dados             | **problema:** Dependendo do caso, é necessário retornar várias etapas para realizar as alterações</br>**recomendação:** Permitir que os dados sejam alterados na tela de confirmação                                                                                                                                                                                                         |
+| 4.1.2 Confirmar os dados                                   |                                                                                                                                                                                                                                                                                                                                                                                              |
+| 4.2 Efetuar o pagamento                                    |                                                                                                                                                                                                                                                                                                                                                                                              |
 
 **Tabela 2: HTA da solicitação de CNH em tabela (Fonte: Autor (2023)).**
 
@@ -83,16 +87,18 @@ Essa análise foi desenvolvida para compreender as competências e habilidades e
 
 ### 3.3 Emissão de CRLV
 
+Na tabela 3 é apresentado o HTA, e na figura 4 temos o diagrama da tarefa de emissão de CRLV.
+
 <center>
 
-| **Objetivos / Operações**          | **Problemas e Recomendações**                                                                                                                                                                                                                                                                                                                       |
-|------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 0. Emissão de CRLV (1+2)           | input: Formulário de busca por veículo, com a placa do veículo e o Renvam</br>feedback: Apresentar os dados do veículo e informar que a emissão foi feita com sucesso</br>plano: Informar dados do veículo e **depois** enviar a mensagem de confirmação de emissão do CRLV</br>recomendação: Permitir que todo o processo seja realizado pelo site |
-| 1. Informar dados do veículo (1/2) | plano: Informar os dados do veículo para realizar a busca                                                                                                                                                                                                                                                                                           |
-| 1.1 Informar a placa do veículo    | problema: A placa deve ser inserida na formatação correta</br> recomendação: Alterar a formatação do texto conforme o usuário digita                                                                                                                                                                                                                |
-| 1.2 Informar o Renavam do veículo  | problema: O Renavam deve ser inserida na formatação correta</br> recomendação: Alterar a formatação do texto conforme o usuário digita                                                                                                                                                                                                              |
-| 2. Ler os dados do veículo         |                                                                                                                                                                                                                                                                                                                                                     |
-| 3. Baixar o CRLV                   |                                                                                                                                                                                                                                                                                                                                                     |
+| **Objetivos / Operações**          | **Problemas e Recomendações**                                                                                                                                                                                                                                                                                                                                     |
+| ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0. Emissão de CRLV (1+2)           | **entrada:** Formulário de busca por veículo, com a placa do veículo e o Renvam</br>feedback: Apresentar os dados do veículo e informar que a emissão foi feita com sucesso</br>**plano:** Informar dados do veículo e **depois** enviar a mensagem de confirmação de emissão do CRLV</br>**recomendação:** Permitir que todo o processo seja realizado pelo site |
+| 1. Informar dados do veículo (1/2) | **plano:** Informar os dados do veículo para realizar a busca                                                                                                                                                                                                                                                                                                     |
+| 1.1 Informar a placa do veículo    | **problema:** A placa deve ser inserida na formatação correta</br> **recomendação:** Alterar a formatação do texto conforme o usuário digita                                                                                                                                                                                                                      |
+| 1.2 Informar o Renavam do veículo  | **problema:** O Renavam deve ser inserida na formatação correta</br> **recomendação:** Alterar a formatação do texto conforme o usuário digita                                                                                                                                                                                                                    |
+| 2. Ler os dados do veículo         |                                                                                                                                                                                                                                                                                                                                                                   |
+| 3. Baixar o CRLV                   |                                                                                                                                                                                                                                                                                                                                                                   |
 
 **Tabela 3: HTA da emissão de CRLV em tabela (Fonte: Autor (2023)).**
 
@@ -119,77 +125,81 @@ Os funcionários do Detran são pessoas importantes para o funcionamento do Detr
 </center>
 
 ## 4. Objetivos, Operadores, Métodos e Regras de Seleção (GOMS)
-De acordo com Barbosa et al[1], este é um método para descrever uma tarefa e o conhecimento do usuário sobre como realizá-la em termos de objetivos (*goals*), operadores (*operators*), métodos (*methods*) e regras de seleção (*selection rules*). 
+
+De acordo com Barbosa et al[1], este é um método para descrever uma tarefa e o conhecimento do usuário sobre como realizá-la em termos de objetivos (_goals_), operadores (_operators_), métodos (_methods_) e regras de seleção (_selection rules_).
 
 Em termos gerais, os **objetivos** representam o que o usuário quer realizar utilizando o software, os **operadores** são as ações que o usuário pode fazer (primitivas internas/cognitivas) e as ações que o software permite que o usuário faça (primitivas externas). Os **métodos** são sequências bem conhecidas de subobjetivos e operadores que permitem atingir um objetivo maior. Quando há mais do que um método para atingir um mesmo objetivo, são necessárias **regras de seleção**, que representam tomadas de decisão dos usuários sobre qual método utilizar numa determinada situação.
 
-Com isso, dentre o conjunto de modelos GOMS (*Goals*, *Operators*, *Methods and Selection Rules* - Objetivos, Operadores, Métodos e Regras de Seleção), foi escolhido o modelo CMN-GOMS[1] o qual foi proposto para dividir as tarefas de acordo com os objetivos, onde cada objetivo apresenta um método e cada método descreve operações a serem realizadas, também podendo apresentar as regras de seleção. 
+Com isso, dentre o conjunto de modelos GOMS (_Goals_, _Operators_, _Methods and Selection Rules_ - Objetivos, Operadores, Métodos e Regras de Seleção), foi escolhido o modelo CMN-GOMS[1] o qual foi proposto para dividir as tarefas de acordo com os objetivos, onde cada objetivo apresenta um método e cada método descreve operações a serem realizadas, também podendo apresentar as regras de seleção.
 
-Dessa forma, esse modelo foi utilizado pensando nos seguintes objetivos: 
+Dessa forma, esse modelo foi utilizado pensando nos seguintes objetivos:
 
-* Emitir CRLV-e
-* Consultar CNH
-* Solicitar CNH
+-   Emitir CRLV-e
+-   Consultar CNH
+-   Solicitar CNH
 
 Essas tarefas foram analisadas a seguir:
 
 ### 4.1 Emitir CRLV-e
 
 GOAL 0: Emitir CRLV-e
-<p style="padding-left: 1vw">GOAL 1: navegar até a seção de veículos da plataforma</p>
-<p style="padding-left: 3vw">OP. 1.1: posicionar o cursor do mouse em cima do botão "Veículos" no topo da tela</p>
-<p style="padding-left: 3vw">OP. 1.2: clicar no botão "Veículos" </p>
-<p style="padding-left: 1vw">GOAL 2: consultar a Emissão de CRLV </p>
-<p style="padding-left: 3vw">OP. 2.1: inserir dado de placa do veículo no campo obrigatório </p>
-<p style="padding-left: 3vw">OP. 2.2: inserir dado de RENAVAM do veículo no campo obrigatório </p>
-<p style="padding-left: 3vw">OP. 2.3: posicionar o cursor do mouse em cima sobre o botão "Consultar" </p>
-<p style="padding-left: 3vw">OP. 2.4: clicar no botão "Consultar" </p>
-<p style="padding-left: 1vw">GOAL 3: baixar o CRLV-A4  </p>
-<p style="padding-left: 3vw">OP. 3.1: clicar no botão "Emitir CRLV-A4"</p>
-<p style="padding-left: 3vw">OP. 3.2: clicar no botão "Baixar CRLV-A4" </p>
+
+<p style="padding-left: 1vw">GOAL 1: Navegar até a seção de veículos da plataforma</p>
+<p style="padding-left: 3vw">OP. 1.1: Posicionar o cursor do mouse em cima do botão "Veículos" no topo da tela</p>
+<p style="padding-left: 3vw">OP. 1.2: Clicar no botão "Veículos" </p>
+<p style="padding-left: 1vw">GOAL 2: Consultar a Emissão de CRLV </p>
+<p style="padding-left: 3vw">OP. 2.1: Inserir dado de placa do veículo no campo obrigatório </p>
+<p style="padding-left: 3vw">OP. 2.2: Inserir dado de RENAVAM do veículo no campo obrigatório </p>
+<p style="padding-left: 3vw">OP. 2.3: Posicionar o cursor do mouse em cima sobre o botão "Consultar" </p>
+<p style="padding-left: 3vw">OP. 2.4: Clicar no botão "Consultar" </p>
+<p style="padding-left: 1vw">GOAL 3: Baixar o CRLV-A4  </p>
+<p style="padding-left: 3vw">OP. 3.1: Clicar no botão "Emitir CRLV-A4"</p>
+<p style="padding-left: 3vw">OP. 3.2: Clicar no botão "Baixar CRLV-A4" </p>
 
 ### 4.2 Consultar CNH
 
 GOAL 0: Consultar CNH
-<p style="padding-left: 1vw">GOAL 1: navegar até a seção de habilitação da plataforma</p>
+
+<p style="padding-left: 1vw">GOAL 1: Navegar até a seção de habilitação da plataforma</p>
 
 <p style="padding-left: 3vw">METHOD 1.A: Scroll(deslizar) do mouse para baixo ou cima</p>
-<p style="padding-left: 3vw">(SEL. RULE: o usuário está na página de veículos e prefere descer para baixo utilizando o scroll do mouse)</p>
+<p style="padding-left: 3vw">(SEL. RULE: O usuário está na página de veículos e prefere descer para baixo utilizando o scroll do mouse)</p>
 <p style="padding-left: 5vw">OP. 1.A.1: Deslizar o scroll do mouse para baixo</p>
 
 <p style="padding-left: 3vw">METHOD 1.B: Botão na barra de navegação </p>
-<p style="padding-left: 3vw">(SEL. RULE: o usuário está na página de veículos e prefere clicar em um botão)</p>
-<p style="padding-left: 5vw">OP. 1.B.1: posicionar o cursor do mouse em cima do botão "Habilitação" no topo da tela</p>
-<p style="padding-left: 5vw">OP. 1.B.2: clicar no botão "Habilitação" </p>
+<p style="padding-left: 3vw">(SEL. RULE: O usuário está na página de veículos e prefere clicar em um botão)</p>
+<p style="padding-left: 5vw">OP. 1.B.1: Posicionar o cursor do mouse em cima do botão "Habilitação" no topo da tela</p>
+<p style="padding-left: 5vw">OP. 1.B.2: Clicar no botão "Habilitação" </p>
 
-<p style="padding-left: 1vw">GOAL 2: inserir número de registro da CNH para consulta </p>
-<p style="padding-left: 3vw">OP. 2.1: inserir dado do número de registro da CNH no campo estabelecido </p>
-<p style="padding-left: 3vw">OP. 2.2: clicar no botão "Consultar" </p>
+<p style="padding-left: 1vw">GOAL 2: Inserir número de registro da CNH para consulta </p>
+<p style="padding-left: 3vw">OP. 2.1: Inserir dado do número de registro da CNH no campo estabelecido </p>
+<p style="padding-left: 3vw">OP. 2.2: Clicar no botão "Consultar" </p>
 
 ### 4.3 Solicitar CNH
 
 GOAL 0: Solicitar CNH
-<p style="padding-left: 1vw">GOAL 1: navegar até a seção de habilitação da plataforma</p>
+
+<p style="padding-left: 1vw">GOAL 1: Navegar até a seção de habilitação da plataforma</p>
 
 <p style="padding-left: 3vw">METHOD 1.A: Scroll(deslizar) do mouse para baixo ou cima</p>
-<p style="padding-left: 3vw">(SEL. RULE: o usuário está na página de veículos e prefere descer para baixo utilizando o scroll do mouse)</p>
+<p style="padding-left: 3vw">(SEL. RULE: O usuário está na página de veículos e prefere descer para baixo utilizando o scroll do mouse)</p>
 <p style="padding-left: 5vw">OP. 1.A.1: Deslizar o scroll do mouse para baixo</p>
 
 <p style="padding-left: 3vw">METHOD 1.B: Botão na barra de navegação </p>
-<p style="padding-left: 3vw">(SEL. RULE: o usuário está na página de veículos e prefere clicar em um botão)</p>
-<p style="padding-left: 5vw">OP. 1.B.1: posicionar o cursor do mouse em cima do botão "Habilitação" no topo da tela</p>
-<p style="padding-left: 5vw">OP. 1.B.2: clicar no botão "Habilitação" </p>
+<p style="padding-left: 3vw">(SEL. RULE: O usuário está na página de veículos e prefere clicar em um botão)</p>
+<p style="padding-left: 5vw">OP. 1.B.1: Posicionar o cursor do mouse em cima do botão "Habilitação" no topo da tela</p>
+<p style="padding-left: 5vw">OP. 1.B.2: Clicar no botão "Habilitação" </p>
 
 <p style="padding-left: 1vw">GOAL 2: Começar em botão a solicitação da primeira CNH </p>
-<p style="padding-left: 3vw">OP. 2.1: clicar no link "Primeira CNH" dentro da aba de "Outros Serviços" </p>
-<p style="padding-left: 3vw">OP. 2.2: clicar no botão "Avançar" na página de Primeira CNH </p>
+<p style="padding-left: 3vw">OP. 2.1: Clicar no link "Primeira CNH" dentro da aba de "Outros Serviços" </p>
+<p style="padding-left: 3vw">OP. 2.2: Clicar no botão "Avançar" na página de Primeira CNH </p>
 
 <p style="padding-left: 1vw">GOAL 3: Identificar-se para o sistema </p>
 <p style="padding-left: 3vw">OP. 3.1: Preencher campo de CPF </p>
 <p style="padding-left: 3vw">OP. 3.2: Preencher campo de data de nascimento </p>
 <p style="padding-left: 3vw">OP. 3.3: Preencher campo de nome </p>
 <p style="padding-left: 3vw">OP. 3.4: Preencher campo de nome da mãe </p>
-<p style="padding-left: 3vw">OP. 3.5: clicar no botão "Avançar" </p>
+<p style="padding-left: 3vw">OP. 3.5: Clicar no botão "Avançar" </p>
 
 <p style="padding-left: 1vw">GOAL 4: Preencher dados  pessoais e endereço </p>
 <p style="padding-left: 3vw">OP. 4.1: Preencher campo de nome do Pai </p>
@@ -208,20 +218,21 @@ GOAL 0: Solicitar CNH
 <p style="padding-left: 3vw">OP. 4.14: Preencher campo de número</p>
 <p style="padding-left: 3vw">OP. 4.15: Preencher campo de telefone </p>
 <p style="padding-left: 3vw">OP. 4.16: Preencher campo de E-mail </p>
-<p style="padding-left: 3vw">OP. 4.17: clicar no botão "Avançar" </p>
+<p style="padding-left: 3vw">OP. 4.17: Clicar no botão "Avançar" </p>
 
 <p style="padding-left: 1vw">GOAL 5: Informar categoria da CNH </p>
-<p style="padding-left: 3vw">OP. 5.1: escolher por meio das opções do botão a categoria </p>
-<p style="padding-left: 3vw">OP. 5.2: clicar no botão "Avançar" </p>
+<p style="padding-left: 3vw">OP. 5.1: Escolher por meio das opções do botão a categoria </p>
+<p style="padding-left: 3vw">OP. 5.2: Clicar no botão "Avançar" </p>
 
 <p style="padding-left: 1vw">GOAL 6: Escolher CFC (Opcional) </p>
-<p style="padding-left: 3vw">OP. 6.1: escolher por meio das opções do botão a CFC </p>
-<p style="padding-left: 3vw">OP. 6.2: clicar no botão "Avançar" </p>
+<p style="padding-left: 3vw">OP. 6.1: Escolher por meio das opções do botão a CFC </p>
+<p style="padding-left: 3vw">OP. 6.2: Clicar no botão "Avançar" </p>
 
 <p style="padding-left: 1vw">GOAL 7: Emitir boleto para pagamento </p>
 <p style="padding-left: 3vw">OP. 7.1: Clicar no botão para emitir o boleto </p>
 
 ## 5. Conclusão
+
 Com isso, pensando nas ações que os usuários definidos pelo [artefato de perfil de usuário](./perfilUsuario.md), foi possível realizar a análise das principais tarefas que os usuários podem realizar dentro do site do Detran-GO por meio das duas técnicas propostas neste artefato.
 
 ## 6. Bibliografia
@@ -234,11 +245,12 @@ Com isso, pensando nas ações que os usuários definidos pelo [artefato de perf
 
 ## 7. Histórico de Versão
 
-| Versão | Data       | Descrição                          | Autor(es)     |  Revisor(es)  |
-| ------ | ---------- | ---------------------------------- | ------------- | ------------- |
-| [`1.0`](./analise_de_tarefas.md)  | 29/04/2023 | Criação do documento.              | Pedro H. |  João M. |
-| `1.1`  | 05/05/2023 | Adição inicial do Diagrama da HTA  | Pedro H. e João M. |  Carlos E. |
-| `1.2`  | 05/05/2023 | Adição das imagens e atividades dos funcionários  | Pedro H. e João M. |  Carlos E. |
-| `1.3`  | 08/05/2023 | Descrição das atividades e correção de erros  | Pedro H. e João M. |  Carlos E. |
-| `1.4`  | 25/06/2023 | Adição de outra análise de tarefas  | Pedro H. |  Felipe M. |
-| `2.0`  | 30/06/2023 | Adição de outra análise de tarefas  | Pedro H., João M. e Carlos E. |  Pedro M. |
+| Versão                           | Data       | Descrição                                        | Autor(es)                     | Revisor(es) |
+| -------------------------------- | ---------- | ------------------------------------------------ | ----------------------------- | ----------- |
+| [`1.0`](./analise_de_tarefas.md) | 29/04/2023 | Criação do documento.                            | Pedro H.                      | João M.     |
+| `1.1`                            | 05/05/2023 | Adição inicial do Diagrama da HTA                | Pedro H. e João M.            | Carlos E.   |
+| `1.2`                            | 05/05/2023 | Adição das imagens e atividades dos funcionários | Pedro H. e João M.            | Carlos E.   |
+| `1.3`                            | 08/05/2023 | Descrição das atividades e correção de erros     | Pedro H. e João M.            | Carlos E.   |
+| `1.4`                            | 25/06/2023 | Adição de outra análise de tarefas               | Pedro H.                      | Felipe M.   |
+| `2.0`                            | 30/06/2023 | Adição de outra análise de tarefas               | Pedro H., João M. e Carlos E. | Pedro M.    |
+| `2.1`                            | 02/07/2023 | Correções e padronização do artefato             | Pedro H., João M. e Carlos E. | Pedro M.    |
