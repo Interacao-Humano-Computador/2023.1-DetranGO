@@ -61,12 +61,12 @@ Esta seção explora perguntas específicas para a análise hierárquica de tabe
 
 ##### 3.2.2.1 Avaliar a conformidade com um padrão
 
-A tabela 2 compila perguntas relacionadas ao primeiro objetivo da avaliação para o HTA. As perguntas são baseadas na tabela 11.1 do livro de Interação Humano-Computador por Barbosa et al. (2021) [4], e foram adaptadas a fim de representar melhor o conteúdo de uma análise hierárquica de tarefas, também com base no mesmo livro.
+A tabela 2 compila perguntas relacionadas ao primeiro objetivo da avaliação para o HTA. As perguntas são baseadas na tabela 11.1 do livro de Interação Humano-Computador por Barbosa et al. (2021) [4], e foram adaptadas a fim de representar melhor o conteúdo de uma análise hierárquica de tarefas, também com base no mesmo livro. Esta tabela deve ser preenchida pelo entrevistador.
 
 
 | **Número** | **Pergunta** | **Possível resposta** | **Observações** |
 |--|--|--|--|
-| 1 | Cada tarefa tem definido um input e um feedback esperado? Quantos não possuem?| Sim/Não + Resposta aberta| - |
+| 1 | Cada tarefa tem definido um input e um feedback esperado condizente? Quantas não possuem?| Sim/Não + Resposta aberta| - |
 | 2 | Os planos possuem como característica os subobjetivos pelos quais são compostos? Quantos não possuem? | Sim/Não + Resposta aberta | - |
 | 3 | O objetivo de cada tarefa é quantificável? Quais não são?| Sim/Não + Resposta aberta | - |
 | 4 | Os níveis mais baixos do HTA são marcados de maneira diferente dos outros? Quais não são?| Sim/Não + Resposta aberta | - |
@@ -79,7 +79,7 @@ Tabela 2: Perguntas para o HTA elaboradas para o objetivo 1 (Fonte: adaptado de 
 
 ##### 3.2.2.2 Identificar problemas na interação e na interface
 
-A tabela 3 compila perguntas relacionadas ao segundo objetivo da avaliação para o HTA. As perguntas são baseadas na tabela 11.1 do livro de Interação Humano-Computador por Barbosa et al. (2021) [4], e foram adaptadas a fim de representar melhor o conteúdo de uma análise hierárquica de tarefas, também com base no mesmo livro.
+A tabela 3 compila perguntas relacionadas ao segundo objetivo da avaliação para o HTA. As perguntas são baseadas na tabela 11.1 do livro de Interação Humano-Computador por Barbosa et al. (2021) [4], e foram adaptadas a fim de representar melhor o conteúdo de uma análise hierárquica de tarefas, também com base no mesmo livro. Esta tabela deve ser preenchida pelo entrevistador.
 
 | **Número** | **Pergunta** | **Possível resposta** | **Observações** |
 |--|--|--|--|
@@ -87,7 +87,6 @@ A tabela 3 compila perguntas relacionadas ao segundo objetivo da avaliação par
 | 2 | Há operações que não auxiliam na obtenção do objetivo? Quantas? | Sim/Não + Resposta aberta | A existência de operações sem objetivo claro é um erro grave |
 | 3 | Todas as operações são de fácil compreensão? Quais não são? | Sim/Não + Resposta aberta | - |
 | 4 | Os planos definidos permitem um claro entendimento dos subobjetivos a serem atingidos? Quais não permitem? | Sim/Não + Resposta aberta | - |
-| 5 | Os subobjetivos definidos são mutuamente exclusivos e exaustivos (isto é, são autocontidos, não se sobrepondo e definem por completo o objetivo a que estão subordinados)? Se houver subobjetivos que desrespeitem esta definição, quantos existem? | Sim/Não + Resposta aberta | A existência de subobjetivos que se sobreponham ou que não satisfaçam completamente o objetivo a que estão subordinados é um erro grave |
 
 <center>
 
@@ -97,7 +96,7 @@ Tabela 3: Perguntas para o HTA elaboradas para o objetivo 3 (Fonte: adaptado de 
 
 ##### 3.2.2.3 Comparar ideias e alternativas de design
 
-A tabela 4 compila perguntas relacionadas ao terceiro objetivo da avaliação para o HTA. As perguntas são baseadas na tabela 11.1 do livro de Interação Humano-Computador por Barbosa et al. (2021) [4], e foram adaptadas a fim de representar melhor o conteúdo de uma análise hierárquica de tarefas, também com base no mesmo livro.
+A tabela 4 compila perguntas relacionadas ao terceiro objetivo da avaliação para o HTA. As perguntas são baseadas na tabela 11.1 do livro de Interação Humano-Computador por Barbosa et al. (2021) [4], e foram adaptadas a fim de representar melhor o conteúdo de uma análise hierárquica de tarefas, também com base no mesmo livro. Esta tabela deve ser preenchida pelo entrevistador.
 
 | **Número** | **Pergunta** | **Possível resposta** | **Observações** |
 |--|--|--|--|
@@ -121,7 +120,7 @@ Esta seção explora perguntas específicas para o CMN-GOMS, a fim de avaliá-lo
 
 ##### 3.2.3.1 Avaliar a conformidade com um padrão
 
-A tabela 5 compila perguntas relacionadas ao primeiro objetivo da avaliação para o CMN-GOMS. As perguntas são baseadas na tabela 11.1 do livro de Interação Humano-Computador por Barbosa et al. (2021) [4], e foram adaptadas a fim de representar melhor o conteúdo de uma análise de tarefas GOMS, também com base no mesmo livro.
+A tabela 5 compila perguntas relacionadas ao primeiro objetivo da avaliação para o CMN-GOMS. As perguntas são baseadas na tabela 11.1 do livro de Interação Humano-Computador por Barbosa et al. (2021) [4], e foram adaptadas a fim de representar melhor o conteúdo de uma análise de tarefas GOMS, também com base no mesmo livro. Esta tabela deve ser preenchida pelo entrevistador.
 
 | **Número** | **Pergunta** | **Possível resposta** | **Observações** |
 |--|--|--|--|
@@ -140,13 +139,13 @@ Tabela 5: Perguntas para o CMN-GOMS elaboradas para o objetivo 1 (Fonte: adaptad
 
 ##### 3.2.3.2 Identificar problemas na interação e na interface
 
-A tabela 6 compila perguntas relacionadas ao segundo objetivo da avaliação para o CMN-GOMS. As perguntas são baseadas na tabela 11.1 do livro de Interação Humano-Computador por Barbosa et al. (2021) [4], e foram adaptadas a fim de representar melhor o conteúdo de uma análise de tarefas GOMS, também com base no mesmo livro.
+A tabela 6 compila perguntas relacionadas ao segundo objetivo da avaliação para o CMN-GOMS. As perguntas são baseadas na tabela 11.1 do livro de Interação Humano-Computador por Barbosa et al. (2021) [4], e foram adaptadas a fim de representar melhor o conteúdo de uma análise de tarefas GOMS, também com base no mesmo livro. Esta tabela deve ser preenchida pelo entrevistador.
 
 
 | **Número** | **Pergunta** | **Possível resposta** | **Observações** |
 |--|--|--|--|
 | 1 | A tarefa representada é executável? Quais partes não são executáveis sequencialmente? | Sim/Não + Resposta aberta | - |
-| 2 | Cada objetivo definido dentro da tarefá é atingido? Se não, quantas vezes não são atingidos? Por quê? | Sim/Não + Resposta aberta | - |
+| 2 | Cada objetivo definido dentro da tarefa é atingido? Se não, quantas vezes não são atingidos? Por quê? | Sim/Não + Resposta aberta | - |
 | 3 | O tamanho dos métodos para atingir um objetivo é satisfatório? Que métodos não tem o tamanho ideal? | Sim/Não + Resposta aberta | - |
 | 4 | Cada método e seus subelementos (regras de seleção e operadores) são compreensíveis? Quais não são? Por qual razão? | Sim/Não + Resposta aberta | - |
 | 5 | Dentro de cada objetivo, há elementos que não o suportam (isto é, não ajudam em sua obtenção)? Quantos? | Sim/Não + Resposta aberta | - |
@@ -159,7 +158,7 @@ Tabela 6: Perguntas para o CMN-GOMS elaboradas para o objetivo 2 (Fonte: adaptad
 
 ##### 3.2.3.3 Comparar ideias e alternativas de design
 
-A tabela 7 compila perguntas relacionadas ao terceiro objetivo da avaliação para o CMN-GOMS. As perguntas são baseadas na tabela 11.1 do livro de Interação Humano-Computador por Barbosa et al. (2021) [4], e foram adaptadas a fim de representar melhor o conteúdo de uma análise de tarefas GOMS, também com base no mesmo livro.
+A tabela 7 compila perguntas relacionadas ao terceiro objetivo da avaliação para o CMN-GOMS. As perguntas são baseadas na tabela 11.1 do livro de Interação Humano-Computador por Barbosa et al. (2021) [4], e foram adaptadas a fim de representar melhor o conteúdo de uma análise de tarefas GOMS, também com base no mesmo livro. Esta tabela deve ser preenchida pelo entrevistador.
 
 
 | **Número** | **Pergunta** | **Possível resposta** | **Observações** |
@@ -178,7 +177,7 @@ Tabela 7: Perguntas para o CMN-GOMS elaboradas para o objetivo 3 (Fonte: adaptad
 
 ### 3.3 C: Escolher (Choose) os métodos de avaliação a serem utilizados
 
-O método escolhido para avaliar é a investigação a partir de entrevistas. A partir das respostas obtidas para as perguntas, uma análise das mesmas será conduzida a fim de determinar resultados da avaliação. Este método é ótimo para entender o que e como o usuário se sente ao falar sobre determinada atividade e proverá informações importantes para que o designer possa tomar decisões conscientes quanto ao público que deve atender.
+O método escolhido para avaliar é a investigação através de entrevistas. A partir das respostas obtidas para as perguntas, uma análise das mesmas será conduzida a fim de determinar resultados da avaliação. Este método é ótimo para entender o que e como o usuário se sente ao falar sobre determinada atividade e proverá informações importantes para que o designer possa tomar decisões conscientes quanto ao público que deve atender.
 
 ### 3.4 I: Identificar e administrar as questões práticas da avaliação
 
