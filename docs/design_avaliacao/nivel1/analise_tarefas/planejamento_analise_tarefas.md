@@ -27,6 +27,12 @@ Para a avaliação das análises de tarefas desenvolvidas em [artefato anterior]
 - 2: **Identificar problemas na interação e na interface**: Deve-se avaliar se a interação representada nas análises são eficientes e claras ao usuário, não impondo obstáculos e permitindo um uso adequado e que atinja os objetivos propostos em cada tarefa.
 - 3: **Comparar ideias e alternativas de design**: As análises devem também ser avaliadas a fim de se considerá-las por outros ângulos e obter novas possibilidades para a execução de tarefas.
 
+Para esta avaliação, serão avaliados os diagramas e análises referentes às tarefas a seguir:
+
+- Solicitar CNH;
+- Consultar CNH;
+- Emitir CRLV.
+
 ### 3.2 E: Explorar perguntas a serem respondidas com a avaliação
 
 A avaliação da análise de tarefas será balizada pelas perguntas a serem respondidas a partir da execução da avaliação. A seguir estão descritas as perguntas elaboradas discriminadas por seu objetivo.
