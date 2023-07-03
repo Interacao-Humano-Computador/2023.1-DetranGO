@@ -68,8 +68,7 @@ A tabela 2 compila perguntas relacionadas ao primeiro objetivo da avaliação pa
 |--|--|--|--|
 | 1 | Cada tarefa tem definido um input e um feedback esperado condizente? Quantas não possuem?| Sim/Não + Resposta aberta| - |
 | 2 | Os planos possuem como característica os subobjetivos pelos quais são compostos? Quantos não possuem? | Sim/Não + Resposta aberta | - |
-| 3 | O objetivo de cada tarefa é quantificável? Quais não são?| Sim/Não + Resposta aberta | - |
-| 4 | Os níveis mais baixos do HTA são marcados de maneira diferente dos outros? Quais não são?| Sim/Não + Resposta aberta | - |
+| 3 | Os níveis mais baixos do HTA são marcados de maneira diferente dos outros? Quais não são?| Sim/Não + Resposta aberta | - |
 
 <center>
 
@@ -124,11 +123,10 @@ A tabela 5 compila perguntas relacionadas ao primeiro objetivo da avaliação pa
 
 | **Número** | **Pergunta** | **Possível resposta** | **Observações** |
 |--|--|--|--|
-| 1 | É definida uma hierarquia estrita de objetivos? | Sim/Não | - |
-| 2 | Os operadores são sempre executados de maneira sequencial? Onde não são? | Sim/Não + Resposta aberta | - |
-| 3 | Os métodos, em sua representação, possuem submétodos e/ou condicionais? | Sim/Não | - |
-| 4 | As regras de seleção representam a tomada de decisão do usuário sobre qual método utilizar em determinada situação? Onde não representam? | Sim/Não + Resposta aberta | - |
-| 5 | Os operadores representam ações concretas permitidas pelo sistema? Onde não representam? | Sim/Não + Resposta aberta | - |
+| 1 | Os operadores são sempre executados de maneira sequencial? Onde não são? | Sim/Não + Resposta aberta | - |
+| 2 | Os métodos, em sua representação, possuem submétodos e/ou condicionais? | Sim/Não | - |
+| 3 | As regras de seleção representam a tomada de decisão do usuário sobre qual método utilizar em determinada situação? Onde não representam? | Sim/Não + Resposta aberta | - |
+| 4 | Os operadores representam ações concretas permitidas pelo sistema? Onde não representam? | Sim/Não + Resposta aberta | - |
 
 
 <center>
@@ -167,7 +165,7 @@ A tabela 7 compila perguntas relacionadas ao terceiro objetivo da avaliação pa
 | 2 | Há operações que podem ser alteradas ou removidas? Quais? | Sim/Não + Resposta aberta | - |
 | 3 | Há objetivos descritos que possam ser alterados ou removidos sem dano ao objetivo principal da tarefa? Quais? | Sim/Não + Resposta aberta | - |
 | 4 | Há regras de seleção para os métodos que podem ser alteradas ou removidas para a melhor execução dos operadores? Quais? | Sim/Não + Resposta aberta | - |
-| 5 | Das alternativas apresentadas, há alguma de maior eficiência ou mais fácil aprendizado? Por quê? | Sim/Não + Resposta aberta | - |
+| 5 | Das alternativas apresentadas, há alguma de maior eficiência ou mais fácil aprendizado? Por quê? | Resposta aberta | - |
 
 <center>
 
