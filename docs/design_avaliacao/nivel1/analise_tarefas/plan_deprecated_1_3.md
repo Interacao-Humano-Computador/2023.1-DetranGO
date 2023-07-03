@@ -1,4 +1,4 @@
-# Análise de Tarefas - Planejamento da avaliação
+# Análise de Tarefas - Planejamento da avaliação - Versão 1.3
 
 ## 1. Introdução
 

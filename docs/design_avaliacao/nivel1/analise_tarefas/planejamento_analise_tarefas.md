@@ -60,7 +60,7 @@ A tabela 2 compila perguntas relacionadas ao primeiro objetivo da avaliação pa
 
 | **Número** | **Pergunta** | **Possível resposta** | **Observações** |
 |--|--|--|--|
-| 1 | Cada objetivo tem definido um input e um feedback esperado? Quantos não possuem?| Sim/Não + Resposta aberta| - |
+| 1 | Cada tarefa tem definido um input e um feedback esperado? Quantos não possuem?| Sim/Não + Resposta aberta| - |
 | 2 | Os planos possuem como característica os subobjetivos pelos quais são compostos? Quantos não possuem? | Sim/Não + Resposta aberta | - |
 | 3 | O objetivo de cada tarefa é quantificável? Quais não são?| Sim/Não + Resposta aberta | - |
 | 4 | Os níveis mais baixos do HTA são marcados de maneira diferente dos outros? Quais não são?| Sim/Não + Resposta aberta | - |
@@ -203,41 +203,63 @@ Tabela 8: Participantes do teste piloto (Fonte: Autor, 2023)
 
 </center>
 
-Na tabela 9 abaixo são definidos os participantes da entrevista.
+Nas tabelas 9 e 10 abaixo são definidos os participantes da entrevista.
 
 <center>
 
 | Atividade | Participante | Função | Papel |
 | -- | -- | -- | -- |
-| Entrevista 1 | Amanda Noda | Equipe de desenvolvimento | Entrevistador |
-| Entrevista 1 | Jhoane Alexssandra | Usuário do sistema | Entrevistado |
+| Entrevista 1 | Felipe Mastromauro Corrêa | Equipe de desenvolvimento | Entrevistador |
+| Entrevista 1 | Pedro Ferreira Muniz | Equipe de desenvolvimento | Relator |
+| Entrevista 1 | Douglas Langkammer Gomes | Usuário do sistema | Entrevistado |
 
-Tabela 9: Participantes da entrevista (Fonte: Autor, 2023)
+Tabela 9: Participantes da entrevista 1 (Fonte: Autor, 2023)
+
+</center>
+
+<center>
+
+| Atividade | Participante | Função | Papel |
+| -- | -- | -- | -- |
+| Entrevista 2 | Pedro Ferreira Muniz | Equipe de desenvolvimento | Entrevistador |
+| Entrevista 2 | Felipe Mastromauro Corrêa | Equipe de desenvolvimento | Relator |
+| Entrevista 2 | João Camilo de Moura | Usuário do sistema | Entrevistado |
+
+Tabela 9: Participantes da entrevista 1 (Fonte: Autor, 2023)
 
 </center>
 
 #### 3.4.6 Cronograma das atividades 
-Na tabela 10 abaixo, estão descritos local, data e horário para o teste piloto.
+Na tabela 11 abaixo, estão descritos local, data e horário para o teste piloto.
 
 <center>
 
 | Atividade | Local | Data | Horário |
 | -- | -- | -- | -- |
-| Teste piloto | Remoto (Google Meet) | 26/05/2023 | 18:00 |
+| Teste piloto | Remoto (Google Meet) | 03/07/2023 | 15:00 |
 
-Tabela 10: Cronograma para o teste piloto (Fonte: Autor, 2023)
+Tabela 11: Cronograma para o teste piloto (Fonte: Autor, 2023)
 
 </center>
 
-Na tabela 11 abaixo, estão descritos local, data e horário para a entrevista.
+Nas tabelas 12 e 13 abaixo, estão descritos local, data e horário para a entrevista.
 
 <center>
 
 | Atividade | Local | Data | Horário |
 | -- | -- | -- | -- |
-| Entrevista 1 | Remoto (Google Meet) | 27/05/2023 | 15:20 |
+| Entrevista 1 | Remoto (Google Meet) | 03/07/2023 | 17:00 |
 
-Tabela 11: Cronograma para a entrevista (Fonte: Autor, 2023)
+Tabela 12: Cronograma para a entrevista 1 (Fonte: Autor, 2023)
+
+</center>
+
+
+| Atividade | Local | Data | Horário |
+| -- | -- | -- | -- |
+| Entrevista 2 | Remoto (Google Meet) | 03/07/2023 | 17:30 |
+
+Tabela 13: Cronograma para a entrevista 2 (Fonte: Autor, 2023)
 
 </center>
 

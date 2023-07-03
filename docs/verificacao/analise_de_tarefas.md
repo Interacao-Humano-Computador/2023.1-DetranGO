@@ -6,7 +6,7 @@ O presente artefato tem o intuito relatar os resultados da verificação dos art
 A [primeira verificação](./analise_tarefas_deprecated.md) teve como objeto a versão 1.3 do documento e foi realizada no dia 8 de maio de 2023. Tendo sido detectada a necessidade de correções na lista desenvolvida, a nova verificação (data de realização da verificação)
 
 ## 2. Metodologia
-A verificação foi feita com base nos checklists pré-definidos em nosso [Planejamento da Verificação](./teste/planejamentoVerificacao.md) e também na verificação realizada pelo [Grupo 5](https://interacao-humano-computador.github.io/2023.1-Alistamento/) [6]. Abaixo seguem as verificações de conteúdo que foram elaboradas, contendo justificativas para cada uma e também a fonte:
+A verificação foi feita com base nos checklists pré-definidos em nosso [Planejamento da Verificação](./teste/planejamentoVerificacao.md) e também na verificação realizada pelo [Grupo 5](https://interacao-humano-computador.github.io/2023.1-Alistamento/) [1]. Abaixo seguem as verificações de conteúdo que foram elaboradas, contendo justificativas para cada uma e também a fonte:
 
 
 ### 2.1 Verificação 1 - O artefato possui metodologia utilizada?
@@ -123,7 +123,7 @@ A descrição de um método para um modelo GOMS considera que esses métodos ter
 
 `CARD, Stuart K.; MORAN, Thomas P.; NEWELL, Allen. The GOMS moddel of manuscript editing. In: CARD, Stuart K.; MORAN, Thomas P.; NEWELL, Allen. The psychology of human-computer interactionThe psychology of human-computer interaction. Hillsdale: Lawrence Erlbaum, 1983.`
 
-### 2.20 Verificação 20 - As regras de seleção ddefinem condições para a escolha de um método?
+### 2.20 Verificação 20 - As regras de seleção definem condições para a escolha de um método?
 
 Sendo um objetivo capaz de ser atingido por diversos métodos, a fim de se manter a proceduralidade do método CMN-GOMS, as regras de seleção devem descerver quando cada determinado método deve ser executado a aprtir de um nconjunto de regras.
 
@@ -150,7 +150,7 @@ As tabelas 1 e 2 apresentam os resultados da verificação do artefato [Análise
 | 8 | Possui histórico de versão padronizado? | Sim |
 | 9 | O histórico de versão possui autor(es) e revisor(es)? | Sim |
 
-Tabela 1: Modelo de checklist para padronização (Fonte: Autor, 2023).
+Tabela 1:Checklist para padronização do artefato (Fonte: Autor, 2023).
 
 </center>
 
@@ -158,21 +158,43 @@ Tabela 1: Modelo de checklist para padronização (Fonte: Autor, 2023).
 
 <center>
 
-
+| ID | Verificação | Ocorrências | Acertos | Erros |
+|--|--|--|--|--|
+| 1 | O artefato possui metodologia utilizada |  |  |  |
+| 2 | Pelo menos 2 técnicas foram utilizadas para especificar as tarefas? |  |  |  |
+| 3 | As tarefas foram escolhidas de acordo com o perfil de usuário? |  |  |  |
+| 4 | O fluxo das tarefas está de acordo com o fluxo orgânico realizado pelos usuários na vida real? |  |  |  |
+| 5 | A análise de tarefas está voltada para a análise conceitual do problema em detrimento do funcionamento de telas e menus? |  |  |  |
+| 6 | As tarefas apresentadas dentro do HTA podem ser definidas em termos de seus objetivos? |  |  |  |
+| 7 | Os objetivos de mais alto nível são decompostos em subobjetivos no HTA? |  |  |  |
+| 8 | Os subobjetivos e as relações entre estes e um objetivo maior são agrupados em planos que especificam as regras de execução de suas suboperações ou subobjetivos no HTA? |  |  |  |
+| 9 | As regras dos planos são de seleção (/), sequência (>) ou paralelismo (+) no HTA? |  |  |  |
+| 10 | As operações são definidas em termos de inputs, ações e feeedbacks no HTA? |  |  |  |
+| 11 | Os subobjetivos definidos são mutuamente exclusivos e exaustivos, não se sobrepondo e satisfazendo o objetivo a que se subordinam no HTA? |  |  |  |
+| 12 | As tarefas representadas com o modelo CMN-GOMS são uma descrição procedural do que o usuário deve saber para a realização de tarefas? |  |  |  |
+| 13 | As análises com o modelo CMN-GOMS consideram que o usuário sabe realizar a tarefa e que só precisa realizá-la? |  |  |  |
+| 14 | As tarefas são descritas de modo similar a um pseudocódigo no CMN-GOMS? |  |  |  |
+| 15 | Os elementos do GOMS são escritos de maneira correta? |  |  |  |
+| 16 | A análise geral a partir do CMN-GOMS é executável? |  |  |  |
+| 17 | Os objetivos, no modelo GOMS, representam um estado a ser atingido? |  |  |  |
+| 18 | Operadores são atos necessários para mudanças no ambiente do sistema? |  |  |  |
+| 19 | Um método descreve um procedimento para atingir um objetivo? |  |  |  |
+| 20 | As regras de seleção definem condições para a escolha de um método? |  |  |  |
 
 Tabela 2: Modelo de checklist para conteúdo (Fonte: Autor, 2023).
 
 </center>
 
-
 ## 4. Resultados
 Os resultados da verificação da Análise de tarefas podem ser encontrados na tabela 3 abaixo, por maio das figuras 1 e 2, onde foi verificado o grau de satisfação e a ocorrência de erros no artefato verificado. Os resultados em questão só levam em consideração as verificações do conteúdo.
 
 <center>
-
+<!--
 |  ![Alt text](../assets/analise_tarefas_verif/ana_tar_erros.jpg)   |        ![Alt text](../assets/analise_tarefas_verif/ana_tar.jpg)           |
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------- |
 | Figura 1: Representação do grau de satisfação do artefato (Fonte: Autor, 2023). | Figura 2: Gráfico de ocorrência de erros no artefato (Fonte: Autor, 2023). |
+
+-->
 
 Tabela 3: Representações gráficas dos resultados da verificação (Fonte: Autor, 2023).
 
@@ -181,22 +203,29 @@ Tabela 3: Representações gráficas dos resultados da verificação (Fonte: Aut
 ## 5. Problemas encontrados
 ### 5.1 Problemas Encontrados - Padronização
 
+
 ### 5.2 Problemas Encontrados - Conteúdo
 
 ## 6. Acompanhamento
-### 6.1 Acompanhemento - Padronização
+### 6.1 Acompanhamento - Padronização
 
-#### 6.1.1 Acompanhemento 1 - Possui ortografia correta é formal?
+#### Versão 1.3
 
-Foi realizado as correções necessárias dentro do artefato de análise de tarefas
+##### 6.1.1 Acompanhamento 1 - Possui ortografia correta é formal?
 
-### 6.2 Acompanhemento - Conteúdo
+Foram realizadas as correções necessárias dentro do artefato de análise de tarefas
 
-#### 6.2.1  Acompanhemento 2 - Pelo menos 2 técnicas foram utilizadas para especificar as tarefas? 
+### 6.2 Acompanhamento - Conteúdo
+
+#### Versão 1.3 
+
+O acompanhamento listado nesta seção é baseado em [versão anterior](./analise_tarefas_deprecated.md) deste artefato de verificação.
+
+##### 6.2.1  Acompanhamento 2 - Pelo menos 2 técnicas foram utilizadas para especificar as tarefas? 
 
 Não foi utilizado duas técnicas na resolução do artefado de análise de tarefas como foi proposto na matéria de IHC.
 
-#### 6.2.2  Acompanhemento 3 - As tarefas foram escolhidas de acordo com o perfil de usuário? 
+##### 6.2.2  Acompanhamento 3 - As tarefas foram escolhidas de acordo com o perfil de usuário? 
 
 Não houve junção de informações coletadas informadas no perfil de usuário com as informações fornecidas na análise de tarefas
 
@@ -204,31 +233,27 @@ Não houve junção de informações coletadas informadas no perfil de usuário 
 
 > [1] Agiel, acesso em: 1 de junho de 2023. Para mais informações acesse: <https://www.agiel.com.br/site/>
 
-> [2] Gerência e Qualidade de Software - Aula 06 - Técnica de revisão – UNIVESP
+> [2] ANNETT, John. Hierarchical Task Analysis. In: DIAPER, Dan; STANTON, Neville (ed.). THE HANDBOOK OF TASK ANALYSIS FOR HUMAN-COMPUTER INTERACTION. Nova Jersey: Lawrence Erlbaum, 2004. Cap 3. p. 67-82. Disponível em: http://portalbozp.cz/wp-content/uploads/2014/11/Handbook-of-task-analysis-for-HCI.pdf. Acesso em: 3 jul. 2023.
 
-> [3] REINEHR, Sheila. Engenharia de Requisitos. Porto Alegre: Sagah, 2020.
+> [3] CARD, Stuart K.; MORAN, Thomas P.; NEWELL, Allen. The GOMS moddel of manuscript editing. In: CARD, Stuart K.; MORAN, Thomas P.; NEWELL, Allen. The psychology of human-computer interactionThe psychology of human-computer interaction. Hillsdale: Lawrence Erlbaum, 1983. p. 139-192. Disponível em: https://archive.org/details/psychologyofhuma00stua/page/n5/mode/2up. Acesso em: 03 mar. 2023.
 
-> [4] Repositório Agiel do semestre 2023.1, acesso em: 1 de junho de 2023. Para mais informações acesse: <https://interacao-humano-computador.github.io/2023.1-Agiel/>
+> [4] Gerência e Qualidade de Software - Aula 06 - Técnica de revisão – UNIVESP
 
-> [5] Repositório Lichess do semestre 2022.2, acesso em: 1 de junho de 2023. Para mais informações acesse: <https://github.com/Requisitos-de-Software/2022.2-Lichess>
+> [5] KIERAS, David. GOMS Models for Task Analysis. In: DIAPER, Dan; STANTON, Neville (ed.). THE HANDBOOK OF TASK ANALYSIS FOR HUMAN-COMPUTER INTERACTION. Nova Jersey: Lawrence Erlbaum, 2004. Cap. 4. p. 83-116. Disponível em: http://portalbozp.cz/wp-content/uploads/2014/11/Handbook-of-task-analysis-for-HCI.pdf. Acesso em: 3 jul. 2023.
 
-> [6] Repositório Alistamento do semestre de 2023.1, acesso em 15 de junho de 2023. Para mais informações acesse: <https://interacao-humano-computador.github.io/2023.1-Alistamento/>
+> [6] REINEHR, Sheila. Engenharia de Requisitos. Porto Alegre: Sagah, 2020.
 
+> [7] Repositório Agiel do semestre 2023.1, acesso em: 1 de junho de 2023. Para mais informações acesse: <https://interacao-humano-computador.github.io/2023.1-Agiel/>
 
-> [7] SALES, André Barros. Plano de ensino da disciplina. Disponível em: [https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf](https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf). Acesso em: 1 de junho de 2023;
+> [8] Repositório Alistamento do semestre de 2023.1, acesso em 15 de junho de 2023. Para mais informações acesse: <https://interacao-humano-computador.github.io/2023.1-Alistamento/>
 
+> [9] Repositório Lichess do semestre 2022.2, acesso em: 1 de junho de 2023. Para mais informações acesse: <https://github.com/Requisitos-de-Software/2022.2-Lichess>
 
-> DIAPER, Dan; STANTON, Neville. THE HANDBOOK OF TASK ANALYSIS FOR HUMAN-COMPUTER INTERACTION. Nova Jersey: Lawrence Erlbaum, 2004. Disponível em: http://portalbozp.cz/wp-content/uploads/2014/11/Handbook-of-task-analysis-for-HCI.pdf. Acesso em: 3 jul. 2023.
->
-> ANNETT, John. Hierarchical Task Analysis. In: DIAPER, Dan; STANTON, Neville (ed.). THE HANDBOOK OF TASK ANALYSIS FOR HUMAN-COMPUTER INTERACTION. Nova Jersey: Lawrence Erlbaum, 2004. Cap 3. p. 67-82.
->
->  KIERAS, David. GOMS Models for Task Analysis. In: DIAPER, Dan; STANTON, Neville (ed.). THE HANDBOOK OF TASK ANALYSIS FOR HUMAN-COMPUTER INTERACTION. Nova Jersey: Lawrence Erlbaum, 2004. Cap. 4. p. 83-116. 
->
->  CARD, Stuart K.; MORAN, Thomas P.; NEWELL, Allen. The GOMS moddel of manuscript editing. In: CARD, Stuart K.; MORAN, Thomas P.; NEWELL, Allen. The psychology of human-computer interactionThe psychology of human-computer interaction. Hillsdale: Lawrence Erlbaum, 1983. p. 139-192. Disponível em: https://archive.org/details/psychologyofhuma00stua/page/n5/mode/2up. Acesso em: 03 mar. 2023.
+> [10] SALES, André Barros. Plano de ensino da disciplina. Disponível em: [https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf](https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf). Acesso em: 1 de junho de 2023;
 
 ## 8. Histórico de versão
 
 | Versão | Data     | Descrição                                        | Autor(es)   | Revisor(es)   |
 | ------ | -------- | ------------------------------------------------ | ----------- | ------------- |
-| `1.0`  | 16/06/23 | Criação do documento | Amanda N. | Carlos E. |
-
+| [`1.0`](./analise_tarefas_deprecated.md)  | 16/06/23 | Criação do documento | Amanda N. | Carlos E. |
+| `2.0`  | 03/07/23 | Refacção da lista de verificação | Felipe M. | Amanda N. |

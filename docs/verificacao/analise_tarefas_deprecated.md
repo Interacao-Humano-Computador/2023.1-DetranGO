@@ -1,4 +1,4 @@
-# Análise de Tarefas
+# Análise de Tarefas - Versão 1.0
 
 ## 1. Introdução
 O presente artefato tem o intuito relatar os resultados da verificação dos artefatos produzidos durante a realização dos pontos de controle anteriores. Neste artefato, avaliaremos a [Análise de Tarefas](../analise_requisitos/analise_de_tarefas.md)
