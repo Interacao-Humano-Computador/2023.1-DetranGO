@@ -12,56 +12,71 @@ Este artefato tem como objetivo documentar a criação dos storyboards e resigni
 ## 3. Storyboards 
 
 ### 3.1 Storyboard - Consulta de CNH
+Storyboard retrata a jornada do usuário ao consultar a CNH, onde o usuário consegue consultar informações sobre a mesma, contendo informações como, infrações de trânsito, dados da CNH, e pontuação na CNH.
 
 ![Alt text](../../../assets/storyboards/consulta-cnh.jpg)
 
-### 3.2 Storyboard - Consulta de Veículo
+Figura 1 - Storyboard Consulta de Veículo (Fonte: 
+Carlos Eduardo, 2023)
 
-![Alt text](../../../assets/storyboards/consulta-veiculo.jpg)
+### 3.2 Storyboard - Consulta de Veículo
+O Storyboard retrata a joranada do usuário ao consultar o veículo, onde as informações a serem visualizadas, são: débitos, infrações de trânsito, e dados do veículo.
+
+![Alt text](../../../assets/storyboards/consultar-veiculo.jpg)
+
+Figura 2 - Storyboard Consulta de Veículo (Fonte: 
+Amanda Noda, 2023)
 
 ### 3.3 Storyboard - Agendar atendimento
+Storyboard retrata a jornada do usuário ao agendar atendimento dentro do Detran GO.
 
-76
 ![Alt text](../../../assets/storyboards/agendar-atendimento.jpg)
 
+Figura 3 - Storyboard Consulta de Veículo (Fonte: 
+Pedro Muniz, 2023)
+
 ### 3.4 Storyboard - Solicitação de Segunda Via de CNH
+Storyboard onde retrata a jornada ddo usuário ao solicitar a segunda via da CNH no Detran GO.
 
 ![Alt text](../../../assets/storyboards/solicitar-cnh.jpg)
 
+Figura 4 - Storyboard Consulta de Veículo (Fonte: 
+João Morberck, 2023)
+
 ### 3.5 Storyboard - Emissão de CRLV
+Storyboard retrata a jornada do usuário ao emitir o CRLV dentro do site do Detran GO.
 
 ![Alt text](../../../assets/storyboards/emissao-crlv.jpg)
 
+Figura 5 - Storyboard Consulta de Veículo (Fonte: 
+Felipe Mastromauro, 2023)
+
 ### 3.6 Storyboard - Transferência de Veículo
+Storyboard retrata a jornada do usuário ao transferir veículo dentro do site do Detran GO.
 
 ![Alt text](../../../assets/storyboards/transferencia-veiculo.jpg)
 
+Figura 6 - Storyboard Consulta de Veículo (Fonte: 
+Pedro Henrique, 2023)
+
 ## 4. Referências Bibliográficas
 
-> [1] Artefato Aspectos éticos, acesso em 27 de maio de 2023. Para mais informações acesse: [link](../../../
-analise_requisitos/aspectos_eticos.md).
-76
+> [1] Artefato Planejamento do relato dos resultados da avaliação do storyboard, acesso em 27 de maio de 2023. Para mais informações acesse: [link](./planejamento_relato_resultados.md).
 
-> [2] Artefato Planejamento do relato dos resultados da avaliação do storyboard, acesso em 27 de maio de 2023. Para 
-mais informações acesse: [link](./planejamento_relato_resultados.md).
+> [2] Artefato Perfil de usuário, acesso em 27 de maio de 2023. Para mais informações acesse: [link](../../../analise_requisitos/perfilUsuario.md).
 
-> [3] Artefato Perfil de usuário, acesso em 27 de maio de 2023. Para mais informações acesse: [link](../../../
-analise_requisitos/perfilUsuario.md).
+> [3] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Acesso em: 27 mai. 2023.
 
-> [4] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) 
-Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Acesso em: 27 mai. 2023.
+> [4] CamScanner, acesso em: 27 de maio de 2023. Para mais informações acesse: [link](https://www.camscanner.com/).
 
-> [5] CamScanner, acesso em: 27 de maio de 2023. Para mais informações acesse: [link](https://www.camscanner.com/).
+> [5] OBS, acesso em: 27 de maio de 2023. Para mais informações acesse: [link](https://obsproject.com/pt-br/download/).
 
-> [6] OBS, acesso em: 27 de maio de 2023. Para mais informações acesse: [link](https://obsproject.com/pt-br/download/).
-
-> [7] Storyboards, Paper Prototypes and Mockups - Scott Klemmer / Univ. Califórnia em Berkeley (Coursera)
+> [6] Storyboards, Paper Prototypes and Mockups - Scott Klemmer / Univ. Califórnia em Berkeley (Coursera)
 
 ## 5. Histórico de Versão
 
-76
-| Versão | Data     | Descrição                                 | Autor(es)    | Revisor(es) |
+| Versão | Data     | Descrição                                 | Autor(es)    | Reviso(es) |
 | ------ | -------- | ----------------------------------------- | ------------ | ----------- |
-| `1.0`  | 19/05/23 | Criação do documento e adição do conteúdo | João M. | Amanda N. |
-| `1.1`  | 21/05/23 | Adição do framework DECIDE e storyboards  | João M. | Amanda N. |
-| `1.2`  | 16/06/23 | Alterações de padronização                | Pedro M.  | Amanda N. |
+| `1.0`  | 02/07/23 | Criação do documento e adição do conteúdo | Amanda N. | Carlos E. |
+
+
