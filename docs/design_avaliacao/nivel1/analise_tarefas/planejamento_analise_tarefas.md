@@ -37,48 +37,29 @@ Para esta avaliação, serão avaliados os diagramas e análises referentes às 
 
 A avaliação da análise de tarefas será balizada pelas perguntas a serem respondidas a partir da execução da avaliação. A seguir estão descritas as perguntas elaboradas discriminadas por seu objetivo.
 
-#### 3.2.1 Identificação do usuário
-
-As perguntas elaboradas para obter a identificação do usuário estão presentes na tabela 1 abaixo.
-
-|**Número**|**Pergunta**|**Resposta**|**Observações**|
-|:-:|:-:|:-:|:-:|
-|1|Qual o nome completo do entrevistado? |Resposta aberta | - |
-|2|Qual a idade do entrevistado?| Resposta aberta | - |
-|3|Qual a ocupação do entrevistado?| Resposta aberta | - |
-|4|Qual o grau de escolaridade do entrevistado?| Resposta aberta | - |
-|5|Qual o grau de experiência tecnológica do entrevistado? (tecnófilo/tecnófobo)| Resposta aberta | - |
-
-<center>
-
-Tabela 1: Roteiro de perguntas para obtenção da identidade do usuário (Fonte: Autor, 2023).
-
-</center>
-
-#### 3.2.2 Perguntas específicas para o HTA
+#### 3.2.1 Perguntas específicas para o HTA
 
 Esta seção explora perguntas específicas para a análise hierárquica de tabelas, a fim de avaliá-las com mais especificidade. Cada diagrama deverá ser avaliado com base nestas perguntas.
 
-##### 3.2.2.1 Avaliar a conformidade com um padrão
+##### 3.2.1.1 Avaliar a conformidade com um padrão
 
-A tabela 2 compila perguntas relacionadas ao primeiro objetivo da avaliação para o HTA. As perguntas são baseadas na tabela 11.1 do livro de Interação Humano-Computador por Barbosa et al. (2021) [4], e foram adaptadas a fim de representar melhor o conteúdo de uma análise hierárquica de tarefas, também com base no mesmo livro. Esta tabela deve ser preenchida pelo entrevistador.
+A tabela 1 compila perguntas relacionadas ao primeiro objetivo da avaliação para o HTA. As perguntas são baseadas na tabela 11.1 do livro de Interação Humano-Computador por Barbosa et al. (2021) [4], e foram adaptadas a fim de representar melhor o conteúdo de uma análise hierárquica de tarefas, também com base no mesmo livro. Esta tabela deve ser preenchida pelo entrevistador.
 
 
 | **Número** | **Pergunta** | **Possível resposta** | **Observações** |
 |--|--|--|--|
-| 1 | Cada tarefa tem definido um input e um feedback esperado condizente? Quantas não possuem?| Sim/Não + Resposta aberta| - |
-| 2 | Os planos possuem como característica os subobjetivos pelos quais são compostos? Quantos não possuem? | Sim/Não + Resposta aberta | - |
-| 3 | Os níveis mais baixos do HTA são marcados de maneira diferente dos outros? Quais não são?| Sim/Não + Resposta aberta | - |
+| 1 | Os planos possuem como característica os subobjetivos pelos quais são compostos? Quantos não possuem? | Sim/Não + Resposta aberta | - |
+| 2 | Os níveis mais baixos do HTA são marcados de maneira diferente dos outros? Quais não são?| Sim/Não + Resposta aberta | - |
 
 <center>
 
-Tabela 2: Perguntas para o HTA elaboradas para o objetivo 1 (Fonte: adaptado de Simone Barbosa et al. (2021)[4]).
+Tabela 1: Perguntas para o HTA elaboradas para o objetivo 1 (Fonte: adaptado de Simone Barbosa et al. (2021)[4]).
 
 </center>
 
-##### 3.2.2.2 Identificar problemas na interação e na interface
+##### 3.2.1.2 Identificar problemas na interação e na interface
 
-A tabela 3 compila perguntas relacionadas ao segundo objetivo da avaliação para o HTA. As perguntas são baseadas na tabela 11.1 do livro de Interação Humano-Computador por Barbosa et al. (2021) [4], e foram adaptadas a fim de representar melhor o conteúdo de uma análise hierárquica de tarefas, também com base no mesmo livro. Esta tabela deve ser preenchida pelo entrevistador.
+A tabela 2 compila perguntas relacionadas ao segundo objetivo da avaliação para o HTA. As perguntas são baseadas na tabela 11.1 do livro de Interação Humano-Computador por Barbosa et al. (2021) [4], e foram adaptadas a fim de representar melhor o conteúdo de uma análise hierárquica de tarefas, também com base no mesmo livro. Esta tabela deve ser preenchida pelo entrevistador.
 
 | **Número** | **Pergunta** | **Possível resposta** | **Observações** |
 |--|--|--|--|
@@ -89,13 +70,13 @@ A tabela 3 compila perguntas relacionadas ao segundo objetivo da avaliação par
 
 <center>
 
-Tabela 3: Perguntas para o HTA elaboradas para o objetivo 3 (Fonte: adaptado de Simone Barbosa et al. (2021)[4]).
+Tabela 2: Perguntas para o HTA elaboradas para o objetivo 3 (Fonte: adaptado de Simone Barbosa et al. (2021)[4]).
 
 </center>
 
-##### 3.2.2.3 Comparar ideias e alternativas de design
+##### 3.2.1.3 Comparar ideias e alternativas de design
 
-A tabela 4 compila perguntas relacionadas ao terceiro objetivo da avaliação para o HTA. As perguntas são baseadas na tabela 11.1 do livro de Interação Humano-Computador por Barbosa et al. (2021) [4], e foram adaptadas a fim de representar melhor o conteúdo de uma análise hierárquica de tarefas, também com base no mesmo livro. Esta tabela deve ser preenchida pelo entrevistador.
+A tabela 3 compila perguntas relacionadas ao terceiro objetivo da avaliação para o HTA. As perguntas são baseadas na tabela 11.1 do livro de Interação Humano-Computador por Barbosa et al. (2021) [4], e foram adaptadas a fim de representar melhor o conteúdo de uma análise hierárquica de tarefas, também com base no mesmo livro. Esta tabela deve ser preenchida pelo entrevistador.
 
 | **Número** | **Pergunta** | **Possível resposta** | **Observações** |
 |--|--|--|--|
@@ -103,60 +84,58 @@ A tabela 4 compila perguntas relacionadas ao terceiro objetivo da avaliação pa
 | 2 | Considerando o mesmo input e mesmo feedback, é possível que a tarefa possa conter menos operações? | Resposta aberta | - |
 | 3 | Considerando o mesmo input e mesmo feedback, há planos de execução sequencial que possam se tornar paralelos ou de seleção? | Resposta aberta | - |
 | 4 | Considerando o mesmo input e mesmo feedback, há planos de execução paralelos que possam se tornar sequenciais ou de seleção? | Resposta aberta | - |
-| 5 | Das alternativas apresentadas, há alguma de maior eficiência ou mais fácil aprendizado? Por quê? | Resposta aberta | - |
+| 5 | Das alternativas apresentadas, há alguma de maior eficiência ou mais fácil aprendizado? Por quê? | Resposta aberta | Pergunta só deve ser feita se forem apresentadas alternativas |
 
 
 <center>
 
-Tabela 4: Perguntas para o HTA elaboradas para o objetivo 3 (Fonte: adaptado de Simone Barbosa et al. (2021)[4]).
+Tabela 3: Perguntas para o HTA elaboradas para o objetivo 3 (Fonte: adaptado de Simone Barbosa et al. (2021)[4]).
 
 </center>
 
-
-#### 3.2.3 Perguntas específicas para o CMN-GOMS
+#### 3.2.2 Perguntas específicas para o CMN-GOMS
 
 Esta seção explora perguntas específicas para o CMN-GOMS, a fim de avaliá-los com mais especificidade. Cada instância deverá ser avaliada com base nestas perguntas.
 
-##### 3.2.3.1 Avaliar a conformidade com um padrão
+##### 3.2.2.1 Avaliar a conformidade com um padrão
 
-A tabela 5 compila perguntas relacionadas ao primeiro objetivo da avaliação para o CMN-GOMS. As perguntas são baseadas na tabela 11.1 do livro de Interação Humano-Computador por Barbosa et al. (2021) [4], e foram adaptadas a fim de representar melhor o conteúdo de uma análise de tarefas GOMS, também com base no mesmo livro. Esta tabela deve ser preenchida pelo entrevistador.
+A tabela 4 compila perguntas relacionadas ao primeiro objetivo da avaliação para o CMN-GOMS. As perguntas são baseadas na tabela 11.1 do livro de Interação Humano-Computador por Barbosa et al. (2021) [4], e foram adaptadas a fim de representar melhor o conteúdo de uma análise de tarefas GOMS, também com base no mesmo livro. Esta tabela deve ser preenchida pelo entrevistador.
 
 | **Número** | **Pergunta** | **Possível resposta** | **Observações** |
 |--|--|--|--|
 | 1 | Os operadores são sempre executados de maneira sequencial? Onde não são? | Sim/Não + Resposta aberta | - |
-| 2 | Os métodos, em sua representação, possuem submétodos e/ou condicionais? | Sim/Não | - |
-| 3 | As regras de seleção representam a tomada de decisão do usuário sobre qual método utilizar em determinada situação? Onde não representam? | Sim/Não + Resposta aberta | - |
-| 4 | Os operadores representam ações concretas permitidas pelo sistema? Onde não representam? | Sim/Não + Resposta aberta | - |
+| 2 | As regras de seleção representam a tomada de decisão do usuário sobre qual método utilizar em determinada situação? Onde não representam? | Sim/Não + Resposta aberta | Pergunta só deve ser feita se houverem regras de seleção |
+| 3 | Os operadores representam ações concretas permitidas pelo sistema? Onde não representam? | Sim/Não + Resposta aberta | - |
 
 
 <center>
 
-Tabela 5: Perguntas para o CMN-GOMS elaboradas para o objetivo 1 (Fonte: adaptado de Simone Barbosa et al. (2021)[4]).
+Tabela 4: Perguntas para o CMN-GOMS elaboradas para o objetivo 1 (Fonte: adaptado de Simone Barbosa et al. (2021)[4]).
 
 </center>
 
-##### 3.2.3.2 Identificar problemas na interação e na interface
+##### 3.2.2.2 Identificar problemas na interação e na interface
 
-A tabela 6 compila perguntas relacionadas ao segundo objetivo da avaliação para o CMN-GOMS. As perguntas são baseadas na tabela 11.1 do livro de Interação Humano-Computador por Barbosa et al. (2021) [4], e foram adaptadas a fim de representar melhor o conteúdo de uma análise de tarefas GOMS, também com base no mesmo livro. Esta tabela deve ser preenchida pelo entrevistador.
+A tabela 5 compila perguntas relacionadas ao segundo objetivo da avaliação para o CMN-GOMS. As perguntas são baseadas na tabela 11.1 do livro de Interação Humano-Computador por Barbosa et al. (2021) [4], e foram adaptadas a fim de representar melhor o conteúdo de uma análise de tarefas GOMS, também com base no mesmo livro. Esta tabela deve ser preenchida pelo entrevistador.
 
 
 | **Número** | **Pergunta** | **Possível resposta** | **Observações** |
 |--|--|--|--|
 | 1 | A tarefa representada é executável? Quais partes não são executáveis sequencialmente? | Sim/Não + Resposta aberta | - |
 | 2 | Cada objetivo definido dentro da tarefa é atingido? Se não, quantas vezes não são atingidos? Por quê? | Sim/Não + Resposta aberta | - |
-| 3 | O tamanho dos métodos para atingir um objetivo é satisfatório? Que métodos não tem o tamanho ideal? | Sim/Não + Resposta aberta | - |
-| 4 | Cada método e seus subelementos (regras de seleção e operadores) são compreensíveis? Quais não são? Por qual razão? | Sim/Não + Resposta aberta | - |
+| 3 | O tamanho dos métodos para atingir um objetivo é satisfatório? Que métodos não tem o tamanho ideal? | Sim/Não + Resposta aberta | Em caso de ausência de métodos, deve-se perguntar para os objetivos apresentados |
+| 4 | Cada método e seus subelementos (regras de seleção e operadores) são compreensíveis? Quais não são? Por qual razão? | Sim/Não + Resposta aberta | Não havendo métodos, perguntar somente para operadores |
 | 5 | Dentro de cada objetivo, há elementos que não o suportam (isto é, não ajudam em sua obtenção)? Quantos? | Sim/Não + Resposta aberta | - |
 
 <center>
 
-Tabela 6: Perguntas para o CMN-GOMS elaboradas para o objetivo 2 (Fonte: adaptado de Simone Barbosa et al. (2021)[4]).
+Tabela 5: Perguntas para o CMN-GOMS elaboradas para o objetivo 2 (Fonte: adaptado de Simone Barbosa et al. (2021)[4]).
 
 </center>
 
-##### 3.2.3.3 Comparar ideias e alternativas de design
+##### 3.2.2.3 Comparar ideias e alternativas de design
 
-A tabela 7 compila perguntas relacionadas ao terceiro objetivo da avaliação para o CMN-GOMS. As perguntas são baseadas na tabela 11.1 do livro de Interação Humano-Computador por Barbosa et al. (2021) [4], e foram adaptadas a fim de representar melhor o conteúdo de uma análise de tarefas GOMS, também com base no mesmo livro. Esta tabela deve ser preenchida pelo entrevistador.
+A tabela 6 compila perguntas relacionadas ao terceiro objetivo da avaliação para o CMN-GOMS. As perguntas são baseadas na tabela 11.1 do livro de Interação Humano-Computador por Barbosa et al. (2021) [4], e foram adaptadas a fim de representar melhor o conteúdo de uma análise de tarefas GOMS, também com base no mesmo livro. Esta tabela deve ser preenchida pelo entrevistador.
 
 
 | **Número** | **Pergunta** | **Possível resposta** | **Observações** |
@@ -164,12 +143,12 @@ A tabela 7 compila perguntas relacionadas ao terceiro objetivo da avaliação pa
 | 1 | Dentro dos objetivos, há métodos que podem ser alterados ou removidos? Quais? | Sim/Não + Resposta aberta | - |
 | 2 | Há operações que podem ser alteradas ou removidas? Quais? | Sim/Não + Resposta aberta | - |
 | 3 | Há objetivos descritos que possam ser alterados ou removidos sem dano ao objetivo principal da tarefa? Quais? | Sim/Não + Resposta aberta | - |
-| 4 | Há regras de seleção para os métodos que podem ser alteradas ou removidas para a melhor execução dos operadores? Quais? | Sim/Não + Resposta aberta | - |
-| 5 | Das alternativas apresentadas, há alguma de maior eficiência ou mais fácil aprendizado? Por quê? | Resposta aberta | - |
+| 4 | Há regras de seleção para os métodos que podem ser alteradas ou removidas para a melhor execução dos operadores? Quais? | Sim/Não + Resposta aberta | Pergunta só deve ser realizada se houverem regras de seleção |
+| 5 | Das alternativas apresentadas, há alguma de maior eficiência ou mais fácil aprendizado? Por quê? | Resposta aberta | Pergunta só deve ser realizada se houverem alternativas apresentadas |
 
 <center>
 
-Tabela 7: Perguntas para o CMN-GOMS elaboradas para o objetivo 3 (Fonte: adaptado de Simone Barbosa et al. (2021)[4]).
+Tabela 6: Perguntas para o CMN-GOMS elaboradas para o objetivo 3 (Fonte: adaptado de Simone Barbosa et al. (2021)[4]).
 
 </center>
 
@@ -199,14 +178,14 @@ Na tabela 8 abaixo são definidos os participantes do teste piloto.
 
 | Atividade | Participante | Função | Papel |
 | -- | -- | -- | -- |
-| Teste piloto | Amanda Noda | Equipe de desenvolvimento | Testador |
-| Teste piloto | João Pedro Morbeck | Equipe de desenvolvimento | Testador |
+| Teste piloto | Felipe Mastromauro | Equipe de desenvolvimento | Testador |
+| Teste piloto | Pedro Muniz | Equipe de desenvolvimento | Testador |
 
 Tabela 8: Participantes do teste piloto (Fonte: Autor, 2023)
 
 </center>
 
-Nas tabelas 9 e 10 abaixo são definidos os participantes da entrevista.
+Na tabela 9 abaixo são definidos os participantes da entrevista.
 
 <center>
 
@@ -214,26 +193,15 @@ Nas tabelas 9 e 10 abaixo são definidos os participantes da entrevista.
 | -- | -- | -- | -- |
 | Entrevista 1 | Felipe Mastromauro Corrêa | Equipe de desenvolvimento | Entrevistador |
 | Entrevista 1 | Pedro Ferreira Muniz | Equipe de desenvolvimento | Relator |
-| Entrevista 1 | Douglas Langkammer Gomes | Usuário do sistema | Entrevistado |
+| Entrevista 1 | João Camilo de Moura | Usuário do sistema | Entrevistado |
 
 Tabela 9: Participantes da entrevista 1 (Fonte: Autor, 2023)
 
 </center>
 
-<center>
-
-| Atividade | Participante | Função | Papel |
-| -- | -- | -- | -- |
-| Entrevista 2 | Pedro Ferreira Muniz | Equipe de desenvolvimento | Entrevistador |
-| Entrevista 2 | Felipe Mastromauro Corrêa | Equipe de desenvolvimento | Relator |
-| Entrevista 2 | João Camilo de Moura | Usuário do sistema | Entrevistado |
-
-Tabela 9: Participantes da entrevista 1 (Fonte: Autor, 2023)
-
-</center>
 
 #### 3.4.6 Cronograma das atividades 
-Na tabela 11 abaixo, estão descritos local, data e horário para o teste piloto.
+Na tabela 10 abaixo, estão descritos local, data e horário para o teste piloto.
 
 <center>
 
@@ -241,11 +209,11 @@ Na tabela 11 abaixo, estão descritos local, data e horário para o teste piloto
 | -- | -- | -- | -- |
 | Teste piloto | Remoto (Google Meet) | 03/07/2023 | 15:00 |
 
-Tabela 11: Cronograma para o teste piloto (Fonte: Autor, 2023)
+Tabela 10: Cronograma para o teste piloto (Fonte: Autor, 2023)
 
 </center>
 
-Nas tabelas 12 e 13 abaixo, estão descritos local, data e horário para a entrevista.
+Na tabela 11 abaixo, estão descritos local, data e horário para a entrevista.
 
 <center>
 
@@ -253,16 +221,7 @@ Nas tabelas 12 e 13 abaixo, estão descritos local, data e horário para a entre
 | -- | -- | -- | -- |
 | Entrevista 1 | Remoto (Google Meet) | 03/07/2023 | 17:00 |
 
-Tabela 12: Cronograma para a entrevista 1 (Fonte: Autor, 2023)
-
-</center>
-
-
-| Atividade | Local | Data | Horário |
-| -- | -- | -- | -- |
-| Entrevista 2 | Remoto (Google Meet) | 03/07/2023 | 17:30 |
-
-Tabela 13: Cronograma para a entrevista 2 (Fonte: Autor, 2023)
+Tabela 11: Cronograma para a entrevista 1 (Fonte: Autor, 2023)
 
 </center>
 
@@ -321,4 +280,5 @@ Após a execução da avaliação, os dados recolhidos deverão ser tratados e r
 | `1.1`  | 21/05/23 | Mudanças no planejamento e organização    | Felipe M. | Carlos E.   |
 | `1.2`  | 16/06/23 | Alterações de padronização                | Pedro M.  | Amanda N. |
 | [`1.3`](./plan_deprecated_1_3.md)  | 17/06/23 | Correções com base na [verificação](../../../verificacao/planejamentoA_tarefas.md) | Carlos E. | Pedro H. |
-|  `2.0` | 02/06/23 | Alterações nas perguntas e adição de tabelas | Felipe M. | Amanda N. | 
+|  `2.0` | 02/06/23 | Alterações nas perguntas e adição de tabelas | Felipe M. | Amanda N. |
+|  `2.1` | 04/06/23 | Alterações nas tabelas de entrevistas | Felipe M. | Pedro M. |  

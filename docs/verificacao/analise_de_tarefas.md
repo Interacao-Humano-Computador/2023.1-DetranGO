@@ -3,7 +3,7 @@
 ## 1. Introdução
 O presente artefato tem o intuito relatar os resultados da verificação dos artefatos produzidos durante a realização dos pontos de controle anteriores. Neste artefato, avaliaremos a [Análise de Tarefas](../analise_requisitos/analise_de_tarefas.md)
 
-A [primeira verificação](./analise_tarefas_deprecated.md) teve como objeto a versão 1.3 do documento e foi realizada no dia 8 de maio de 2023. Tendo sido detectada a necessidade de correções na lista desenvolvida, a nova verificação (data de realização da verificação)
+A [primeira verificação](./analise_tarefas_deprecated.md) teve como objeto a versão 1.3 do documento e foi realizada no dia 8 de maio de 2023. Tendo sido detectada a necessidade de correções na lista desenvolvida, a nova verificação de 03/07/2023 tem como base a versão `2.2` do artefato.
 
 ## 2. Metodologia
 A verificação foi feita com base nos checklists pré-definidos em nosso [Planejamento da Verificação](./teste/planejamentoVerificacao.md) e também na verificação realizada pelo [Grupo 5](https://interacao-humano-computador.github.io/2023.1-Alistamento/) [1]. Abaixo seguem as verificações de conteúdo que foram elaboradas, contendo justificativas para cada uma e também a fonte:
@@ -13,31 +13,31 @@ A verificação foi feita com base nos checklists pré-definidos em nosso [Plane
 
 É importante que o artefato deixe claro os métodos utilizados para a obtenção e desenvolvimento do conteúdo apresentado, buscando inteirar o leitor acerca do que é tratado pelo mesmo.
 
-` BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010. `
+`SALES, André Barros. Plano de ensino da disciplina.`
 
 ### 2.2 Verificação 2 - Pelo menos 2 técnicas foram utilizadas para especificar as tarefas?
 
 É importante que o artefato deixe explícito as técnicas utilizadas na realização das tarefas escolhidas.
 
-` BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010. `
+`Repositório Alistamento do semestre de 2023.1. Verificação de resultados da entrega 2.`
 
 ### 2.3 Verificação 3 - As tarefas foram escolhidas de acordo com o perfil de usuário? 
 
 É importante que o artefato possua ligações entre as tarefas realizadas com os perfis listados dentro do projeto, para que contruímos resultados coerentes com nossa premissa dentro do projeto.
 
-` BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010. `
+`Repositório Alistamento do semestre de 2023.1. Verificação de resultados da entrega 2.`
 
 ### 2.4 Verificação 4 - O fluxo das tarefas está de acordo com o fluxo orgânico realizado pelos usuários na vida real? 
 
 É de extrema importância que o fluxo de tarefas possua correlação com a vida real para que o usuário sinta-se confortável e habituado ao realizar o fluxo apresentado.
 
-` BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010. `
+`Repositório Alistamento do semestre de 2023.1. Verificação de resultados da entrega 2.`
 
 ### 2.5 Verificação 5 - A análise de tarefas está voltada para a análise conceitual do problema em detrimento do funcionamento de telas e menus?
 
 É importante ressaltar a análise conceitual ao relatar problemas no funcionamento das telas e menus.
 
-` BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010. `
+`Repositório Alistamento do semestre de 2023.1. Verificação de resultados da entrega 2.`
 
 ### 2.6 Verificação 6 - As tarefas apresentadas dentro do HTA podem ser definidas em termos de seus objetivos?
 
@@ -140,13 +140,13 @@ As tabelas 1 e 2 apresentam os resultados da verificação do artefato [Análise
 
 | ID | Verificação | Realizado |
 |:-:|--|--|
-| 1 | Possui ortografia correta e formal? | Sim |
+| 1 | Possui ortografia correta e formal? | Não |
 | 2 | Possui introdução? | Sim |
 | 3 | Possui links necessários? | Sim |
-| 4 | As tabelas e imagens possuem legenda padronizada e chamada no texto? | Sim |
+| 4 | As tabelas e imagens possuem legenda padronizada e chamada no texto? | Incompleto |
 | 5 | As tabelas e imagens estão totalmente em português? | Sim |
 | 6 | Possui bibliografia? | Sim |
-| 7 | A bibliografia está em ordem alfabética? | Sim |
+| 7 | A bibliografia está em ordem alfabética? | Não |
 | 8 | Possui histórico de versão padronizado? | Sim |
 | 9 | O histórico de versão possui autor(es) e revisor(es)? | Sim |
 
@@ -160,26 +160,26 @@ Tabela 1:Checklist para padronização do artefato (Fonte: Autor, 2023).
 
 | ID | Verificação | Ocorrências | Acertos | Erros |
 |--|--|--|--|--|
-| 1 | O artefato possui metodologia utilizada |  |  |  |
-| 2 | Pelo menos 2 técnicas foram utilizadas para especificar as tarefas? |  |  |  |
-| 3 | As tarefas foram escolhidas de acordo com o perfil de usuário? |  |  |  |
-| 4 | O fluxo das tarefas está de acordo com o fluxo orgânico realizado pelos usuários na vida real? |  |  |  |
-| 5 | A análise de tarefas está voltada para a análise conceitual do problema em detrimento do funcionamento de telas e menus? |  |  |  |
-| 6 | As tarefas apresentadas dentro do HTA podem ser definidas em termos de seus objetivos? |  |  |  |
-| 7 | Os objetivos de mais alto nível são decompostos em subobjetivos no HTA? |  |  |  |
-| 8 | Os subobjetivos e as relações entre estes e um objetivo maior são agrupados em planos que especificam as regras de execução de suas suboperações ou subobjetivos no HTA? |  |  |  |
-| 9 | As regras dos planos são de seleção (/), sequência (>) ou paralelismo (+) no HTA? |  |  |  |
-| 10 | As operações são definidas em termos de inputs, ações e feeedbacks no HTA? |  |  |  |
-| 11 | Os subobjetivos definidos são mutuamente exclusivos e exaustivos, não se sobrepondo e satisfazendo o objetivo a que se subordinam no HTA? |  |  |  |
-| 12 | As tarefas representadas com o modelo CMN-GOMS são uma descrição procedural do que o usuário deve saber para a realização de tarefas? |  |  |  |
-| 13 | As análises com o modelo CMN-GOMS consideram que o usuário sabe realizar a tarefa e que só precisa realizá-la? |  |  |  |
-| 14 | As tarefas são descritas de modo similar a um pseudocódigo no CMN-GOMS? |  |  |  |
-| 15 | Os elementos do GOMS são escritos de maneira correta? |  |  |  |
-| 16 | A análise geral a partir do CMN-GOMS é executável? |  |  |  |
-| 17 | Os objetivos, no modelo GOMS, representam um estado a ser atingido? |  |  |  |
-| 18 | Operadores são atos necessários para mudanças no ambiente do sistema? |  |  |  |
-| 19 | Um método descreve um procedimento para atingir um objetivo? |  |  |  |
-| 20 | As regras de seleção definem condições para a escolha de um método? |  |  |  |
+| 10 | O artefato possui metodologia utilizada | 1 | 0 | 1 |
+| 11 | Pelo menos 2 técnicas foram utilizadas para especificar as tarefas? | 1 | 1 | 0 |
+| 12 | As tarefas foram escolhidas de acordo com o perfil de usuário? | 1 | 1 | 0 |
+| 13 | O fluxo das tarefas está de acordo com o fluxo orgânico realizado pelos usuários na vida real? | 3 | 3 | 0 |
+| 14 | A análise de tarefas está voltada para a análise conceitual do problema em detrimento do funcionamento de telas e menus? | 3 | 3 | 0 |
+| 15 | As tarefas apresentadas dentro do HTA podem ser definidas em termos de seus objetivos? | 3 | 3 | 0 |
+| 16 | Os objetivos de mais alto nível são decompostos em subobjetivos no HTA? | 9 | 9 | 0 |
+| 17 | Os subobjetivos e as relações entre estes e um objetivo maior são agrupados em planos que especificam as regras de execução de suas suboperações ou subobjetivos no HTA? | 9 | 4 | 5 |
+| 18 | As regras dos planos são de seleção (/), sequência (>) ou paralelismo (+) no HTA? | 9 | 9 | 0 |
+| 19 | As operações são definidas em termos de inputs, ações e feeedbacks no HTA? | 3 | 3 | 0 |
+| 20 | Os subobjetivos definidos são mutuamente exclusivos e exaustivos, não se sobrepondo e satisfazendo o objetivo a que se subordinam no HTA? | 22 | 16 | 6 |
+| 21 | As tarefas representadas com o modelo CMN-GOMS são uma descrição procedural do que o usuário deve saber para a realização de tarefas? | 3 | 3 | 0 |
+| 22 | As análises com o modelo CMN-GOMS consideram que o usuário sabe realizar a tarefa e que só precisa realizá-la? | 3 | 3 | 0 |
+| 23 | As tarefas são descritas de modo similar a um pseudocódigo no CMN-GOMS? | 3 | 3 | 0 |
+| 24 | Os elementos do GOMS são escritos de maneira correta? | 3 | 3 | 0 |
+| 25 | A análise geral a partir do CMN-GOMS é executável? | 3 | 3 | 0 |
+| 26 | Os objetivos, no modelo GOMS, representam um estado a ser atingido? | 15 | 15 | 0 |
+| 27 | Operadores são atos necessários para mudanças no ambiente do sistema? | 45 | 45 | 0 |
+| 28 | Um método descreve um procedimento para atingir um objetivo? | 4 | 2 | 2 |
+| 29 | As regras de seleção definem condições para a escolha de um método? | 4 | 4 | 0 |
 
 Tabela 2: Modelo de checklist para conteúdo (Fonte: Autor, 2023).
 
@@ -189,12 +189,10 @@ Tabela 2: Modelo de checklist para conteúdo (Fonte: Autor, 2023).
 Os resultados da verificação da Análise de tarefas podem ser encontrados na tabela 3 abaixo, por maio das figuras 1 e 2, onde foi verificado o grau de satisfação e a ocorrência de erros no artefato verificado. Os resultados em questão só levam em consideração as verificações do conteúdo.
 
 <center>
-<!--
-|  ![Alt text](../assets/analise_tarefas_verif/ana_tar_erros.jpg)   |        ![Alt text](../assets/analise_tarefas_verif/ana_tar.jpg)           |
+
+|  ![Alt text](../assets/analise_tarefas_verif/erros.jpeg)   |        ![Alt text](../assets/analise_tarefas_verif/grau_satisf.jpeg)           |
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------- |
 | Figura 1: Representação do grau de satisfação do artefato (Fonte: Autor, 2023). | Figura 2: Gráfico de ocorrência de erros no artefato (Fonte: Autor, 2023). |
-
--->
 
 Tabela 3: Representações gráficas dos resultados da verificação (Fonte: Autor, 2023).
 
@@ -203,31 +201,38 @@ Tabela 3: Representações gráficas dos resultados da verificação (Fonte: Aut
 ## 5. Problemas encontrados
 ### 5.1 Problemas Encontrados - Padronização
 
+#### 5.1.1 Verificação 1 - Possui ortografia correta e formal?
 
+Há problemas de ortografia e gramática no artefato, como nos textos das seções 2 e 3 do artefato.
+
+#### 5.1.2 Verificação 4 -  As tabelas e imagens possuem legenda padronizada e chamada no texto?
+
+As tabelas são chamadas no texto e também possuem legendas, mas estas últimas não estão de acordo com o padrão definido no artefato de [planejamento da verificação](./planejamentoVerificacao.md).
+
+#### 5.1.3 Verificação 7 - A bibliografia está em ordem alfabética?
+
+A bibliografia apresentadoa no artefato não respeita a ordem alfabética.
 ### 5.2 Problemas Encontrados - Conteúdo
 
+#### 5.2.1 Verificação 10 - O artefato possui metodologia utilizada?
+
+Apesar de ser possível inferir a partir das técnicas utilizadas, não é presente uma seção de metodologia do artefato.
+
+#### 5.2.2 Verificação 17 - Os subobjetivos e as relações entre estes e um objetivo maior são agrupados em planos que especificam as regras de execução de suas suboperações ou subobjetivos no HTA?
+
+Há planos que são escritos nas tabelas do HTA de modo a não descrever acuradamente os seus subobjetivos ou as relações entre eles com os conectivos apropriados.
+
+#### 5.2.3 Verificação 20 - Os subobjetivos definidos são mutuamente exclusivos e exaustivos, não se sobrepondo e satisfazendo o objetivo a que se subordinam no HTA?
+
+Objetvos e operações como as operações 4.1.1 e 4.1.2 da figura 3 do artefato se sobrepõem, bem como as operações 2.2 e 2.3 da figura 2 e os subobjetivos 4.1 e 4.2 da figura 3.
+
+#### 5.2.4 Verificação 28 - Um método descreve um procedimento para atingir um objetivo?
+
+Os métodos 1.B dos Goals 1 das seções 4.2 e 4.3 não descrevem um procedimento ou ação, mas sim um elemento do software.
+
 ## 6. Acompanhamento
-### 6.1 Acompanhamento - Padronização
 
-#### Versão 1.3
-
-##### 6.1.1 Acompanhamento 1 - Possui ortografia correta é formal?
-
-Foram realizadas as correções necessárias dentro do artefato de análise de tarefas
-
-### 6.2 Acompanhamento - Conteúdo
-
-#### Versão 1.3 
-
-O acompanhamento listado nesta seção é baseado em [versão anterior](./analise_tarefas_deprecated.md) deste artefato de verificação.
-
-##### 6.2.1  Acompanhamento 2 - Pelo menos 2 técnicas foram utilizadas para especificar as tarefas? 
-
-Não foi utilizado duas técnicas na resolução do artefado de análise de tarefas como foi proposto na matéria de IHC.
-
-##### 6.2.2  Acompanhamento 3 - As tarefas foram escolhidas de acordo com o perfil de usuário? 
-
-Não houve junção de informações coletadas informadas no perfil de usuário com as informações fornecidas na análise de tarefas
+Dado que esta lista de verificação considera a versão `2.2` do artefato, da data da disponibilização da versão `2.1` deste artefato não foram feitas alteraçõs ou correções ao artefato de análise de tarefas. 
 
 ## 7. Referências Bibliográficas
 
