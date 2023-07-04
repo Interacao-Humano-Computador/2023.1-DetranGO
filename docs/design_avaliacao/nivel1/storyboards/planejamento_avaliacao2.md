@@ -1,4 +1,4 @@
-# Storyboard - Planejamento da avaliação - Versão depreciada
+# Storyboard - Planejamento da avaliação
 
 ## 1. Introdução
 
@@ -19,35 +19,39 @@ Para o planejamento da avaliação do protótipo de papel elaborado, será utili
 
 ### 3.1 D - Determinar os objetivos gerais da avaliação
 
-Esta avaliação tem como objetivo a validação por parte de um usuário acerca dos storyboards desenvolvidos pela equipe, esta validação busca confirmar se:
+Esta avaliação tem como objetivo a validação por parte de um usuário acerca dos storyboards desenvolvidos pela equipe, esta validação busca encontrar:
 
-- A fidelidade dos storyboards com a realidade é atendida.
-- As necessidades dos usuários representados são satisfeitas.
-- Existe a necessidade de alteração.
+- Problemas de interação e design.
+- Ideias e alternativas de design.
 
 ### 3.2 E - Explorar perguntas a serem respondidas
 
 Para cada objetivo definido para a avaliação, foram elaboradas perguntas a serem respondidas pela mesma, tais questões são:
 
-#### 3.2.1 Fidelidade dos storyboards com a realidade
+#### 3.2.1 Encontrar problemas de interação e design
 
-As perguntas elaboradas para verificar se os storyboards desenvolvidos estão de acordo com a realizade estão presentes na tabela 1 abaixo.
+As perguntas elaboradas para verificar se os storyboards desenvolvidos possuem problemas de interação e design estão presentes na tabela 1 abaixo.
 
-| **Número** |                                 **Pergunta**                                  |    **Resposta**     |                    **Observações**                    |
-| :--------: | :---------------------------------------------------------------------------: | :-----------------: | :---------------------------------------------------: |
-|     1      | Quanto aos storyboards, você acha que eles estão condizentes com a realidade? | Sim / Não / Não sei |                           -                           |
-|     2      |   Qual ou quais storyboards não estão condizentes com a realidade? Por quê?   |   Resposta aberta   | Realizada somente se a resposta anterior for negativa |
-|     3      |           A sequência de ações do storyboard fez sentido para você?           | Sim / Não / Não sei |                           -                           |
+| Número | Pergunta                                                            | Resposta | Observações                                                |
+|--------|---------------------------------------------------------------------|----------|------------------------------------------------------------|
+| 1      | Você compreendeu a sequência de ações no storyboard?                | Sim/Não  | -                                                          |
+| 2      | Você acredita que o personagem do storyboard atingiu seu objetivo?  | Sim/Não  | -                                                          |
+| 3      | Porque você acredita que ele não atingiu o objetivo?                | Aberta   | Deve ser feita apenas se a resposta anterior for negativa. |
+| 4      | Você entendeu o papel do site do DetranGo no storyboard?            | Sim/Não  | -                                                          |
+| 5      | Você acredita que o site do DetranGo auxiliou o personagem?         | Sim/Não  | -                                                          |
+| 6      | Porque você acredita que o site não o auxiliou?                     | Aberta   | Deve ser feita apenas se a resposta anterior for negativa. |
+| 7      | Você acredita que o storyboard retrata fielmente a tarefa proposta? | Sim/Não  | -                                                          |
+| 8      | Porque você acredita que o storyboard não é fiel com a tarefa?      | Aberta   | Deve ser feita apenas se a resposta anterior for negativa. |
 
 <center>
 
-Tabela 1: Roteiro de perguntas para o objetivo 1(Fonte: Autor, 2023)
+Tabela 1: Roteiro de perguntas para o objetivo 1(Fonte: Adaptado de Barbosa(2021))
 
 </center>
 
-#### 3.2.2 Satisfação das necessidades do usuário
+#### 3.2.2 Encontrar ideias e alternativas de design
 
-As perguntas elaboradas para verificar se as tarefas descritas nos storyboards são realizadas de forma satisfatória estão presentes na tabela 2 abaixo.
+As perguntas elaboradas para verificar se o entrevistado possui ideias e alternativas de design estão presentes na tabela 2 abaixo.
 
 | **Número** |                                  **Pergunta**                                  |    **Resposta**     | **Observações** |
 | :--------: | :----------------------------------------------------------------------------: | :-----------------: | :-------------: |
@@ -56,21 +60,7 @@ As perguntas elaboradas para verificar se as tarefas descritas nos storyboards s
 
 <center>
 
-Tabela 2: Roteiro de perguntas para o objetivo 2(Fonte: Autor, 2023)
-
-</center>
-
-#### 3.2.3 Necessidade de alteração
-
-As perguntas elaboradas para verificar se existe a necessidade de alteração dos storyboards estão presentes na tabela 3 abaixo.
-
-| **Número** |                              **Pergunta**                               |  **Resposta**   | **Observações** |
-| :--------: | :---------------------------------------------------------------------: | :-------------: | :-------------: |
-|     1      | Você tem algum ponto que acha que deveria ser alterado nas storyboards? | Resposta aberta |        -        |
-
-<center>
-
-Tabela 3: Roteiro de perguntas para o objetivo 3(Fonte: Autor, 2023)
+Tabela 2: Roteiro de perguntas para o objetivo 2(Fonte: Adaptado de Barbosa(2021))
 
 </center>
 
@@ -97,6 +87,8 @@ As tarefas propostas para os storyboard foram:
 - Emissão de CRLV
 - Transferência de veículo
 
+Tais tarefas devem ser representadas em storyboads, os quais devem ser apresentados em um [artefato próprio](./storyboard.md).
+
 #### 3.4.3 Ferramentas utilizadas
 
 As entrevistas poderão ser realizadas de forma presencial ou remota. Para que se possa realizar a avaliação de forma remota, os storyboards desenvolvidos devem ser convertidos em arquivos PDF utilizando a ferramenta [CamScanner](https://www.camscanner.com/)[5]. Para a realização e gravação da entrevista serão utilizadas as ferramentas [Google Meet](https://meet.google.com/)[6] para a realização da reunião e o [OBS](https://obsproject.com/pt-br/download/)[7] para a gravação da mesma.
@@ -107,7 +99,7 @@ Antes de realizar as entrevistas de fato, deverá ser realizado um teste inicial
 
 #### 3.4.5 Participantes das atividades
 
-Na tabela 4 abaixo se encontram descritos os participantes do teste piloto.
+Na tabela 3 abaixo se encontram descritos os participantes do teste piloto.
 
 <center>
 
@@ -116,11 +108,11 @@ Na tabela 4 abaixo se encontram descritos os participantes do teste piloto.
 | Teste piloto | Felipe Mastromauro | Equipe de desenvolvimento | Testador |
 | Teste piloto | Pedro Muniz        | Equipe de desenvolvimento | Testador |
 
-Tabela 4: Participantes do teste piloto(Fonte: Autor, 2023)
+Tabela 3: Participantes do teste piloto(Fonte: Autor, 2023)
 
 </center>
 
-Na tabela 5 abaixo se encontram descritos os participantes da entrevista.
+Na tabela 4 abaixo se encontram descritos os participantes da entrevista.
 
 <center>
 
@@ -128,35 +120,35 @@ Na tabela 5 abaixo se encontram descritos os participantes da entrevista.
 | ------------ | ------------------ | ------------------------- | ------------- |
 | Entrevista 1 | Felipe Mastromauro | Equipe de desenvolvimento | Entrevistador |
 | Entrevista 1 | Pedro Muniz        | Equipe de desenvolvimento | Relator       |
-| Entrevista 1 | Leonardo Jesus     | Usuário do sistema        | Entrevistado  |
+| Entrevista 1 | João Camillo       | Usuário do sistema        | Entrevistado  |
 
-Tabela 5: Participantes da entrevista(Fonte: Autor, 2023)
+Tabela 4: Participantes da entrevista(Fonte: Autor, 2023)
 
 </center>
 
 #### 3.4.6 Cronograma das atividades
 
-Na tabela 6 abaixo, estão descritos local, data e horário para o teste piloto.
+Na tabela 5 abaixo, estão descritos local, data e horário para o teste piloto.
 
 <center>
 
 | Atividade    | Local                | Data       | Horário |
 | ------------ | -------------------- | ---------- | ------- |
-| Teste piloto | Remoto (Google Meet) | 26/05/2023 | 18:00   |
+| Teste piloto | Remoto (Google Meet) | 02/07/2023 | 18:00   |
 
-Tabela 6: Cronograma para o teste piloto(Fonte: Autor, 2023)
+Tabela 5: Cronograma para o teste piloto(Fonte: Autor, 2023)
 
 </center>
 
-Na tabela 7 abaixo, estão descritos local, data e horário para a entrevista.
+Na tabela 6 abaixo, estão descritos local, data e horário para a entrevista.
 
 <center>
 
 | Atividade    | Local                | Data       | Horário |
 | ------------ | -------------------- | ---------- | ------- |
-| Entrevista 1 | Remoto (Google Meet) | 27/05/2023 | 21:30   |
+| Entrevista 1 | Remoto (Google Meet) | 03/07/2023 | 17:30   |
 
-Tabela 7: Cronograma para a entrevista(Fonte: Autor, 2023)
+Tabela 6: Cronograma para a entrevista(Fonte: Autor, 2023)
 
 </center>
 
@@ -207,8 +199,9 @@ Após a execução da avaliação, os dados recolhidos deverão ser tratados e r
 
 ## 5. Histórico de Versão
 
-| Versão | Data     | Descrição                                 | Autor(es)    | Revisor(es) |
-| ------ | -------- | ----------------------------------------- | ------------ | ----------- |
-| `1.0`  | 19/05/23 | Criação do documento e adição do conteúdo | João M. | Amanda N. |
-| `1.1`  | 21/05/23 | Adição do framework DECIDE e storyboards  | João M. | Amanda N. |
-| `1.2`  | 16/06/23 | Alterações de padronização                | Pedro M.  | Amanda N. |
+| Versão | Data     | Descrição                                 | Autor(es) | Revisor(es) |
+| ------ | -------- | ----------------------------------------- | --------- | ----------- |
+| `1.0`  | 19/05/23 | Criação do documento e adição do conteúdo | João M.   | Amanda N.   |
+| `1.1`  | 21/05/23 | Adição do framework DECIDE e storyboards  | João M.   | Amanda N.   |
+| [`1.2`](./planejamento_avaliacao.md)  | 16/06/23 | Alterações de padronização                | Pedro M.  | Amanda N.   |
+| `2.0` | 01/07/23 | Refeitura do documento | Pedro M. | Carlos E. |

@@ -1,4 +1,4 @@
-# Storyboard - Relato de Resultados da Avaliação
+# Storyboard - Relato de Resultados da Avaliação - Versão depreciada
 
 ## 1. Introdução
 A criação de storyboards é uma técnica de prototipação de baixa fidelidade amplamente utilizada para a representação das tarefas realizadas pelos usuários no sistema. Busca auxiliar na comunicação entre a equipe de desenvolvimento e os _stakeholders_ do projeto.[]
@@ -357,6 +357,7 @@ Tabela 17: Respostas para as perguntas elaboradas para o objetivo 2 do storyboar
 | Número | Pergunta                                                                | Resposta |
 |--------|-------------------------------------------------------------------------|----------|
 | 1      | Você tem algum ponto que acha que deveria ser alterado nas storyboards? | Não      |
+
 
 
 Tabela 18: Respostas para as perguntas elaboradas para o objetivo 3 do storyboard de emissão de CRLV(Fonte: Autor, 2023).
