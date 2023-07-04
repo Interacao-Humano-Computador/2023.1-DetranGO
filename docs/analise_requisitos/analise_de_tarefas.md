@@ -306,4 +306,4 @@ Com isso, pensando nas ações que os usuários definidos pelo [artefato de perf
 | `1.1`  | 05/05/2023 | Adição inicial do Diagrama da HTA  | Pedro H. e João M. |  Carlos E. |
 | `1.2`  | 05/05/2023 | Adição das imagens e atividades dos funcionários  | Pedro H. e João M. |  Carlos E. |
 | `1.3`  | 08/05/2023 | Descrição das atividades e correção de erros  | Pedro H. e João M. |  Carlos E. |
-| `2.0`  | 25/06/2023 | Adição de outra análise de tarefas  | Pedro H. |  Felipe M. |
+| `1.4`  | 25/06/2023 | Adição de outra análise de tarefas  | Pedro H. |  Felipe M. |

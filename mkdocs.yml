@@ -64,7 +64,7 @@ nav:
           - Perfil do Usuário: analise_requisitos/perfilUsuario.md
           - Princípios e diretrizes do projeto: analise_requisitos/principios.md
           - Personas: analise_requisitos/personas.md
-          - Análise de Tarefas: analise_requisitos/analise_de_tarefas.md
+          - Análise de Tarefas: analise_requisitos/analise_de_tarefas2.md
           - Cenários: analise_requisitos/cenarios.md
           - Característica para Plataforma: analise_requisitos/caracteristicas_para_plataforma.md
           - Guia de Estilo: analise_requisitos/guia_estilo.md
@@ -73,6 +73,7 @@ nav:
     - Design, Avaliação e Desenvolvimento:
             - Nível 1:
                   - Storyboards:
+                        - Storyboards: design_avaliacao/nivel1/storyboards/storyboard.md
                         - Planejamento da Avaliação: design_avaliacao/nivel1/storyboards/planejamento_avaliacao.md
                         - Planejamento do Relato de Resultados da Avaliação: design_avaliacao/nivel1/storyboards/planejamento_relato_resultados.md
                         - Relato dos Resultados: design_avaliacao/nivel1/storyboards/storyboard_relato.md
@@ -82,11 +83,13 @@ nav:
                         - Relato dos Resultados: design_avaliacao/nivel1/analise_tarefas/relato_resultados_tarefas.md
             - Nível 2:
                   - Protótipo de Papel:
+                        - Protótipo de Papel: design_avaliacao/nivel2/prototipoPapel/prototipoPapel.md
                         - Planejamento da Avaliação: design_avaliacao/nivel2/prototipoPapel/planejamentoAvaliacao.md
                         - Planejamento do Relato de Resultados da Avaliação: design_avaliacao/nivel2/prototipoPapel/planejamentoRelatoResultados.md
                         - Relato dos Resultados: design_avaliacao/nivel2/prototipoPapel/relatoResultados.md
             - Nível 3:
                   - Protótipo de Alta Fidelidade:
+                        - design_avaliacao/nivel3/prototipoAlta/prototipoAlta.md
                         - Planejamento da Avaliação: design_avaliacao/nivel3/prototipoAlta/plan_avaliacao.md
                         - Planejamento do Relato de Resultados da Análise: design_avaliacao/nivel3/prototipoAlta/plan_relato.md
                         - Relato dos Resultados: design_avaliacao/nivel3/prototipoAlta/relato_resultados.md
