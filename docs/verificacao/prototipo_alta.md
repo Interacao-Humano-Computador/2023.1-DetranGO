@@ -63,7 +63,7 @@ A tabela 1 apresenta o checklist de padronização para o artefato protótipo de
 | 1 | Possui ortografia correta e formal? | Sim |
 | 2 | Possui introdução? | Sim |
 | 3 | Possui links necessários? | Sim |
-| 4 | As tabelas e imagens possuem legenda padronizada e chamada no texto? | Sim |
+| 4 | As tabelas e imagens possuem legenda padronizada e chamada no texto? | Não |
 | 5 | As tabelas e imagens estão totalmente em português? | Sim |
 | 6 | Possui bibliografia? | Sim |
 | 7 | A bibliografia está em ordem alfabética? | Sim |
@@ -106,11 +106,11 @@ Como mostrado nas figuras, o grau de satisfação deste artefato é de **100%** 
 
 ## 5. Problemas encontrados
 
-Não foi encontrado erros com relação aos checklists de conteúdo e padronização utilizado no planejamento, porém pode haver um erro não encontrado através dos checklists, para isso é ideal manter o acompanhamento na seção 6.
+Não foi encontrado erros com relação aos checklists de conteúdo utilizado no planejamento, no checklist de padronização foi verificado alguns problemas de padronização nas legendas das imagens porém pode haver um erro não encontrado através dos checklists, para isso é ideal manter o acompanhamento na seção 6.
 
 ## 6. Acompanhamento
 
-Não houve mudanças no artefato
+As legendas foram corrigidas e mais nenhum problema foi encontrado.
 
 ## 7. Referências bibliográficas
 
