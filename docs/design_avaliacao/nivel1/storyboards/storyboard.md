@@ -2,7 +2,6 @@
 
 ## 1. Introdução
 
-76
 Este artefato apresenta os storyboards desenvolvidos no projeto, levando em consideração, a configuração "Quem está envolvido?","Quais tarefas realizar?", a sequência "Quais são os passos a serem realizados na tarefa?" e por fim temos a satisfação, onde ligamos a configuração e as tarefas em como solucionar o problema citado dentro de um storyboard.
 
 ## 2. Objetivo
@@ -12,52 +11,73 @@ Este artefato tem como objetivo documentar a criação dos storyboards e resigni
 ## 3. Storyboards 
 
 ### 3.1 Storyboard - Consulta de CNH
-Storyboard retrata a jornada do usuário ao consultar a CNH, onde o usuário consegue consultar informações sobre a mesma, contendo informações como, infrações de trânsito, dados da CNH, e pontuação na CNH.
+Storyboard retratado na figura 1 representa a jornada do usuário ao consultar a CNH, onde o usuário consegue consultar informações sobre a mesma, contendo informações como, infrações de trânsito, dados da CNH, e pontuação na CNH.
+
+<center>
 
 ![Alt text](../../../assets/storyboards/consulta-cnh.jpg)
 
-Figura 1 - Storyboard Consulta de Veículo (Fonte: 
+Figura 1 - Storyboard Consulta de CNH (Fonte: 
 Carlos Eduardo, 2023)
 
+</center>
+
 ### 3.2 Storyboard - Consulta de Veículo
-O Storyboard retrata a joranada do usuário ao consultar o veículo, onde as informações a serem visualizadas, são: débitos, infrações de trânsito, e dados do veículo.
+O Storyboard retratado na figura 2 representa a joranada do usuário ao consultar o veículo, onde as informações a serem visualizadas, são: débitos, infrações de trânsito, e dados do veículo.
+
+<center>
 
 ![Alt text](../../../assets/storyboards/consultar-veiculo.jpg)
 
 Figura 2 - Storyboard Consulta de Veículo (Fonte: 
 Amanda Noda, 2023)
 
+</center>
+
 ### 3.3 Storyboard - Agendar atendimento
-Storyboard retrata a jornada do usuário ao agendar atendimento dentro do Detran GO.
+Storyboard retratado na figura 3 representa a jornada do usuário ao agendar atendimento dentro do Detran GO.
+
+<center>
 
 ![Alt text](../../../assets/storyboards/agendar-atendimento.jpg)
 
-Figura 3 - Storyboard Consulta de Veículo (Fonte: 
+Figura 3 - Storyboard Agendar atendimento (Fonte: 
 Pedro Muniz, 2023)
 
+</center>
+
 ### 3.4 Storyboard - Solicitação de Segunda Via de CNH
-Storyboard onde retrata a jornada ddo usuário ao solicitar a segunda via da CNH no Detran GO.
+Storyboard retratado na figura 4 representa a jornada do usuário ao solicitar a segunda via da CNH no Detran GO.
+
+<center>
 
 ![Alt text](../../../assets/storyboards/solicitar-cnh.jpg)
 
-Figura 4 - Storyboard Consulta de Veículo (Fonte: 
+Figura 4 - Storyboard Solicitação de Segunda Via de CNH (Fonte: 
 João Morberck, 2023)
 
+</center>
+
 ### 3.5 Storyboard - Emissão de CRLV
-Storyboard retrata a jornada do usuário ao emitir o CRLV dentro do site do Detran GO.
+Storyboard retratado na figura 5 representa a jornada do usuário ao emitir o CRLV dentro do site do Detran GO.
+<center>
 
 ![Alt text](../../../assets/storyboards/emissao-crlv.jpg)
 
-Figura 5 - Storyboard Consulta de Veículo (Fonte: 
+Figura 5 - Storyboard Emissão de CRLV (Fonte: 
 Felipe Mastromauro, 2023)
+</center>
 
 ### 3.6 Storyboard - Transferência de Veículo
-Storyboard retrata a jornada do usuário ao transferir veículo dentro do site do Detran GO.
+Storyboard retratado na figura 6 representa a jornada do usuário ao transferir veículo dentro do site do Detran GO.
+<center>
 
 ![Alt text](../../../assets/storyboards/transferencia-veiculo.jpg)
 
-Figura 6 - Storyboard Consulta de Veículo (Fonte: 
+Figura 6 - Storyboard Transferência de veículo (Fonte: 
 Pedro Henrique, 2023)
+
+</center>
 
 ## 4. Referências Bibliográficas
 
@@ -67,11 +87,7 @@ Pedro Henrique, 2023)
 
 > [3] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Acesso em: 27 mai. 2023.
 
-> [4] CamScanner, acesso em: 27 de maio de 2023. Para mais informações acesse: [link](https://www.camscanner.com/).
-
-> [5] OBS, acesso em: 27 de maio de 2023. Para mais informações acesse: [link](https://obsproject.com/pt-br/download/).
-
-> [6] Storyboards, Paper Prototypes and Mockups - Scott Klemmer / Univ. Califórnia em Berkeley (Coursera)
+> [4] Storyboards, Paper Prototypes and Mockups - Scott Klemmer / Univ. Califórnia em Berkeley (Coursera)
 
 ## 5. Histórico de Versão
 
