@@ -2,7 +2,7 @@
 
 ## 1. Introdução
 
-O planejamento do relato dos resultados é essenciap para uma boa definição do artefato de relato dos resultados e para a orientação dos avaliadores ao discorrer sobre os dados aferidos na avaliação.
+O planejamento do relato dos resultados é essencial para uma boa definição do artefato de relato dos resultados e para a orientação dos avaliadores ao discorrer sobre os dados aferidos na avaliação.
 
 O presente artefato busca marcar a verificação do artefato de planejamento do relato dos resultados da avaliação do storyboard, que na data da verificação (19/06/2023) tinha como versão mais atual a versão `1.1` de 19/06/2023.
 
