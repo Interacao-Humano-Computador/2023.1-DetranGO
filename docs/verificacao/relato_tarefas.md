@@ -127,7 +127,7 @@ Tabela 3: Representações gráficas dos resultados da verificação (Fonte: Aut
 
 ### 5.2. Verificação 4 - As tabelas e imagens possuem legenda padronizada e chamada no texto ?
 
-- A tablea 2 não possui chamada no texto.
+- A tabela 2 não possui chamada no texto.
 
 ### 5.3. Verificação 6 - Possui bibliografia ?
 
