@@ -59,12 +59,96 @@ A terceira fase, instalação, representa o momento onde o sistema pronto é imp
 
 O ciclo de vida de Mayhew (1999) foi escolhido para o projeto devido ao seu grande nível de detalhamento acerca das etapas de desenvolvimento para um projeto de IHC,  evitando assim confusões ou erros na execução do projeto por conta de inexperiência. Além disso, o modelo de Mayhew (1999) é recomendado para projetos de caráter estudantil, já que auxilia na pesquisa e aprendizagem das etapas do processo de design.[1]
 
+## 3. Cronograma final
+
+Esta seção contém o cronograma final do projeto, descrevendo cada atividade realizada durante seu período de desenvolvimento, as datas de entrega planejadas e reais e os autores e revisores planejados e reais. Estas informações estão compiladas na tabela 1 abaixo.
+
+
+| Atividade | Data de entrega planejada | Data de entrega executada | Autor Planejado | Autor Executado | Revisor Planejado | Revisor Executado |
+|--|--|--|--|--|--|--|
+| Avaliar lista de sites | 10/04/2023 | 13/04/2023 | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. |
+| Criar GitHub Pages | 10/04/2023 | 07/04/2023 | Carlos E. | Carlos E. | Pedro H. | Pedro H. |
+| Definir cronograma | 10/04/2023 | 17/04/2023 | Amanda N., Felipe M., Pedro F., João M. | Amanda N., Felipe M., Pedro F., João M. | Amanda N., Felipe M., Pedro F., João M. | Amanda N., Felipe M., Pedro F., João M. |
+| Definir site escolhido | 10/04/2023 | 13/04/2023 | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. |
+| Definir metodologia | 17/04/2023 | 13/04/2023 | Carlos E. | Carlos E. | João M. | João M. |
+| Definir Ferramentas | 17/04/2023 | 17/04/2023 | Pedro H. | Pedro H. | Carlos E. | Carlos E. |
+| Definir Processo de design | 17/04/2023 | 17/04/2023 | Pedro F. | Pedro F. | Felipe M. | Felipe M. |
+| Gravar a apresentação da primeira etapa | 20/04/2023 | 21/04/2023 | Felipe M. | Felipe M. | Amanda N. | Amanda N. |
+| Editar a apresentação da primeira etapa | 22/04/2023 | 22/04/2023 | João M. | João M. | Pedro H. | Pedro H. |
+| Revisão da primeira etapa | 24/04/2023 | 24/04/2023 | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. |
+| Definição do perfil do usuário | 26/04/2023 | 01/05 | Amanda N. | Amanda N. | Pedro H. | Pedro H. |
+| Detalhamento de aspectos éticos de pesquisas envolvendo pessoas | 25/04/2023 | 02/05 | Carlos E. | Carlos E. | Pedro F. | Pedro F. |
+| Detalhamento de personas | 28/04/2023 | 08/05 | Felipe M. | Felipe M., João M. | João M. | Carlos E. |
+| Cenários | 29/04/2023 | 07/05 | Pedro F. | Pedro F. | Felipe M. | Felipe M. |
+| Análise de tarefas | 01/05/2023 | 07/05 | Pedro H. | Pedro H., João M. | Carlos E. | Carlos E. |
+| Gravar a apresentação da etapa 2 | 04/05/2023 | 08/05 | Felipe M. | Felipe M. | Amanda N. | Amanda N. |
+| Editar a apresentação da etapa 3 | 06/05/2023 | 08/05 | João M. | João M. | Amanda N. | Amanda N. |
+| Revisão da segunda etapa etapa | 09/05/2023 | 09/05/2023 | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. |
+| Princípios gerais do projeto | 10/05/2023 | 14/05 | Amanda N. | Amanda N., Pedro H. | João M. | Felipe M. |
+| Características para a plataforma do projeto | 09/05/2023 | 12/05 | Carlos E. | Pedro F, Felipe M. | Felipe M. | João M. |
+| Metas de Usabilidade do projeto | 10/05/2023 | 12/05 | Pedro F. | Amanda N, Pedro H. | Pedro H. | Felipe M. |
+| Guia de Estilo do projeto | 10/05/2023 | 11/05 | João M. | Pedro F, Felipe M. | Amanda N. | Carlos E. |
+| Gravar a apresentação | 12/05/2023 | 13/05 | Amanda N. e Felipe M. | Pedro H., João M e Carlos E. | Carlos E. | Pedro F. |
+| Editar a apresentação | 13/05/2023 | 14/05 | João M. | Felipe M. | Amanda N. | Carlos E. |
+| Revisão da terceira etapa | 14/05/2023 | 14/05 | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. |
+| Storyboard - Planejamento da avaliação | 15/05 | 19/05 | João M. | João M. | Amanda N. | Amanda N. |
+| Análise de tarefas - Planejamento da avaliação | 15/05 | 21/05 | Felipe M. | Felipe M. | Carlos E. | Carlos E. |
+| Storyboard - Planejamento do relato dos resultados da avaliação | 16/05 | 19/05 | Carlos E. | Amanda N., Carlos E. | Pedro F. | Pedro F. |
+| Análise de tarefas - Planejamento do relato dos resultados da avaliação | 16/05 | 19/05 | Pedro H. | Pedro H. | Amanda N. | Amanda N. |
+| Gravar a apresentação | 17/05 | 22/05 | Felipe M. | Carlos E. | João M. | Felipe M. |
+| Editar a apresentação | 18/05 | 22/05 | Carlos E. | Carlos E. | Amanda N. | Felipe M. |
+| Revisão da quarta etapa | 21/05/2023 | 22/05 | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. |
+| Storyboard - Relato de resultados | 22/05/2023 | 21/05/2023 | Pedro F. | João M. | Amanda N. | Amanda N. |
+| Análise de tarefas - Relato de resultados | 22/05/2023 | 22/05/2023 | Pedro H. | Felipe M. | Felipe M. | Carlos E. |
+| Protótipo de papel - Planejamento da avaliação | 23/05/2023 | 22/05/2023 | Carlos E. | Amanda N., Carlos E. | Pedro F. | Pedro F. |
+| Protótipo de papel - Planejamento do relato dos resultados da avaliação | 23/05/2023 | 22/05/2023 | Amanda N. | Pedro H. | Pedro H. | Amanda N. |
+| Gravar a apresentação | 25/05/2023 | 22/05/2023 | Felipe M. | Carlos E. | João M. | Felipe M. |
+| Editar a apresentação | 27/05/2023 | 27/05/2023 | João M. | João M. | Carlos E. | Carlos E. |
+| Revisão da quinta etapa | 30/05/2023 | 30/05/2023 | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. |
+| Verificação de artefatos - Perfil de usuário | 02/06/2023 | 05/06 | Amanda N. | Pedro M. | Felipe M. | Felipe M. |
+| Verificação de artefatos - Aspectos éticos | 02/06/2023 | 05/06 | João M. | Pedro M. | Pedro F. | Felipe M. |
+| Verificação de artefatos - Personas | 02/06/2023 | 05/06 | Carlos E. | Pedro M. | Pedro H. | Felipe M. |
+| Verificação de artefatos - Análise de tarefas | 02/06/2023 | 05/06 | Pedro H. | Felipe M. | Amanda N. | Pedro M. |
+| Verificação de artefatos - Princípios gerais do projeto. | 02/06/2023 | 05/06 | Pedro F. | Amanda N. | Carlos E. | Carlos E. |
+| Verificação de artefatos - Metas de usabilidade | 02/06/2023 | 05/06 | Felipe M. | Pedro H. | João M. | Carlos E. |
+| Gravar a apresentação | 02/06/2023 | 05/06 | Amanda N. e Carlos E. | Todos os integrantes | Felipe M. | Todos os integrantes |
+| Editar a apresentação | 04/06/2023 | 05/06/2023 | João M. | Todos os integrantes | Pedro H. | Todos os integrantes |
+| Revisão da etapa 6.1 | 06/06/2023 | 06/06/2023 | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. |
+| Verificação de artefatos - Guia de estilo | 15/06/2023 | 16/06/2023 | Amanda N. | Amanda N. | Felipe M. | Carlos E. |
+| Verificação de artefatos - Características da plataforma | 15/06/2023 | 18/06/2023 | João M. | Felipe M. | Pedro F. | Pedro M. |
+| Verificação de artefatos - Avaliação, relato e resultados do Storyboard | 15/06/2023 | 18/06/2023 | Carlos E. | Carlos E., Felipe M | Pedro H. | Pedro H., Pedro M. |
+| Verificação de artefatos - Avaliação, relato e resultados da análise de tarefas | 15/06/2023 | 15/06/2023 | Pedro H. | Carlos E. | Amanda N. | Pedro H. |
+| Verificação de artefatos - Avaliação, relato e resultados do protótipo de papel | 15/06/2023 | 16/06/2023 | Pedro F. | Pedro F. | Carlos E. | Carlos E. |
+| Verificação de artefatos - Avaliação e relato do protótipo de alta fidelidade | 15/06/2023 | 26/06/2023 | Felipe M. | Pedro H., Pedro M. | João M. | João M. |
+| Gravar a apresentação | 15/06/2023 | 19/06/2023 | Amanda N. e Carlos E. | Amanda N. e Carlos E. | Felipe M. | Felipe M. |
+| Editar a apresentação | 18/06/2023 | 19/06/2023 | João M. | João M. | Pedro H. | Pedro H. |
+| Revisão da etapa 6.2 | 28/06/2023 | 28/06/2023 | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. |
+| Relato dos resultados do Protótipo de Papel | 09/06/2023 | 19/05 | Amanda N. | Pedro M. | João M. | Amanda N. |
+| Planejamento da avaliação do Protótipo de alta fidelidade | 09/06/2023 | 09/06 | Pedro F. | Carlos E. | Carlos E. | Pedro H. |
+| Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | 09/06/2023 | 29/05 | Carlos E. | Pedro M., Pedro H. | Amanda N. | Amanda N., João M. |
+| Gravação da apresentação | 09/06/2023 | 12/06 | Pedro H. | Todos os integrantes. | João M. | Todos os integrantes. |
+| Edição da apresentação | 09/06/2023 | 12/06 | Felipe M. | Todos os integrantes. | Pedro F. | Todos os integrantes. |
+| Revisão da sétima etapa | 11/06/2023 | 13/06/2023 | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M |
+| Relato dos resultados do Protótipo de alta fidelidade | 12/06/2023 | 26/06 | Amanda N. e Felipe M. | Pedro M.. | Pedro F. e Pedro H. | João M. |
+| Gravação da apresentação | 12/06/2023 | 26/06 | Carlos E. e João M. | Todos os integrantes. | Amanda N. e Felipe M. | Amanda N. e Felipe M. |
+| Edição da apresentação | 12/06/2023 | 26/06 | Pedro F. e Pedro H. | Pedro F. e Pedro H. | Carlos E. e João M. | Todos os integrantes. |
+| Revisão da oitava etapa | 25/06/2023 | 27/06/2023 | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. |
+| Entrega da apresentação Final | 26/06/2023 | 05/07 | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. |
+| Gravação da apresentação | 26/06/2023 | 05/07 | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. |
+| Edição da apresentação | 26/06/2023 | 05/07 | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. |
+| Revisão da nona etapa | 03/07/2023 | 05/07 | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. |
+
+<center>
+Tabela 1: Cronogramas planejado e executado (Fonte: Felipe Mastromauro, 2023).
+</center>
+
+
 ## 4. Execução do projeto
 Para utilizar o ciclo de vida no projeto, foram necessárias algumas adaptações. Como o sistema analisado no projeto se trata de um sítio real e já implementado na web, as fases 1 e 3 foram fundidas em apenas uma fase, onde as atividades referentes à análise de requisitos foram priorizadas. Após esta adaptação, o cronograma do projeto foi elaborado de forma a cumprir as etapas do ciclo de vida, a seguir se encontra um resumo da execução de cada fase do projeto.
 
 
 ### 4.1 Análise de requisitos
-Nesta fase, são elaboradas metas de usabilidade a partir de dados coletados a partir de dados retirados de um perfil de usuário, uma análise das tarefas realizadas pelo sistema, as características da plataforma onde o sistema será executado e os princípios gerais para o projeto. Após a elaboração de tais metas, as mesmas são sumarizadas em um guia de estilo que será utilizado como direcionador para as demais fases do projeto. Na tabela 1 a seguir se encontram os artefatos elaborados nesta fase do projeto.
+Nesta fase, são elaboradas metas de usabilidade a partir de dados coletados a partir de dados retirados de um perfil de usuário, uma análise das tarefas realizadas pelo sistema, as características da plataforma onde o sistema será executado e os princípios gerais para o projeto. Após a elaboração de tais metas, as mesmas são sumarizadas em um guia de estilo que será utilizado como direcionador para as demais fases do projeto. Na tabela 2 a seguir se encontram os artefatos elaborados nesta fase do projeto.
 
 <center>
 
@@ -81,7 +165,7 @@ Nesta fase, são elaboradas metas de usabilidade a partir de dados coletados a p
 | [Mapa de empatia](./analise_requisitos/mapa_de_empatia.md) | Pedro M. e Felipe M. | Carlos E. |
 | [Metas de usabilidade](./analise_requisitos/metas_de_usabilidade.md) | Amanda N. | Felipe M. |
 
-Tabela 1: Artefatos elaborados da fase de análise de requisitos (Fonte: Pedro Muniz, 2023).
+Tabela 2: Artefatos elaborados da fase de análise de requisitos (Fonte: Pedro Muniz, 2023).
 
 </center>
 
@@ -90,7 +174,7 @@ Tabela 1: Artefatos elaborados da fase de análise de requisitos (Fonte: Pedro M
 Nesta fase, são elaborados diferentes prototipagens para o design do projeto, sendo tais protótipos elaborados em três níveis incrementais. Sendo que cada nível possui um ciclo próprio de elaboração, avaliação e resolução dos problemas encontrados. Abaixo se encontram os níveis executados no projeto.
 
 #### 4.2.1 Nível 1
-No nível 1, é elaborado o modelo conceitual para o design do projeto, ou seja, é realizado uma modelagem do sistema focada nas tarefas realizadas pelo mesmo, sem se preocupar muito com a interface ou interação do mesmo com o usuário, para realizar tal modelagem, foram utilizadas duas técnicas: storyboarding e análise de tarefas com HTA e GOMS. Na tabela 2 abaixo se encontram os artefatos elaborados neste nível.
+No nível 1, é elaborado o modelo conceitual para o design do projeto, ou seja, é realizado uma modelagem do sistema focada nas tarefas realizadas pelo mesmo, sem se preocupar muito com a interface ou interação do mesmo com o usuário, para realizar tal modelagem, foram utilizadas duas técnicas: storyboarding e análise de tarefas com HTA e GOMS. Na tabela 3 abaixo se encontram os artefatos elaborados neste nível.
 
 <center>
 
@@ -104,13 +188,13 @@ No nível 1, é elaborado o modelo conceitual para o design do projeto, ou seja,
 | [Planejamento do relato de resultados da avaliação da análise de tarefas](./design_avaliacao/nivel1/analise_tarefas/planejamento_relato_resultados.md) | Pedro H. e Pedro M.(versão anterior) e Felipe M. | João M. |
 | [Relato dos resultados da avaliação da análise de tarefas](./design_avaliacao/nivel1/analise_tarefas/relato_resultados_tarefas.md) | Amanda N. e João M.(versão anterior) e Felipe M. | Pedro H. |
 
-Tabela 2: Artefatos elaborados no nível 1 da fase de design, avaliação e desenvolvimento (Fonte: Pedro Muniz, 2023).
+Tabela 3: Artefatos elaborados no nível 1 da fase de design, avaliação e desenvolvimento (Fonte: Pedro Muniz, 2023).
 
 </center>
 
 
 #### 4.2.2 Nível 2
-No nível 2, é iniciado o projeto do design das telas do sistema, se preocupando principalmente com as metas de usabilidade a serem atingidas no projeto, apresentando apenas um modelo simples e pouco detalhado da interface e interação do sistema com o usuário. Para realizar os procedimentos deste nível, foi utilizada a técnica da prototipagem em papel. Na tabela 3 abaixo se encontram os artefatos elaborados neste nível.
+No nível 2, é iniciado o projeto do design das telas do sistema, se preocupando principalmente com as metas de usabilidade a serem atingidas no projeto, apresentando apenas um modelo simples e pouco detalhado da interface e interação do sistema com o usuário. Para realizar os procedimentos deste nível, foi utilizada a técnica da prototipagem em papel. Na tabela 4 abaixo se encontram os artefatos elaborados neste nível.
 
 <center>
 
@@ -121,13 +205,13 @@ No nível 2, é iniciado o projeto do design das telas do sistema, se preocupand
 | [Planejamento do relato de resultados da avaliação do protótipo de papel](./design_avaliacao/nivel2/prototipoPapel/planejamentoRelatoResultados.md) | Pedro H. e Pedro M. | João M. |
 | [Relato dos resultados da avaliação do protótipo de papel](./design_avaliacao/nivel2/prototipoPapel/relatoResultados.md) | Pedro M. e Amanda N. | Carlos E. e Amanda N. |
 
-Tabela 3: Artefatos elaborados no nível 2 da fase de design, avaliação e desenvolvimento (Fonte: Pedro Muniz, 2023).
+Tabela 4: Artefatos elaborados no nível 2 da fase de design, avaliação e desenvolvimento (Fonte: Pedro Muniz, 2023).
 
 </center>
 
 
 #### 4.2.3 Nível 3
-No nível 3, é executado o projeto das interfaces do sistema, finalmente tendo foco nas interfaces e na interação do sistema com os usuários, ao passo que resolve problemas na prototipagem anterior e busca atender de forma satisfatória as metas de usabilidade. Para realizar os procedimentos deste nível, foi utilizada a técnica da prototipagem de alta fidelidade. Na tabela 4 abaixo se encontram os artefatos elaborados neste nível.
+No nível 3, é executado o projeto das interfaces do sistema, finalmente tendo foco nas interfaces e na interação do sistema com os usuários, ao passo que resolve problemas na prototipagem anterior e busca atender de forma satisfatória as metas de usabilidade. Para realizar os procedimentos deste nível, foi utilizada a técnica da prototipagem de alta fidelidade. Na tabela 5 abaixo se encontram os artefatos elaborados neste nível.
 
 <center>
 
@@ -138,7 +222,7 @@ No nível 3, é executado o projeto das interfaces do sistema, finalmente tendo 
 | [Planejamento do relato de resultados da avaliação do protótipo de alta fidelidade](./design_avaliacao/nivel3/prototipoAlta/plan_relato.md) | Pedro H. e Pedro M. | João M. |
 | [Relato dos resultados da avaliação do protótipo de alta fidelidade](./design_avaliacao/nivel3/prototipoAlta/relato_resultados.md) | Pedro M. | João M. |
 
-Tabela 4: Artefatos elaborados no nível 3 da fase de design, avaliação e desenvolvimento (Fonte: Pedro Muniz, 2023).
+Tabela 5: Artefatos elaborados no nível 3 da fase de design, avaliação e desenvolvimento (Fonte: Pedro Muniz, 2023).
 
 </center>
 
@@ -169,7 +253,7 @@ Consequentemente, nosso principal objetivo no projeto foi alcançado, uma vez qu
 
 
 ## 6. Ferramentas utilizadas no projeto
-Na tabela 5 a seguir estão descritas as ferramentas utilizadas em cada etapa do projeto, juntamente com a motivação da utilização de cada uma delas. Para mais detalhes sobre a escolha das ferramentas, isso pode ser encontrado neste [link](./planejamento/ferramentas.md).
+Na tabela 6 a seguir estão descritas as ferramentas utilizadas em cada etapa do projeto, juntamente com a motivação da utilização de cada uma delas. Para mais detalhes sobre a escolha das ferramentas, isso pode ser encontrado neste [link](./planejamento/ferramentas.md).
 
 | Ferramentas | Etapa Utilizada | Motivo da Utilização | 
 |:-:|:-:|:-:|
@@ -184,11 +268,11 @@ Na tabela 5 a seguir estão descritas as ferramentas utilizadas em cada etapa do
 | Google Forms | Etapa 2  | Criação de formulário para identificação de perfil de usuário |
 
 <center>
-Tabela 5: Síntese do artefato de Ferramentas (Fonte: autor, 2023).
+Tabela 6: Síntese do artefato de Ferramentas (Fonte: autor, 2023).
 </center>
 
 ## 7. Técnicas Utilizadas
-Nesta seção, será apresentada a relação das técnicas utilizadas através de tabela 6 que irá apresentar cada artefato, a técnica utilizada e o autor designado para a atividade.
+Nesta seção, será apresentada a relação das técnicas utilizadas através de tabela 7 que irá apresentar cada artefato, a técnica utilizada e o autor designado para a atividade.
 
 
 | Artefato | Técnica | Autor(es) | 
@@ -205,7 +289,7 @@ Nesta seção, será apresentada a relação das técnicas utilizadas através d
 
 
 <center>
-Tabela 6: Técnicas Utilizadas.(fonte: Autor, 2023).
+Tabela 7: Técnicas Utilizadas.(fonte: Autor, 2023).
 </center>
 
 ## 8. Artefatos produzidos
@@ -214,7 +298,7 @@ Nesta seção são apresentados todos os artefatos produzidos separados por etap
 
 ### 8.1. Etapa 1 
 
-A tabela 7 apresenta os artefatos produzidos na primeira etapa do projeto.
+A tabela 8 apresenta os artefatos produzidos na primeira etapa do projeto.
 
 |  Data de finalização | Artefato elaborado | Autor(es) | Revisor(es) |
 |--|--|--|--|
@@ -228,13 +312,13 @@ A tabela 7 apresenta os artefatos produzidos na primeira etapa do projeto.
 | 23/04/2023 | [Apresentação da primeira etapa](https://interacao-humano-computador.github.io/2023.1-DetranGO/apresentacoes/1a_apresentacao/) | Todos os integrantes| Todos os integrantes. |
 
 <center>
-Tabela 7: Artefatos da primeira etapa. (Fonte: Autor, 2023).
+Tabela 8: Artefatos da primeira etapa. (Fonte: Autor, 2023).
 </center>
 
 
 ### 8.2. Etapa 2 
 
-A tabela 8 apresenta os artefatos produzidos na segunda etapa do projeto.
+A tabela 9 apresenta os artefatos produzidos na segunda etapa do projeto.
 
 
 | Data de finalização | Artefato elaborado | Autor(es) | Revisor(es) |
@@ -247,12 +331,12 @@ A tabela 8 apresenta os artefatos produzidos na segunda etapa do projeto.
 | 08/05 | [Apresentação da segunda etapa](https://interacao-humano-computador.github.io/2023.1-DetranGO/apresentacoes/2a_apresentacao/) | Todos os integrantes | Todos os integrantes
 
 <center>
-Tabela 8: Artefatos da segunda etapa. (Fonte: Autor, 2023).
+Tabela 9: Artefatos da segunda etapa. (Fonte: Autor, 2023).
 </center>
 
 ### 8.3. Etapa 3 
 
-A tabela 9 apresenta os artefatos produzidos na terceira etapa do projeto.
+A tabela 10 apresenta os artefatos produzidos na terceira etapa do projeto.
 
 | Data de finalização | Artefato elaborado | Autor(es) | Revisor(es) |
 |--|--|--|--|
@@ -483,3 +567,5 @@ Durante a execução do projeto, enfrentamos alguns desafios. O curto período d
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0`  | 04/07/23 | Resultados Alcançados e Apresentações das Etapas | Carlos E. | X |
 | `1.1`  | 04/07/23 | Síntese do artefato de avaliações e do artefato de Ferramentas | Pedro H.. | Carlos E. |
+| `1.2`  | 05/07/23 |  Cronograma final e artefatos do projeto | Felipe M. | Carlos E. |
+| `1.3`  | 05/07/23 | Processo de design e execução do projeto | Felipe M. | Carlos E. |
