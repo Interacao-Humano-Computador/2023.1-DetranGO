@@ -73,6 +73,7 @@ nav:
     - Design, Avaliação e Desenvolvimento:
             - Nível 1:
                   - Storyboards:
+                        - Storyboards: design_avaliacao/nivel1/storyboards/storyboard.md
                         - Planejamento da Avaliação: design_avaliacao/nivel1/storyboards/planejamento_avaliacao2.md
                         - Planejamento do Relato de Resultados da Avaliação: design_avaliacao/nivel1/storyboards/planejamento_relato_resultados.md
                         - Relato dos Resultados: design_avaliacao/nivel1/storyboards/storyboard_relato2.md
@@ -82,11 +83,13 @@ nav:
                         - Relato dos Resultados: design_avaliacao/nivel1/analise_tarefas/relato_resultados_tarefas.md
             - Nível 2:
                   - Protótipo de Papel:
+                        - Protótipo de Papel: design_avaliacao/nivel2/prototipoPapel/prototipoPapel2.md
                         - Planejamento da Avaliação: design_avaliacao/nivel2/prototipoPapel/planejamentoAvaliacao.md
                         - Planejamento do Relato de Resultados da Avaliação: design_avaliacao/nivel2/prototipoPapel/planejamentoRelatoResultados.md
                         - Relato dos Resultados: design_avaliacao/nivel2/prototipoPapel/relatoResultados.md
             - Nível 3:
                   - Protótipo de Alta Fidelidade:
+                        - design_avaliacao/nivel3/prototipoAlta/prototipoAlta.md
                         - Planejamento da Avaliação: design_avaliacao/nivel3/prototipoAlta/plan_avaliacao.md
                         - Planejamento do Relato de Resultados da Análise: design_avaliacao/nivel3/prototipoAlta/plan_relato.md
                         - Relato dos Resultados: design_avaliacao/nivel3/prototipoAlta/relato_resultados.md
@@ -106,12 +109,15 @@ nav:
           - Planejamento da avaliação - Análise de tarefas: verificacao/planejamentoA_tarefas.md
           - Planejamento do relato - Análise de tarefas: verificacao/planejamentoR_tarefas.md
           - Relato - Análise de tarefas: verificacao/relato_tarefas.md
+          - Storyboards: verificacao/storyboards.md
           - Planejamento da avaliação - Storyboard: verificacao/planejamentoA_storyboard.md
           - Planejamento do relato - Storyboard: verificacao/planejamentoR_storyboard.md
           - Relato - Storyboard: verificacao/relato_storyboard.md
+          - Protótipo de Papel: verificacao/prototipo_papel.md
           - Planejamento da avaliação - Protótipo de papel: verificacao/planejamentoA_papel.md
           - Planejamento do relato - Protótipo de papel: verificacao/planejamentoR_papel.md
           - Relato - Protótipo de papel: verificacao/relato_papel.md
+          - Protótipo de alta fidelidade: verificacao/prototipo_alta.md
           - Planejamento da avaliação - Protótipo de alta fidelidade: verificacao/planejamentoA_alta.md
           - Planejamento do relato - Protótipo de alta fidelidade: verificacao/planejamentoR_alta.md
           - Teste Piloto:
