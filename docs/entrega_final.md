@@ -438,7 +438,7 @@ A tabela 15 apresenta os artefatos produzidos na sétima etapa do projeto.
 Tabela 15: Artefatos da sétima etapa. (Fonte: Autor, 2023).
 </center>
 
-### 8.1. Etapa 8 
+### 8.9. Etapa 8 
 
 A tabela 16 apresenta os artefatos produzidos na oitava etapa do projeto.
 
@@ -451,7 +451,7 @@ A tabela 16 apresenta os artefatos produzidos na oitava etapa do projeto.
 Tabela 16: Artefatos da oitava etapa. (Fonte: Autor, 2023).
 </center>
 
-### 8.1. Etapa 9 
+### 8.10. Etapa 9 
 
 A tabela 17 apresenta os artefatos produzidos na nona etapa do projeto. 
 
@@ -465,8 +465,8 @@ Tabela 17: Artefatos da nona etapa. (Fonte: Autor, 2023).
 </center>
 
 
-## 9. Avaliações dos protótipos de alta fidelidade e de papel 
-Nesta seção, será apresentada as avaliações dos protótipos que foram realizadas com avaliadores os quais foram os encarregados de realizar as entrevistas. Assim como o número de participantes com os nomes de cada integrante do grupo que participaram de cada avaliação e as datas de execução das avaliações. Dessa forma, as informações listada estão presentes na tabela 18 a seguir:
+## 9. Avaliações dos protótipos de alta fidelidade e de papel, Análise de Tarefas e Storyboards
+Nesta seção, será apresentada as avaliações dos protótipos, da análise de tarefas e dos storyboards que foram realizadas com avaliadores os quais foram os encarregados de realizar as entrevistas. Assim como o número de participantes com os nomes de cada integrante do grupo que participaram de cada avaliação e as datas de execução das avaliações. Dessa forma, as informações listada estão presentes na tabela 18 a seguir:
 
 | Avaliação | Avaliadores | Número de entrevistados | Data de execução | 
 |:-:|:-:|:-:|:-:|
@@ -480,7 +480,7 @@ Tabela 18: Síntese do artefato de avaliações do projeto (Fonte: autor, 2023).
 </center>
 
 
-## 10. Métodos de verificaçãos
+## 10. Métodos de verificação
 Nessa seção, será apresentada a verificação de todos os artefatos criados contendo o autor e revisor de cada atividade. Onde foi utilizado a técnica de inspeção, com base na proposta de Fagan, utilizando um checklist de erros mais comuns a serem encontrados em  projetos, tomando como base projetos anteriores da disciplina de Interação Humano Computador, o livro da simone, o plano de ensino e feedbacks recebidos durante a disciplina. A tabela 19 sintetiza os responsáveis pelo desenvolvimento de cada artefato, assim como cada revisor.
 
 
@@ -566,7 +566,7 @@ Durante a execução do projeto, enfrentamos alguns desafios. O curto período d
 
 > [3] Repositório Lichess do semestre 2022.2, acesso em: 4 de julho de 2023. Para mais informações acesse: https://github.com/Requisitos-de-Software/2022.2-Lichess
 
-## 14. Histórico de Versão
+## 15. Histórico de Versão
 
 | Versão | Data  | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
