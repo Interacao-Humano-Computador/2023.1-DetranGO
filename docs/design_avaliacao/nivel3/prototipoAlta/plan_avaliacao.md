@@ -237,3 +237,4 @@ Após a execução da avaliação, os dados recolhidos deverão ser tratados e r
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |--|--|--|--|--|
 | `1.0` | 09/06/23 | Criação do documento | Carlos E. | Pedro H. |
+| `2.0` | 25/06/23 | Refeitura do documento | Pedro M. | Carlos E. |
