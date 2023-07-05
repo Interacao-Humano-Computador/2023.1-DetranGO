@@ -150,6 +150,7 @@ nav:
           - Etapa 6.1: apresentacoes/6-1a_apresentacao.md
           - Etapa 6.2: apresentacoes/6-2a_apresentacao.md
           - Sétima Etapa: apresentacoes/7a_apresentacao.md
+          - Oitava Etapa: apresentacoes/8a_apresentacao.md
 
 markdown_extensions:
   - tables

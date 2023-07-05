@@ -93,7 +93,93 @@ A tabela 5 descreve o cronograma executado da etapa 5 do projeto. A etapa se pas
 
 Tabela 5: Cronograma executado da etapa 5 (Fonte: Do autor, 2023).
 
-## 7. Referências bibliográficas
+## 7. Cronograma executado da etapa 6
+
+Na tabela 6 é apresentado o cronograma executado da etapa 6.1 e na tabela 7 temos o cronograma da etapa 6.2.
+
+<center>
+
+| **Atividade** | **Data de entrega** | **Data de revisão** | **Artefato elaborado** | **Autor(es)** | **Revisor(es)** |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| Verificação de artefatos - Perfil de usuário | 05/06/2023 | 05/06/2023 | [Perfil do usuário](../verificacao/teste/perfil_de_usuario.md) |Pedro M. | Felipe M. |
+| Verificação de artefatos - Aspectos éticos | 05/06/2023 | 05/06/2023 | [Aspectos Éticos](../verificacao/teste/aspectos_eticos.md) |Pedro M. | Felipe M. |
+| Verificação de artefatos - Personas | 05/06/2023 | 05/06/2023 | [Personas](../verificacao/teste/personas.md) | Pedro M. | Felipe M. |
+| Verificação de artefatos - Análise de tarefas | 05/06/2023 | 05/06/2023 | [Análise de tarefas](../verificacao/teste/analise_de_tarefas.md) |Felipe M. | Pedro M. |
+| Verificação de artefatos - Princípios gerais do projeto. | 05/06/2023 | 05/06/2023 |[Princípios gerais do projeto](../verificacao/teste/principios_gerais_de_projeto.md) |Amanda N. | Carlos E. |
+| Verificação de artefatos - Metas de usabilidade | 05/06/2023 | 05/06/2023 |  [Metas de Usabilidade do projeto ](../verificacao/teste/metas_de_usabilidade.md)| Pedro H. | Carlos E. |
+| Gravar a apresentação | 05/06/2023 | 05/06/2023 |[Apresentação da etapa 6.1](../apresentacoes/6-1a_apresentacao.md) | Todos os integrantes | Todos os integrantes |
+| Editar a apresentação | 05/06/2023 | 05/06/2023 |[Apresentação da etapa 6.1](../apresentacoes/6-1a_apresentacao.md)| Todos o sintegrantes | Todos os integrantes |
+
+Tabela 6: Cronograma da etapa 6.1 (Fonte: Do autor, 2023).
+
+| **Atividade** | **Data de entrega** | **Data de revisão** | **Artefato elaborado** | **Autor(es)** | **Revisor(es)** |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| Verificação de artefatos - Guia de estilo | 16/06/2023 | 16/06/2023 | [Guia de estilo do projeto ](../verificacao/guia_de_estilo.md)| Amanda N. | Carlos E. |
+| Verificação de artefatos - Características da plataforma | 18/06/2023 | 18/06/2023 | [Características para a plataforma do projeto ](../verificacao/caract_da_plataforma.md)| Felipe M. | Pedro M. |
+| Verificação de artefatos - Avaliação, relato e resultados do Storyboard | 16/06/2023 | 18/06/2023 |[Storyboard - Planejamento da avaliação](../verificacao/planejamentoA_storyboard.md), [Storyboard - Relato de resultados](../verificacao/relato_storyboard.md) | Carlos E., Felipe M | Pedro H., Pedro M. |
+| Verificação de artefatos - Avaliação, relato e resultados da análise de tarefas | 14/06/2023 | 15/06/2023 | [Análise de tarefas - Planejamento da avaliação](../verificacao/planejamentoA_tarefas.md), [Análise de tarefas - Relato de resultados](../verificacao/relato_tarefas.md) | Carlos E. | Pedro H. |
+| Verificação de artefatos - Avaliação, relato e resultados do protótipo de papel | 16/06/2023 | 16/06/2023 | [Protótipo de papel - Planejamento da avaliação](../verificacao/planejamentoA_papel.md), [Protótipo de papel - Relato de resultados](../verificacao/relato_papel.md) | Pedro F. | Carlos E. |
+| Verificação de artefatos - Avaliação e relato do protótipo de alta fidelidade | 17/06/2023 | 26/06/2023 |  [Protótipo de alta fidelidade - Planejamento da avaliação](../verificacao/planejamentoA_alta.md), [Protótipo de alta fidelidade - Relato de resultados](./../design_avaliacao/nivel3/prototipoAlta/relato_resultados.md) | Pedro H., Pedro M. | João M. |
+| Gravar a apresentação | 19/06/2023 | 19/06/2023 | [Apresentação da etapa 6.2](./../apresentacoes/6-2a_apresentacao.md) | Amanda N. e Carlos E. | Felipe M. |
+| Editar a apresentação | 19/06/2023 | 19/06/2023 | [Apresentação da etapa 6.2](./../apresentacoes/6-2a_apresentacao.md)|João M. | Pedro H. |
+
+ 
+Tabela 7: Cronograma da etapa 6.2 (Fonte: Do autor, 2023).
+</center>
+
+## 8. Cronograma executado da etapa 7
+
+Na tabela 8 é apresentado o cronograma executado da etapa 7.
+
+<center>
+
+| **Atividade** |**Data de entrega** | **Data de revisão** | **Artefato elaborado** | **Autor(es)** | **Revisor(es)** |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| Relato dos resultados do Protótipo de Papel | 19/05/2023 | 19/06/2023 | [Relato dos resultados do Protótipo de Papel](../design_avaliacao/nivel2/prototipoPapel/relatoResultados.md) | Pedro M. | Amanda N. |
+| Planejamento da avaliação do Protótipo de alta fidelidade | 09/06/2023 | 09/06/2023 | [Planejamento da avaliação do Protótipo de alta fidelidade](../design_avaliacao/nivel3/prototipoAlta/plan_avaliacao.md) |Carlos E.| Pedro H.  |
+| Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | 29/05/2023 | 19/06/2023 | [Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade](../design_avaliacao/nivel3/prototipoAlta/plan_relato.md) | Pedro M., Pedro H. | Amanda N., João M. |
+| Gravação da apresentação | 12/06/2023 | 12/06/2023 | [Apresentação da sétima etapa](../apresentacoes/7a_apresentacao.md) | Todos os integrantes. | Todos os integrantes. |
+| Edição da apresentação | 12/06/2023 | 12/06/2023 | [Apresentação da sétima etapa](../apresentacoes/7a_apresentacao.md) | Todos os integrantes. | Todos os integrantes. |
+
+Tabela 8: Cronograma da etapa 7 (Fonte: Do autor, 2023).
+
+</center>
+
+## 9. Cronograma executado da etapa 8
+
+Na tabela 9 é apresentado o cronograma executado da etapa 8.
+
+<center>
+
+| **Atividade** | **Data de entrega** | **Data de revisão** | **Artefato elaborado** | **Autor(es)** | **Revisor(es)** |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| Relato dos resultados do Protótipo de alta fidelidade | 26/06/2023 | 26/06/2023 | [Protótipo de alta fidelidade - Relato de resultados](./../design_avaliacao/nivel3/prototipoAlta/relato_resultados.md) | Pedro M.. |João M. |
+| Gravação da apresentação | 26/06/2023 | 26/06/2023 | [Apresentação da oitava etapa](./../apresentacoes/8a_apresentacao.md) | Todos os integrantes. | Amanda N. e Felipe M. |
+| Edição da apresentação | 26/06/2023 | 26/06/2023 | [Apresentação da oitava etapa](./../apresentacoes/8a_apresentacao.md) | Pedro F. e Pedro H. | Todos os integrantes. |
+
+
+Tabela 9: Cronograma da etapa 8 (Fonte: Do autor, 2023)
+
+</center>
+
+## 10. Cronograma executado da etapa 9
+
+
+Na tabela 10 é apresentado o cronograma executado da etapa 9.
+<center>
+
+| **Atividade** | **Data de entrega** | **Data de revisão** | **Artefato elaborado** | **Autor(es)** | **Revisor(es)** |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| Entrega da apresentação Final | 05/07/2023 | 05/07/2023 | [Apresentação final]() | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. |
+| Gravação da apresentação | 05/07/2023 | 05/07/2023 | [Apresentação final]() | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. |
+| Edição da apresentação | 05/07/2023 | 05/07/2023 | [Apresentação final]() | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. |
+| Revisão da nona etapa | 05/07/2023 | 05/07/2023 | | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. | Amanda N., Carlos E., Felipe M., Pedro F., Pedro H., João M. |
+
+Tabela 11: Cronograma da etapa 9 (Fonte: Do autor, 2023).
+
+</center>
+
+## 11. Referências bibliográficas
 
 > [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: [https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf](https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf). Acesso em: 8 de abril de 2023;
 
@@ -109,3 +195,4 @@ Tabela 5: Cronograma executado da etapa 5 (Fonte: Do autor, 2023).
 |  `1.5`   | 29/05/23 | Adição do cronograma executado da etapa 5 | Felipe M. | Carlos E. |
 |  `1.6`   | 29/05/23 | Correção de links de algumas páginas | Carlos E. | Felipe M. |
 |  `1.7`   | 16/06/23 | Correção de links e enumeração | Carlos E. | Pedro H. |
+|  `1.8`   | 05/07/23 | Adição de cronogramas faltantes | Felipe M. | Carlos E. |
