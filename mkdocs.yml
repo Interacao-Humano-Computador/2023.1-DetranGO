@@ -151,7 +151,7 @@ nav:
           - Etapa 6.2: apresentacoes/6-2a_apresentacao.md
           - Sétima Etapa: apresentacoes/7a_apresentacao.md
           - Oitava Etapa: apresentacoes/8a_apresentacao.md
-      - Entrega Final: entrega_final.md
+    - Entrega Final: entrega_final.md
 
 markdown_extensions:
   - tables
