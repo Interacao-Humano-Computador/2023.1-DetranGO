@@ -19,6 +19,8 @@ Cada uma das ferramentas escolhidas estão listadas na Tabela 1, detalhando a fi
 | ![Canva](../assets/ferramentas/Canva-Logotipo.png){width="70%"} |  [Canva](https://www.canva.com/pt_br/) | Utilizado para criação de designs para apresentações ou trabalho relacionado ao projeto |
 | ![YouTube](../assets/ferramentas/logo-youtube.png){width="50%"} |  [YouTube](https://www.youtube.com/) | Utilizado para salvar gravações realizadas pelo grupo na GitPages da disciplina |
 | ![This Person Does Not Exist](../assets/ferramentas/this-person-doesnt-exist.png){width="50%"} | [This Person Does Not Exist](https://thispersondoesnotexist.com/) | Utilizado para gerar imagens a serem utilizadas para as personas |
+| ![Diagrams.net](../assets/ferramentas/diagramsnet.png){width="50%"} | [Diagrams.net](https://app.diagrams.net/) | Utilizado para gerar diagramas para análise de tarefas |
+| ![Google Forms](../assets/ferramentas/google_forms.png){width="35%"} | [Google Forms](https://docs.google.com/forms//) | Utilizado para criação de formulários voltados para identificação do perfil de usuários |
 
 <center>
 Tabela 1: Ferramentas utilizadas no projeto (Fonte: autor, 2023).
@@ -35,3 +37,4 @@ Tabela 1: Ferramentas utilizadas no projeto (Fonte: autor, 2023).
 | `1.0` | 17/04/2023 |                Adição das ferramentas iniciais para o projeto               | Pedro Henrique  | Carlos Eduardo |
 | `1.1` | 22/04/2023 |                Adição de chamada da tabela no texto e inclusão das ferramentas YouTube e This Person Does Not Exist               | Pedro Henrique  | Pedro Muniz |
 | `1.2` | 16/06/2023 | Adição de links para as ferramentas | Carlos E. | Pedro H. |
+| `1.3` | 04/07/2023 | Adição de novas ferramentas | Pedro H. | Carlos E. |
