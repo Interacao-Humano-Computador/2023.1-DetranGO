@@ -565,7 +565,13 @@ Durante a execução do projeto, enfrentamos alguns desafios. O curto período d
 
 | Versão | Data  | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0`  | 04/07/23 | Resultados Alcançados e Apresentações das Etapas | Carlos E. | X |
+| `1.0`  | 04/07/23 | Resultados Alcançados e Apresentações das Etapas | Carlos E. | João M. |
 | `1.1`  | 04/07/23 | Síntese do artefato de avaliações e do artefato de Ferramentas | Pedro H.. | Carlos E. |
 | `1.2`  | 05/07/23 |  Cronograma final e artefatos do projeto | Felipe M. | Carlos E. |
 | `1.3`  | 05/07/23 | Processo de design e execução do projeto | Felipe M. | Carlos E. |
+| `1.4`  | 05/07/23 |  Ciclo de vida utilizado no projeto | Pedro M. | Carlos E. |
+| `1.5`  | 05/07/23 | Processo de design e execução do projeto | Pedro M. | Carlos E. |
+| `1.6`  | 05/07/23 |  Síntese de técnicas | Amanda N. | Carlos E. |
+| `1.7`  | 05/07/23 | Síntese de verificações | Amanda N. | Carlos E. |
+| `1.8`  | 05/07/23 | Explicação do site escolhido para o projeto | João M. | Carlos E. |
+
