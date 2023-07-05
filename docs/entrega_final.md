@@ -551,15 +551,20 @@ Feedbacks do professor e dos monitores com os grupos, ajudando no desenvolviment
 
 Durante a execução do projeto, enfrentamos alguns desafios. O curto período de tempo entre as etapas, uma semana geralmente, fez com que tivéssemos que agilizar algumas coisas, outra dificuldade foi a sobrecarga de alguns membros com outras atividades que também acarretou em atrasos. Além disso, marcar reuniões e entrevistas também foram uma dificuldade devido aos horários dos membros do grupo e dos entrevistados.
 
+## 13. Agradecimentos
+- Ao professor André Barros, pelas aulas, feedbacks e materiais disponibilizados.
+- À monitora Laura Pinos, pelos feedbacks e sugestões de correção.
+- Aos participantes do grupo 05 pelas verificações e erros apontados.
+- Aos participantes do grupo 06 pela dedicação ao projeto.
 
-## 13. Bibliografia 
+
+## 14. Bibliografia 
 
 > [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: [https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf](https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf). Acesso em: 4 de julho de 2023;
 
 > [2] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1
 
 > [3] Repositório Lichess do semestre 2022.2, acesso em: 4 de julho de 2023. Para mais informações acesse: https://github.com/Requisitos-de-Software/2022.2-Lichess
-
 
 ## 14. Histórico de Versão
 
