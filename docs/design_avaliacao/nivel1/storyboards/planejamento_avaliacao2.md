@@ -91,7 +91,7 @@ Tais tarefas devem ser representadas em storyboads, os quais devem ser apresenta
 
 #### 3.4.3 Ferramentas utilizadas
 
-As entrevistas poderão ser realizadas de forma presencial ou remota. Para que se possa realizar a avaliação de forma remota, os storyboards desenvolvidos devem ser convertidos em arquivos PDF utilizando a ferramenta [CamScanner](https://www.camscanner.com/)[5]. Para a realização e gravação da entrevista serão utilizadas as ferramentas [Google Meet](https://meet.google.com/)[6] para a realização da reunião e o [OBS](https://obsproject.com/pt-br/download/)[7] para a gravação da mesma.
+As entrevistas poderão ser realizadas de forma presencial ou remota. Para que se possa realizar a avaliação de forma remota, os storyboards desenvolvidos devem ser convertidos em arquivos PDF utilizando a ferramenta [CamScanner](https://www.camscanner.com/). Para a realização e gravação da entrevista serão utilizadas as ferramentas [Google Meet](https://meet.google.com/) para a realização da reunião e o [OBS](https://obsproject.com/pt-br/download/) para a gravação da mesma.
 
 #### 3.4.4 Teste piloto
 
@@ -190,12 +190,6 @@ Após a execução da avaliação, os dados recolhidos deverão ser tratados e r
 > [3] Artefato Perfil de usuário, acesso em 27 de maio de 2023. Para mais informações acesse: [link](../../../analise_requisitos/perfilUsuario.md).
 
 > [4] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Acesso em: 27 mai. 2023.
-
-> [5] CamScanner, acesso em: 27 de maio de 2023. Para mais informações acesse: [link](https://www.camscanner.com/).
-
-> [6] Google Meet, acesso em: 27 de maio de 2023. Para mais informações acesse: [link](https://meet.google.com/).
-
-> [7] OBS, acesso em: 27 de maio de 2023. Para mais informações acesse: [link](https://obsproject.com/pt-br/download/).
 
 ## 5. Histórico de Versão
 
