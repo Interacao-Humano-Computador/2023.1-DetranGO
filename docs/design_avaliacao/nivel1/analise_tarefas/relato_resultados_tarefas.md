@@ -82,7 +82,7 @@ Na tabela 3 se encontra o cronograma executado da entrevista realizada.
 
 | Atividade | Local | Data | Horário |
 |-|-|-|-|
-| Teste Piloto | Remoto (Google Meet) | 03/07/2023 | 15:00 |
+| Teste Piloto | Remoto (Google Meet) | 03/07/2023 | 14:00 |
 | Entrevista | Remoto (Google Meet) | 03/07/2023 | 17:00 |
 
 Tabela 2: Cronograma da entrevista realizada (Fonte: Autor, 2023)
@@ -427,6 +427,8 @@ Abaixo se encontram as gravações do teste piloto, assim como das entrevistas r
 O vídeo 1 contém a gravação do teste piloto da entrevista, publicada como vídeo não listado no YouTube.
 
 <center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h83uJSh6z8c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Vídeo 1: Teste piloto da entrevista (Fonte: Autor, 2023)
 
